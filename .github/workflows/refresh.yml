@@ -1,0 +1,49 @@
+name: Refresh Sleeper data
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/fetch_sleeper.py"
+      - ".github/workflows/refresh.yml"
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sleeper-refresh
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch Sleeper league snapshot
+        env:
+          SLEEPER_LEAGUE_ID: "1314667834135040000"
+          SLEEPER_USERNAME: "Cpablo1182"
+        run: python scripts/fetch_sleeper.py
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "sleeper-bridge-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/league_snapshot.json
+          if git diff --cached --quiet; then
+            echo "No data changes"
+            exit 0
+          fi
+          git commit -m "Refresh Sleeper league data"
+          git push
