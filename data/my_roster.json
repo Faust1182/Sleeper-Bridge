@@ -84,7 +84,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-09-23T17:00:38.974144+00:00",
+  "generated_at": "2026-09-23T21:30:29.101623+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -253,8 +253,8 @@
           "RB"
         ],
         "full_name": "LeQuint Allen",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Hip",
+        "injury_status": "Questionable",
         "player_id": "12544",
         "position": "RB",
         "status": "Active",
