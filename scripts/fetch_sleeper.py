@@ -87,6 +87,7 @@ def build_future_pick_ledger(rosters, traded_picks, league):
     return output
 
 def main():
+    account = get(f"/user/{USERNAME}")
     league = get(f"/league/{LEAGUE_ID}")
     users = get(f"/league/{LEAGUE_ID}/users")
     rosters = get(f"/league/{LEAGUE_ID}/rosters")
@@ -163,7 +164,7 @@ def main():
         time.sleep(0.05)
 
     my_user = next(
-        (u for u in users if (u.get("username") or "").lower() == USERNAME.lower()),
+        (u for u in users if u.get("user_id") == account.get("user_id")),
         None,
     )
     my_roster = None
@@ -181,6 +182,7 @@ def main():
         "league_id": LEAGUE_ID,
         "sleeper_username": USERNAME,
         "nfl_state": nfl_state,
+        "sleeper_account": account,
         "league": league,
         "users": users,
         "rosters": enriched_rosters,
@@ -207,6 +209,7 @@ def main():
         },
         "nfl_state": nfl_state,
         "sleeper_username": USERNAME,
+        "sleeper_account": account,
         "my_user": my_user,
         "my_roster": my_roster,
         "rosters": compact_rosters,
@@ -227,6 +230,7 @@ def main():
             "generated_at": generated_at,
             "league_id": LEAGUE_ID,
             "username": USERNAME,
+            "account": account,
             "user": my_user,
             "roster": my_roster,
             "future_picks": future_picks.get(str((my_roster or {}).get("roster_id")), []),
