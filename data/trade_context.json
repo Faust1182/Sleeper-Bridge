@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-09-23T16:59:16.318759+00:00",
+  "generated_at": "2026-09-23T16:59:48.599161+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1206,7 +1206,20 @@
     "total_rosters": 12
   },
   "my_roster": null,
-  "my_user": null,
+  "my_user": {
+    "avatar": "a45df165aac787c20c63df7ee8007f8e",
+    "display_name": "cpablo1182",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1314667834135040000",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on",
+      "team_name": "MoPower Mondays"
+    },
+    "settings": null,
+    "user_id": "917893980082749440"
+  },
   "nfl_state": {
     "display_week": 3,
     "league_create_season": "2026",
@@ -10388,6 +10401,29 @@
       ]
     }
   ],
+  "sleeper_account": {
+    "avatar": "a45df165aac787c20c63df7ee8007f8e",
+    "cookies": null,
+    "created": null,
+    "currencies": null,
+    "data_updated": null,
+    "deleted": null,
+    "display_name": "cpablo1182",
+    "email": null,
+    "is_bot": false,
+    "metadata": null,
+    "notifications": null,
+    "pending": null,
+    "phone": null,
+    "real_name": null,
+    "solicitable": null,
+    "summoner_name": null,
+    "summoner_region": null,
+    "token": null,
+    "user_id": "917893980082749440",
+    "username": "cpablo1182",
+    "verification": null
+  },
   "sleeper_username": "Cpablo1182",
   "traded_picks": [
     {
