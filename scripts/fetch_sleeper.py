@@ -169,8 +169,13 @@ def main():
     )
     my_roster = None
     if my_user:
+        uid = my_user.get("user_id")
         my_roster = next(
-            (r for r in enriched_rosters if r.get("owner_id") == my_user.get("user_id")),
+            (
+                r for r in enriched_rosters
+                if r.get("owner_id") == uid
+                or uid in (r.get("co_owners") or [])
+            ),
             None,
         )
 
