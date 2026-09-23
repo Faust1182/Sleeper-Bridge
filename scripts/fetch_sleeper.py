@@ -130,3 +130,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# This file is intentionally watched by the refresh workflow.
