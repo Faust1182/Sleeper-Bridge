@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-09-24T11:46:38.536274+00:00",
+  "generated_at": "2026-09-24T17:11:59.186095+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2393,9 +2393,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1408518220712812544",
+    "last_message_id": "1408891354423001088",
     "last_message_text_map": null,
-    "last_message_time": 1790179422123,
+    "last_message_time": 1790268384132,
     "last_pinned_message_id": "1406287956163002368",
     "last_read_id": null,
     "league_id": "1314667834135040000",
@@ -2494,7 +2494,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 23,
+      "daily_waivers_last_ran": 24,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -3137,7 +3137,7 @@
     "10218": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -4463,7 +4463,7 @@
     "12498": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "depth_chart_position": "TE",
       "fantasy_positions": [
         "TE"
@@ -8201,6 +8201,23 @@
       "team": "SF",
       "years_exp": 4
     },
+    "8188": {
+      "active": true,
+      "age": 26,
+      "depth_chart_order": 3,
+      "depth_chart_position": "LWR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "full_name": "Tyquan Thornton",
+      "injury_body_part": null,
+      "injury_status": null,
+      "player_id": "8188",
+      "position": "WR",
+      "status": "Active",
+      "team": "KC",
+      "years_exp": 4
+    },
     "8205": {
       "active": true,
       "age": 27,
@@ -8595,7 +8612,7 @@
     "9504": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -9789,6 +9806,23 @@
         },
         {
           "active": true,
+          "age": 26,
+          "depth_chart_order": 3,
+          "depth_chart_position": "LWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Tyquan Thornton",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "8188",
+          "position": "WR",
+          "status": "Active",
+          "team": "KC",
+          "years_exp": 4
+        },
+        {
+          "active": true,
           "age": 25,
           "depth_chart_order": 1,
           "depth_chart_position": "TE",
@@ -9865,6 +9899,7 @@
         "7562",
         "8136",
         "8180",
+        "8188",
         "9480",
         "9502",
         "9758"
@@ -9884,7 +9919,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 15,
-        "waiver_position": 8,
+        "waiver_position": 12,
         "wins": 0
       },
       "starters": [
@@ -10681,7 +10716,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -10953,7 +10988,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -12151,7 +12186,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 30,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 1
       },
       "starters": [
@@ -12751,7 +12786,7 @@
       },
       "owner": {
         "display_name": "ki11job",
-        "team_name": "StayCalm Kujons",
+        "team_name": "The Kujons Football Team",
         "user_id": "987187761989873664",
         "username": null
       },
@@ -13280,7 +13315,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 100,
-        "waiver_position": 11,
+        "waiver_position": 10,
         "wins": 0
       },
       "starters": [
@@ -13841,7 +13876,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 11,
-        "waiver_position": 9,
+        "waiver_position": 8,
         "wins": 1
       },
       "starters": [
@@ -13880,7 +13915,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -15504,7 +15539,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 30,
-        "waiver_position": 12,
+        "waiver_position": 11,
         "wins": 2
       },
       "starters": [
@@ -16102,7 +16137,7 @@
         "mention_pn": "on",
         "player_like_pn": "on",
         "player_nickname_update": "off",
-        "team_name": "StayCalm Kujons",
+        "team_name": "The Kujons Football Team",
         "team_name_update": "off",
         "trade_block_pn": "on",
         "transaction_commissioner": "on",
@@ -20191,6 +20226,7 @@
             "7562",
             "8136",
             "8180",
+            "8188",
             "9480",
             "9502",
             "9758"
@@ -20220,6 +20256,7 @@
             "7562": 0.0,
             "8136": 0.0,
             "8180": 0.0,
+            "8188": 0.0,
             "9480": 0.0,
             "9502": 0.0,
             "9758": 0.0
@@ -21248,6 +21285,7 @@
             "7562",
             "8136",
             "8180",
+            "8188",
             "9480",
             "9502",
             "9758"
@@ -21277,6 +21315,7 @@
             "7562": 0.0,
             "8136": 0.0,
             "8180": 0.0,
+            "8188": 0.0,
             "9480": 0.0,
             "9502": 0.0,
             "9758": 0.0
@@ -22305,6 +22344,7 @@
             "7562",
             "8136",
             "8180",
+            "8188",
             "9480",
             "9502",
             "9758"
@@ -22334,6 +22374,7 @@
             "7562": 0.0,
             "8136": 0.0,
             "8180": 0.0,
+            "8188": 0.0,
             "9480": 0.0,
             "9502": 0.0,
             "9758": 0.0
@@ -23362,6 +23403,7 @@
             "7562",
             "8136",
             "8180",
+            "8188",
             "9480",
             "9502",
             "9758"
@@ -23391,6 +23433,7 @@
             "7562": 0.0,
             "8136": 0.0,
             "8180": 0.0,
+            "8188": 0.0,
             "9480": 0.0,
             "9502": 0.0,
             "9758": 0.0
@@ -24419,6 +24462,7 @@
             "7562",
             "8136",
             "8180",
+            "8188",
             "9480",
             "9502",
             "9758"
@@ -24448,6 +24492,7 @@
             "7562": 0.0,
             "8136": 0.0,
             "8180": 0.0,
+            "8188": 0.0,
             "9480": 0.0,
             "9502": 0.0,
             "9758": 0.0
@@ -25476,6 +25521,7 @@
             "7562",
             "8136",
             "8180",
+            "8188",
             "9480",
             "9502",
             "9758"
@@ -25505,6 +25551,7 @@
             "7562": 0.0,
             "8136": 0.0,
             "8180": 0.0,
+            "8188": 0.0,
             "9480": 0.0,
             "9502": 0.0,
             "9758": 0.0
@@ -26533,6 +26580,7 @@
             "7562",
             "8136",
             "8180",
+            "8188",
             "9480",
             "9502",
             "9758"
@@ -26562,6 +26610,7 @@
             "7562": 0.0,
             "8136": 0.0,
             "8180": 0.0,
+            "8188": 0.0,
             "9480": 0.0,
             "9502": 0.0,
             "9758": 0.0
@@ -27590,6 +27639,7 @@
             "7562",
             "8136",
             "8180",
+            "8188",
             "9480",
             "9502",
             "9758"
@@ -27619,6 +27669,7 @@
             "7562": 0.0,
             "8136": 0.0,
             "8180": 0.0,
+            "8188": 0.0,
             "9480": 0.0,
             "9502": 0.0,
             "9758": 0.0
@@ -28647,6 +28698,7 @@
             "7562",
             "8136",
             "8180",
+            "8188",
             "9480",
             "9502",
             "9758"
@@ -28676,6 +28728,7 @@
             "7562": 0.0,
             "8136": 0.0,
             "8180": 0.0,
+            "8188": 0.0,
             "9480": 0.0,
             "9502": 0.0,
             "9758": 0.0
@@ -30983,6 +31036,7 @@
             "7562",
             "8136",
             "8180",
+            "8188",
             "9480",
             "9502",
             "9758"
@@ -31012,6 +31066,7 @@
             "7562": 0.0,
             "8136": 0.0,
             "8180": 0.0,
+            "8188": 0.0,
             "9480": 0.0,
             "9502": 0.0,
             "9758": 0.0
@@ -31923,6 +31978,34 @@
       "transactions": [
         {
           "adds": {
+            "8188": 2
+          },
+          "consenter_ids": [
+            2
+          ],
+          "created": 1790183626045,
+          "creator": "987087223516377088",
+          "draft_picks": [],
+          "drops": null,
+          "leg": 3,
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          },
+          "roster_ids": [
+            2
+          ],
+          "settings": {
+            "seq": 0,
+            "waiver_bid": 0
+          },
+          "status": "complete",
+          "status_updated": 1790265856363,
+          "transaction_id": "1408535853239722013",
+          "type": "waiver",
+          "waiver_budget": []
+        },
+        {
+          "adds": {
             "2307": 8
           },
           "consenter_ids": [
@@ -32216,6 +32299,7 @@
             "7562",
             "8136",
             "8180",
+            "8188",
             "9480",
             "9502",
             "9758"
@@ -32245,6 +32329,7 @@
             "7562": 0.0,
             "8136": 0.0,
             "8180": 0.0,
+            "8188": 0.0,
             "9480": 0.0,
             "9502": 0.0,
             "9758": 0.0
@@ -33273,6 +33358,7 @@
             "7562",
             "8136",
             "8180",
+            "8188",
             "9480",
             "9502",
             "9758"
@@ -33302,6 +33388,7 @@
             "7562": 0.0,
             "8136": 0.0,
             "8180": 0.0,
+            "8188": 0.0,
             "9480": 0.0,
             "9502": 0.0,
             "9758": 0.0
@@ -34330,6 +34417,7 @@
             "7562",
             "8136",
             "8180",
+            "8188",
             "9480",
             "9502",
             "9758"
@@ -34359,6 +34447,7 @@
             "7562": 0.0,
             "8136": 0.0,
             "8180": 0.0,
+            "8188": 0.0,
             "9480": 0.0,
             "9502": 0.0,
             "9758": 0.0
@@ -35387,6 +35476,7 @@
             "7562",
             "8136",
             "8180",
+            "8188",
             "9480",
             "9502",
             "9758"
@@ -35416,6 +35506,7 @@
             "7562": 0.0,
             "8136": 0.0,
             "8180": 0.0,
+            "8188": 0.0,
             "9480": 0.0,
             "9502": 0.0,
             "9758": 0.0
@@ -36444,6 +36535,7 @@
             "7562",
             "8136",
             "8180",
+            "8188",
             "9480",
             "9502",
             "9758"
@@ -36473,6 +36565,7 @@
             "7562": 0.0,
             "8136": 0.0,
             "8180": 0.0,
+            "8188": 0.0,
             "9480": 0.0,
             "9502": 0.0,
             "9758": 0.0
@@ -37501,6 +37594,7 @@
             "7562",
             "8136",
             "8180",
+            "8188",
             "9480",
             "9502",
             "9758"
@@ -37530,6 +37624,7 @@
             "7562": 0.0,
             "8136": 0.0,
             "8180": 0.0,
+            "8188": 0.0,
             "9480": 0.0,
             "9502": 0.0,
             "9758": 0.0

@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-09-24T11:46:38.536274+00:00",
+  "generated_at": "2026-09-24T17:11:59.186095+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1157,7 +1157,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 23,
+      "daily_waivers_last_ran": 24,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -3424,6 +3424,23 @@
         },
         {
           "active": true,
+          "age": 26,
+          "depth_chart_order": 3,
+          "depth_chart_position": "LWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Tyquan Thornton",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "8188",
+          "position": "WR",
+          "status": "Active",
+          "team": "KC",
+          "years_exp": 4
+        },
+        {
+          "active": true,
           "age": 25,
           "depth_chart_order": 1,
           "depth_chart_position": "TE",
@@ -3505,7 +3522,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 15,
-        "waiver_position": 8,
+        "waiver_position": 12,
         "wins": 0
       },
       "starters": [
@@ -4626,7 +4643,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -4898,7 +4915,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -6417,7 +6434,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 30,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 1
       },
       "starters": [
@@ -7360,7 +7377,7 @@
     {
       "owner": {
         "display_name": "ki11job",
-        "team_name": "StayCalm Kujons",
+        "team_name": "The Kujons Football Team",
         "user_id": "987187761989873664",
         "username": null
       },
@@ -7873,7 +7890,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 100,
-        "waiver_position": 11,
+        "waiver_position": 10,
         "wins": 0
       },
       "starters": [
@@ -8601,7 +8618,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 11,
-        "waiver_position": 9,
+        "waiver_position": 8,
         "wins": 1
       },
       "starters": [
@@ -8824,7 +8841,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -10750,7 +10767,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 30,
-        "waiver_position": 12,
+        "waiver_position": 11,
         "wins": 2
       },
       "starters": [
