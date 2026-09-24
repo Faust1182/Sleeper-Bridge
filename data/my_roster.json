@@ -84,7 +84,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-09-23T21:30:29.101623+00:00",
+  "generated_at": "2026-09-24T04:51:28.272637+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -332,7 +332,7 @@
       {
         "active": true,
         "age": 31,
-        "depth_chart_order": 1,
+        "depth_chart_order": 4,
         "depth_chart_position": "TE",
         "fantasy_positions": [
           "TE"

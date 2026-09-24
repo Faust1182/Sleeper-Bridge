@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-09-23T21:30:29.101623+00:00",
+  "generated_at": "2026-09-24T04:51:28.272637+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2791,7 +2791,7 @@
       {
         "active": true,
         "age": 31,
-        "depth_chart_order": 1,
+        "depth_chart_order": 4,
         "depth_chart_position": "TE",
         "fantasy_positions": [
           "TE"
@@ -3171,7 +3171,7 @@
     "10222": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 3,
+      "depth_chart_order": 6,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -3188,7 +3188,7 @@
     "10226": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 3,
+      "depth_chart_order": 5,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -3664,7 +3664,7 @@
     "11589": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 5,
+      "depth_chart_order": 6,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -3976,8 +3976,8 @@
         "WR"
       ],
       "full_name": "Keon Coleman",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Ankle",
+      "injury_status": "Questionable",
       "player_id": "11637",
       "position": "WR",
       "status": "Active",
@@ -4163,8 +4163,8 @@
         "RB"
       ],
       "full_name": "George Holani",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Knee",
+      "injury_status": "Questionable",
       "player_id": "12048",
       "position": "RB",
       "status": "Active",
@@ -4191,7 +4191,7 @@
     "12469": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 5,
+      "depth_chart_order": 6,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -4350,8 +4350,8 @@
         "TE"
       ],
       "full_name": "Terrance Ferguson",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Ankle",
+      "injury_status": "Questionable",
       "player_id": "12487",
       "position": "TE",
       "status": "Active",
@@ -4463,7 +4463,7 @@
     "12498": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "depth_chart_position": "TE",
       "fantasy_positions": [
         "TE"
@@ -4633,7 +4633,7 @@
     "12508": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "depth_chart_position": "QB",
       "fantasy_positions": [
         "QB"
@@ -5065,8 +5065,8 @@
         "WR"
       ],
       "full_name": "Jaylin Lane",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Groin",
+      "injury_status": "Questionable",
       "player_id": "12641",
       "position": "WR",
       "status": "Active",
@@ -5076,7 +5076,7 @@
     "12670": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 7,
+      "depth_chart_order": 8,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -5195,7 +5195,7 @@
     "13276": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 6,
+      "depth_chart_order": 9,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -5246,7 +5246,7 @@
     "13281": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 6,
+      "depth_chart_order": 11,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -5450,7 +5450,7 @@
     "13303": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "depth_chart_position": "QB",
       "fantasy_positions": [
         "QB"
@@ -5705,7 +5705,7 @@
     "13349": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 7,
+      "depth_chart_order": 6,
       "depth_chart_position": "TE",
       "fantasy_positions": [
         "TE"
@@ -5722,7 +5722,7 @@
     "13353": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 6,
+      "depth_chart_order": 10,
       "depth_chart_position": null,
       "fantasy_positions": [
         "WR"
@@ -5756,7 +5756,7 @@
     "1339": {
       "active": true,
       "age": 35,
-      "depth_chart_order": 2,
+      "depth_chart_order": 1,
       "depth_chart_position": "TE",
       "fantasy_positions": [
         "TE"
@@ -5830,8 +5830,8 @@
         "RB"
       ],
       "full_name": "Kaytron Allen",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Hip",
+      "injury_status": "Questionable",
       "player_id": "13405",
       "position": "RB",
       "status": "Active",
@@ -5960,7 +5960,7 @@
     "13477": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 5,
+      "depth_chart_order": 3,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -5983,8 +5983,8 @@
         "WR"
       ],
       "full_name": "Barion Brown",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Hamstring",
+      "injury_status": "Questionable",
       "player_id": "13533",
       "position": "WR",
       "status": "Active",
@@ -6334,7 +6334,7 @@
     "4033": {
       "active": true,
       "age": 30,
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "depth_chart_position": "TE",
       "fantasy_positions": [
         "TE"
@@ -6408,8 +6408,8 @@
         "WR"
       ],
       "full_name": "Cooper Kupp",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Back",
+      "injury_status": "Questionable",
       "player_id": "4039",
       "position": "WR",
       "status": "Active",
@@ -6708,7 +6708,7 @@
     "5022": {
       "active": true,
       "age": 31,
-      "depth_chart_order": 1,
+      "depth_chart_order": 4,
       "depth_chart_position": "TE",
       "fantasy_positions": [
         "TE"
@@ -7020,8 +7020,8 @@
         "RB"
       ],
       "full_name": "Ty Johnson",
-      "injury_body_part": "Hamstring",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "6039",
       "position": "RB",
       "status": "Active",
@@ -7292,8 +7292,8 @@
         "RB"
       ],
       "full_name": "DeeJay Dallas",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Toe",
+      "injury_status": "Questionable",
       "player_id": "6931",
       "position": "RB",
       "status": "Active",
@@ -7343,8 +7343,8 @@
         "WR"
       ],
       "full_name": "Jauan Jennings",
-      "injury_body_part": "Personal",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "7049",
       "position": "WR",
       "status": "Active",
@@ -7796,7 +7796,7 @@
     "8125": {
       "active": true,
       "age": 27,
-      "depth_chart_order": 6,
+      "depth_chart_order": 7,
       "depth_chart_position": null,
       "fantasy_positions": [
         "WR"
@@ -7830,7 +7830,7 @@
     "8127": {
       "active": true,
       "age": 27,
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "depth_chart_position": "TE",
       "fantasy_positions": [
         "TE"
@@ -7983,7 +7983,7 @@
     "8142": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 3,
+      "depth_chart_order": 9,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -8982,8 +8982,8 @@
             "WR"
           ],
           "full_name": "Jaylin Lane",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Groin",
+          "injury_status": "Questionable",
           "player_id": "12641",
           "position": "WR",
           "status": "Active",
@@ -8993,7 +8993,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 6,
+          "depth_chart_order": 9,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -9231,7 +9231,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -9473,8 +9473,8 @@
             "WR"
           ],
           "full_name": "Keon Coleman",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ankle",
+          "injury_status": "Questionable",
           "player_id": "11637",
           "position": "WR",
           "status": "Active",
@@ -9694,8 +9694,8 @@
             "WR"
           ],
           "full_name": "Barion Brown",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Hamstring",
+          "injury_status": "Questionable",
           "player_id": "13533",
           "position": "WR",
           "status": "Active",
@@ -9728,8 +9728,8 @@
             "RB"
           ],
           "full_name": "Ty Johnson",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "6039",
           "position": "RB",
           "status": "Active",
@@ -10462,7 +10462,7 @@
       },
       "starters": [
         "5870",
-        "12489",
+        "12474",
         "12490",
         "8148",
         "11620",
@@ -10579,7 +10579,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -10647,7 +10647,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -10681,7 +10681,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -10749,7 +10749,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -10783,7 +10783,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 5,
+          "depth_chart_order": 3,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -11274,7 +11274,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 7,
+          "depth_chart_order": 6,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -11291,7 +11291,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 6,
+          "depth_chart_order": 10,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -11331,8 +11331,8 @@
             "RB"
           ],
           "full_name": "Kaytron Allen",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Hip",
+          "injury_status": "Questionable",
           "player_id": "13405",
           "position": "RB",
           "status": "Active",
@@ -11688,8 +11688,8 @@
             "RB"
           ],
           "full_name": "George Holani",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Knee",
+          "injury_status": "Questionable",
           "player_id": "12048",
           "position": "RB",
           "status": "Active",
@@ -11858,8 +11858,8 @@
             "WR"
           ],
           "full_name": "Cooper Kupp",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Back",
+          "injury_status": "Questionable",
           "player_id": "4039",
           "position": "WR",
           "status": "Active",
@@ -11909,8 +11909,8 @@
             "RB"
           ],
           "full_name": "DeeJay Dallas",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Toe",
+          "injury_status": "Questionable",
           "player_id": "6931",
           "position": "RB",
           "status": "Active",
@@ -12194,7 +12194,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 3,
+          "depth_chart_order": 5,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -12330,7 +12330,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 7,
+          "depth_chart_order": 8,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -12653,7 +12653,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 6,
+          "depth_chart_order": 7,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -12930,7 +12930,7 @@
         {
           "active": true,
           "age": 35,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -13015,7 +13015,7 @@
         {
           "active": true,
           "age": 30,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -13440,7 +13440,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -13746,7 +13746,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 3,
+          "depth_chart_order": 9,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -14022,8 +14022,8 @@
             "TE"
           ],
           "full_name": "Terrance Ferguson",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ankle",
+          "injury_status": "Questionable",
           "player_id": "12487",
           "position": "TE",
           "status": "Active",
@@ -14050,7 +14050,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 6,
+          "depth_chart_order": 11,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -14666,7 +14666,7 @@
         {
           "active": true,
           "age": 31,
-          "depth_chart_order": 1,
+          "depth_chart_order": 4,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -14984,7 +14984,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 3,
+          "depth_chart_order": 6,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -15330,8 +15330,8 @@
             "WR"
           ],
           "full_name": "Jauan Jennings",
-          "injury_body_part": "Personal",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "7049",
           "position": "WR",
           "status": "Active",
@@ -20316,7 +20316,7 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12489",
+            "12474",
             "12490",
             "8148",
             "11620",
@@ -21373,7 +21373,7 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12489",
+            "12474",
             "12490",
             "8148",
             "11620",
@@ -22430,7 +22430,7 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12489",
+            "12474",
             "12490",
             "8148",
             "11620",
@@ -23487,7 +23487,7 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12489",
+            "12474",
             "12490",
             "8148",
             "11620",
@@ -24544,7 +24544,7 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12489",
+            "12474",
             "12490",
             "8148",
             "11620",
@@ -25601,7 +25601,7 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12489",
+            "12474",
             "12490",
             "8148",
             "11620",
@@ -26658,7 +26658,7 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12489",
+            "12474",
             "12490",
             "8148",
             "11620",
@@ -27715,7 +27715,7 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12489",
+            "12474",
             "12490",
             "8148",
             "11620",
@@ -28772,7 +28772,7 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12489",
+            "12474",
             "12490",
             "8148",
             "11620",
@@ -31108,7 +31108,7 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12489",
+            "12474",
             "12490",
             "8148",
             "11620",
@@ -32341,7 +32341,7 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12489",
+            "12474",
             "12490",
             "8148",
             "11620",
@@ -33398,7 +33398,7 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12489",
+            "12474",
             "12490",
             "8148",
             "11620",
@@ -34455,7 +34455,7 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12489",
+            "12474",
             "12490",
             "8148",
             "11620",
@@ -35512,7 +35512,7 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12489",
+            "12474",
             "12490",
             "8148",
             "11620",
@@ -36569,7 +36569,7 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12489",
+            "12474",
             "12490",
             "8148",
             "11620",
@@ -37626,7 +37626,7 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12489",
+            "12474",
             "12490",
             "8148",
             "11620",
