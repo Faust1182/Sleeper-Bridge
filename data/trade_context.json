@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-09-24T04:51:28.272637+00:00",
+  "generated_at": "2026-09-24T11:46:38.536274+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1736,13 +1736,13 @@
     "starters": [
       "4046",
       "8138",
-      "12529",
+      "12512",
       "6794",
       "8112",
-      "7569",
-      "12493",
+      "5927",
+      "3214",
       "5872",
-      "12512"
+      "12529"
     ],
     "taxi": [
       "11630",
@@ -2459,7 +2459,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 9,
+          "depth_chart_order": 10,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -4051,7 +4051,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 10,
+          "depth_chart_order": 11,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -4847,7 +4847,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -5388,7 +5388,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 6,
+          "depth_chart_order": 7,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -6827,7 +6827,7 @@
         {
           "active": true,
           "age": 32,
-          "depth_chart_order": 6,
+          "depth_chart_order": 7,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -8164,7 +8164,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -8926,7 +8926,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 9,
+          "depth_chart_order": 10,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -9302,7 +9302,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 9,
+          "depth_chart_order": 10,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -10062,19 +10062,19 @@
         },
         {
           "active": true,
-          "age": 23,
+          "age": 22,
           "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "TreVeyon Henderson",
+          "full_name": "Quinshon Judkins",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "12529",
+          "player_id": "12512",
           "position": "RB",
           "status": "Active",
-          "team": "NE",
+          "team": "CLE",
           "years_exp": 1
         },
         {
@@ -10113,37 +10113,37 @@
         },
         {
           "active": true,
-          "age": 27,
+          "age": 31,
           "depth_chart_order": 1,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Nico Collins",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
-          "player_id": "7569",
+          "full_name": "Terry McLaurin",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "5927",
           "position": "WR",
           "status": "Active",
-          "team": "HOU",
-          "years_exp": 5
+          "team": "WAS",
+          "years_exp": 7
         },
         {
           "active": true,
-          "age": 23,
+          "age": 31,
           "depth_chart_order": 1,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
           ],
-          "full_name": "Oronde Gadsden",
+          "full_name": "Hunter Henry",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "12493",
+          "player_id": "3214",
           "position": "TE",
           "status": "Active",
-          "team": "LAC",
-          "years_exp": 1
+          "team": "NE",
+          "years_exp": 10
         },
         {
           "active": true,
@@ -10164,19 +10164,19 @@
         },
         {
           "active": true,
-          "age": 22,
+          "age": 23,
           "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Quinshon Judkins",
+          "full_name": "TreVeyon Henderson",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "12512",
+          "player_id": "12529",
           "position": "RB",
           "status": "Active",
-          "team": "CLE",
+          "team": "NE",
           "years_exp": 1
         }
       ],
