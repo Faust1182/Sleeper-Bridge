@@ -84,7 +84,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-09-24T17:11:59.186095+00:00",
+  "generated_at": "2026-09-24T21:31:32.512063+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -559,8 +559,8 @@
           "RB"
         ],
         "full_name": "Kendre Miller",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Illness",
+        "injury_status": "Questionable",
         "player_id": "9757",
         "position": "RB",
         "status": "Active",

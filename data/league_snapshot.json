@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-09-24T17:11:59.186095+00:00",
+  "generated_at": "2026-09-24T21:31:32.512063+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2393,9 +2393,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1408891354423001088",
+    "last_message_id": "1408901877789159424",
     "last_message_text_map": null,
-    "last_message_time": 1790268384132,
+    "last_message_time": 1790270893097,
     "last_pinned_message_id": "1406287956163002368",
     "last_read_id": null,
     "league_id": "1314667834135040000",
@@ -3018,8 +3018,8 @@
           "RB"
         ],
         "full_name": "Kendre Miller",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Illness",
+        "injury_status": "Questionable",
         "player_id": "9757",
         "position": "RB",
         "status": "Active",
@@ -3840,8 +3840,8 @@
         "WR"
       ],
       "full_name": "Adonai Mitchell",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Finger",
+      "injury_status": "Questionable",
       "player_id": "11625",
       "position": "WR",
       "status": "Active",
@@ -3857,8 +3857,8 @@
         "WR"
       ],
       "full_name": "Xavier Legette",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Knee",
+      "injury_status": "Questionable",
       "player_id": "11626",
       "position": "WR",
       "status": "Active",
@@ -3942,8 +3942,8 @@
         "WR"
       ],
       "full_name": "Malik Nabers",
-      "injury_body_part": "Shoulder",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "11632",
       "position": "WR",
       "status": "Active",
@@ -4639,11 +4639,11 @@
         "QB"
       ],
       "full_name": "Jaxson Dart",
-      "injury_body_part": "Knee - MCL",
-      "injury_status": "Out",
+      "injury_body_part": "Knee - Meniscus",
+      "injury_status": "IR",
       "player_id": "12508",
       "position": "QB",
-      "status": "Active",
+      "status": "Inactive",
       "team": "NYG",
       "years_exp": 1
     },
@@ -8771,8 +8771,8 @@
         "RB"
       ],
       "full_name": "Kendre Miller",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Illness",
+      "injury_status": "Questionable",
       "player_id": "9757",
       "position": "RB",
       "status": "Active",
@@ -10654,8 +10654,8 @@
             "WR"
           ],
           "full_name": "Malik Nabers",
-          "injury_body_part": "Shoulder",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "11632",
           "position": "WR",
           "status": "Active",
@@ -12786,7 +12786,7 @@
       },
       "owner": {
         "display_name": "ki11job",
-        "team_name": "The Kujons Football Team",
+        "team_name": "Everything Is Fine Kujons",
         "user_id": "987187761989873664",
         "username": null
       },
@@ -12852,8 +12852,8 @@
             "WR"
           ],
           "full_name": "Adonai Mitchell",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Finger",
+          "injury_status": "Questionable",
           "player_id": "11625",
           "position": "WR",
           "status": "Active",
@@ -13396,8 +13396,8 @@
             "WR"
           ],
           "full_name": "Xavier Legette",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Knee",
+          "injury_status": "Questionable",
           "player_id": "11626",
           "position": "WR",
           "status": "Active",
@@ -13481,11 +13481,11 @@
             "QB"
           ],
           "full_name": "Jaxson Dart",
-          "injury_body_part": "Knee - MCL",
-          "injury_status": "Out",
+          "injury_body_part": "Knee - Meniscus",
+          "injury_status": "IR",
           "player_id": "12508",
           "position": "QB",
-          "status": "Active",
+          "status": "Inactive",
           "team": "NYG",
           "years_exp": 1
         },
@@ -13886,8 +13886,8 @@
         "12519",
         "12514",
         "5846",
-        "12517",
         "9484",
+        "12517",
         "8134"
       ],
       "taxi": [
@@ -14928,8 +14928,8 @@
             "RB"
           ],
           "full_name": "Kendre Miller",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Illness",
+          "injury_status": "Questionable",
           "player_id": "9757",
           "position": "RB",
           "status": "Active",
@@ -16132,12 +16132,13 @@
       "metadata": {
         "allow_pn": "on",
         "allow_sms": "on",
+        "avatar": "https://sleepercdn.com/uploads/d544834463341f930f21e8b9a6236165.jpg",
         "league_report_pn": "on",
         "mascot_message": "off",
         "mention_pn": "on",
         "player_like_pn": "on",
         "player_nickname_update": "off",
-        "team_name": "The Kujons Football Team",
+        "team_name": "Everything Is Fine Kujons",
         "team_name_update": "off",
         "trade_block_pn": "on",
         "transaction_commissioner": "on",
@@ -20886,8 +20887,8 @@
             "12519",
             "12514",
             "5846",
-            "12517",
             "9484",
+            "12517",
             "8134"
           ],
           "starters_points": [
@@ -21945,8 +21946,8 @@
             "12519",
             "12514",
             "5846",
-            "12517",
             "9484",
+            "12517",
             "8134"
           ],
           "starters_points": [
@@ -23004,8 +23005,8 @@
             "12519",
             "12514",
             "5846",
-            "12517",
             "9484",
+            "12517",
             "8134"
           ],
           "starters_points": [
@@ -24063,8 +24064,8 @@
             "12519",
             "12514",
             "5846",
-            "12517",
             "9484",
+            "12517",
             "8134"
           ],
           "starters_points": [
@@ -25122,8 +25123,8 @@
             "12519",
             "12514",
             "5846",
-            "12517",
             "9484",
+            "12517",
             "8134"
           ],
           "starters_points": [
@@ -26181,8 +26182,8 @@
             "12519",
             "12514",
             "5846",
-            "12517",
             "9484",
+            "12517",
             "8134"
           ],
           "starters_points": [
@@ -27240,8 +27241,8 @@
             "12519",
             "12514",
             "5846",
-            "12517",
             "9484",
+            "12517",
             "8134"
           ],
           "starters_points": [
@@ -28299,8 +28300,8 @@
             "12519",
             "12514",
             "5846",
-            "12517",
             "9484",
+            "12517",
             "8134"
           ],
           "starters_points": [
@@ -29358,8 +29359,8 @@
             "12519",
             "12514",
             "5846",
-            "12517",
             "9484",
+            "12517",
             "8134"
           ],
           "starters_points": [
@@ -31696,8 +31697,8 @@
             "12519",
             "12514",
             "5846",
-            "12517",
             "9484",
+            "12517",
             "8134"
           ],
           "starters_points": [
@@ -32959,8 +32960,8 @@
             "12519",
             "12514",
             "5846",
-            "12517",
             "9484",
+            "12517",
             "8134"
           ],
           "starters_points": [
@@ -34018,8 +34019,8 @@
             "12519",
             "12514",
             "5846",
-            "12517",
             "9484",
+            "12517",
             "8134"
           ],
           "starters_points": [
@@ -35077,8 +35078,8 @@
             "12519",
             "12514",
             "5846",
-            "12517",
             "9484",
+            "12517",
             "8134"
           ],
           "starters_points": [
@@ -36136,8 +36137,8 @@
             "12519",
             "12514",
             "5846",
-            "12517",
             "9484",
+            "12517",
             "8134"
           ],
           "starters_points": [
@@ -37195,8 +37196,8 @@
             "12519",
             "12514",
             "5846",
-            "12517",
             "9484",
+            "12517",
             "8134"
           ],
           "starters_points": [
@@ -38254,8 +38255,8 @@
             "12519",
             "12514",
             "5846",
-            "12517",
             "9484",
+            "12517",
             "8134"
           ],
           "starters_points": [

@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-09-24T17:11:59.186095+00:00",
+  "generated_at": "2026-09-24T21:31:32.512063+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1678,8 +1678,8 @@
           "RB"
         ],
         "full_name": "Kendre Miller",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Illness",
+        "injury_status": "Questionable",
         "player_id": "9757",
         "position": "RB",
         "status": "Active",
@@ -4581,8 +4581,8 @@
             "WR"
           ],
           "full_name": "Malik Nabers",
-          "injury_body_part": "Shoulder",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "11632",
           "position": "WR",
           "status": "Active",
@@ -5059,8 +5059,8 @@
             "WR"
           ],
           "full_name": "Malik Nabers",
-          "injury_body_part": "Shoulder",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "11632",
           "position": "WR",
           "status": "Active",
@@ -7377,7 +7377,7 @@
     {
       "owner": {
         "display_name": "ki11job",
-        "team_name": "The Kujons Football Team",
+        "team_name": "Everything Is Fine Kujons",
         "user_id": "987187761989873664",
         "username": null
       },
@@ -7442,8 +7442,8 @@
             "WR"
           ],
           "full_name": "Adonai Mitchell",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Finger",
+          "injury_status": "Questionable",
           "player_id": "11625",
           "position": "WR",
           "status": "Active",
@@ -8153,8 +8153,8 @@
             "WR"
           ],
           "full_name": "Xavier Legette",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Knee",
+          "injury_status": "Questionable",
           "player_id": "11626",
           "position": "WR",
           "status": "Active",
@@ -8238,11 +8238,11 @@
             "QB"
           ],
           "full_name": "Jaxson Dart",
-          "injury_body_part": "Knee - MCL",
-          "injury_status": "Out",
+          "injury_body_part": "Knee - Meniscus",
+          "injury_status": "IR",
           "player_id": "12508",
           "position": "QB",
-          "status": "Active",
+          "status": "Inactive",
           "team": "NYG",
           "years_exp": 1
         },
@@ -8726,23 +8726,6 @@
         },
         {
           "active": true,
-          "age": 22,
-          "depth_chart_order": 1,
-          "depth_chart_position": "TE",
-          "fantasy_positions": [
-            "TE"
-          ],
-          "full_name": "Colston Loveland",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "12517",
-          "position": "TE",
-          "status": "Active",
-          "team": "CHI",
-          "years_exp": 1
-        },
-        {
-          "active": true,
           "age": 25,
           "depth_chart_order": 1,
           "depth_chart_position": "TE",
@@ -8757,6 +8740,23 @@
           "status": "Active",
           "team": "GB",
           "years_exp": 3
+        },
+        {
+          "active": true,
+          "age": 22,
+          "depth_chart_order": 1,
+          "depth_chart_position": "TE",
+          "fantasy_positions": [
+            "TE"
+          ],
+          "full_name": "Colston Loveland",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "12517",
+          "position": "TE",
+          "status": "Active",
+          "team": "CHI",
+          "years_exp": 1
         },
         {
           "active": true,
@@ -8803,8 +8803,8 @@
             "WR"
           ],
           "full_name": "Xavier Legette",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Knee",
+          "injury_status": "Questionable",
           "player_id": "11626",
           "position": "WR",
           "status": "Active",
@@ -10017,8 +10017,8 @@
             "RB"
           ],
           "full_name": "Kendre Miller",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Illness",
+          "injury_status": "Questionable",
           "player_id": "9757",
           "position": "RB",
           "status": "Active",
