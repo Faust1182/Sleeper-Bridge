@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-09-25T17:12:10.475456+00:00",
+  "generated_at": "2026-09-25T21:35:21.062367+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2712,8 +2712,8 @@
           "RB"
         ],
         "full_name": "LeQuint Allen",
-        "injury_body_part": "Hip",
-        "injury_status": "Questionable",
+        "injury_body_part": null,
+        "injury_status": null,
         "player_id": "12544",
         "position": "RB",
         "status": "Active",
@@ -2900,7 +2900,7 @@
         ],
         "full_name": "Nico Collins",
         "injury_body_part": "Hamstring",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "player_id": "7569",
         "position": "WR",
         "status": "Active",
@@ -3018,8 +3018,8 @@
           "RB"
         ],
         "full_name": "Kendre Miller",
-        "injury_body_part": "Illness",
-        "injury_status": "Questionable",
+        "injury_body_part": null,
+        "injury_status": null,
         "player_id": "9757",
         "position": "RB",
         "status": "Active",
@@ -4930,8 +4930,8 @@
         "RB"
       ],
       "full_name": "Kyle Monangai",
-      "injury_body_part": "Undisclosed",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "12534",
       "position": "RB",
       "status": "Active",
@@ -5015,8 +5015,8 @@
         "RB"
       ],
       "full_name": "LeQuint Allen",
-      "injury_body_part": "Hip",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "12544",
       "position": "RB",
       "status": "Active",
@@ -5287,8 +5287,8 @@
         "RB"
       ],
       "full_name": "Jadarian Price",
-      "injury_body_part": "Chest",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "13286",
       "position": "RB",
       "status": "Active",
@@ -5383,7 +5383,7 @@
     "13296": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 2,
+      "depth_chart_order": 9,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -5485,14 +5485,14 @@
     "13311": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
       ],
       "full_name": "Chris Bell",
-      "injury_body_part": "Knee",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "13311",
       "position": "WR",
       "status": "Active",
@@ -5621,7 +5621,7 @@
     "13338": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -5645,7 +5645,7 @@
       ],
       "full_name": "Jonah Coleman",
       "injury_body_part": "Ankle",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "player_id": "13345",
       "position": "RB",
       "status": "Active",
@@ -5746,8 +5746,8 @@
         "WR"
       ],
       "full_name": "Brenen Thompson",
-      "injury_body_part": "Hip",
-      "injury_status": "Questionable",
+      "injury_body_part": "Quadriceps",
+      "injury_status": "Out",
       "player_id": "13380",
       "position": "WR",
       "status": "Active",
@@ -5985,7 +5985,7 @@
       ],
       "full_name": "Barion Brown",
       "injury_body_part": "Hamstring",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "player_id": "13533",
       "position": "WR",
       "status": "Active",
@@ -6494,8 +6494,8 @@
         "RB"
       ],
       "full_name": "Aaron Jones",
-      "injury_body_part": "Undisclosed",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "4199",
       "position": "RB",
       "status": "Active",
@@ -6970,8 +6970,8 @@
         "WR"
       ],
       "full_name": "Jakobi Meyers",
-      "injury_body_part": "Thumb",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "5947",
       "position": "WR",
       "status": "Active",
@@ -6987,8 +6987,8 @@
         "RB"
       ],
       "full_name": "Tony Pollard",
-      "injury_body_part": "Undisclosed",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "5967",
       "position": "RB",
       "status": "Active",
@@ -7310,8 +7310,8 @@
         "RB"
       ],
       "full_name": "DeeJay Dallas",
-      "injury_body_part": "Toe",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "6931",
       "position": "RB",
       "status": "Active",
@@ -7345,10 +7345,10 @@
       ],
       "full_name": "Rico Dowdle",
       "injury_body_part": "Toe",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "player_id": "7021",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "team": "PIT",
       "years_exp": 6
     },
@@ -7497,8 +7497,8 @@
         "RB"
       ],
       "full_name": "Travis Etienne",
-      "injury_body_part": "Hamstring",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "7543",
       "position": "RB",
       "status": "Active",
@@ -7600,7 +7600,7 @@
       ],
       "full_name": "Nico Collins",
       "injury_body_part": "Hamstring",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "player_id": "7569",
       "position": "WR",
       "status": "Active",
@@ -8534,8 +8534,8 @@
         "WR"
       ],
       "full_name": "Puka Nacua",
-      "injury_body_part": "Groin",
-      "injury_status": "Questionable",
+      "injury_body_part": "Hip",
+      "injury_status": "Doubtful",
       "player_id": "9493",
       "position": "WR",
       "status": "Active",
@@ -8772,8 +8772,8 @@
         "RB"
       ],
       "full_name": "Kendre Miller",
-      "injury_body_part": "Illness",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "9757",
       "position": "RB",
       "status": "Active",
@@ -9662,7 +9662,7 @@
           ],
           "full_name": "Jonah Coleman",
           "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "13345",
           "position": "RB",
           "status": "Active",
@@ -9713,7 +9713,7 @@
           ],
           "full_name": "Barion Brown",
           "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "13533",
           "position": "WR",
           "status": "Active",
@@ -9729,8 +9729,8 @@
             "WR"
           ],
           "full_name": "Jakobi Meyers",
-          "injury_body_part": "Thumb",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "5947",
           "position": "WR",
           "status": "Active",
@@ -10371,10 +10371,10 @@
           ],
           "full_name": "Rico Dowdle",
           "injury_body_part": "Toe",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "7021",
           "position": "RB",
-          "status": "Active",
+          "status": "Inactive",
           "team": "PIT",
           "years_exp": 6
         },
@@ -10893,8 +10893,8 @@
             "RB"
           ],
           "full_name": "Tony Pollard",
-          "injury_body_part": "Undisclosed",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "5967",
           "position": "RB",
           "status": "Active",
@@ -11248,8 +11248,8 @@
             "RB"
           ],
           "full_name": "Kyle Monangai",
-          "injury_body_part": "Undisclosed",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "12534",
           "position": "RB",
           "status": "Active",
@@ -11350,8 +11350,8 @@
             "WR"
           ],
           "full_name": "Brenen Thompson",
-          "injury_body_part": "Hip",
-          "injury_status": "Questionable",
+          "injury_body_part": "Quadriceps",
+          "injury_status": "Out",
           "player_id": "13380",
           "position": "WR",
           "status": "Active",
@@ -11945,8 +11945,8 @@
             "RB"
           ],
           "full_name": "DeeJay Dallas",
-          "injury_body_part": "Toe",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "6931",
           "position": "RB",
           "status": "Active",
@@ -12400,7 +12400,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -13568,8 +13568,8 @@
             "RB"
           ],
           "full_name": "Jadarian Price",
-          "injury_body_part": "Chest",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13286",
           "position": "RB",
           "status": "Active",
@@ -13613,14 +13613,14 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Chris Bell",
-          "injury_body_part": "Knee",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13311",
           "position": "WR",
           "status": "Active",
@@ -14161,8 +14161,8 @@
             "RB"
           ],
           "full_name": "Aaron Jones",
-          "injury_body_part": "Undisclosed",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "4199",
           "position": "RB",
           "status": "Active",
@@ -14263,8 +14263,8 @@
             "RB"
           ],
           "full_name": "Travis Etienne",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "7543",
           "position": "RB",
           "status": "Active",
@@ -14365,8 +14365,8 @@
             "WR"
           ],
           "full_name": "Puka Nacua",
-          "injury_body_part": "Groin",
-          "injury_status": "Questionable",
+          "injury_body_part": "Hip",
+          "injury_status": "Doubtful",
           "player_id": "9493",
           "position": "WR",
           "status": "Active",
@@ -14624,8 +14624,8 @@
             "RB"
           ],
           "full_name": "LeQuint Allen",
-          "injury_body_part": "Hip",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "12544",
           "position": "RB",
           "status": "Active",
@@ -14812,7 +14812,7 @@
           ],
           "full_name": "Nico Collins",
           "injury_body_part": "Hamstring",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "player_id": "7569",
           "position": "WR",
           "status": "Active",
@@ -14930,8 +14930,8 @@
             "RB"
           ],
           "full_name": "Kendre Miller",
-          "injury_body_part": "Illness",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "9757",
           "position": "RB",
           "status": "Active",
@@ -15055,7 +15055,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 2,
+          "depth_chart_order": 9,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -15545,14 +15545,14 @@
         "wins": 2
       },
       "starters": [
-        "0",
-        "7594",
-        "11577",
+        "8161",
+        "7588",
+        "9508",
+        "2216",
         "0",
         "3321",
         "0",
-        "4066",
-        "7049",
+        "9511",
         "13424"
       ],
       "taxi": [
@@ -21145,14 +21145,14 @@
           "points": 0.0,
           "roster_id": 12,
           "starters": [
-            "0",
-            "7594",
-            "11577",
+            "8161",
+            "7588",
+            "9508",
+            "2216",
             "0",
             "3321",
             "0",
-            "4066",
-            "7049",
+            "9511",
             "13424"
           ],
           "starters_points": [
@@ -22204,14 +22204,14 @@
           "points": 0.0,
           "roster_id": 12,
           "starters": [
-            "0",
-            "7594",
-            "11577",
+            "8161",
+            "7588",
+            "9508",
+            "2216",
             "0",
             "3321",
             "0",
-            "4066",
-            "7049",
+            "9511",
             "13424"
           ],
           "starters_points": [
@@ -23263,14 +23263,14 @@
           "points": 0.0,
           "roster_id": 12,
           "starters": [
-            "0",
-            "7594",
-            "11577",
+            "8161",
+            "7588",
+            "9508",
+            "2216",
             "0",
             "3321",
             "0",
-            "4066",
-            "7049",
+            "9511",
             "13424"
           ],
           "starters_points": [
@@ -24322,14 +24322,14 @@
           "points": 0.0,
           "roster_id": 12,
           "starters": [
-            "0",
-            "7594",
-            "11577",
+            "8161",
+            "7588",
+            "9508",
+            "2216",
             "0",
             "3321",
             "0",
-            "4066",
-            "7049",
+            "9511",
             "13424"
           ],
           "starters_points": [
@@ -25381,14 +25381,14 @@
           "points": 0.0,
           "roster_id": 12,
           "starters": [
-            "0",
-            "7594",
-            "11577",
+            "8161",
+            "7588",
+            "9508",
+            "2216",
             "0",
             "3321",
             "0",
-            "4066",
-            "7049",
+            "9511",
             "13424"
           ],
           "starters_points": [
@@ -26440,14 +26440,14 @@
           "points": 0.0,
           "roster_id": 12,
           "starters": [
-            "0",
-            "7594",
-            "11577",
+            "8161",
+            "7588",
+            "9508",
+            "2216",
             "0",
             "3321",
             "0",
-            "4066",
-            "7049",
+            "9511",
             "13424"
           ],
           "starters_points": [
@@ -27499,14 +27499,14 @@
           "points": 0.0,
           "roster_id": 12,
           "starters": [
-            "0",
-            "7594",
-            "11577",
+            "8161",
+            "7588",
+            "9508",
+            "2216",
             "0",
             "3321",
             "0",
-            "4066",
-            "7049",
+            "9511",
             "13424"
           ],
           "starters_points": [
@@ -28558,14 +28558,14 @@
           "points": 0.0,
           "roster_id": 12,
           "starters": [
-            "0",
-            "7594",
-            "11577",
+            "8161",
+            "7588",
+            "9508",
+            "2216",
             "0",
             "3321",
             "0",
-            "4066",
-            "7049",
+            "9511",
             "13424"
           ],
           "starters_points": [
@@ -29617,14 +29617,14 @@
           "points": 0.0,
           "roster_id": 12,
           "starters": [
-            "0",
-            "7594",
-            "11577",
+            "8161",
+            "7588",
+            "9508",
+            "2216",
             "0",
             "3321",
             "0",
-            "4066",
-            "7049",
+            "9511",
             "13424"
           ],
           "starters_points": [
@@ -31955,14 +31955,14 @@
           "points": 0.0,
           "roster_id": 12,
           "starters": [
-            "0",
-            "7594",
-            "11577",
+            "8161",
+            "7588",
+            "9508",
+            "2216",
             "0",
             "3321",
             "0",
-            "4066",
-            "7049",
+            "9511",
             "13424"
           ],
           "starters_points": [
@@ -33248,14 +33248,14 @@
           "points": 0.0,
           "roster_id": 12,
           "starters": [
-            "0",
-            "7594",
-            "11577",
+            "8161",
+            "7588",
+            "9508",
+            "2216",
             "0",
             "3321",
             "0",
-            "4066",
-            "7049",
+            "9511",
             "13424"
           ],
           "starters_points": [
@@ -34307,14 +34307,14 @@
           "points": 0.0,
           "roster_id": 12,
           "starters": [
-            "0",
-            "7594",
-            "11577",
+            "8161",
+            "7588",
+            "9508",
+            "2216",
             "0",
             "3321",
             "0",
-            "4066",
-            "7049",
+            "9511",
             "13424"
           ],
           "starters_points": [
@@ -35366,14 +35366,14 @@
           "points": 0.0,
           "roster_id": 12,
           "starters": [
-            "0",
-            "7594",
-            "11577",
+            "8161",
+            "7588",
+            "9508",
+            "2216",
             "0",
             "3321",
             "0",
-            "4066",
-            "7049",
+            "9511",
             "13424"
           ],
           "starters_points": [
@@ -36425,14 +36425,14 @@
           "points": 0.0,
           "roster_id": 12,
           "starters": [
-            "0",
-            "7594",
-            "11577",
+            "8161",
+            "7588",
+            "9508",
+            "2216",
             "0",
             "3321",
             "0",
-            "4066",
-            "7049",
+            "9511",
             "13424"
           ],
           "starters_points": [
@@ -37484,14 +37484,14 @@
           "points": 0.0,
           "roster_id": 12,
           "starters": [
-            "0",
-            "7594",
-            "11577",
+            "8161",
+            "7588",
+            "9508",
+            "2216",
             "0",
             "3321",
             "0",
-            "4066",
-            "7049",
+            "9511",
             "13424"
           ],
           "starters_points": [
@@ -38543,14 +38543,14 @@
           "points": 0.0,
           "roster_id": 12,
           "starters": [
-            "0",
-            "7594",
-            "11577",
+            "8161",
+            "7588",
+            "9508",
+            "2216",
             "0",
             "3321",
             "0",
-            "4066",
-            "7049",
+            "9511",
             "13424"
           ],
           "starters_points": [
