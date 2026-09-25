@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-09-25T11:51:46.587547+00:00",
+  "generated_at": "2026-09-25T17:12:10.475456+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2393,9 +2393,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1408997656566468608",
+    "last_message_id": "1409243147048894464",
     "last_message_text_map": null,
-    "last_message_time": 1790293728537,
+    "last_message_time": 1790352258029,
     "last_pinned_message_id": "1406287956163002368",
     "last_read_id": null,
     "league_id": "1314667834135040000",
@@ -2494,7 +2494,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 24,
+      "daily_waivers_last_ran": 25,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -2875,6 +2875,23 @@
       },
       {
         "active": true,
+        "age": 28,
+        "depth_chart_order": 2,
+        "depth_chart_position": "RB",
+        "fantasy_positions": [
+          "RB"
+        ],
+        "full_name": "AJ Dillon",
+        "injury_body_part": null,
+        "injury_status": null,
+        "player_id": "6828",
+        "position": "RB",
+        "status": "Active",
+        "team": "CAR",
+        "years_exp": 6
+      },
+      {
+        "active": true,
         "age": 27,
         "depth_chart_order": 1,
         "depth_chart_position": "LWR",
@@ -2883,7 +2900,7 @@
         ],
         "full_name": "Nico Collins",
         "injury_body_part": "Hamstring",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "player_id": "7569",
         "position": "WR",
         "status": "Active",
@@ -2939,23 +2956,6 @@
         "position": "WR",
         "status": "Active",
         "team": "ATL",
-        "years_exp": 4
-      },
-      {
-        "active": true,
-        "age": 27,
-        "depth_chart_order": 5,
-        "depth_chart_position": "LWR",
-        "fantasy_positions": [
-          "WR"
-        ],
-        "full_name": "Jalen Tolbert",
-        "injury_body_part": null,
-        "injury_status": null,
-        "player_id": "8117",
-        "position": "WR",
-        "status": "Active",
-        "team": "MIA",
         "years_exp": 4
       },
       {
@@ -3047,11 +3047,11 @@
       "5872",
       "5927",
       "6794",
+      "6828",
       "7569",
       "7591",
       "7600",
       "8112",
-      "8117",
       "8138",
       "8154",
       "9494",
@@ -3070,7 +3070,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 40,
-      "waiver_position": 4,
+      "waiver_position": 12,
       "wins": 1
     },
     "starters": [
@@ -3189,7 +3189,7 @@
     "10226": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 5,
+      "depth_chart_order": 6,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -3342,7 +3342,7 @@
     "11256": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 1,
+      "depth_chart_order": 2,
       "depth_chart_position": "QB",
       "fantasy_positions": [
         "QB"
@@ -4011,8 +4011,8 @@
         "RB"
       ],
       "full_name": "Jaylen Wright",
-      "injury_body_part": "Neck",
-      "injury_status": "Questionable",
+      "injury_body_part": "Foot",
+      "injury_status": "Doubtful",
       "player_id": "11643",
       "position": "RB",
       "status": "Active",
@@ -4471,7 +4471,7 @@
       ],
       "full_name": "Mason Taylor",
       "injury_body_part": "Thumb",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "player_id": "12498",
       "position": "TE",
       "status": "Active",
@@ -5390,7 +5390,7 @@
       ],
       "full_name": "Caleb Douglas",
       "injury_body_part": "Ankle",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "player_id": "13296",
       "position": "WR",
       "status": "Active",
@@ -5774,7 +5774,7 @@
     "13400": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "depth_chart_position": "TE",
       "fantasy_positions": [
         "TE"
@@ -6080,7 +6080,7 @@
     "2133": {
       "active": true,
       "age": 33,
-      "depth_chart_order": 2,
+      "depth_chart_order": 1,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -7267,6 +7267,23 @@
       "team": "CHI",
       "years_exp": 6
     },
+    "6828": {
+      "active": true,
+      "age": 28,
+      "depth_chart_order": 2,
+      "depth_chart_position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "full_name": "AJ Dillon",
+      "injury_body_part": null,
+      "injury_status": null,
+      "player_id": "6828",
+      "position": "RB",
+      "status": "Active",
+      "team": "CAR",
+      "years_exp": 6
+    },
     "6904": {
       "active": true,
       "age": 28,
@@ -7583,7 +7600,7 @@
       ],
       "full_name": "Nico Collins",
       "injury_body_part": "Hamstring",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "player_id": "7569",
       "position": "WR",
       "status": "Active",
@@ -7758,23 +7775,6 @@
       "position": "WR",
       "status": "Active",
       "team": "ATL",
-      "years_exp": 4
-    },
-    "8117": {
-      "active": true,
-      "age": 27,
-      "depth_chart_order": 5,
-      "depth_chart_position": "LWR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "full_name": "Jalen Tolbert",
-      "injury_body_part": null,
-      "injury_status": null,
-      "player_id": "8117",
-      "position": "WR",
-      "status": "Active",
-      "team": "MIA",
       "years_exp": 4
     },
     "8121": {
@@ -8246,7 +8246,7 @@
       ],
       "full_name": "Chig Okonkwo",
       "injury_body_part": "Hamstring",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "player_id": "8210",
       "position": "TE",
       "status": "Active",
@@ -8528,7 +8528,7 @@
     "9493": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 1,
+      "depth_chart_order": 2,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -9361,7 +9361,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 34,
-        "waiver_position": 7,
+        "waiver_position": 6,
         "wins": 2
       },
       "starters": [
@@ -9672,7 +9672,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -9920,7 +9920,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 15,
-        "waiver_position": 12,
+        "waiver_position": 11,
         "wins": 0
       },
       "starters": [
@@ -10547,7 +10547,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -10724,7 +10724,7 @@
           ],
           "full_name": "Mason Taylor",
           "injury_body_part": "Thumb",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "player_id": "12498",
           "position": "TE",
           "status": "Active",
@@ -11146,8 +11146,8 @@
             "RB"
           ],
           "full_name": "Jaylen Wright",
-          "injury_body_part": "Neck",
-          "injury_status": "Questionable",
+          "injury_body_part": "Foot",
+          "injury_status": "Doubtful",
           "player_id": "11643",
           "position": "RB",
           "status": "Active",
@@ -12065,7 +12065,7 @@
           ],
           "full_name": "Chig Okonkwo",
           "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "player_id": "8210",
           "position": "TE",
           "status": "Active",
@@ -12187,7 +12187,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 30,
-        "waiver_position": 9,
+        "waiver_position": 8,
         "wins": 1
       },
       "starters": [
@@ -12230,7 +12230,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -12750,7 +12750,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 15,
-        "waiver_position": 6,
+        "waiver_position": 5,
         "wins": 1
       },
       "starters": [
@@ -13316,7 +13316,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 100,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 0
       },
       "starters": [
@@ -13878,7 +13878,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 11,
-        "waiver_position": 8,
+        "waiver_position": 7,
         "wins": 1
       },
       "starters": [
@@ -14359,7 +14359,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -14437,7 +14437,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 25,
-        "waiver_position": 5,
+        "waiver_position": 4,
         "wins": 2
       },
       "starters": [
@@ -14787,6 +14787,23 @@
         },
         {
           "active": true,
+          "age": 28,
+          "depth_chart_order": 2,
+          "depth_chart_position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "full_name": "AJ Dillon",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "6828",
+          "position": "RB",
+          "status": "Active",
+          "team": "CAR",
+          "years_exp": 6
+        },
+        {
+          "active": true,
           "age": 27,
           "depth_chart_order": 1,
           "depth_chart_position": "LWR",
@@ -14795,7 +14812,7 @@
           ],
           "full_name": "Nico Collins",
           "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "player_id": "7569",
           "position": "WR",
           "status": "Active",
@@ -14851,23 +14868,6 @@
           "position": "WR",
           "status": "Active",
           "team": "ATL",
-          "years_exp": 4
-        },
-        {
-          "active": true,
-          "age": 27,
-          "depth_chart_order": 5,
-          "depth_chart_position": "LWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Jalen Tolbert",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "8117",
-          "position": "WR",
-          "status": "Active",
-          "team": "MIA",
           "years_exp": 4
         },
         {
@@ -14959,11 +14959,11 @@
         "5872",
         "5927",
         "6794",
+        "6828",
         "7569",
         "7591",
         "7600",
         "8112",
-        "8117",
         "8138",
         "8154",
         "9494",
@@ -14982,7 +14982,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 40,
-        "waiver_position": 4,
+        "waiver_position": 12,
         "wins": 1
       },
       "starters": [
@@ -15062,7 +15062,7 @@
           ],
           "full_name": "Caleb Douglas",
           "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "13296",
           "position": "WR",
           "status": "Active",
@@ -15140,7 +15140,7 @@
         {
           "active": true,
           "age": 33,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -15541,19 +15541,19 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 30,
-        "waiver_position": 11,
+        "waiver_position": 10,
         "wins": 2
       },
       "starters": [
         "0",
         "7594",
-        "0",
+        "11577",
         "0",
         "3321",
-        "7049",
-        "4066",
         "0",
-        "2133"
+        "4066",
+        "7049",
+        "13424"
       ],
       "taxi": [
         "13296",
@@ -21015,11 +21015,11 @@
             "5872",
             "5927",
             "6794",
+            "6828",
             "7569",
             "7591",
             "7600",
             "8112",
-            "8117",
             "8138",
             "8154",
             "9494",
@@ -21044,11 +21044,11 @@
             "5872": 0.0,
             "5927": 0.0,
             "6794": 0.0,
+            "6828": 0.0,
             "7569": 0.0,
             "7591": 0.0,
             "7600": 0.0,
             "8112": 0.0,
-            "8117": 0.0,
             "8138": 0.0,
             "8154": 0.0,
             "9494": 0.0,
@@ -21147,13 +21147,13 @@
           "starters": [
             "0",
             "7594",
-            "0",
+            "11577",
             "0",
             "3321",
-            "7049",
-            "4066",
             "0",
-            "2133"
+            "4066",
+            "7049",
+            "13424"
           ],
           "starters_points": [
             0.0,
@@ -22074,11 +22074,11 @@
             "5872",
             "5927",
             "6794",
+            "6828",
             "7569",
             "7591",
             "7600",
             "8112",
-            "8117",
             "8138",
             "8154",
             "9494",
@@ -22103,11 +22103,11 @@
             "5872": 0.0,
             "5927": 0.0,
             "6794": 0.0,
+            "6828": 0.0,
             "7569": 0.0,
             "7591": 0.0,
             "7600": 0.0,
             "8112": 0.0,
-            "8117": 0.0,
             "8138": 0.0,
             "8154": 0.0,
             "9494": 0.0,
@@ -22206,13 +22206,13 @@
           "starters": [
             "0",
             "7594",
-            "0",
+            "11577",
             "0",
             "3321",
-            "7049",
-            "4066",
             "0",
-            "2133"
+            "4066",
+            "7049",
+            "13424"
           ],
           "starters_points": [
             0.0,
@@ -23133,11 +23133,11 @@
             "5872",
             "5927",
             "6794",
+            "6828",
             "7569",
             "7591",
             "7600",
             "8112",
-            "8117",
             "8138",
             "8154",
             "9494",
@@ -23162,11 +23162,11 @@
             "5872": 0.0,
             "5927": 0.0,
             "6794": 0.0,
+            "6828": 0.0,
             "7569": 0.0,
             "7591": 0.0,
             "7600": 0.0,
             "8112": 0.0,
-            "8117": 0.0,
             "8138": 0.0,
             "8154": 0.0,
             "9494": 0.0,
@@ -23265,13 +23265,13 @@
           "starters": [
             "0",
             "7594",
-            "0",
+            "11577",
             "0",
             "3321",
-            "7049",
-            "4066",
             "0",
-            "2133"
+            "4066",
+            "7049",
+            "13424"
           ],
           "starters_points": [
             0.0,
@@ -24192,11 +24192,11 @@
             "5872",
             "5927",
             "6794",
+            "6828",
             "7569",
             "7591",
             "7600",
             "8112",
-            "8117",
             "8138",
             "8154",
             "9494",
@@ -24221,11 +24221,11 @@
             "5872": 0.0,
             "5927": 0.0,
             "6794": 0.0,
+            "6828": 0.0,
             "7569": 0.0,
             "7591": 0.0,
             "7600": 0.0,
             "8112": 0.0,
-            "8117": 0.0,
             "8138": 0.0,
             "8154": 0.0,
             "9494": 0.0,
@@ -24324,13 +24324,13 @@
           "starters": [
             "0",
             "7594",
-            "0",
+            "11577",
             "0",
             "3321",
-            "7049",
-            "4066",
             "0",
-            "2133"
+            "4066",
+            "7049",
+            "13424"
           ],
           "starters_points": [
             0.0,
@@ -25251,11 +25251,11 @@
             "5872",
             "5927",
             "6794",
+            "6828",
             "7569",
             "7591",
             "7600",
             "8112",
-            "8117",
             "8138",
             "8154",
             "9494",
@@ -25280,11 +25280,11 @@
             "5872": 0.0,
             "5927": 0.0,
             "6794": 0.0,
+            "6828": 0.0,
             "7569": 0.0,
             "7591": 0.0,
             "7600": 0.0,
             "8112": 0.0,
-            "8117": 0.0,
             "8138": 0.0,
             "8154": 0.0,
             "9494": 0.0,
@@ -25383,13 +25383,13 @@
           "starters": [
             "0",
             "7594",
-            "0",
+            "11577",
             "0",
             "3321",
-            "7049",
-            "4066",
             "0",
-            "2133"
+            "4066",
+            "7049",
+            "13424"
           ],
           "starters_points": [
             0.0,
@@ -26310,11 +26310,11 @@
             "5872",
             "5927",
             "6794",
+            "6828",
             "7569",
             "7591",
             "7600",
             "8112",
-            "8117",
             "8138",
             "8154",
             "9494",
@@ -26339,11 +26339,11 @@
             "5872": 0.0,
             "5927": 0.0,
             "6794": 0.0,
+            "6828": 0.0,
             "7569": 0.0,
             "7591": 0.0,
             "7600": 0.0,
             "8112": 0.0,
-            "8117": 0.0,
             "8138": 0.0,
             "8154": 0.0,
             "9494": 0.0,
@@ -26442,13 +26442,13 @@
           "starters": [
             "0",
             "7594",
-            "0",
+            "11577",
             "0",
             "3321",
-            "7049",
-            "4066",
             "0",
-            "2133"
+            "4066",
+            "7049",
+            "13424"
           ],
           "starters_points": [
             0.0,
@@ -27369,11 +27369,11 @@
             "5872",
             "5927",
             "6794",
+            "6828",
             "7569",
             "7591",
             "7600",
             "8112",
-            "8117",
             "8138",
             "8154",
             "9494",
@@ -27398,11 +27398,11 @@
             "5872": 0.0,
             "5927": 0.0,
             "6794": 0.0,
+            "6828": 0.0,
             "7569": 0.0,
             "7591": 0.0,
             "7600": 0.0,
             "8112": 0.0,
-            "8117": 0.0,
             "8138": 0.0,
             "8154": 0.0,
             "9494": 0.0,
@@ -27501,13 +27501,13 @@
           "starters": [
             "0",
             "7594",
-            "0",
+            "11577",
             "0",
             "3321",
-            "7049",
-            "4066",
             "0",
-            "2133"
+            "4066",
+            "7049",
+            "13424"
           ],
           "starters_points": [
             0.0,
@@ -28428,11 +28428,11 @@
             "5872",
             "5927",
             "6794",
+            "6828",
             "7569",
             "7591",
             "7600",
             "8112",
-            "8117",
             "8138",
             "8154",
             "9494",
@@ -28457,11 +28457,11 @@
             "5872": 0.0,
             "5927": 0.0,
             "6794": 0.0,
+            "6828": 0.0,
             "7569": 0.0,
             "7591": 0.0,
             "7600": 0.0,
             "8112": 0.0,
-            "8117": 0.0,
             "8138": 0.0,
             "8154": 0.0,
             "9494": 0.0,
@@ -28560,13 +28560,13 @@
           "starters": [
             "0",
             "7594",
-            "0",
+            "11577",
             "0",
             "3321",
-            "7049",
-            "4066",
             "0",
-            "2133"
+            "4066",
+            "7049",
+            "13424"
           ],
           "starters_points": [
             0.0,
@@ -29487,11 +29487,11 @@
             "5872",
             "5927",
             "6794",
+            "6828",
             "7569",
             "7591",
             "7600",
             "8112",
-            "8117",
             "8138",
             "8154",
             "9494",
@@ -29516,11 +29516,11 @@
             "5872": 0.0,
             "5927": 0.0,
             "6794": 0.0,
+            "6828": 0.0,
             "7569": 0.0,
             "7591": 0.0,
             "7600": 0.0,
             "8112": 0.0,
-            "8117": 0.0,
             "8138": 0.0,
             "8154": 0.0,
             "9494": 0.0,
@@ -29619,13 +29619,13 @@
           "starters": [
             "0",
             "7594",
-            "0",
+            "11577",
             "0",
             "3321",
-            "7049",
-            "4066",
             "0",
-            "2133"
+            "4066",
+            "7049",
+            "13424"
           ],
           "starters_points": [
             0.0,
@@ -31825,11 +31825,11 @@
             "5872",
             "5927",
             "6794",
+            "6828",
             "7569",
             "7591",
             "7600",
             "8112",
-            "8117",
             "8138",
             "8154",
             "9494",
@@ -31854,11 +31854,11 @@
             "5872": 0.0,
             "5927": 0.0,
             "6794": 0.0,
+            "6828": 0.0,
             "7569": 0.0,
             "7591": 0.0,
             "7600": 0.0,
             "8112": 23.9,
-            "8117": 0.0,
             "8138": 0.0,
             "8154": 11.0,
             "9494": 0.0,
@@ -31957,13 +31957,13 @@
           "starters": [
             "0",
             "7594",
-            "0",
+            "11577",
             "0",
             "3321",
-            "7049",
-            "4066",
             "0",
-            "2133"
+            "4066",
+            "7049",
+            "13424"
           ],
           "starters_points": [
             0.0,
@@ -31979,6 +31979,36 @@
         }
       ],
       "transactions": [
+        {
+          "adds": {
+            "6828": 11
+          },
+          "consenter_ids": [
+            11
+          ],
+          "created": 1790307697154,
+          "creator": "988168826942496768",
+          "draft_picks": [],
+          "drops": {
+            "8117": 11
+          },
+          "leg": 3,
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          },
+          "roster_ids": [
+            11
+          ],
+          "settings": {
+            "seq": 0,
+            "waiver_bid": 0
+          },
+          "status": "complete",
+          "status_updated": 1790352257997,
+          "transaction_id": "1409056245188476928",
+          "type": "waiver",
+          "waiver_budget": []
+        },
         {
           "adds": {
             "8188": 2
@@ -33088,11 +33118,11 @@
             "5872",
             "5927",
             "6794",
+            "6828",
             "7569",
             "7591",
             "7600",
             "8112",
-            "8117",
             "8138",
             "8154",
             "9494",
@@ -33117,11 +33147,11 @@
             "5872": 0.0,
             "5927": 0.0,
             "6794": 0.0,
+            "6828": 0.0,
             "7569": 0.0,
             "7591": 0.0,
             "7600": 0.0,
             "8112": 0.0,
-            "8117": 0.0,
             "8138": 0.0,
             "8154": 0.0,
             "9494": 0.0,
@@ -33220,13 +33250,13 @@
           "starters": [
             "0",
             "7594",
-            "0",
+            "11577",
             "0",
             "3321",
-            "7049",
-            "4066",
             "0",
-            "2133"
+            "4066",
+            "7049",
+            "13424"
           ],
           "starters_points": [
             0.0,
@@ -34147,11 +34177,11 @@
             "5872",
             "5927",
             "6794",
+            "6828",
             "7569",
             "7591",
             "7600",
             "8112",
-            "8117",
             "8138",
             "8154",
             "9494",
@@ -34176,11 +34206,11 @@
             "5872": 0.0,
             "5927": 0.0,
             "6794": 0.0,
+            "6828": 0.0,
             "7569": 0.0,
             "7591": 0.0,
             "7600": 0.0,
             "8112": 0.0,
-            "8117": 0.0,
             "8138": 0.0,
             "8154": 0.0,
             "9494": 0.0,
@@ -34279,13 +34309,13 @@
           "starters": [
             "0",
             "7594",
-            "0",
+            "11577",
             "0",
             "3321",
-            "7049",
-            "4066",
             "0",
-            "2133"
+            "4066",
+            "7049",
+            "13424"
           ],
           "starters_points": [
             0.0,
@@ -35206,11 +35236,11 @@
             "5872",
             "5927",
             "6794",
+            "6828",
             "7569",
             "7591",
             "7600",
             "8112",
-            "8117",
             "8138",
             "8154",
             "9494",
@@ -35235,11 +35265,11 @@
             "5872": 0.0,
             "5927": 0.0,
             "6794": 0.0,
+            "6828": 0.0,
             "7569": 0.0,
             "7591": 0.0,
             "7600": 0.0,
             "8112": 0.0,
-            "8117": 0.0,
             "8138": 0.0,
             "8154": 0.0,
             "9494": 0.0,
@@ -35338,13 +35368,13 @@
           "starters": [
             "0",
             "7594",
-            "0",
+            "11577",
             "0",
             "3321",
-            "7049",
-            "4066",
             "0",
-            "2133"
+            "4066",
+            "7049",
+            "13424"
           ],
           "starters_points": [
             0.0,
@@ -36265,11 +36295,11 @@
             "5872",
             "5927",
             "6794",
+            "6828",
             "7569",
             "7591",
             "7600",
             "8112",
-            "8117",
             "8138",
             "8154",
             "9494",
@@ -36294,11 +36324,11 @@
             "5872": 0.0,
             "5927": 0.0,
             "6794": 0.0,
+            "6828": 0.0,
             "7569": 0.0,
             "7591": 0.0,
             "7600": 0.0,
             "8112": 0.0,
-            "8117": 0.0,
             "8138": 0.0,
             "8154": 0.0,
             "9494": 0.0,
@@ -36397,13 +36427,13 @@
           "starters": [
             "0",
             "7594",
-            "0",
+            "11577",
             "0",
             "3321",
-            "7049",
-            "4066",
             "0",
-            "2133"
+            "4066",
+            "7049",
+            "13424"
           ],
           "starters_points": [
             0.0,
@@ -37324,11 +37354,11 @@
             "5872",
             "5927",
             "6794",
+            "6828",
             "7569",
             "7591",
             "7600",
             "8112",
-            "8117",
             "8138",
             "8154",
             "9494",
@@ -37353,11 +37383,11 @@
             "5872": 0.0,
             "5927": 0.0,
             "6794": 0.0,
+            "6828": 0.0,
             "7569": 0.0,
             "7591": 0.0,
             "7600": 0.0,
             "8112": 0.0,
-            "8117": 0.0,
             "8138": 0.0,
             "8154": 0.0,
             "9494": 0.0,
@@ -37456,13 +37486,13 @@
           "starters": [
             "0",
             "7594",
-            "0",
+            "11577",
             "0",
             "3321",
-            "7049",
-            "4066",
             "0",
-            "2133"
+            "4066",
+            "7049",
+            "13424"
           ],
           "starters_points": [
             0.0,
@@ -38383,11 +38413,11 @@
             "5872",
             "5927",
             "6794",
+            "6828",
             "7569",
             "7591",
             "7600",
             "8112",
-            "8117",
             "8138",
             "8154",
             "9494",
@@ -38412,11 +38442,11 @@
             "5872": 0.0,
             "5927": 0.0,
             "6794": 0.0,
+            "6828": 0.0,
             "7569": 0.0,
             "7591": 0.0,
             "7600": 0.0,
             "8112": 0.0,
-            "8117": 0.0,
             "8138": 0.0,
             "8154": 0.0,
             "9494": 0.0,
@@ -38515,13 +38545,13 @@
           "starters": [
             "0",
             "7594",
-            "0",
+            "11577",
             "0",
             "3321",
-            "7049",
-            "4066",
             "0",
-            "2133"
+            "4066",
+            "7049",
+            "13424"
           ],
           "starters_points": [
             0.0,

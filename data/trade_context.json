@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-09-25T11:51:46.587547+00:00",
+  "generated_at": "2026-09-25T17:12:10.475456+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1157,7 +1157,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 24,
+      "daily_waivers_last_ran": 25,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -1535,6 +1535,23 @@
       },
       {
         "active": true,
+        "age": 28,
+        "depth_chart_order": 2,
+        "depth_chart_position": "RB",
+        "fantasy_positions": [
+          "RB"
+        ],
+        "full_name": "AJ Dillon",
+        "injury_body_part": null,
+        "injury_status": null,
+        "player_id": "6828",
+        "position": "RB",
+        "status": "Active",
+        "team": "CAR",
+        "years_exp": 6
+      },
+      {
+        "active": true,
         "age": 27,
         "depth_chart_order": 1,
         "depth_chart_position": "LWR",
@@ -1543,7 +1560,7 @@
         ],
         "full_name": "Nico Collins",
         "injury_body_part": "Hamstring",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "player_id": "7569",
         "position": "WR",
         "status": "Active",
@@ -1599,23 +1616,6 @@
         "position": "WR",
         "status": "Active",
         "team": "ATL",
-        "years_exp": 4
-      },
-      {
-        "active": true,
-        "age": 27,
-        "depth_chart_order": 5,
-        "depth_chart_position": "LWR",
-        "fantasy_positions": [
-          "WR"
-        ],
-        "full_name": "Jalen Tolbert",
-        "injury_body_part": null,
-        "injury_status": null,
-        "player_id": "8117",
-        "position": "WR",
-        "status": "Active",
-        "team": "MIA",
         "years_exp": 4
       },
       {
@@ -1707,11 +1707,11 @@
       "5872",
       "5927",
       "6794",
+      "6828",
       "7569",
       "7591",
       "7600",
       "8112",
-      "8117",
       "8138",
       "8154",
       "9494",
@@ -1730,7 +1730,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 40,
-      "waiver_position": 4,
+      "waiver_position": 12,
       "wins": 1
     },
     "starters": [
@@ -2794,7 +2794,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 34,
-        "waiver_position": 7,
+        "waiver_position": 6,
         "wins": 2
       },
       "starters": [
@@ -3289,7 +3289,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -3522,7 +3522,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 15,
-        "waiver_position": 12,
+        "waiver_position": 11,
         "wins": 0
       },
       "starters": [
@@ -4473,7 +4473,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -4650,7 +4650,7 @@
           ],
           "full_name": "Mason Taylor",
           "injury_body_part": "Thumb",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "player_id": "12498",
           "position": "TE",
           "status": "Active",
@@ -5241,8 +5241,8 @@
             "RB"
           ],
           "full_name": "Jaylen Wright",
-          "injury_body_part": "Neck",
-          "injury_status": "Questionable",
+          "injury_body_part": "Foot",
+          "injury_status": "Doubtful",
           "player_id": "11643",
           "position": "RB",
           "status": "Active",
@@ -6327,7 +6327,7 @@
           ],
           "full_name": "Chig Okonkwo",
           "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "player_id": "8210",
           "position": "TE",
           "status": "Active",
@@ -6434,7 +6434,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 30,
-        "waiver_position": 9,
+        "waiver_position": 8,
         "wins": 1
       },
       "starters": [
@@ -6657,7 +6657,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -7162,7 +7162,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 15,
-        "waiver_position": 6,
+        "waiver_position": 5,
         "wins": 1
       },
       "starters": [
@@ -7890,7 +7890,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 100,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 0
       },
       "starters": [
@@ -8618,7 +8618,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 11,
-        "waiver_position": 8,
+        "waiver_position": 7,
         "wins": 1
       },
       "starters": [
@@ -9283,7 +9283,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -9346,7 +9346,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 25,
-        "waiver_position": 5,
+        "waiver_position": 4,
         "wins": 2
       },
       "starters": [
@@ -9421,7 +9421,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -9874,6 +9874,23 @@
         },
         {
           "active": true,
+          "age": 28,
+          "depth_chart_order": 2,
+          "depth_chart_position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "full_name": "AJ Dillon",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "6828",
+          "position": "RB",
+          "status": "Active",
+          "team": "CAR",
+          "years_exp": 6
+        },
+        {
+          "active": true,
           "age": 27,
           "depth_chart_order": 1,
           "depth_chart_position": "LWR",
@@ -9882,7 +9899,7 @@
           ],
           "full_name": "Nico Collins",
           "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "player_id": "7569",
           "position": "WR",
           "status": "Active",
@@ -9938,23 +9955,6 @@
           "position": "WR",
           "status": "Active",
           "team": "ATL",
-          "years_exp": 4
-        },
-        {
-          "active": true,
-          "age": 27,
-          "depth_chart_order": 5,
-          "depth_chart_position": "LWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Jalen Tolbert",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "8117",
-          "position": "WR",
-          "status": "Active",
-          "team": "MIA",
           "years_exp": 4
         },
         {
@@ -10039,7 +10039,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 40,
-        "waiver_position": 4,
+        "waiver_position": 12,
         "wins": 1
       },
       "starters": [
@@ -10303,7 +10303,7 @@
           ],
           "full_name": "Caleb Douglas",
           "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "13296",
           "position": "WR",
           "status": "Active",
@@ -10381,7 +10381,7 @@
         {
           "active": true,
           "age": 33,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -10767,7 +10767,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 30,
-        "waiver_position": 11,
+        "waiver_position": 10,
         "wins": 2
       },
       "starters": [
@@ -10793,8 +10793,21 @@
           "years_exp": 5
         },
         {
-          "full_name": "0",
-          "player_id": "0"
+          "active": true,
+          "age": 24,
+          "depth_chart_order": 3,
+          "depth_chart_position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "full_name": "Will Shipley",
+          "injury_body_part": "Foot",
+          "injury_status": "Questionable",
+          "player_id": "11577",
+          "position": "RB",
+          "status": "Active",
+          "team": "PHI",
+          "years_exp": 2
         },
         {
           "full_name": "0",
@@ -10818,21 +10831,8 @@
           "years_exp": 10
         },
         {
-          "active": true,
-          "age": 29,
-          "depth_chart_order": 3,
-          "depth_chart_position": "SWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Jauan Jennings",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "7049",
-          "position": "WR",
-          "status": "Active",
-          "team": "MIN",
-          "years_exp": 6
+          "full_name": "0",
+          "player_id": "0"
         },
         {
           "active": true,
@@ -10852,25 +10852,38 @@
           "years_exp": 9
         },
         {
-          "full_name": "0",
-          "player_id": "0"
-        },
-        {
           "active": true,
-          "age": 33,
-          "depth_chart_order": 2,
-          "depth_chart_position": "LWR",
+          "age": 29,
+          "depth_chart_order": 3,
+          "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Davante Adams",
+          "full_name": "Jauan Jennings",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "2133",
+          "player_id": "7049",
           "position": "WR",
           "status": "Active",
-          "team": "LAR",
-          "years_exp": 12
+          "team": "MIN",
+          "years_exp": 6
+        },
+        {
+          "active": true,
+          "age": 24,
+          "depth_chart_order": 2,
+          "depth_chart_position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "full_name": "Seth McGowan",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "13424",
+          "position": "RB",
+          "status": "Active",
+          "team": "IND",
+          "years_exp": 0
         }
       ],
       "taxi": [
@@ -10884,7 +10897,7 @@
           ],
           "full_name": "Caleb Douglas",
           "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "13296",
           "position": "WR",
           "status": "Active",

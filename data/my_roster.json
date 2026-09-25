@@ -84,7 +84,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-09-25T11:51:46.587547+00:00",
+  "generated_at": "2026-09-25T17:12:10.475456+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -416,6 +416,23 @@
       },
       {
         "active": true,
+        "age": 28,
+        "depth_chart_order": 2,
+        "depth_chart_position": "RB",
+        "fantasy_positions": [
+          "RB"
+        ],
+        "full_name": "AJ Dillon",
+        "injury_body_part": null,
+        "injury_status": null,
+        "player_id": "6828",
+        "position": "RB",
+        "status": "Active",
+        "team": "CAR",
+        "years_exp": 6
+      },
+      {
+        "active": true,
         "age": 27,
         "depth_chart_order": 1,
         "depth_chart_position": "LWR",
@@ -424,7 +441,7 @@
         ],
         "full_name": "Nico Collins",
         "injury_body_part": "Hamstring",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "player_id": "7569",
         "position": "WR",
         "status": "Active",
@@ -480,23 +497,6 @@
         "position": "WR",
         "status": "Active",
         "team": "ATL",
-        "years_exp": 4
-      },
-      {
-        "active": true,
-        "age": 27,
-        "depth_chart_order": 5,
-        "depth_chart_position": "LWR",
-        "fantasy_positions": [
-          "WR"
-        ],
-        "full_name": "Jalen Tolbert",
-        "injury_body_part": null,
-        "injury_status": null,
-        "player_id": "8117",
-        "position": "WR",
-        "status": "Active",
-        "team": "MIA",
         "years_exp": 4
       },
       {
@@ -588,11 +588,11 @@
       "5872",
       "5927",
       "6794",
+      "6828",
       "7569",
       "7591",
       "7600",
       "8112",
-      "8117",
       "8138",
       "8154",
       "9494",
@@ -611,7 +611,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 40,
-      "waiver_position": 4,
+      "waiver_position": 12,
       "wins": 1
     },
     "starters": [
