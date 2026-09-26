@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-09-25T21:35:21.062367+00:00",
+  "generated_at": "2026-09-26T04:59:00.584977+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2388,14 +2388,14 @@
     "company_id": null,
     "draft_id": "1382819694574075904",
     "group_id": null,
-    "last_author_avatar": null,
-    "last_author_display_name": "sys",
-    "last_author_id": "166666666666666666",
-    "last_author_is_bot": true,
+    "last_author_avatar": "f65b649e12f0c6956e099fa7150b0b13",
+    "last_author_display_name": "Gumby1199",
+    "last_author_id": "987818309741617152",
+    "last_author_is_bot": false,
     "last_message_attachment": null,
-    "last_message_id": "1409243147048894464",
+    "last_message_id": "1409429534960336896",
     "last_message_text_map": null,
-    "last_message_time": 1790352258029,
+    "last_message_time": 1790396696371,
     "last_pinned_message_id": "1406287956163002368",
     "last_read_id": null,
     "league_id": "1314667834135040000",
@@ -2638,7 +2638,7 @@
       {
         "active": true,
         "age": 22,
-        "depth_chart_order": 3,
+        "depth_chart_order": 2,
         "depth_chart_position": "RB",
         "fantasy_positions": [
           "RB"
@@ -2893,7 +2893,7 @@
       {
         "active": true,
         "age": 27,
-        "depth_chart_order": 1,
+        "depth_chart_order": 5,
         "depth_chart_position": "LWR",
         "fantasy_positions": [
           "WR"
@@ -3138,7 +3138,7 @@
     "10218": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 2,
+      "depth_chart_order": 1,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -3154,7 +3154,7 @@
     },
     "10219": {
       "active": true,
-      "age": 26,
+      "age": 27,
       "depth_chart_order": 2,
       "depth_chart_position": "RB",
       "fantasy_positions": [
@@ -3682,7 +3682,7 @@
     "11596": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 2,
+      "depth_chart_order": 1,
       "depth_chart_position": "TE",
       "fantasy_positions": [
         "TE"
@@ -4005,7 +4005,7 @@
     "11643": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 2,
+      "depth_chart_order": 4,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -4430,7 +4430,7 @@
     "12495": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -4958,7 +4958,7 @@
     "12536": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -5066,8 +5066,8 @@
         "WR"
       ],
       "full_name": "Jaylin Lane",
-      "injury_body_part": "Groin",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "12641",
       "position": "WR",
       "status": "Active",
@@ -5077,7 +5077,7 @@
     "12670": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 9,
+      "depth_chart_order": 8,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -5638,7 +5638,7 @@
     "13345": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 3,
+      "depth_chart_order": 6,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -5740,7 +5740,7 @@
     "13380": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 4,
+      "depth_chart_order": 9,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -5757,8 +5757,8 @@
     "1339": {
       "active": true,
       "age": 35,
-      "depth_chart_order": 1,
-      "depth_chart_position": "TE",
+      "depth_chart_order": null,
+      "depth_chart_position": null,
       "fantasy_positions": [
         "TE"
       ],
@@ -5774,7 +5774,7 @@
     "13400": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "depth_chart_position": "TE",
       "fantasy_positions": [
         "TE"
@@ -5978,7 +5978,7 @@
     "13533": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 4,
+      "depth_chart_order": 9,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -6562,8 +6562,8 @@
         "RB"
       ],
       "full_name": "Saquon Barkley",
-      "injury_body_part": "Arm",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "4866",
       "position": "RB",
       "status": "Active",
@@ -6783,8 +6783,8 @@
         "WR"
       ],
       "full_name": "Marquise Brown",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Ankle",
+      "injury_status": "Questionable",
       "player_id": "5848",
       "position": "WR",
       "status": "Active",
@@ -7338,7 +7338,7 @@
     "7021": {
       "active": true,
       "age": 28,
-      "depth_chart_order": 2,
+      "depth_chart_order": 5,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -7593,7 +7593,7 @@
     "7569": {
       "active": true,
       "age": 27,
-      "depth_chart_order": 1,
+      "depth_chart_order": 5,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -8239,14 +8239,14 @@
     "8210": {
       "active": true,
       "age": 27,
-      "depth_chart_order": 1,
+      "depth_chart_order": 4,
       "depth_chart_position": "TE",
       "fantasy_positions": [
         "TE"
       ],
       "full_name": "Chig Okonkwo",
       "injury_body_part": "Hamstring",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "player_id": "8210",
       "position": "TE",
       "status": "Active",
@@ -8613,7 +8613,7 @@
     "9504": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -8960,7 +8960,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -9000,8 +9000,8 @@
             "WR"
           ],
           "full_name": "Jaylin Lane",
-          "injury_body_part": "Groin",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "12641",
           "position": "WR",
           "status": "Active",
@@ -9399,7 +9399,7 @@
       "player_details": [
         {
           "active": true,
-          "age": 26,
+          "age": 27,
           "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
@@ -9655,7 +9655,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -9672,7 +9672,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -9706,7 +9706,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 4,
+          "depth_chart_order": 9,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -10364,7 +10364,7 @@
         {
           "active": true,
           "age": 28,
-          "depth_chart_order": 2,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -10632,7 +10632,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -10989,7 +10989,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -11140,7 +11140,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 2,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -11344,7 +11344,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
+          "depth_chart_order": 9,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -12058,14 +12058,14 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 1,
+          "depth_chart_order": 4,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
           ],
           "full_name": "Chig Okonkwo",
           "injury_body_part": "Hamstring",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "player_id": "8210",
           "position": "TE",
           "status": "Active",
@@ -12366,7 +12366,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 9,
+          "depth_chart_order": 8,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -12966,8 +12966,8 @@
         {
           "active": true,
           "age": 35,
-          "depth_chart_order": 1,
-          "depth_chart_position": "TE",
+          "depth_chart_order": null,
+          "depth_chart_position": null,
           "fantasy_positions": [
             "TE"
           ],
@@ -13091,8 +13091,8 @@
             "RB"
           ],
           "full_name": "Saquon Barkley",
-          "injury_body_part": "Arm",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "4866",
           "position": "RB",
           "status": "Active",
@@ -13343,7 +13343,34 @@
       "keepers": null,
       "league_id": "1314667834135040000",
       "metadata": {
+        "p_nick_11565": "Haydu",
+        "p_nick_11583": "Haydu",
+        "p_nick_11626": "Haydu",
+        "p_nick_11647": "Haydu",
+        "p_nick_11651": "Haydu",
+        "p_nick_12481": "Haydu",
+        "p_nick_12499": "Haydu",
+        "p_nick_12508": "Haydu",
+        "p_nick_12514": "Haydu",
+        "p_nick_12517": "Haydu",
+        "p_nick_12519": "Haydu",
+        "p_nick_13279": "Haydu",
+        "p_nick_13286": "Haydu",
+        "p_nick_13294": "Haydu",
+        "p_nick_13305": "Haydu",
+        "p_nick_13311": "Haydu",
+        "p_nick_3163": "Haydu",
+        "p_nick_5001": "Haydu",
+        "p_nick_5846": "Haydu",
+        "p_nick_5848": "Haydu",
+        "p_nick_5854": "Haydu",
         "p_nick_6904": "Haydu",
+        "p_nick_7527": "Haydu",
+        "p_nick_7528": "Haydu",
+        "p_nick_8134": "Haydu",
+        "p_nick_8142": "Haydu",
+        "p_nick_9484": "Haydu",
+        "p_nick_9753": "Haydu",
         "record": "WL",
         "streak": "1L"
       },
@@ -13687,8 +13714,8 @@
             "WR"
           ],
           "full_name": "Marquise Brown",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ankle",
+          "injury_status": "Questionable",
           "player_id": "5848",
           "position": "WR",
           "status": "Active",
@@ -13917,7 +13944,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -14550,7 +14577,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -14805,7 +14832,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 1,
+          "depth_chart_order": 5,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
