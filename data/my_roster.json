@@ -84,7 +84,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-09-26T11:25:43.432934+00:00",
+  "generated_at": "2026-09-26T16:24:09.803726+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -611,7 +611,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 40,
-      "waiver_position": 12,
+      "waiver_position": 11,
       "wins": 1
     },
     "starters": [

@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-09-26T11:25:43.432934+00:00",
+  "generated_at": "2026-09-26T16:24:09.803726+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1157,7 +1157,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 25,
+      "daily_waivers_last_ran": 26,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -1730,7 +1730,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 40,
-      "waiver_position": 12,
+      "waiver_position": 11,
       "wins": 1
     },
     "starters": [
@@ -2794,7 +2794,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 34,
-        "waiver_position": 6,
+        "waiver_position": 5,
         "wins": 2
       },
       "starters": [
@@ -3374,7 +3374,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -3522,7 +3522,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 15,
-        "waiver_position": 11,
+        "waiver_position": 10,
         "wins": 0
       },
       "starters": [
@@ -3999,23 +3999,6 @@
         },
         {
           "active": true,
-          "age": 26,
-          "depth_chart_order": 4,
-          "depth_chart_position": "RWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Dohnte Meyers",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "13264",
-          "position": "WR",
-          "status": "Active",
-          "team": "CIN",
-          "years_exp": 0
-        },
-        {
-          "active": true,
           "age": 22,
           "depth_chart_order": 4,
           "depth_chart_position": "LWR",
@@ -4080,6 +4063,23 @@
           "position": "WR",
           "status": "Inactive",
           "team": "SF",
+          "years_exp": 0
+        },
+        {
+          "active": true,
+          "age": 23,
+          "depth_chart_order": 2,
+          "depth_chart_position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "full_name": "Eli Heidenreich",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "13423",
+          "position": "RB",
+          "status": "Active",
+          "team": "PIT",
           "years_exp": 0
         },
         {
@@ -4250,7 +4250,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 3,
-        "waiver_position": 3,
+        "waiver_position": 12,
         "wins": 0
       },
       "starters": [
@@ -4558,7 +4558,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -5140,7 +5140,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -5320,7 +5320,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -6434,7 +6434,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 30,
-        "waiver_position": 8,
+        "waiver_position": 7,
         "wins": 1
       },
       "starters": [
@@ -6708,7 +6708,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -7162,7 +7162,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 15,
-        "waiver_position": 5,
+        "waiver_position": 4,
         "wins": 1
       },
       "starters": [
@@ -7890,26 +7890,26 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 100,
-        "waiver_position": 9,
+        "waiver_position": 8,
         "wins": 0
       },
       "starters": [
         {
           "active": true,
-          "age": 28,
+          "age": 26,
           "depth_chart_order": 1,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
           ],
-          "full_name": "Justin Herbert",
+          "full_name": "Bo Nix",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "6797",
+          "player_id": "11563",
           "position": "QB",
           "status": "Active",
-          "team": "LAC",
-          "years_exp": 6
+          "team": "DEN",
+          "years_exp": 2
         },
         {
           "active": true,
@@ -7966,23 +7966,6 @@
           "active": true,
           "age": 26,
           "depth_chart_order": 1,
-          "depth_chart_position": "SWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Rashee Rice",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "10229",
-          "position": "WR",
-          "status": "Active",
-          "team": "KC",
-          "years_exp": 3
-        },
-        {
-          "active": true,
-          "age": 26,
-          "depth_chart_order": 1,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -7995,6 +7978,23 @@
           "status": "Active",
           "team": "NYJ",
           "years_exp": 4
+        },
+        {
+          "active": true,
+          "age": 26,
+          "depth_chart_order": 1,
+          "depth_chart_position": "SWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Rashee Rice",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "10229",
+          "position": "WR",
+          "status": "Active",
+          "team": "KC",
+          "years_exp": 3
         },
         {
           "active": true,
@@ -8545,7 +8545,7 @@
           ],
           "full_name": "Alec Pierce",
           "injury_body_part": "Heel",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "player_id": "8142",
           "position": "WR",
           "status": "Inactive",
@@ -8618,7 +8618,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 11,
-        "waiver_position": 7,
+        "waiver_position": 6,
         "wins": 1
       },
       "starters": [
@@ -9346,7 +9346,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 25,
-        "waiver_position": 4,
+        "waiver_position": 3,
         "wins": 2
       },
       "starters": [
@@ -10039,7 +10039,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 40,
-        "waiver_position": 12,
+        "waiver_position": 11,
         "wins": 1
       },
       "starters": [
@@ -10767,136 +10767,84 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 30,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 2
       },
       "starters": [
         {
           "active": true,
-          "age": 27,
+          "age": 26,
           "depth_chart_order": 1,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
           ],
-          "full_name": "Malik Willis",
+          "full_name": "Brock Purdy",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "8161",
+          "player_id": "8183",
           "position": "QB",
           "status": "Active",
-          "team": "MIA",
+          "team": "SF",
           "years_exp": 4
         },
         {
           "active": true,
-          "age": 26,
+          "age": 27,
           "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Javonte Williams",
+          "full_name": "Jonathan Taylor",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "7588",
-          "position": "RB",
-          "status": "Active",
-          "team": "DAL",
-          "years_exp": 5
-        },
-        {
-          "active": true,
-          "age": 25,
-          "depth_chart_order": 2,
-          "depth_chart_position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "full_name": "Tyjae Spears",
-          "injury_body_part": "Undisclosed",
-          "injury_status": "Questionable",
-          "player_id": "9508",
-          "position": "RB",
-          "status": "Active",
-          "team": "TEN",
-          "years_exp": 3
-        },
-        {
-          "active": true,
-          "age": 33,
-          "depth_chart_order": 1,
-          "depth_chart_position": "LWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Mike Evans",
-          "injury_body_part": "Hip",
-          "injury_status": "Questionable",
-          "player_id": "2216",
-          "position": "WR",
-          "status": "Active",
-          "team": "SF",
-          "years_exp": 12
-        },
-        {
-          "full_name": "0",
-          "player_id": "0"
-        },
-        {
-          "active": true,
-          "age": 31,
-          "depth_chart_order": null,
-          "depth_chart_position": null,
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Tyreek Hill",
-          "injury_body_part": "Knee - ACL",
-          "injury_status": "",
-          "player_id": "3321",
-          "position": "WR",
-          "status": "Active",
-          "team": null,
-          "years_exp": 10
-        },
-        {
-          "full_name": "0",
-          "player_id": "0"
-        },
-        {
-          "active": true,
-          "age": 24,
-          "depth_chart_order": 2,
-          "depth_chart_position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "full_name": "Keaton Mitchell",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "9511",
-          "position": "RB",
-          "status": "Active",
-          "team": "LAC",
-          "years_exp": 3
-        },
-        {
-          "active": true,
-          "age": 24,
-          "depth_chart_order": 2,
-          "depth_chart_position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "full_name": "Seth McGowan",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "13424",
+          "player_id": "6813",
           "position": "RB",
           "status": "Active",
           "team": "IND",
-          "years_exp": 0
+          "years_exp": 6
+        },
+        {
+          "active": true,
+          "age": 27,
+          "depth_chart_order": 1,
+          "depth_chart_position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "full_name": "Chuba Hubbard",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "7594",
+          "position": "RB",
+          "status": "Active",
+          "team": "CAR",
+          "years_exp": 5
+        },
+        {
+          "full_name": "0",
+          "player_id": "0"
+        },
+        {
+          "full_name": "0",
+          "player_id": "0"
+        },
+        {
+          "full_name": "0",
+          "player_id": "0"
+        },
+        {
+          "full_name": "0",
+          "player_id": "0"
+        },
+        {
+          "full_name": "0",
+          "player_id": "0"
+        },
+        {
+          "full_name": "0",
+          "player_id": "0"
         }
       ],
       "taxi": [
