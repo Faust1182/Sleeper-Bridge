@@ -84,7 +84,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-09-27T16:58:24.907758+00:00",
+  "generated_at": "2026-09-27T21:21:40.113504+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -185,8 +185,8 @@
           "RB"
         ],
         "full_name": "Ollie Gordon",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Undisclosed",
+        "injury_status": "Questionable",
         "player_id": "12495",
         "position": "RB",
         "status": "Active",
@@ -406,8 +406,8 @@
           "WR"
         ],
         "full_name": "Justin Jefferson",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Ankle",
+        "injury_status": "Questionable",
         "player_id": "6794",
         "position": "WR",
         "status": "Active",
