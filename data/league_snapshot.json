@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-09-27T12:03:47.829799+00:00",
+  "generated_at": "2026-09-27T16:58:24.907758+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2393,9 +2393,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1409669220391723008",
+    "last_message_id": "1409967991654744064",
     "last_message_text_map": null,
-    "last_message_time": 1790453841831,
+    "last_message_time": 1790525074450,
     "last_pinned_message_id": "1406287956163002368",
     "last_read_id": null,
     "league_id": "1314667834135040000",
@@ -2494,7 +2494,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 26,
+      "daily_waivers_last_ran": 27,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -3117,7 +3117,6 @@
     "week": 3
   },
   "players": {
-    "0": null,
     "10213": {
       "active": true,
       "age": 25,
@@ -3722,8 +3721,8 @@
         "TE"
       ],
       "full_name": "Ja'Tavion Sanders",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Coach's Decision",
+      "injury_status": "Out",
       "player_id": "11600",
       "position": "TE",
       "status": "Active",
@@ -3762,6 +3761,23 @@
       "position": "TE",
       "status": "Active",
       "team": "LV",
+      "years_exp": 2
+    },
+    "11608": {
+      "active": true,
+      "age": 25,
+      "depth_chart_order": 3,
+      "depth_chart_position": "SWR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "full_name": "Isaiah Williams",
+      "injury_body_part": null,
+      "injury_status": null,
+      "player_id": "11608",
+      "position": "WR",
+      "status": "Active",
+      "team": "NYJ",
       "years_exp": 2
     },
     "11610": {
@@ -3842,7 +3858,7 @@
       ],
       "full_name": "Adonai Mitchell",
       "injury_body_part": "Finger",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "player_id": "11625",
       "position": "WR",
       "status": "Active",
@@ -3859,7 +3875,7 @@
       ],
       "full_name": "Xavier Legette",
       "injury_body_part": "Knee",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "player_id": "11626",
       "position": "WR",
       "status": "Active",
@@ -3977,8 +3993,8 @@
         "WR"
       ],
       "full_name": "Keon Coleman",
-      "injury_body_part": "Ankle",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "11637",
       "position": "WR",
       "status": "Active",
@@ -4012,7 +4028,7 @@
       ],
       "full_name": "Jaylen Wright",
       "injury_body_part": "Foot",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "player_id": "11643",
       "position": "RB",
       "status": "Active",
@@ -4028,8 +4044,8 @@
         "WR"
       ],
       "full_name": "Jalen Coker",
-      "injury_body_part": "Ankle",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "11646",
       "position": "WR",
       "status": "Active",
@@ -4215,8 +4231,8 @@
         "RB"
       ],
       "full_name": "DJ Giddens",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Coach's Decision",
+      "injury_status": "Out",
       "player_id": "12471",
       "position": "RB",
       "status": "Active",
@@ -4674,8 +4690,8 @@
         "QB"
       ],
       "full_name": "Jalen Milroe",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Coach's Decision",
+      "injury_status": "Out",
       "player_id": "12510",
       "position": "QB",
       "status": "Active",
@@ -5321,8 +5337,8 @@
         "QB"
       ],
       "full_name": "Drew Allar",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Coach's Decision",
+      "injury_status": "Out",
       "player_id": "13289",
       "position": "QB",
       "status": "Active",
@@ -5780,8 +5796,8 @@
         "WR"
       ],
       "full_name": "Skyler Bell",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Coach's Decision",
+      "injury_status": "Out",
       "player_id": "13402",
       "position": "WR",
       "status": "Active",
@@ -5917,28 +5933,11 @@
       ],
       "full_name": "Eli Raridon",
       "injury_body_part": "Thigh",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "player_id": "13421",
       "position": "TE",
       "status": "Active",
       "team": "NE",
-      "years_exp": 0
-    },
-    "13423": {
-      "active": true,
-      "age": 23,
-      "depth_chart_order": 2,
-      "depth_chart_position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "full_name": "Eli Heidenreich",
-      "injury_body_part": null,
-      "injury_status": null,
-      "player_id": "13423",
-      "position": "RB",
-      "status": "Active",
-      "team": "PIT",
       "years_exp": 0
     },
     "13424": {
@@ -6647,8 +6646,8 @@
         "WR"
       ],
       "full_name": "DJ Moore",
-      "injury_body_part": "Shoulder - AC Joint",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "4983",
       "position": "WR",
       "status": "Active",
@@ -7038,8 +7037,8 @@
         "RB"
       ],
       "full_name": "Devin Singletary",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Coach's Decision",
+      "injury_status": "Out",
       "player_id": "6130",
       "position": "RB",
       "status": "Active",
@@ -7242,8 +7241,8 @@
         "WR"
       ],
       "full_name": "Michael Pittman",
-      "injury_body_part": "Foot",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "6819",
       "position": "WR",
       "status": "Active",
@@ -7338,7 +7337,7 @@
     "7021": {
       "active": true,
       "age": 28,
-      "depth_chart_order": 5,
+      "depth_chart_order": 6,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -8262,8 +8261,8 @@
         "RB"
       ],
       "full_name": "Jaylen Warren",
-      "injury_body_part": "Undisclosed",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "8228",
       "position": "RB",
       "status": "Active",
@@ -8653,8 +8652,8 @@
         "RB"
       ],
       "full_name": "Tyjae Spears",
-      "injury_body_part": "Undisclosed",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "9508",
       "position": "RB",
       "status": "Active",
@@ -9457,8 +9456,8 @@
             "TE"
           ],
           "full_name": "Ja'Tavion Sanders",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "11600",
           "position": "TE",
           "status": "Active",
@@ -9491,8 +9490,8 @@
             "WR"
           ],
           "full_name": "Keon Coleman",
-          "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "11637",
           "position": "WR",
           "status": "Active",
@@ -9508,8 +9507,8 @@
             "RB"
           ],
           "full_name": "DJ Giddens",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "12471",
           "position": "RB",
           "status": "Active",
@@ -10041,6 +10040,23 @@
         {
           "active": true,
           "age": 25,
+          "depth_chart_order": 3,
+          "depth_chart_position": "SWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Isaiah Williams",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "11608",
+          "position": "WR",
+          "status": "Active",
+          "team": "NYJ",
+          "years_exp": 2
+        },
+        {
+          "active": true,
+          "age": 25,
           "depth_chart_order": 1,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
@@ -10295,23 +10311,6 @@
         },
         {
           "active": true,
-          "age": 23,
-          "depth_chart_order": 2,
-          "depth_chart_position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "full_name": "Eli Heidenreich",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "13423",
-          "position": "RB",
-          "status": "Active",
-          "team": "PIT",
-          "years_exp": 0
-        },
-        {
-          "active": true,
           "age": 31,
           "depth_chart_order": 1,
           "depth_chart_position": "QB",
@@ -10364,7 +10363,7 @@
         {
           "active": true,
           "age": 28,
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -10453,6 +10452,7 @@
         "11237",
         "11576",
         "11603",
+        "11608",
         "11610",
         "11618",
         "11620",
@@ -10468,7 +10468,6 @@
         "13346",
         "13347",
         "13417",
-        "13423",
         "4892",
         "5870",
         "6804",
@@ -10672,8 +10671,8 @@
             "WR"
           ],
           "full_name": "Jalen Coker",
-          "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "11646",
           "position": "WR",
           "status": "Active",
@@ -11147,7 +11146,7 @@
           ],
           "full_name": "Jaylen Wright",
           "injury_body_part": "Foot",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "player_id": "11643",
           "position": "RB",
           "status": "Active",
@@ -11299,8 +11298,8 @@
             "QB"
           ],
           "full_name": "Drew Allar",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "13289",
           "position": "QB",
           "status": "Active",
@@ -11911,8 +11910,8 @@
             "WR"
           ],
           "full_name": "DJ Moore",
-          "injury_body_part": "Shoulder - AC Joint",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "4983",
           "position": "WR",
           "status": "Active",
@@ -12854,7 +12853,7 @@
           ],
           "full_name": "Adonai Mitchell",
           "injury_body_part": "Finger",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "11625",
           "position": "WR",
           "status": "Active",
@@ -12904,8 +12903,8 @@
             "QB"
           ],
           "full_name": "Jalen Milroe",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "12510",
           "position": "QB",
           "status": "Active",
@@ -12990,7 +12989,7 @@
           ],
           "full_name": "Eli Raridon",
           "injury_body_part": "Thigh",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "13421",
           "position": "TE",
           "status": "Active",
@@ -13227,8 +13226,8 @@
             "RB"
           ],
           "full_name": "Jaylen Warren",
-          "injury_body_part": "Undisclosed",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "8228",
           "position": "RB",
           "status": "Active",
@@ -13322,12 +13321,12 @@
       "starters": [
         "11563",
         "4034",
-        "4866",
+        "8150",
         "9487",
         "8146",
         "10229",
         "12506",
-        "8150",
+        "4866",
         "8228"
       ],
       "taxi": [
@@ -13426,7 +13425,7 @@
           ],
           "full_name": "Xavier Legette",
           "injury_body_part": "Knee",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "11626",
           "position": "WR",
           "status": "Active",
@@ -13912,12 +13911,12 @@
         "6904",
         "12481",
         "13286",
-        "12519",
+        "8134",
         "12514",
         "5846",
         "9484",
-        "12517",
-        "8134"
+        "5001",
+        "12519"
       ],
       "taxi": [
         "11565",
@@ -14256,8 +14255,8 @@
             "RB"
           ],
           "full_name": "Devin Singletary",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "6130",
           "position": "RB",
           "status": "Active",
@@ -15122,8 +15121,8 @@
             "WR"
           ],
           "full_name": "Skyler Bell",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "13402",
           "position": "WR",
           "status": "Active",
@@ -15377,8 +15376,8 @@
             "WR"
           ],
           "full_name": "Michael Pittman",
-          "injury_body_part": "Foot",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "6819",
           "position": "WR",
           "status": "Active",
@@ -15496,8 +15495,8 @@
             "RB"
           ],
           "full_name": "Tyjae Spears",
-          "injury_body_part": "Undisclosed",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "9508",
           "position": "RB",
           "status": "Active",
@@ -15579,8 +15578,8 @@
         "6801",
         "2449",
         "8130",
-        "0",
-        "0"
+        "7588",
+        "2216"
       ],
       "taxi": [
         "13296",
@@ -20324,6 +20323,7 @@
             "11237",
             "11576",
             "11603",
+            "11608",
             "11610",
             "11618",
             "11620",
@@ -20339,7 +20339,6 @@
             "13346",
             "13347",
             "13417",
-            "13423",
             "4892",
             "5870",
             "6804",
@@ -20354,6 +20353,7 @@
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
+            "11608": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
@@ -20369,7 +20369,6 @@
             "13346": 0.0,
             "13347": 0.0,
             "13417": 0.0,
-            "13423": 0.0,
             "4892": 0.0,
             "5870": 0.0,
             "6804": 0.0,
@@ -20824,12 +20823,12 @@
           "starters": [
             "11563",
             "4034",
-            "4866",
+            "8150",
             "9487",
             "8146",
             "10229",
             "12506",
-            "8150",
+            "4866",
             "8228"
           ],
           "starters_points": [
@@ -20913,12 +20912,12 @@
             "6904",
             "12481",
             "13286",
-            "12519",
+            "8134",
             "12514",
             "5846",
             "9484",
-            "12517",
-            "8134"
+            "5001",
+            "12519"
           ],
           "starters_points": [
             0.0,
@@ -21179,8 +21178,8 @@
             "6801",
             "2449",
             "8130",
-            "0",
-            "0"
+            "7588",
+            "2216"
           ],
           "starters_points": [
             0.0,
@@ -21383,6 +21382,7 @@
             "11237",
             "11576",
             "11603",
+            "11608",
             "11610",
             "11618",
             "11620",
@@ -21398,7 +21398,6 @@
             "13346",
             "13347",
             "13417",
-            "13423",
             "4892",
             "5870",
             "6804",
@@ -21413,6 +21412,7 @@
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
+            "11608": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
@@ -21428,7 +21428,6 @@
             "13346": 0.0,
             "13347": 0.0,
             "13417": 0.0,
-            "13423": 0.0,
             "4892": 0.0,
             "5870": 0.0,
             "6804": 0.0,
@@ -21883,12 +21882,12 @@
           "starters": [
             "11563",
             "4034",
-            "4866",
+            "8150",
             "9487",
             "8146",
             "10229",
             "12506",
-            "8150",
+            "4866",
             "8228"
           ],
           "starters_points": [
@@ -21972,12 +21971,12 @@
             "6904",
             "12481",
             "13286",
-            "12519",
+            "8134",
             "12514",
             "5846",
             "9484",
-            "12517",
-            "8134"
+            "5001",
+            "12519"
           ],
           "starters_points": [
             0.0,
@@ -22238,8 +22237,8 @@
             "6801",
             "2449",
             "8130",
-            "0",
-            "0"
+            "7588",
+            "2216"
           ],
           "starters_points": [
             0.0,
@@ -22442,6 +22441,7 @@
             "11237",
             "11576",
             "11603",
+            "11608",
             "11610",
             "11618",
             "11620",
@@ -22457,7 +22457,6 @@
             "13346",
             "13347",
             "13417",
-            "13423",
             "4892",
             "5870",
             "6804",
@@ -22472,6 +22471,7 @@
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
+            "11608": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
@@ -22487,7 +22487,6 @@
             "13346": 0.0,
             "13347": 0.0,
             "13417": 0.0,
-            "13423": 0.0,
             "4892": 0.0,
             "5870": 0.0,
             "6804": 0.0,
@@ -22942,12 +22941,12 @@
           "starters": [
             "11563",
             "4034",
-            "4866",
+            "8150",
             "9487",
             "8146",
             "10229",
             "12506",
-            "8150",
+            "4866",
             "8228"
           ],
           "starters_points": [
@@ -23031,12 +23030,12 @@
             "6904",
             "12481",
             "13286",
-            "12519",
+            "8134",
             "12514",
             "5846",
             "9484",
-            "12517",
-            "8134"
+            "5001",
+            "12519"
           ],
           "starters_points": [
             0.0,
@@ -23297,8 +23296,8 @@
             "6801",
             "2449",
             "8130",
-            "0",
-            "0"
+            "7588",
+            "2216"
           ],
           "starters_points": [
             0.0,
@@ -23501,6 +23500,7 @@
             "11237",
             "11576",
             "11603",
+            "11608",
             "11610",
             "11618",
             "11620",
@@ -23516,7 +23516,6 @@
             "13346",
             "13347",
             "13417",
-            "13423",
             "4892",
             "5870",
             "6804",
@@ -23531,6 +23530,7 @@
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
+            "11608": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
@@ -23546,7 +23546,6 @@
             "13346": 0.0,
             "13347": 0.0,
             "13417": 0.0,
-            "13423": 0.0,
             "4892": 0.0,
             "5870": 0.0,
             "6804": 0.0,
@@ -24001,12 +24000,12 @@
           "starters": [
             "11563",
             "4034",
-            "4866",
+            "8150",
             "9487",
             "8146",
             "10229",
             "12506",
-            "8150",
+            "4866",
             "8228"
           ],
           "starters_points": [
@@ -24090,12 +24089,12 @@
             "6904",
             "12481",
             "13286",
-            "12519",
+            "8134",
             "12514",
             "5846",
             "9484",
-            "12517",
-            "8134"
+            "5001",
+            "12519"
           ],
           "starters_points": [
             0.0,
@@ -24356,8 +24355,8 @@
             "6801",
             "2449",
             "8130",
-            "0",
-            "0"
+            "7588",
+            "2216"
           ],
           "starters_points": [
             0.0,
@@ -24560,6 +24559,7 @@
             "11237",
             "11576",
             "11603",
+            "11608",
             "11610",
             "11618",
             "11620",
@@ -24575,7 +24575,6 @@
             "13346",
             "13347",
             "13417",
-            "13423",
             "4892",
             "5870",
             "6804",
@@ -24590,6 +24589,7 @@
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
+            "11608": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
@@ -24605,7 +24605,6 @@
             "13346": 0.0,
             "13347": 0.0,
             "13417": 0.0,
-            "13423": 0.0,
             "4892": 0.0,
             "5870": 0.0,
             "6804": 0.0,
@@ -25060,12 +25059,12 @@
           "starters": [
             "11563",
             "4034",
-            "4866",
+            "8150",
             "9487",
             "8146",
             "10229",
             "12506",
-            "8150",
+            "4866",
             "8228"
           ],
           "starters_points": [
@@ -25149,12 +25148,12 @@
             "6904",
             "12481",
             "13286",
-            "12519",
+            "8134",
             "12514",
             "5846",
             "9484",
-            "12517",
-            "8134"
+            "5001",
+            "12519"
           ],
           "starters_points": [
             0.0,
@@ -25415,8 +25414,8 @@
             "6801",
             "2449",
             "8130",
-            "0",
-            "0"
+            "7588",
+            "2216"
           ],
           "starters_points": [
             0.0,
@@ -25619,6 +25618,7 @@
             "11237",
             "11576",
             "11603",
+            "11608",
             "11610",
             "11618",
             "11620",
@@ -25634,7 +25634,6 @@
             "13346",
             "13347",
             "13417",
-            "13423",
             "4892",
             "5870",
             "6804",
@@ -25649,6 +25648,7 @@
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
+            "11608": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
@@ -25664,7 +25664,6 @@
             "13346": 0.0,
             "13347": 0.0,
             "13417": 0.0,
-            "13423": 0.0,
             "4892": 0.0,
             "5870": 0.0,
             "6804": 0.0,
@@ -26119,12 +26118,12 @@
           "starters": [
             "11563",
             "4034",
-            "4866",
+            "8150",
             "9487",
             "8146",
             "10229",
             "12506",
-            "8150",
+            "4866",
             "8228"
           ],
           "starters_points": [
@@ -26208,12 +26207,12 @@
             "6904",
             "12481",
             "13286",
-            "12519",
+            "8134",
             "12514",
             "5846",
             "9484",
-            "12517",
-            "8134"
+            "5001",
+            "12519"
           ],
           "starters_points": [
             0.0,
@@ -26474,8 +26473,8 @@
             "6801",
             "2449",
             "8130",
-            "0",
-            "0"
+            "7588",
+            "2216"
           ],
           "starters_points": [
             0.0,
@@ -26678,6 +26677,7 @@
             "11237",
             "11576",
             "11603",
+            "11608",
             "11610",
             "11618",
             "11620",
@@ -26693,7 +26693,6 @@
             "13346",
             "13347",
             "13417",
-            "13423",
             "4892",
             "5870",
             "6804",
@@ -26708,6 +26707,7 @@
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
+            "11608": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
@@ -26723,7 +26723,6 @@
             "13346": 0.0,
             "13347": 0.0,
             "13417": 0.0,
-            "13423": 0.0,
             "4892": 0.0,
             "5870": 0.0,
             "6804": 0.0,
@@ -27178,12 +27177,12 @@
           "starters": [
             "11563",
             "4034",
-            "4866",
+            "8150",
             "9487",
             "8146",
             "10229",
             "12506",
-            "8150",
+            "4866",
             "8228"
           ],
           "starters_points": [
@@ -27267,12 +27266,12 @@
             "6904",
             "12481",
             "13286",
-            "12519",
+            "8134",
             "12514",
             "5846",
             "9484",
-            "12517",
-            "8134"
+            "5001",
+            "12519"
           ],
           "starters_points": [
             0.0,
@@ -27533,8 +27532,8 @@
             "6801",
             "2449",
             "8130",
-            "0",
-            "0"
+            "7588",
+            "2216"
           ],
           "starters_points": [
             0.0,
@@ -27737,6 +27736,7 @@
             "11237",
             "11576",
             "11603",
+            "11608",
             "11610",
             "11618",
             "11620",
@@ -27752,7 +27752,6 @@
             "13346",
             "13347",
             "13417",
-            "13423",
             "4892",
             "5870",
             "6804",
@@ -27767,6 +27766,7 @@
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
+            "11608": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
@@ -27782,7 +27782,6 @@
             "13346": 0.0,
             "13347": 0.0,
             "13417": 0.0,
-            "13423": 0.0,
             "4892": 0.0,
             "5870": 0.0,
             "6804": 0.0,
@@ -28237,12 +28236,12 @@
           "starters": [
             "11563",
             "4034",
-            "4866",
+            "8150",
             "9487",
             "8146",
             "10229",
             "12506",
-            "8150",
+            "4866",
             "8228"
           ],
           "starters_points": [
@@ -28326,12 +28325,12 @@
             "6904",
             "12481",
             "13286",
-            "12519",
+            "8134",
             "12514",
             "5846",
             "9484",
-            "12517",
-            "8134"
+            "5001",
+            "12519"
           ],
           "starters_points": [
             0.0,
@@ -28592,8 +28591,8 @@
             "6801",
             "2449",
             "8130",
-            "0",
-            "0"
+            "7588",
+            "2216"
           ],
           "starters_points": [
             0.0,
@@ -28796,6 +28795,7 @@
             "11237",
             "11576",
             "11603",
+            "11608",
             "11610",
             "11618",
             "11620",
@@ -28811,7 +28811,6 @@
             "13346",
             "13347",
             "13417",
-            "13423",
             "4892",
             "5870",
             "6804",
@@ -28826,6 +28825,7 @@
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
+            "11608": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
@@ -28841,7 +28841,6 @@
             "13346": 0.0,
             "13347": 0.0,
             "13417": 0.0,
-            "13423": 0.0,
             "4892": 0.0,
             "5870": 0.0,
             "6804": 0.0,
@@ -29296,12 +29295,12 @@
           "starters": [
             "11563",
             "4034",
-            "4866",
+            "8150",
             "9487",
             "8146",
             "10229",
             "12506",
-            "8150",
+            "4866",
             "8228"
           ],
           "starters_points": [
@@ -29385,12 +29384,12 @@
             "6904",
             "12481",
             "13286",
-            "12519",
+            "8134",
             "12514",
             "5846",
             "9484",
-            "12517",
-            "8134"
+            "5001",
+            "12519"
           ],
           "starters_points": [
             0.0,
@@ -29651,8 +29650,8 @@
             "6801",
             "2449",
             "8130",
-            "0",
-            "0"
+            "7588",
+            "2216"
           ],
           "starters_points": [
             0.0,
@@ -31134,6 +31133,7 @@
             "11237",
             "11576",
             "11603",
+            "11608",
             "11610",
             "11618",
             "11620",
@@ -31149,7 +31149,6 @@
             "13346",
             "13347",
             "13417",
-            "13423",
             "4892",
             "5870",
             "6804",
@@ -31164,6 +31163,7 @@
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
+            "11608": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
@@ -31179,7 +31179,6 @@
             "13346": 0.0,
             "13347": 0.0,
             "13417": 0.0,
-            "13423": 0.0,
             "4892": 0.0,
             "5870": 0.0,
             "6804": 18.48,
@@ -31634,12 +31633,12 @@
           "starters": [
             "11563",
             "4034",
-            "4866",
+            "8150",
             "9487",
             "8146",
             "10229",
             "12506",
-            "8150",
+            "4866",
             "8228"
           ],
           "starters_points": [
@@ -31723,12 +31722,12 @@
             "6904",
             "12481",
             "13286",
-            "12519",
+            "8134",
             "12514",
             "5846",
             "9484",
-            "12517",
-            "8134"
+            "5001",
+            "12519"
           ],
           "starters_points": [
             0.0,
@@ -31989,8 +31988,8 @@
             "6801",
             "2449",
             "8130",
-            "0",
-            "0"
+            "7588",
+            "2216"
           ],
           "starters_points": [
             0.0,
@@ -32006,6 +32005,36 @@
         }
       ],
       "transactions": [
+        {
+          "adds": {
+            "11608": 3
+          },
+          "consenter_ids": [
+            3
+          ],
+          "created": 1790524482314,
+          "creator": "987059842407841792",
+          "draft_picks": [],
+          "drops": {
+            "13423": 3
+          },
+          "leg": 3,
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          },
+          "roster_ids": [
+            3
+          ],
+          "settings": {
+            "seq": 0,
+            "waiver_bid": 0
+          },
+          "status": "complete",
+          "status_updated": 1790525074413,
+          "transaction_id": "1409965508056346624",
+          "type": "waiver",
+          "waiver_budget": []
+        },
         {
           "adds": {
             "13423": 3
@@ -32457,6 +32486,7 @@
             "11237",
             "11576",
             "11603",
+            "11608",
             "11610",
             "11618",
             "11620",
@@ -32472,7 +32502,6 @@
             "13346",
             "13347",
             "13417",
-            "13423",
             "4892",
             "5870",
             "6804",
@@ -32487,6 +32516,7 @@
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
+            "11608": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
@@ -32502,7 +32532,6 @@
             "13346": 0.0,
             "13347": 0.0,
             "13417": 0.0,
-            "13423": 0.0,
             "4892": 0.0,
             "5870": 0.0,
             "6804": 0.0,
@@ -32957,12 +32986,12 @@
           "starters": [
             "11563",
             "4034",
-            "4866",
+            "8150",
             "9487",
             "8146",
             "10229",
             "12506",
-            "8150",
+            "4866",
             "8228"
           ],
           "starters_points": [
@@ -33046,12 +33075,12 @@
             "6904",
             "12481",
             "13286",
-            "12519",
+            "8134",
             "12514",
             "5846",
             "9484",
-            "12517",
-            "8134"
+            "5001",
+            "12519"
           ],
           "starters_points": [
             0.0,
@@ -33312,8 +33341,8 @@
             "6801",
             "2449",
             "8130",
-            "0",
-            "0"
+            "7588",
+            "2216"
           ],
           "starters_points": [
             0.0,
@@ -33516,6 +33545,7 @@
             "11237",
             "11576",
             "11603",
+            "11608",
             "11610",
             "11618",
             "11620",
@@ -33531,7 +33561,6 @@
             "13346",
             "13347",
             "13417",
-            "13423",
             "4892",
             "5870",
             "6804",
@@ -33546,6 +33575,7 @@
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
+            "11608": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
@@ -33561,7 +33591,6 @@
             "13346": 0.0,
             "13347": 0.0,
             "13417": 0.0,
-            "13423": 0.0,
             "4892": 0.0,
             "5870": 0.0,
             "6804": 0.0,
@@ -34016,12 +34045,12 @@
           "starters": [
             "11563",
             "4034",
-            "4866",
+            "8150",
             "9487",
             "8146",
             "10229",
             "12506",
-            "8150",
+            "4866",
             "8228"
           ],
           "starters_points": [
@@ -34105,12 +34134,12 @@
             "6904",
             "12481",
             "13286",
-            "12519",
+            "8134",
             "12514",
             "5846",
             "9484",
-            "12517",
-            "8134"
+            "5001",
+            "12519"
           ],
           "starters_points": [
             0.0,
@@ -34371,8 +34400,8 @@
             "6801",
             "2449",
             "8130",
-            "0",
-            "0"
+            "7588",
+            "2216"
           ],
           "starters_points": [
             0.0,
@@ -34575,6 +34604,7 @@
             "11237",
             "11576",
             "11603",
+            "11608",
             "11610",
             "11618",
             "11620",
@@ -34590,7 +34620,6 @@
             "13346",
             "13347",
             "13417",
-            "13423",
             "4892",
             "5870",
             "6804",
@@ -34605,6 +34634,7 @@
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
+            "11608": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
@@ -34620,7 +34650,6 @@
             "13346": 0.0,
             "13347": 0.0,
             "13417": 0.0,
-            "13423": 0.0,
             "4892": 0.0,
             "5870": 0.0,
             "6804": 0.0,
@@ -35075,12 +35104,12 @@
           "starters": [
             "11563",
             "4034",
-            "4866",
+            "8150",
             "9487",
             "8146",
             "10229",
             "12506",
-            "8150",
+            "4866",
             "8228"
           ],
           "starters_points": [
@@ -35164,12 +35193,12 @@
             "6904",
             "12481",
             "13286",
-            "12519",
+            "8134",
             "12514",
             "5846",
             "9484",
-            "12517",
-            "8134"
+            "5001",
+            "12519"
           ],
           "starters_points": [
             0.0,
@@ -35430,8 +35459,8 @@
             "6801",
             "2449",
             "8130",
-            "0",
-            "0"
+            "7588",
+            "2216"
           ],
           "starters_points": [
             0.0,
@@ -35634,6 +35663,7 @@
             "11237",
             "11576",
             "11603",
+            "11608",
             "11610",
             "11618",
             "11620",
@@ -35649,7 +35679,6 @@
             "13346",
             "13347",
             "13417",
-            "13423",
             "4892",
             "5870",
             "6804",
@@ -35664,6 +35693,7 @@
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
+            "11608": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
@@ -35679,7 +35709,6 @@
             "13346": 0.0,
             "13347": 0.0,
             "13417": 0.0,
-            "13423": 0.0,
             "4892": 0.0,
             "5870": 0.0,
             "6804": 0.0,
@@ -36134,12 +36163,12 @@
           "starters": [
             "11563",
             "4034",
-            "4866",
+            "8150",
             "9487",
             "8146",
             "10229",
             "12506",
-            "8150",
+            "4866",
             "8228"
           ],
           "starters_points": [
@@ -36223,12 +36252,12 @@
             "6904",
             "12481",
             "13286",
-            "12519",
+            "8134",
             "12514",
             "5846",
             "9484",
-            "12517",
-            "8134"
+            "5001",
+            "12519"
           ],
           "starters_points": [
             0.0,
@@ -36489,8 +36518,8 @@
             "6801",
             "2449",
             "8130",
-            "0",
-            "0"
+            "7588",
+            "2216"
           ],
           "starters_points": [
             0.0,
@@ -36693,6 +36722,7 @@
             "11237",
             "11576",
             "11603",
+            "11608",
             "11610",
             "11618",
             "11620",
@@ -36708,7 +36738,6 @@
             "13346",
             "13347",
             "13417",
-            "13423",
             "4892",
             "5870",
             "6804",
@@ -36723,6 +36752,7 @@
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
+            "11608": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
@@ -36738,7 +36768,6 @@
             "13346": 0.0,
             "13347": 0.0,
             "13417": 0.0,
-            "13423": 0.0,
             "4892": 0.0,
             "5870": 0.0,
             "6804": 0.0,
@@ -37193,12 +37222,12 @@
           "starters": [
             "11563",
             "4034",
-            "4866",
+            "8150",
             "9487",
             "8146",
             "10229",
             "12506",
-            "8150",
+            "4866",
             "8228"
           ],
           "starters_points": [
@@ -37282,12 +37311,12 @@
             "6904",
             "12481",
             "13286",
-            "12519",
+            "8134",
             "12514",
             "5846",
             "9484",
-            "12517",
-            "8134"
+            "5001",
+            "12519"
           ],
           "starters_points": [
             0.0,
@@ -37548,8 +37577,8 @@
             "6801",
             "2449",
             "8130",
-            "0",
-            "0"
+            "7588",
+            "2216"
           ],
           "starters_points": [
             0.0,
@@ -37752,6 +37781,7 @@
             "11237",
             "11576",
             "11603",
+            "11608",
             "11610",
             "11618",
             "11620",
@@ -37767,7 +37797,6 @@
             "13346",
             "13347",
             "13417",
-            "13423",
             "4892",
             "5870",
             "6804",
@@ -37782,6 +37811,7 @@
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
+            "11608": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
@@ -37797,7 +37827,6 @@
             "13346": 0.0,
             "13347": 0.0,
             "13417": 0.0,
-            "13423": 0.0,
             "4892": 0.0,
             "5870": 0.0,
             "6804": 0.0,
@@ -38252,12 +38281,12 @@
           "starters": [
             "11563",
             "4034",
-            "4866",
+            "8150",
             "9487",
             "8146",
             "10229",
             "12506",
-            "8150",
+            "4866",
             "8228"
           ],
           "starters_points": [
@@ -38341,12 +38370,12 @@
             "6904",
             "12481",
             "13286",
-            "12519",
+            "8134",
             "12514",
             "5846",
             "9484",
-            "12517",
-            "8134"
+            "5001",
+            "12519"
           ],
           "starters_points": [
             0.0,
@@ -38607,8 +38636,8 @@
             "6801",
             "2449",
             "8130",
-            "0",
-            "0"
+            "7588",
+            "2216"
           ],
           "starters_points": [
             0.0,
