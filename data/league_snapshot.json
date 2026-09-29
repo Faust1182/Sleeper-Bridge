@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-09-29T05:44:32.682169+00:00",
+  "generated_at": "2026-09-29T12:53:42.451201+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2638,7 +2638,7 @@
       {
         "active": true,
         "age": 22,
-        "depth_chart_order": 2,
+        "depth_chart_order": 1,
         "depth_chart_position": "RB",
         "fantasy_positions": [
           "RB"
@@ -2826,7 +2826,7 @@
         "active": true,
         "age": 30,
         "depth_chart_order": 2,
-        "depth_chart_position": "RWR",
+        "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
         ],
@@ -3784,7 +3784,7 @@
     "11618": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 3,
+      "depth_chart_order": 7,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -4430,7 +4430,7 @@
     "12495": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 2,
+      "depth_chart_order": 1,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -4634,7 +4634,7 @@
     "12508": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "depth_chart_position": "QB",
       "fantasy_positions": [
         "QB"
@@ -5485,7 +5485,7 @@
     "13317": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -6880,7 +6880,7 @@
       "active": true,
       "age": 30,
       "depth_chart_order": 2,
-      "depth_chart_position": "RWR",
+      "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
       ],
@@ -8358,7 +8358,7 @@
     "9226": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 1,
+      "depth_chart_order": 3,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -9062,7 +9062,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -10041,7 +10041,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 3,
+          "depth_chart_order": 7,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -12057,7 +12057,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 1,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -13469,7 +13469,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -14435,9 +14435,9 @@
       "starters": [
         "4984",
         "9509",
-        "7543",
+        "4035",
         "7564",
-        "10218",
+        "9493",
         "7547",
         "7002",
         "9486",
@@ -14542,7 +14542,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -14730,7 +14730,7 @@
           "active": true,
           "age": 30,
           "depth_chart_order": 2,
-          "depth_chart_position": "RWR",
+          "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
@@ -20963,9 +20963,9 @@
           "starters": [
             "4984",
             "9509",
-            "7543",
+            "4035",
             "7564",
-            "10218",
+            "9493",
             "7547",
             "7002",
             "9486",
@@ -22020,9 +22020,9 @@
           "starters": [
             "4984",
             "9509",
-            "7543",
+            "4035",
             "7564",
-            "10218",
+            "9493",
             "7547",
             "7002",
             "9486",
@@ -23077,9 +23077,9 @@
           "starters": [
             "4984",
             "9509",
-            "7543",
+            "4035",
             "7564",
-            "10218",
+            "9493",
             "7547",
             "7002",
             "9486",
@@ -24134,9 +24134,9 @@
           "starters": [
             "4984",
             "9509",
-            "7543",
+            "4035",
             "7564",
-            "10218",
+            "9493",
             "7547",
             "7002",
             "9486",
@@ -25191,9 +25191,9 @@
           "starters": [
             "4984",
             "9509",
-            "7543",
+            "4035",
             "7564",
-            "10218",
+            "9493",
             "7547",
             "7002",
             "9486",
@@ -26248,9 +26248,9 @@
           "starters": [
             "4984",
             "9509",
-            "7543",
+            "4035",
             "7564",
-            "10218",
+            "9493",
             "7547",
             "7002",
             "9486",
@@ -27305,9 +27305,9 @@
           "starters": [
             "4984",
             "9509",
-            "7543",
+            "4035",
             "7564",
-            "10218",
+            "9493",
             "7547",
             "7002",
             "9486",
@@ -28362,9 +28362,9 @@
           "starters": [
             "4984",
             "9509",
-            "7543",
+            "4035",
             "7564",
-            "10218",
+            "9493",
             "7547",
             "7002",
             "9486",
@@ -29419,9 +29419,9 @@
           "starters": [
             "4984",
             "9509",
-            "7543",
+            "4035",
             "7564",
-            "10218",
+            "9493",
             "7547",
             "7002",
             "9486",
@@ -33131,9 +33131,9 @@
           "starters": [
             "4984",
             "9509",
-            "7543",
+            "4035",
             "7564",
-            "10218",
+            "9493",
             "7547",
             "7002",
             "9486",
@@ -34188,9 +34188,9 @@
           "starters": [
             "4984",
             "9509",
-            "7543",
+            "4035",
             "7564",
-            "10218",
+            "9493",
             "7547",
             "7002",
             "9486",
@@ -35245,9 +35245,9 @@
           "starters": [
             "4984",
             "9509",
-            "7543",
+            "4035",
             "7564",
-            "10218",
+            "9493",
             "7547",
             "7002",
             "9486",
@@ -36302,9 +36302,9 @@
           "starters": [
             "4984",
             "9509",
-            "7543",
+            "4035",
             "7564",
-            "10218",
+            "9493",
             "7547",
             "7002",
             "9486",
@@ -37359,9 +37359,9 @@
           "starters": [
             "4984",
             "9509",
-            "7543",
+            "4035",
             "7564",
-            "10218",
+            "9493",
             "7547",
             "7002",
             "9486",
@@ -38416,9 +38416,9 @@
           "starters": [
             "4984",
             "9509",
-            "7543",
+            "4035",
             "7564",
-            "10218",
+            "9493",
             "7547",
             "7002",
             "9486",

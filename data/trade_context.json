@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-09-29T05:44:32.682169+00:00",
+  "generated_at": "2026-09-29T12:53:42.451201+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1298,7 +1298,7 @@
       {
         "active": true,
         "age": 22,
-        "depth_chart_order": 2,
+        "depth_chart_order": 1,
         "depth_chart_position": "RB",
         "fantasy_positions": [
           "RB"
@@ -1486,7 +1486,7 @@
         "active": true,
         "age": 30,
         "depth_chart_order": 2,
-        "depth_chart_position": "RWR",
+        "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
         ],
@@ -2527,7 +2527,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -3830,7 +3830,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 3,
+          "depth_chart_order": 7,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -6324,7 +6324,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 1,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -6445,7 +6445,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 1,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -8202,7 +8202,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -9356,20 +9356,20 @@
         },
         {
           "active": true,
-          "age": 27,
-          "depth_chart_order": 1,
+          "age": 31,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Travis Etienne",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Out",
-          "player_id": "7543",
+          "full_name": "Alvin Kamara",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "4035",
           "position": "RB",
           "status": "Active",
           "team": "NO",
-          "years_exp": 5
+          "years_exp": 9
         },
         {
           "active": true,
@@ -9390,19 +9390,19 @@
         },
         {
           "active": true,
-          "age": 26,
-          "depth_chart_order": 1,
-          "depth_chart_position": "LWR",
+          "age": 25,
+          "depth_chart_order": 7,
+          "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Xavier Hutchinson",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "10218",
+          "full_name": "Puka Nacua",
+          "injury_body_part": "Hip",
+          "injury_status": "Out",
+          "player_id": "9493",
           "position": "WR",
           "status": "Active",
-          "team": "HOU",
+          "team": "LAR",
           "years_exp": 3
         },
         {
@@ -9607,7 +9607,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -9795,7 +9795,7 @@
           "active": true,
           "age": 30,
           "depth_chart_order": 2,
-          "depth_chart_position": "RWR",
+          "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
@@ -10136,7 +10136,7 @@
           "active": true,
           "age": 30,
           "depth_chart_order": 2,
-          "depth_chart_position": "RWR",
+          "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
