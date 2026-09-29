@@ -84,7 +84,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-09-28T23:17:01.705768+00:00",
+  "generated_at": "2026-09-29T05:44:32.682169+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -96,9 +96,9 @@
       "allow_pn_inactive_starters": "on",
       "allow_pn_player_injury_status": "on",
       "allow_pn_scoring": "on",
-      "record": "LW",
+      "record": "LWL",
       "restrict_pn_scoring_starters_only": "on",
-      "streak": "1W"
+      "streak": "1L"
     },
     "owner": {
       "display_name": "mklaszky25",
@@ -601,13 +601,13 @@
     "reserve": null,
     "roster_id": 11,
     "settings": {
-      "fpts": 191,
-      "fpts_against": 227,
-      "fpts_against_decimal": 10,
-      "fpts_decimal": 0,
-      "losses": 1,
-      "ppts": 259,
-      "ppts_decimal": 54,
+      "fpts": 299,
+      "fpts_against": 340,
+      "fpts_against_decimal": 4,
+      "fpts_decimal": 84,
+      "losses": 2,
+      "ppts": 395,
+      "ppts_decimal": 98,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 40,

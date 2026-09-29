@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-09-28T23:17:01.705768+00:00",
+  "generated_at": "2026-09-29T05:44:32.682169+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1163,7 +1163,7 @@
       "draft_rounds": 4,
       "faab_suggestions": 0,
       "last_report": 2,
-      "last_scored_leg": 2,
+      "last_scored_leg": 3,
       "league_average_match": 0,
       "leg": 3,
       "max_keepers": 1,
@@ -1215,9 +1215,9 @@
       "allow_pn_inactive_starters": "on",
       "allow_pn_player_injury_status": "on",
       "allow_pn_scoring": "on",
-      "record": "LW",
+      "record": "LWL",
       "restrict_pn_scoring_starters_only": "on",
-      "streak": "1W"
+      "streak": "1L"
     },
     "owner": {
       "display_name": "mklaszky25",
@@ -1720,13 +1720,13 @@
     "reserve": null,
     "roster_id": 11,
     "settings": {
-      "fpts": 191,
-      "fpts_against": 227,
-      "fpts_against_decimal": 10,
-      "fpts_decimal": 0,
-      "losses": 1,
-      "ppts": 259,
-      "ppts_decimal": 54,
+      "fpts": 299,
+      "fpts_against": 340,
+      "fpts_against_decimal": 4,
+      "fpts_decimal": 84,
+      "losses": 2,
+      "ppts": 395,
+      "ppts_decimal": 98,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 40,
@@ -1768,13 +1768,13 @@
     "display_week": 3,
     "league_create_season": "2026",
     "league_season": "2026",
-    "leg": 3,
+    "leg": 4,
     "previous_season": "2025",
     "season": "2026",
     "season_has_scores": true,
     "season_start_date": "2026-09-09",
     "season_type": "regular",
-    "week": 3
+    "week": 4
   },
   "recent_trades": [
     {
@@ -2784,18 +2784,18 @@
       ],
       "roster_id": 1,
       "settings": {
-        "fpts": 261,
-        "fpts_against": 172,
-        "fpts_against_decimal": 66,
-        "fpts_decimal": 34,
+        "fpts": 405,
+        "fpts_against": 305,
+        "fpts_against_decimal": 8,
+        "fpts_decimal": 60,
         "losses": 0,
-        "ppts": 278,
-        "ppts_decimal": 20,
+        "ppts": 445,
+        "ppts_decimal": 74,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 34,
         "waiver_position": 5,
-        "wins": 2
+        "wins": 3
       },
       "starters": [
         {
@@ -3512,13 +3512,13 @@
       ],
       "roster_id": 2,
       "settings": {
-        "fpts": 149,
-        "fpts_against": 217,
-        "fpts_against_decimal": 44,
-        "fpts_decimal": 40,
-        "losses": 2,
-        "ppts": 183,
-        "ppts_decimal": 98,
+        "fpts": 207,
+        "fpts_against": 276,
+        "fpts_against_decimal": 84,
+        "fpts_decimal": 18,
+        "losses": 3,
+        "ppts": 256,
+        "ppts_decimal": 56,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 15,
@@ -3836,8 +3836,8 @@
             "WR"
           ],
           "full_name": "Jalen McMillan",
-          "injury_body_part": "Knee",
-          "injury_status": "Questionable",
+          "injury_body_part": "Knee - PCL",
+          "injury_status": "Out",
           "player_id": "11618",
           "position": "WR",
           "status": "Active",
@@ -4223,18 +4223,18 @@
       ],
       "roster_id": 3,
       "settings": {
-        "fpts": 164,
-        "fpts_against": 221,
-        "fpts_against_decimal": 34,
-        "fpts_decimal": 84,
+        "fpts": 224,
+        "fpts_against": 279,
+        "fpts_against_decimal": 12,
+        "fpts_decimal": 24,
         "losses": 2,
-        "ppts": 223,
-        "ppts_decimal": 98,
+        "ppts": 321,
+        "ppts_decimal": 6,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 3,
         "waiver_position": 12,
-        "wins": 0
+        "wins": 1
       },
       "starters": [
         {
@@ -4938,13 +4938,13 @@
       ],
       "roster_id": 4,
       "settings": {
-        "fpts": 275,
-        "fpts_against": 216,
-        "fpts_against_decimal": 58,
-        "fpts_decimal": 28,
-        "losses": 0,
-        "ppts": 331,
-        "ppts_decimal": 8,
+        "fpts": 407,
+        "fpts_against": 360,
+        "fpts_against_decimal": 84,
+        "fpts_decimal": 70,
+        "losses": 1,
+        "ppts": 495,
+        "ppts_decimal": 60,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
@@ -5666,13 +5666,13 @@
       ],
       "roster_id": 5,
       "settings": {
-        "fpts": 168,
-        "fpts_against": 323,
-        "fpts_against_decimal": 14,
-        "fpts_decimal": 86,
-        "losses": 2,
-        "ppts": 181,
-        "ppts_decimal": 26,
+        "fpts": 229,
+        "fpts_against": 393,
+        "fpts_against_decimal": 76,
+        "fpts_decimal": 84,
+        "losses": 3,
+        "ppts": 253,
+        "ppts_decimal": 24,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 5,
@@ -6394,12 +6394,12 @@
       ],
       "roster_id": 6,
       "settings": {
-        "fpts": 235,
-        "fpts_against": 188,
-        "fpts_against_decimal": 76,
-        "fpts_decimal": 84,
-        "losses": 1,
-        "ppts": 299,
+        "fpts": 331,
+        "fpts_against": 320,
+        "fpts_against_decimal": 42,
+        "fpts_decimal": 14,
+        "losses": 2,
+        "ppts": 415,
         "ppts_decimal": 8,
         "ties": 0,
         "total_moves": 0,
@@ -7122,18 +7122,18 @@
       ],
       "roster_id": 7,
       "settings": {
-        "fpts": 203,
-        "fpts_against": 189,
-        "fpts_against_decimal": 48,
-        "fpts_decimal": 16,
+        "fpts": 316,
+        "fpts_against": 298,
+        "fpts_against_decimal": 32,
+        "fpts_decimal": 10,
         "losses": 1,
-        "ppts": 239,
-        "ppts_decimal": 14,
+        "ppts": 359,
+        "ppts_decimal": 94,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 15,
         "waiver_position": 4,
-        "wins": 1
+        "wins": 2
       },
       "starters": [
         {
@@ -7525,8 +7525,8 @@
         {
           "active": true,
           "age": 35,
-          "depth_chart_order": null,
-          "depth_chart_position": null,
+          "depth_chart_order": 3,
+          "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
           ],
@@ -7850,18 +7850,18 @@
       ],
       "roster_id": 8,
       "settings": {
-        "fpts": 190,
-        "fpts_against": 256,
-        "fpts_against_decimal": 84,
-        "fpts_decimal": 94,
+        "fpts": 347,
+        "fpts_against": 390,
+        "fpts_against_decimal": 2,
+        "fpts_decimal": 18,
         "losses": 2,
-        "ppts": 227,
-        "ppts_decimal": 50,
+        "ppts": 400,
+        "ppts_decimal": 70,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 100,
         "waiver_position": 8,
-        "wins": 0
+        "wins": 1
       },
       "starters": [
         {
@@ -8083,7 +8083,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -8202,7 +8202,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -8578,18 +8578,18 @@
       ],
       "roster_id": 9,
       "settings": {
-        "fpts": 132,
-        "fpts_against": 173,
-        "fpts_against_decimal": 32,
-        "fpts_decimal": 48,
+        "fpts": 203,
+        "fpts_against": 234,
+        "fpts_against_decimal": 30,
+        "fpts_decimal": 10,
         "losses": 1,
-        "ppts": 189,
-        "ppts_decimal": 88,
+        "ppts": 290,
+        "ppts_decimal": 34,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 11,
         "waiver_position": 6,
-        "wins": 1
+        "wins": 2
       },
       "starters": [
         {
@@ -8750,7 +8750,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -9306,18 +9306,18 @@
       ],
       "roster_id": 10,
       "settings": {
-        "fpts": 287,
-        "fpts_against": 198,
-        "fpts_against_decimal": 42,
-        "fpts_decimal": 38,
+        "fpts": 419,
+        "fpts_against": 293,
+        "fpts_against_decimal": 72,
+        "fpts_decimal": 4,
         "losses": 0,
-        "ppts": 316,
-        "ppts_decimal": 78,
+        "ppts": 463,
+        "ppts_decimal": 52,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 25,
         "waiver_position": 3,
-        "wins": 2
+        "wins": 3
       },
       "starters": [
         {
@@ -9999,13 +9999,13 @@
       "reserve": [],
       "roster_id": 11,
       "settings": {
-        "fpts": 191,
-        "fpts_against": 227,
-        "fpts_against_decimal": 10,
-        "fpts_decimal": 0,
-        "losses": 1,
-        "ppts": 259,
-        "ppts_decimal": 54,
+        "fpts": 299,
+        "fpts_against": 340,
+        "fpts_against_decimal": 4,
+        "fpts_decimal": 84,
+        "losses": 2,
+        "ppts": 395,
+        "ppts_decimal": 98,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 40,
@@ -10727,13 +10727,13 @@
       ],
       "roster_id": 12,
       "settings": {
-        "fpts": 300,
-        "fpts_against": 176,
-        "fpts_against_decimal": 22,
-        "fpts_decimal": 78,
-        "losses": 0,
-        "ppts": 324,
-        "ppts_decimal": 98,
+        "fpts": 433,
+        "fpts_against": 332,
+        "fpts_against_decimal": 46,
+        "fpts_decimal": 96,
+        "losses": 1,
+        "ppts": 472,
+        "ppts_decimal": 16,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 30,
