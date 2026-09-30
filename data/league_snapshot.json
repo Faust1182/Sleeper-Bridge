@@ -1522,6 +1522,12 @@
       },
       {
         "current_owner_roster_id": 11,
+        "original_roster_id": 3,
+        "round": 3,
+        "season": "2028"
+      },
+      {
+        "current_owner_roster_id": 11,
         "original_roster_id": 11,
         "round": 3,
         "season": "2028"
@@ -1794,12 +1800,6 @@
         "current_owner_roster_id": 3,
         "original_roster_id": 3,
         "round": 1,
-        "season": "2028"
-      },
-      {
-        "current_owner_roster_id": 3,
-        "original_roster_id": 3,
-        "round": 3,
         "season": "2028"
       },
       {
@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-09-30T05:33:08.198236+00:00",
+  "generated_at": "2026-09-30T12:35:27.411266+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2393,9 +2393,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1410694873685729280",
+    "last_message_id": "1410966062115119104",
     "last_message_text_map": null,
-    "last_message_time": 1790698376631,
+    "last_message_time": 1790763032992,
     "last_pinned_message_id": "1410404079590498304",
     "last_read_id": null,
     "league_id": "1314667834135040000",
@@ -2502,7 +2502,7 @@
       "last_report": 3,
       "last_scored_leg": 3,
       "league_average_match": 0,
-      "leg": 3,
+      "leg": 4,
       "max_keepers": 1,
       "max_subs": 0,
       "num_teams": 12,
@@ -2569,6 +2569,23 @@
     "player_details": [
       {
         "active": true,
+        "age": 26,
+        "depth_chart_order": 1,
+        "depth_chart_position": "TE",
+        "fantasy_positions": [
+          "TE"
+        ],
+        "full_name": "Dalton Kincaid",
+        "injury_body_part": null,
+        "injury_status": null,
+        "player_id": "10236",
+        "position": "TE",
+        "status": "Active",
+        "team": "BUF",
+        "years_exp": 3
+      },
+      {
+        "active": true,
         "age": 27,
         "depth_chart_order": 2,
         "depth_chart_position": "RB",
@@ -2583,23 +2600,6 @@
         "status": "Active",
         "team": "SEA",
         "years_exp": 3
-      },
-      {
-        "active": true,
-        "age": 24,
-        "depth_chart_order": 2,
-        "depth_chart_position": "LWR",
-        "fantasy_positions": [
-          "WR"
-        ],
-        "full_name": "Marvin Harrison",
-        "injury_body_part": null,
-        "injury_status": null,
-        "player_id": "11628",
-        "position": "WR",
-        "status": "Active",
-        "team": "ARI",
-        "years_exp": 2
       },
       {
         "active": true,
@@ -2644,8 +2644,8 @@
           "RB"
         ],
         "full_name": "Ollie Gordon",
-        "injury_body_part": "Undisclosed",
-        "injury_status": "Questionable",
+        "injury_body_part": null,
+        "injury_status": null,
         "player_id": "12495",
         "position": "RB",
         "status": "Active",
@@ -2798,7 +2798,7 @@
         ],
         "full_name": "Dallas Goedert",
         "injury_body_part": "Knee - MCL",
-        "injury_status": "Out",
+        "injury_status": "Doubtful",
         "player_id": "5022",
         "position": "TE",
         "status": "Active",
@@ -2866,7 +2866,7 @@
         ],
         "full_name": "Justin Jefferson",
         "injury_body_part": "Ankle",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "player_id": "6794",
         "position": "WR",
         "status": "Active",
@@ -2900,7 +2900,7 @@
         ],
         "full_name": "Nico Collins",
         "injury_body_part": "Hamstring",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "player_id": "7569",
         "position": "WR",
         "status": "Active",
@@ -3002,7 +3002,7 @@
         ],
         "full_name": "Marvin Mims",
         "injury_body_part": "Foot",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "player_id": "9494",
         "position": "WR",
         "status": "Active",
@@ -3029,8 +3029,8 @@
     ],
     "player_map": null,
     "players": [
+      "10236",
       "11435",
-      "11628",
       "11630",
       "12493",
       "12495",
@@ -3079,9 +3079,9 @@
       "12512",
       "6794",
       "8112",
+      "7569",
+      "10236",
       "5927",
-      "3214",
-      "5872",
       "12529"
     ],
     "taxi": [
@@ -3105,7 +3105,7 @@
     "user_id": "917893980082749440"
   },
   "nfl_state": {
-    "display_week": 3,
+    "display_week": 4,
     "league_create_season": "2026",
     "league_season": "2026",
     "leg": 4,
@@ -3117,7 +3117,6 @@
     "week": 4
   },
   "players": {
-    "0": null,
     "10213": {
       "active": true,
       "age": 25,
@@ -3179,7 +3178,7 @@
       ],
       "full_name": "Jayden Reed",
       "injury_body_part": "Neck",
-      "injury_status": "Out",
+      "injury_status": "Doubtful",
       "player_id": "10222",
       "position": "WR",
       "status": "Active",
@@ -3314,8 +3313,8 @@
         "RB"
       ],
       "full_name": "Emari Demercado",
-      "injury_body_part": "Coach's Decision",
-      "injury_status": "Out",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "11199",
       "position": "RB",
       "status": "Active",
@@ -3359,7 +3358,7 @@
     "11370": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -3417,7 +3416,7 @@
       ],
       "full_name": "Caleb Williams",
       "injury_body_part": "Hamstring",
-      "injury_status": "Out",
+      "injury_status": "Doubtful",
       "player_id": "11560",
       "position": "QB",
       "status": "Active",
@@ -3467,8 +3466,8 @@
         "QB"
       ],
       "full_name": "J.J. McCarthy",
-      "injury_body_part": "Coach's Decision",
-      "injury_status": "Out",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "11565",
       "position": "QB",
       "status": "Active",
@@ -3485,7 +3484,7 @@
       ],
       "full_name": "Jayden Daniels",
       "injury_body_part": "Elbow",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "player_id": "11566",
       "position": "QB",
       "status": "Active",
@@ -3665,7 +3664,7 @@
     "11589": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 6,
+      "depth_chart_order": 5,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -3722,8 +3721,8 @@
         "TE"
       ],
       "full_name": "Ja'Tavion Sanders",
-      "injury_body_part": "Coach's Decision",
-      "injury_status": "Out",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "11600",
       "position": "TE",
       "status": "Active",
@@ -3842,7 +3841,7 @@
       ],
       "full_name": "Adonai Mitchell",
       "injury_body_part": "Finger",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "player_id": "11625",
       "position": "WR",
       "status": "Active",
@@ -3859,7 +3858,7 @@
       ],
       "full_name": "Xavier Legette",
       "injury_body_part": "Knee",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "player_id": "11626",
       "position": "WR",
       "status": "Active",
@@ -4012,7 +4011,7 @@
       ],
       "full_name": "Jaylen Wright",
       "injury_body_part": "Foot",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "player_id": "11643",
       "position": "RB",
       "status": "Active",
@@ -4029,7 +4028,7 @@
       ],
       "full_name": "Jalen Coker",
       "injury_body_part": "Quadriceps",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "player_id": "11646",
       "position": "WR",
       "status": "Active",
@@ -4192,7 +4191,7 @@
     "12469": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 6,
+      "depth_chart_order": 5,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -4215,8 +4214,8 @@
         "RB"
       ],
       "full_name": "DJ Giddens",
-      "injury_body_part": "Coach's Decision",
-      "injury_status": "Out",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "12471",
       "position": "RB",
       "status": "Active",
@@ -4260,14 +4259,14 @@
     "12476": {
       "active": true,
       "age": 23,
-      "depth_chart_order": null,
+      "depth_chart_order": 6,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
       ],
       "full_name": "Devin Neal",
-      "injury_body_part": "Hamstring",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "12476",
       "position": "RB",
       "status": "Active",
@@ -4311,7 +4310,7 @@
     "12484": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 9,
+      "depth_chart_order": 7,
       "depth_chart_position": null,
       "fantasy_positions": [
         "WR"
@@ -4352,7 +4351,7 @@
       ],
       "full_name": "Terrance Ferguson",
       "injury_body_part": "Ankle",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "player_id": "12487",
       "position": "TE",
       "status": "Active",
@@ -4368,8 +4367,8 @@
         "RB"
       ],
       "full_name": "RJ Harvey",
-      "injury_body_part": "Concussion",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "12489",
       "position": "RB",
       "status": "Active",
@@ -4436,8 +4435,8 @@
         "RB"
       ],
       "full_name": "Ollie Gordon",
-      "injury_body_part": "Undisclosed",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "12495",
       "position": "RB",
       "status": "Active",
@@ -4471,7 +4470,7 @@
       ],
       "full_name": "Mason Taylor",
       "injury_body_part": "Thumb",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "player_id": "12498",
       "position": "TE",
       "status": "Active",
@@ -4634,7 +4633,7 @@
     "12508": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "depth_chart_position": "QB",
       "fantasy_positions": [
         "QB"
@@ -4674,8 +4673,8 @@
         "QB"
       ],
       "full_name": "Jalen Milroe",
-      "injury_body_part": "Coach's Decision",
-      "injury_status": "Out",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "12510",
       "position": "QB",
       "status": "Active",
@@ -4958,7 +4957,7 @@
     "12536": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -5077,7 +5076,7 @@
     "12670": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 9,
+      "depth_chart_order": 7,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -5100,8 +5099,8 @@
         "WR"
       ],
       "full_name": "Elijah Sarratt",
-      "injury_body_part": "Coach's Decision",
-      "injury_status": "Out",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "13268",
       "position": "WR",
       "status": "Active",
@@ -5134,8 +5133,8 @@
         "QB"
       ],
       "full_name": "Carson Beck",
-      "injury_body_part": "Coach's Decision",
-      "injury_status": "Out",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "13272",
       "position": "QB",
       "status": "Active",
@@ -5168,8 +5167,8 @@
         "QB"
       ],
       "full_name": "Ty Simpson",
-      "injury_body_part": "Coach's Decision",
-      "injury_status": "Out",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "13275",
       "position": "QB",
       "status": "Active",
@@ -5179,7 +5178,7 @@
     "13276": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 10,
+      "depth_chart_order": 8,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -5230,7 +5229,7 @@
     "13281": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 11,
+      "depth_chart_order": 10,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -5321,8 +5320,8 @@
         "QB"
       ],
       "full_name": "Drew Allar",
-      "injury_body_part": "Coach's Decision",
-      "injury_status": "Out",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "13289",
       "position": "QB",
       "status": "Active",
@@ -5332,7 +5331,7 @@
     "13293": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 9,
+      "depth_chart_order": 8,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -5373,7 +5372,7 @@
       ],
       "full_name": "Caleb Douglas",
       "injury_body_part": "Ankle",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "player_id": "13296",
       "position": "WR",
       "status": "Active",
@@ -5434,7 +5433,7 @@
     "13303": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "depth_chart_position": "QB",
       "fantasy_positions": [
         "QB"
@@ -5689,7 +5688,7 @@
     "13349": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 7,
+      "depth_chart_order": 6,
       "depth_chart_position": "TE",
       "fantasy_positions": [
         "TE"
@@ -5706,7 +5705,7 @@
     "13353": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 10,
+      "depth_chart_order": 9,
       "depth_chart_position": null,
       "fantasy_positions": [
         "WR"
@@ -5730,7 +5729,7 @@
       ],
       "full_name": "Brenen Thompson",
       "injury_body_part": "Quadriceps",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "player_id": "13380",
       "position": "WR",
       "status": "Active",
@@ -5780,8 +5779,8 @@
         "WR"
       ],
       "full_name": "Skyler Bell",
-      "injury_body_part": "Coach's Decision",
-      "injury_status": "Out",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "13402",
       "position": "WR",
       "status": "Active",
@@ -5917,7 +5916,7 @@
       ],
       "full_name": "Eli Raridon",
       "injury_body_part": "Thigh",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "player_id": "13421",
       "position": "TE",
       "status": "Active",
@@ -5968,7 +5967,7 @@
       ],
       "full_name": "Barion Brown",
       "injury_body_part": "Hamstring",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "player_id": "13533",
       "position": "WR",
       "status": "Active",
@@ -6087,7 +6086,7 @@
       ],
       "full_name": "Mike Evans",
       "injury_body_part": "Ribs",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "player_id": "2216",
       "position": "WR",
       "status": "Active",
@@ -6318,7 +6317,7 @@
     "4033": {
       "active": true,
       "age": 30,
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "depth_chart_position": "TE",
       "fantasy_positions": [
         "TE"
@@ -6681,8 +6680,8 @@
         "TE"
       ],
       "full_name": "Mark Andrews",
-      "injury_body_part": "Hand",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "5012",
       "position": "TE",
       "status": "Active",
@@ -6699,7 +6698,7 @@
       ],
       "full_name": "Dallas Goedert",
       "injury_body_part": "Knee - MCL",
-      "injury_status": "Out",
+      "injury_status": "Doubtful",
       "player_id": "5022",
       "position": "TE",
       "status": "Active",
@@ -6767,7 +6766,7 @@
       ],
       "full_name": "Marquise Brown",
       "injury_body_part": "Ankle",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "player_id": "5848",
       "position": "WR",
       "status": "Active",
@@ -6794,7 +6793,7 @@
     "5850": {
       "active": true,
       "age": 28,
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -7021,8 +7020,8 @@
         "RB"
       ],
       "full_name": "Devin Singletary",
-      "injury_body_part": "Coach's Decision",
-      "injury_status": "Out",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "6130",
       "position": "RB",
       "status": "Active",
@@ -7124,7 +7123,7 @@
       ],
       "full_name": "Justin Jefferson",
       "injury_body_part": "Ankle",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "player_id": "6794",
       "position": "WR",
       "status": "Active",
@@ -7328,10 +7327,10 @@
       ],
       "full_name": "Rico Dowdle",
       "injury_body_part": "Toe",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "player_id": "7021",
       "position": "RB",
-      "status": "Inactive",
+      "status": "Active",
       "team": "PIT",
       "years_exp": 6
     },
@@ -7531,8 +7530,8 @@
         "WR"
       ],
       "full_name": "Tutu Atwell",
-      "injury_body_part": "Coach's Decision",
-      "injury_status": "Out",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "7562",
       "position": "WR",
       "status": "Active",
@@ -7583,7 +7582,7 @@
       ],
       "full_name": "Nico Collins",
       "injury_body_part": "Hamstring",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "player_id": "7569",
       "position": "WR",
       "status": "Active",
@@ -7821,7 +7820,7 @@
       ],
       "full_name": "Charlie Kolar",
       "injury_body_part": "Forearm",
-      "injury_status": "Out",
+      "injury_status": "Doubtful",
       "player_id": "8127",
       "position": "TE",
       "status": "Inactive",
@@ -7922,8 +7921,8 @@
         "RB"
       ],
       "full_name": "Rachaad White",
-      "injury_body_part": "Shoulder",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "8136",
       "position": "RB",
       "status": "Active",
@@ -7967,7 +7966,7 @@
     "8142": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 9,
+      "depth_chart_order": 8,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -8093,7 +8092,7 @@
       ],
       "full_name": "Breece Hall",
       "injury_body_part": "Thigh",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "player_id": "8155",
       "position": "RB",
       "status": "Active",
@@ -8229,7 +8228,7 @@
       ],
       "full_name": "Chig Okonkwo",
       "injury_body_part": "Hamstring",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "player_id": "8210",
       "position": "TE",
       "status": "Active",
@@ -8256,7 +8255,7 @@
     "8408": {
       "active": true,
       "age": 27,
-      "depth_chart_order": 7,
+      "depth_chart_order": 4,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -8285,23 +8284,6 @@
       "position": "WR",
       "status": "Active",
       "team": "SEA",
-      "years_exp": 4
-    },
-    "8698": {
-      "active": true,
-      "age": 27,
-      "depth_chart_order": 4,
-      "depth_chart_position": "TE",
-      "fantasy_positions": [
-        "TE"
-      ],
-      "full_name": "Jake Tonges",
-      "injury_body_part": "Knee",
-      "injury_status": "IR",
-      "player_id": "8698",
-      "position": "TE",
-      "status": "Inactive",
-      "team": "SF",
       "years_exp": 4
     },
     "9221": {
@@ -8518,7 +8500,7 @@
       ],
       "full_name": "Puka Nacua",
       "injury_body_part": "Hip",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "player_id": "9493",
       "position": "WR",
       "status": "Active",
@@ -8535,7 +8517,7 @@
       ],
       "full_name": "Marvin Mims",
       "injury_body_part": "Foot",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "player_id": "9494",
       "position": "WR",
       "status": "Active",
@@ -8579,7 +8561,7 @@
     "9502": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 6,
+      "depth_chart_order": 5,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -8636,8 +8618,8 @@
         "RB"
       ],
       "full_name": "Tyjae Spears",
-      "injury_body_part": "Ankle",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "9508",
       "position": "RB",
       "status": "Active",
@@ -8829,8 +8811,8 @@
             "RB"
           ],
           "full_name": "Emari Demercado",
-          "injury_body_part": "Coach's Decision",
-          "injury_status": "Out",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "11199",
           "position": "RB",
           "status": "Active",
@@ -8943,7 +8925,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -8994,7 +8976,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 10,
+          "depth_chart_order": 8,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -9028,7 +9010,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 9,
+          "depth_chart_order": 8,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -9239,7 +9221,7 @@
           ],
           "full_name": "Charlie Kolar",
           "injury_body_part": "Forearm",
-          "injury_status": "Out",
+          "injury_status": "Doubtful",
           "player_id": "8127",
           "position": "TE",
           "status": "Inactive",
@@ -9407,7 +9389,7 @@
           ],
           "full_name": "Jayden Daniels",
           "injury_body_part": "Elbow",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "11566",
           "position": "QB",
           "status": "Active",
@@ -9440,8 +9422,8 @@
             "TE"
           ],
           "full_name": "Ja'Tavion Sanders",
-          "injury_body_part": "Coach's Decision",
-          "injury_status": "Out",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "11600",
           "position": "TE",
           "status": "Active",
@@ -9491,8 +9473,8 @@
             "RB"
           ],
           "full_name": "DJ Giddens",
-          "injury_body_part": "Coach's Decision",
-          "injury_status": "Out",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "12471",
           "position": "RB",
           "status": "Active",
@@ -9696,7 +9678,7 @@
           ],
           "full_name": "Barion Brown",
           "injury_body_part": "Hamstring",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "13533",
           "position": "WR",
           "status": "Active",
@@ -9746,8 +9728,8 @@
             "WR"
           ],
           "full_name": "Tutu Atwell",
-          "injury_body_part": "Coach's Decision",
-          "injury_status": "Out",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "7562",
           "position": "WR",
           "status": "Active",
@@ -9763,8 +9745,8 @@
             "RB"
           ],
           "full_name": "Rachaad White",
-          "injury_body_part": "Shoulder",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "8136",
           "position": "RB",
           "status": "Active",
@@ -9825,7 +9807,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -9955,23 +9937,6 @@
       "player_details": [
         {
           "active": true,
-          "age": 26,
-          "depth_chart_order": 1,
-          "depth_chart_position": "TE",
-          "fantasy_positions": [
-            "TE"
-          ],
-          "full_name": "Dalton Kincaid",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "10236",
-          "position": "TE",
-          "status": "Active",
-          "team": "BUF",
-          "years_exp": 3
-        },
-        {
-          "active": true,
           "age": 25,
           "depth_chart_order": 3,
           "depth_chart_position": "RB",
@@ -10074,6 +10039,23 @@
         },
         {
           "active": true,
+          "age": 24,
+          "depth_chart_order": 2,
+          "depth_chart_position": "LWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Marvin Harrison",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "11628",
+          "position": "WR",
+          "status": "Active",
+          "team": "ARI",
+          "years_exp": 2
+        },
+        {
+          "active": true,
           "age": 26,
           "depth_chart_order": 3,
           "depth_chart_position": "SWR",
@@ -10109,7 +10091,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 9,
+          "depth_chart_order": 7,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -10132,8 +10114,8 @@
             "RB"
           ],
           "full_name": "RJ Harvey",
-          "injury_body_part": "Concussion",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "12489",
           "position": "RB",
           "status": "Active",
@@ -10337,10 +10319,10 @@
           ],
           "full_name": "Rico Dowdle",
           "injury_body_part": "Toe",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "7021",
           "position": "RB",
-          "status": "Inactive",
+          "status": "Active",
           "team": "PIT",
           "years_exp": 6
         },
@@ -10415,13 +10397,13 @@
       ],
       "player_map": null,
       "players": [
-        "10236",
         "11237",
         "11576",
         "11603",
         "11610",
         "11618",
         "11620",
+        "11628",
         "11783",
         "12474",
         "12484",
@@ -10463,14 +10445,14 @@
       },
       "starters": [
         "5870",
-        "12474",
+        "12533",
         "12490",
         "8148",
-        "0",
+        "11610",
         "13346",
-        "10236",
-        "8131",
-        "8110"
+        "8110",
+        "11628",
+        "12489"
       ],
       "taxi": [
         "12497",
@@ -10536,7 +10518,7 @@
           ],
           "full_name": "Caleb Williams",
           "injury_body_part": "Hamstring",
-          "injury_status": "Out",
+          "injury_status": "Doubtful",
           "player_id": "11560",
           "position": "QB",
           "status": "Active",
@@ -10580,7 +10562,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -10638,7 +10620,7 @@
           ],
           "full_name": "Jalen Coker",
           "injury_body_part": "Quadriceps",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "11646",
           "position": "WR",
           "status": "Active",
@@ -10648,7 +10630,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -10665,14 +10647,14 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": null,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
           "full_name": "Devin Neal",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "12476",
           "position": "RB",
           "status": "Active",
@@ -10689,7 +10671,7 @@
           ],
           "full_name": "Mason Taylor",
           "injury_body_part": "Thumb",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "12498",
           "position": "TE",
           "status": "Active",
@@ -10750,7 +10732,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -10902,23 +10884,6 @@
         },
         {
           "active": true,
-          "age": 27,
-          "depth_chart_order": 4,
-          "depth_chart_position": "TE",
-          "fantasy_positions": [
-            "TE"
-          ],
-          "full_name": "Jake Tonges",
-          "injury_body_part": "Knee",
-          "injury_status": "IR",
-          "player_id": "8698",
-          "position": "TE",
-          "status": "Inactive",
-          "team": "SF",
-          "years_exp": 4
-        },
-        {
-          "active": true,
           "age": 24,
           "depth_chart_order": 2,
           "depth_chart_position": "QB",
@@ -11011,7 +10976,6 @@
         "5967",
         "8126",
         "8137",
-        "8698",
         "9229",
         "9488",
         "9504",
@@ -11112,7 +11076,7 @@
           ],
           "full_name": "Jaylen Wright",
           "injury_body_part": "Foot",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "11643",
           "position": "RB",
           "status": "Active",
@@ -11230,8 +11194,8 @@
             "QB"
           ],
           "full_name": "Ty Simpson",
-          "injury_body_part": "Coach's Decision",
-          "injury_status": "Out",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13275",
           "position": "QB",
           "status": "Active",
@@ -11264,8 +11228,8 @@
             "QB"
           ],
           "full_name": "Drew Allar",
-          "injury_body_part": "Coach's Decision",
-          "injury_status": "Out",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13289",
           "position": "QB",
           "status": "Active",
@@ -11275,7 +11239,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 7,
+          "depth_chart_order": 6,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -11292,7 +11256,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 10,
+          "depth_chart_order": 9,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -11316,7 +11280,7 @@
           ],
           "full_name": "Brenen Thompson",
           "injury_body_part": "Quadriceps",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "13380",
           "position": "WR",
           "status": "Active",
@@ -11791,8 +11755,8 @@
             "QB"
           ],
           "full_name": "Carson Beck",
-          "injury_body_part": "Coach's Decision",
-          "injury_status": "Out",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13272",
           "position": "QB",
           "status": "Active",
@@ -12013,7 +11977,7 @@
           ],
           "full_name": "Breece Hall",
           "injury_body_part": "Thigh",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "8155",
           "position": "RB",
           "status": "Active",
@@ -12030,7 +11994,7 @@
           ],
           "full_name": "Chig Okonkwo",
           "injury_body_part": "Hamstring",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "8210",
           "position": "TE",
           "status": "Active",
@@ -12040,7 +12004,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 7,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -12157,13 +12121,13 @@
       },
       "starters": [
         "12545",
-        "8155",
-        "8408",
+        "8151",
+        "12472",
         "8144",
         "7526",
         "10213",
         "10859",
-        "8151",
+        "4039",
         "4983"
       ],
       "taxi": [
@@ -12246,7 +12210,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -12331,7 +12295,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 9,
+          "depth_chart_order": 7,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -12490,8 +12454,8 @@
             "TE"
           ],
           "full_name": "Mark Andrews",
-          "injury_body_part": "Hand",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "5012",
           "position": "TE",
           "status": "Active",
@@ -12819,7 +12783,7 @@
           ],
           "full_name": "Adonai Mitchell",
           "injury_body_part": "Finger",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "11625",
           "position": "WR",
           "status": "Active",
@@ -12869,8 +12833,8 @@
             "QB"
           ],
           "full_name": "Jalen Milroe",
-          "injury_body_part": "Coach's Decision",
-          "injury_status": "Out",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "12510",
           "position": "QB",
           "status": "Active",
@@ -12903,8 +12867,8 @@
             "WR"
           ],
           "full_name": "Elijah Sarratt",
-          "injury_body_part": "Coach's Decision",
-          "injury_status": "Out",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13268",
           "position": "WR",
           "status": "Active",
@@ -12955,7 +12919,7 @@
           ],
           "full_name": "Eli Raridon",
           "injury_body_part": "Thigh",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "13421",
           "position": "TE",
           "status": "Active",
@@ -13016,7 +12980,7 @@
         {
           "active": true,
           "age": 30,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -13356,8 +13320,8 @@
             "QB"
           ],
           "full_name": "J.J. McCarthy",
-          "injury_body_part": "Coach's Decision",
-          "injury_status": "Out",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "11565",
           "position": "QB",
           "status": "Active",
@@ -13391,7 +13355,7 @@
           ],
           "full_name": "Xavier Legette",
           "injury_body_part": "Knee",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "11626",
           "position": "WR",
           "status": "Active",
@@ -13469,7 +13433,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -13680,7 +13644,7 @@
           ],
           "full_name": "Marquise Brown",
           "injury_body_part": "Ankle",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "5848",
           "position": "WR",
           "status": "Active",
@@ -13775,7 +13739,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 9,
+          "depth_chart_order": 8,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -14052,7 +14016,7 @@
           ],
           "full_name": "Terrance Ferguson",
           "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "player_id": "12487",
           "position": "TE",
           "status": "Active",
@@ -14079,7 +14043,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 11,
+          "depth_chart_order": 10,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -14221,8 +14185,8 @@
             "RB"
           ],
           "full_name": "Devin Singletary",
-          "injury_body_part": "Coach's Decision",
-          "injury_status": "Out",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "6130",
           "position": "RB",
           "status": "Active",
@@ -14358,7 +14322,7 @@
           ],
           "full_name": "Puka Nacua",
           "injury_body_part": "Hip",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "9493",
           "position": "WR",
           "status": "Active",
@@ -14473,6 +14437,23 @@
       "player_details": [
         {
           "active": true,
+          "age": 26,
+          "depth_chart_order": 1,
+          "depth_chart_position": "TE",
+          "fantasy_positions": [
+            "TE"
+          ],
+          "full_name": "Dalton Kincaid",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "10236",
+          "position": "TE",
+          "status": "Active",
+          "team": "BUF",
+          "years_exp": 3
+        },
+        {
+          "active": true,
           "age": 27,
           "depth_chart_order": 2,
           "depth_chart_position": "RB",
@@ -14487,23 +14468,6 @@
           "status": "Active",
           "team": "SEA",
           "years_exp": 3
-        },
-        {
-          "active": true,
-          "age": 24,
-          "depth_chart_order": 2,
-          "depth_chart_position": "LWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Marvin Harrison",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "11628",
-          "position": "WR",
-          "status": "Active",
-          "team": "ARI",
-          "years_exp": 2
         },
         {
           "active": true,
@@ -14548,8 +14512,8 @@
             "RB"
           ],
           "full_name": "Ollie Gordon",
-          "injury_body_part": "Undisclosed",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "12495",
           "position": "RB",
           "status": "Active",
@@ -14702,7 +14666,7 @@
           ],
           "full_name": "Dallas Goedert",
           "injury_body_part": "Knee - MCL",
-          "injury_status": "Out",
+          "injury_status": "Doubtful",
           "player_id": "5022",
           "position": "TE",
           "status": "Active",
@@ -14770,7 +14734,7 @@
           ],
           "full_name": "Justin Jefferson",
           "injury_body_part": "Ankle",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "6794",
           "position": "WR",
           "status": "Active",
@@ -14804,7 +14768,7 @@
           ],
           "full_name": "Nico Collins",
           "injury_body_part": "Hamstring",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "7569",
           "position": "WR",
           "status": "Active",
@@ -14906,7 +14870,7 @@
           ],
           "full_name": "Marvin Mims",
           "injury_body_part": "Foot",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "9494",
           "position": "WR",
           "status": "Active",
@@ -14933,8 +14897,8 @@
       ],
       "player_map": null,
       "players": [
+        "10236",
         "11435",
-        "11628",
         "11630",
         "12493",
         "12495",
@@ -14983,9 +14947,9 @@
         "12512",
         "6794",
         "8112",
+        "7569",
+        "10236",
         "5927",
-        "3214",
-        "5872",
         "12529"
       ],
       "taxi": [
@@ -15020,7 +14984,7 @@
           ],
           "full_name": "Jayden Reed",
           "injury_body_part": "Neck",
-          "injury_status": "Out",
+          "injury_status": "Doubtful",
           "player_id": "10222",
           "position": "WR",
           "status": "Active",
@@ -15054,7 +15018,7 @@
           ],
           "full_name": "Caleb Douglas",
           "injury_body_part": "Ankle",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "13296",
           "position": "WR",
           "status": "Active",
@@ -15087,8 +15051,8 @@
             "WR"
           ],
           "full_name": "Skyler Bell",
-          "injury_body_part": "Coach's Decision",
-          "injury_status": "Out",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13402",
           "position": "WR",
           "status": "Active",
@@ -15156,7 +15120,7 @@
           ],
           "full_name": "Mike Evans",
           "injury_body_part": "Ribs",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "2216",
           "position": "WR",
           "status": "Active",
@@ -15251,7 +15215,7 @@
         {
           "active": true,
           "age": 28,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -15461,8 +15425,8 @@
             "RB"
           ],
           "full_name": "Tyjae Spears",
-          "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "9508",
           "position": "RB",
           "status": "Active",
@@ -15640,6 +15604,13 @@
       "previous_owner_id": 3,
       "roster_id": 3,
       "round": 2,
+      "season": "2028"
+    },
+    {
+      "owner_id": 11,
+      "previous_owner_id": 3,
+      "roster_id": 3,
+      "round": 3,
       "season": "2028"
     },
     {
@@ -20285,13 +20256,13 @@
           "custom_points": null,
           "matchup_id": 5,
           "players": [
-            "10236",
             "11237",
             "11576",
             "11603",
             "11610",
             "11618",
             "11620",
+            "11628",
             "11783",
             "12474",
             "12484",
@@ -20314,13 +20285,13 @@
             "8148"
           ],
           "players_points": {
-            "10236": 0.0,
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
+            "11628": 0.0,
             "11783": 0.0,
             "12474": 0.0,
             "12484": 0.0,
@@ -20346,14 +20317,14 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12474",
+            "12533",
             "12490",
             "8148",
-            "0",
+            "11610",
             "13346",
-            "10236",
-            "8131",
-            "8110"
+            "8110",
+            "11628",
+            "12489"
           ],
           "starters_points": [
             0.0,
@@ -20394,7 +20365,6 @@
             "5967",
             "8126",
             "8137",
-            "8698",
             "9229",
             "9488",
             "9504",
@@ -20424,7 +20394,6 @@
             "5967": 0.0,
             "8126": 0.0,
             "8137": 0.0,
-            "8698": 0.0,
             "9229": 0.0,
             "9488": 0.0,
             "9504": 0.0,
@@ -20610,13 +20579,13 @@
           "roster_id": 6,
           "starters": [
             "12545",
-            "8155",
-            "8408",
+            "8151",
+            "12472",
             "8144",
             "7526",
             "10213",
             "10859",
-            "8151",
+            "4039",
             "4983"
           ],
           "starters_points": [
@@ -20987,8 +20956,8 @@
           "custom_points": null,
           "matchup_id": 6,
           "players": [
+            "10236",
             "11435",
-            "11628",
             "11630",
             "12493",
             "12495",
@@ -21016,8 +20985,8 @@
             "9757"
           ],
           "players_points": {
+            "10236": 0.0,
             "11435": 0.0,
-            "11628": 0.0,
             "11630": 0.0,
             "12493": 0.0,
             "12495": 0.0,
@@ -21052,9 +21021,9 @@
             "12512",
             "6794",
             "8112",
+            "7569",
+            "10236",
             "5927",
-            "3214",
-            "5872",
             "12529"
           ],
           "starters_points": [
@@ -21342,13 +21311,13 @@
           "custom_points": null,
           "matchup_id": 6,
           "players": [
-            "10236",
             "11237",
             "11576",
             "11603",
             "11610",
             "11618",
             "11620",
+            "11628",
             "11783",
             "12474",
             "12484",
@@ -21371,13 +21340,13 @@
             "8148"
           ],
           "players_points": {
-            "10236": 0.0,
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
+            "11628": 0.0,
             "11783": 0.0,
             "12474": 0.0,
             "12484": 0.0,
@@ -21403,14 +21372,14 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12474",
+            "12533",
             "12490",
             "8148",
-            "0",
+            "11610",
             "13346",
-            "10236",
-            "8131",
-            "8110"
+            "8110",
+            "11628",
+            "12489"
           ],
           "starters_points": [
             0.0,
@@ -21451,7 +21420,6 @@
             "5967",
             "8126",
             "8137",
-            "8698",
             "9229",
             "9488",
             "9504",
@@ -21481,7 +21449,6 @@
             "5967": 0.0,
             "8126": 0.0,
             "8137": 0.0,
-            "8698": 0.0,
             "9229": 0.0,
             "9488": 0.0,
             "9504": 0.0,
@@ -21667,13 +21634,13 @@
           "roster_id": 6,
           "starters": [
             "12545",
-            "8155",
-            "8408",
+            "8151",
+            "12472",
             "8144",
             "7526",
             "10213",
             "10859",
-            "8151",
+            "4039",
             "4983"
           ],
           "starters_points": [
@@ -22044,8 +22011,8 @@
           "custom_points": null,
           "matchup_id": 5,
           "players": [
+            "10236",
             "11435",
-            "11628",
             "11630",
             "12493",
             "12495",
@@ -22073,8 +22040,8 @@
             "9757"
           ],
           "players_points": {
+            "10236": 0.0,
             "11435": 0.0,
-            "11628": 0.0,
             "11630": 0.0,
             "12493": 0.0,
             "12495": 0.0,
@@ -22109,9 +22076,9 @@
             "12512",
             "6794",
             "8112",
+            "7569",
+            "10236",
             "5927",
-            "3214",
-            "5872",
             "12529"
           ],
           "starters_points": [
@@ -22399,13 +22366,13 @@
           "custom_points": null,
           "matchup_id": 6,
           "players": [
-            "10236",
             "11237",
             "11576",
             "11603",
             "11610",
             "11618",
             "11620",
+            "11628",
             "11783",
             "12474",
             "12484",
@@ -22428,13 +22395,13 @@
             "8148"
           ],
           "players_points": {
-            "10236": 0.0,
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
+            "11628": 0.0,
             "11783": 0.0,
             "12474": 0.0,
             "12484": 0.0,
@@ -22460,14 +22427,14 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12474",
+            "12533",
             "12490",
             "8148",
-            "0",
+            "11610",
             "13346",
-            "10236",
-            "8131",
-            "8110"
+            "8110",
+            "11628",
+            "12489"
           ],
           "starters_points": [
             0.0,
@@ -22508,7 +22475,6 @@
             "5967",
             "8126",
             "8137",
-            "8698",
             "9229",
             "9488",
             "9504",
@@ -22538,7 +22504,6 @@
             "5967": 0.0,
             "8126": 0.0,
             "8137": 0.0,
-            "8698": 0.0,
             "9229": 0.0,
             "9488": 0.0,
             "9504": 0.0,
@@ -22724,13 +22689,13 @@
           "roster_id": 6,
           "starters": [
             "12545",
-            "8155",
-            "8408",
+            "8151",
+            "12472",
             "8144",
             "7526",
             "10213",
             "10859",
-            "8151",
+            "4039",
             "4983"
           ],
           "starters_points": [
@@ -23101,8 +23066,8 @@
           "custom_points": null,
           "matchup_id": 4,
           "players": [
+            "10236",
             "11435",
-            "11628",
             "11630",
             "12493",
             "12495",
@@ -23130,8 +23095,8 @@
             "9757"
           ],
           "players_points": {
+            "10236": 0.0,
             "11435": 0.0,
-            "11628": 0.0,
             "11630": 0.0,
             "12493": 0.0,
             "12495": 0.0,
@@ -23166,9 +23131,9 @@
             "12512",
             "6794",
             "8112",
+            "7569",
+            "10236",
             "5927",
-            "3214",
-            "5872",
             "12529"
           ],
           "starters_points": [
@@ -23456,13 +23421,13 @@
           "custom_points": null,
           "matchup_id": 5,
           "players": [
-            "10236",
             "11237",
             "11576",
             "11603",
             "11610",
             "11618",
             "11620",
+            "11628",
             "11783",
             "12474",
             "12484",
@@ -23485,13 +23450,13 @@
             "8148"
           ],
           "players_points": {
-            "10236": 0.0,
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
+            "11628": 0.0,
             "11783": 0.0,
             "12474": 0.0,
             "12484": 0.0,
@@ -23517,14 +23482,14 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12474",
+            "12533",
             "12490",
             "8148",
-            "0",
+            "11610",
             "13346",
-            "10236",
-            "8131",
-            "8110"
+            "8110",
+            "11628",
+            "12489"
           ],
           "starters_points": [
             0.0,
@@ -23565,7 +23530,6 @@
             "5967",
             "8126",
             "8137",
-            "8698",
             "9229",
             "9488",
             "9504",
@@ -23595,7 +23559,6 @@
             "5967": 0.0,
             "8126": 0.0,
             "8137": 0.0,
-            "8698": 0.0,
             "9229": 0.0,
             "9488": 0.0,
             "9504": 0.0,
@@ -23781,13 +23744,13 @@
           "roster_id": 6,
           "starters": [
             "12545",
-            "8155",
-            "8408",
+            "8151",
+            "12472",
             "8144",
             "7526",
             "10213",
             "10859",
-            "8151",
+            "4039",
             "4983"
           ],
           "starters_points": [
@@ -24158,8 +24121,8 @@
           "custom_points": null,
           "matchup_id": 3,
           "players": [
+            "10236",
             "11435",
-            "11628",
             "11630",
             "12493",
             "12495",
@@ -24187,8 +24150,8 @@
             "9757"
           ],
           "players_points": {
+            "10236": 0.0,
             "11435": 0.0,
-            "11628": 0.0,
             "11630": 0.0,
             "12493": 0.0,
             "12495": 0.0,
@@ -24223,9 +24186,9 @@
             "12512",
             "6794",
             "8112",
+            "7569",
+            "10236",
             "5927",
-            "3214",
-            "5872",
             "12529"
           ],
           "starters_points": [
@@ -24513,13 +24476,13 @@
           "custom_points": null,
           "matchup_id": 4,
           "players": [
-            "10236",
             "11237",
             "11576",
             "11603",
             "11610",
             "11618",
             "11620",
+            "11628",
             "11783",
             "12474",
             "12484",
@@ -24542,13 +24505,13 @@
             "8148"
           ],
           "players_points": {
-            "10236": 0.0,
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
+            "11628": 0.0,
             "11783": 0.0,
             "12474": 0.0,
             "12484": 0.0,
@@ -24574,14 +24537,14 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12474",
+            "12533",
             "12490",
             "8148",
-            "0",
+            "11610",
             "13346",
-            "10236",
-            "8131",
-            "8110"
+            "8110",
+            "11628",
+            "12489"
           ],
           "starters_points": [
             0.0,
@@ -24622,7 +24585,6 @@
             "5967",
             "8126",
             "8137",
-            "8698",
             "9229",
             "9488",
             "9504",
@@ -24652,7 +24614,6 @@
             "5967": 0.0,
             "8126": 0.0,
             "8137": 0.0,
-            "8698": 0.0,
             "9229": 0.0,
             "9488": 0.0,
             "9504": 0.0,
@@ -24838,13 +24799,13 @@
           "roster_id": 6,
           "starters": [
             "12545",
-            "8155",
-            "8408",
+            "8151",
+            "12472",
             "8144",
             "7526",
             "10213",
             "10859",
-            "8151",
+            "4039",
             "4983"
           ],
           "starters_points": [
@@ -25215,8 +25176,8 @@
           "custom_points": null,
           "matchup_id": 2,
           "players": [
+            "10236",
             "11435",
-            "11628",
             "11630",
             "12493",
             "12495",
@@ -25244,8 +25205,8 @@
             "9757"
           ],
           "players_points": {
+            "10236": 0.0,
             "11435": 0.0,
-            "11628": 0.0,
             "11630": 0.0,
             "12493": 0.0,
             "12495": 0.0,
@@ -25280,9 +25241,9 @@
             "12512",
             "6794",
             "8112",
+            "7569",
+            "10236",
             "5927",
-            "3214",
-            "5872",
             "12529"
           ],
           "starters_points": [
@@ -25570,13 +25531,13 @@
           "custom_points": null,
           "matchup_id": 3,
           "players": [
-            "10236",
             "11237",
             "11576",
             "11603",
             "11610",
             "11618",
             "11620",
+            "11628",
             "11783",
             "12474",
             "12484",
@@ -25599,13 +25560,13 @@
             "8148"
           ],
           "players_points": {
-            "10236": 0.0,
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
+            "11628": 0.0,
             "11783": 0.0,
             "12474": 0.0,
             "12484": 0.0,
@@ -25631,14 +25592,14 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12474",
+            "12533",
             "12490",
             "8148",
-            "0",
+            "11610",
             "13346",
-            "10236",
-            "8131",
-            "8110"
+            "8110",
+            "11628",
+            "12489"
           ],
           "starters_points": [
             0.0,
@@ -25679,7 +25640,6 @@
             "5967",
             "8126",
             "8137",
-            "8698",
             "9229",
             "9488",
             "9504",
@@ -25709,7 +25669,6 @@
             "5967": 0.0,
             "8126": 0.0,
             "8137": 0.0,
-            "8698": 0.0,
             "9229": 0.0,
             "9488": 0.0,
             "9504": 0.0,
@@ -25895,13 +25854,13 @@
           "roster_id": 6,
           "starters": [
             "12545",
-            "8155",
-            "8408",
+            "8151",
+            "12472",
             "8144",
             "7526",
             "10213",
             "10859",
-            "8151",
+            "4039",
             "4983"
           ],
           "starters_points": [
@@ -26272,8 +26231,8 @@
           "custom_points": null,
           "matchup_id": 1,
           "players": [
+            "10236",
             "11435",
-            "11628",
             "11630",
             "12493",
             "12495",
@@ -26301,8 +26260,8 @@
             "9757"
           ],
           "players_points": {
+            "10236": 0.0,
             "11435": 0.0,
-            "11628": 0.0,
             "11630": 0.0,
             "12493": 0.0,
             "12495": 0.0,
@@ -26337,9 +26296,9 @@
             "12512",
             "6794",
             "8112",
+            "7569",
+            "10236",
             "5927",
-            "3214",
-            "5872",
             "12529"
           ],
           "starters_points": [
@@ -26627,13 +26586,13 @@
           "custom_points": null,
           "matchup_id": 2,
           "players": [
-            "10236",
             "11237",
             "11576",
             "11603",
             "11610",
             "11618",
             "11620",
+            "11628",
             "11783",
             "12474",
             "12484",
@@ -26656,13 +26615,13 @@
             "8148"
           ],
           "players_points": {
-            "10236": 0.0,
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
+            "11628": 0.0,
             "11783": 0.0,
             "12474": 0.0,
             "12484": 0.0,
@@ -26688,14 +26647,14 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12474",
+            "12533",
             "12490",
             "8148",
-            "0",
+            "11610",
             "13346",
-            "10236",
-            "8131",
-            "8110"
+            "8110",
+            "11628",
+            "12489"
           ],
           "starters_points": [
             0.0,
@@ -26736,7 +26695,6 @@
             "5967",
             "8126",
             "8137",
-            "8698",
             "9229",
             "9488",
             "9504",
@@ -26766,7 +26724,6 @@
             "5967": 0.0,
             "8126": 0.0,
             "8137": 0.0,
-            "8698": 0.0,
             "9229": 0.0,
             "9488": 0.0,
             "9504": 0.0,
@@ -26952,13 +26909,13 @@
           "roster_id": 6,
           "starters": [
             "12545",
-            "8155",
-            "8408",
+            "8151",
+            "12472",
             "8144",
             "7526",
             "10213",
             "10859",
-            "8151",
+            "4039",
             "4983"
           ],
           "starters_points": [
@@ -27329,8 +27286,8 @@
           "custom_points": null,
           "matchup_id": 2,
           "players": [
+            "10236",
             "11435",
-            "11628",
             "11630",
             "12493",
             "12495",
@@ -27358,8 +27315,8 @@
             "9757"
           ],
           "players_points": {
+            "10236": 0.0,
             "11435": 0.0,
-            "11628": 0.0,
             "11630": 0.0,
             "12493": 0.0,
             "12495": 0.0,
@@ -27394,9 +27351,9 @@
             "12512",
             "6794",
             "8112",
+            "7569",
+            "10236",
             "5927",
-            "3214",
-            "5872",
             "12529"
           ],
           "starters_points": [
@@ -27684,13 +27641,13 @@
           "custom_points": null,
           "matchup_id": 1,
           "players": [
-            "10236",
             "11237",
             "11576",
             "11603",
             "11610",
             "11618",
             "11620",
+            "11628",
             "11783",
             "12474",
             "12484",
@@ -27713,13 +27670,13 @@
             "8148"
           ],
           "players_points": {
-            "10236": 0.0,
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
+            "11628": 0.0,
             "11783": 0.0,
             "12474": 0.0,
             "12484": 0.0,
@@ -27745,14 +27702,14 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12474",
+            "12533",
             "12490",
             "8148",
-            "0",
+            "11610",
             "13346",
-            "10236",
-            "8131",
-            "8110"
+            "8110",
+            "11628",
+            "12489"
           ],
           "starters_points": [
             0.0,
@@ -27793,7 +27750,6 @@
             "5967",
             "8126",
             "8137",
-            "8698",
             "9229",
             "9488",
             "9504",
@@ -27823,7 +27779,6 @@
             "5967": 0.0,
             "8126": 0.0,
             "8137": 0.0,
-            "8698": 0.0,
             "9229": 0.0,
             "9488": 0.0,
             "9504": 0.0,
@@ -28009,13 +27964,13 @@
           "roster_id": 6,
           "starters": [
             "12545",
-            "8155",
-            "8408",
+            "8151",
+            "12472",
             "8144",
             "7526",
             "10213",
             "10859",
-            "8151",
+            "4039",
             "4983"
           ],
           "starters_points": [
@@ -28386,8 +28341,8 @@
           "custom_points": null,
           "matchup_id": 3,
           "players": [
+            "10236",
             "11435",
-            "11628",
             "11630",
             "12493",
             "12495",
@@ -28415,8 +28370,8 @@
             "9757"
           ],
           "players_points": {
+            "10236": 0.0,
             "11435": 0.0,
-            "11628": 0.0,
             "11630": 0.0,
             "12493": 0.0,
             "12495": 0.0,
@@ -28451,9 +28406,9 @@
             "12512",
             "6794",
             "8112",
+            "7569",
+            "10236",
             "5927",
-            "3214",
-            "5872",
             "12529"
           ],
           "starters_points": [
@@ -28741,13 +28696,13 @@
           "custom_points": null,
           "matchup_id": 2,
           "players": [
-            "10236",
             "11237",
             "11576",
             "11603",
             "11610",
             "11618",
             "11620",
+            "11628",
             "11783",
             "12474",
             "12484",
@@ -28770,13 +28725,13 @@
             "8148"
           ],
           "players_points": {
-            "10236": 0.0,
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
+            "11628": 0.0,
             "11783": 0.0,
             "12474": 0.0,
             "12484": 0.0,
@@ -28802,14 +28757,14 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12474",
+            "12533",
             "12490",
             "8148",
-            "0",
+            "11610",
             "13346",
-            "10236",
-            "8131",
-            "8110"
+            "8110",
+            "11628",
+            "12489"
           ],
           "starters_points": [
             0.0,
@@ -28850,7 +28805,6 @@
             "5967",
             "8126",
             "8137",
-            "8698",
             "9229",
             "9488",
             "9504",
@@ -28880,7 +28834,6 @@
             "5967": 0.0,
             "8126": 0.0,
             "8137": 0.0,
-            "8698": 0.0,
             "9229": 0.0,
             "9488": 0.0,
             "9504": 0.0,
@@ -29066,13 +29019,13 @@
           "roster_id": 6,
           "starters": [
             "12545",
-            "8155",
-            "8408",
+            "8151",
+            "12472",
             "8144",
             "7526",
             "10213",
             "10859",
-            "8151",
+            "4039",
             "4983"
           ],
           "starters_points": [
@@ -29443,8 +29396,8 @@
           "custom_points": null,
           "matchup_id": 4,
           "players": [
+            "10236",
             "11435",
-            "11628",
             "11630",
             "12493",
             "12495",
@@ -29472,8 +29425,8 @@
             "9757"
           ],
           "players_points": {
+            "10236": 0.0,
             "11435": 0.0,
-            "11628": 0.0,
             "11630": 0.0,
             "12493": 0.0,
             "12495": 0.0,
@@ -29508,9 +29461,9 @@
             "12512",
             "6794",
             "8112",
+            "7569",
+            "10236",
             "5927",
-            "3214",
-            "5872",
             "12529"
           ],
           "starters_points": [
@@ -31954,6 +31907,48 @@
       ],
       "transactions": [
         {
+          "adds": {
+            "10236": 11,
+            "11628": 3
+          },
+          "consenter_ids": [
+            3,
+            11
+          ],
+          "created": 1790628224514,
+          "creator": "987059842407841792",
+          "draft_picks": [
+            {
+              "league_id": null,
+              "owner_id": 11,
+              "previous_owner_id": 3,
+              "roster_id": 3,
+              "round": 3,
+              "season": "2028"
+            }
+          ],
+          "drops": {
+            "10236": 3,
+            "11628": 11
+          },
+          "leg": 3,
+          "metadata": {
+            "notes": "Your trade was processed successfully!",
+            "poll_id": "1410404079527575552",
+            "veto_msg_id": "1410404079590498304"
+          },
+          "roster_ids": [
+            3,
+            11
+          ],
+          "settings": null,
+          "status": "complete",
+          "status_updated": 1790749399562,
+          "transaction_id": "1410400634376552448",
+          "type": "trade",
+          "waiver_budget": []
+        },
+        {
           "adds": null,
           "consenter_ids": [
             3
@@ -32453,13 +32448,13 @@
           "custom_points": null,
           "matchup_id": 3,
           "players": [
-            "10236",
             "11237",
             "11576",
             "11603",
             "11610",
             "11618",
             "11620",
+            "11628",
             "11783",
             "12474",
             "12484",
@@ -32482,13 +32477,13 @@
             "8148"
           ],
           "players_points": {
-            "10236": 0.0,
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
+            "11628": 0.0,
             "11783": 0.0,
             "12474": 0.0,
             "12484": 0.0,
@@ -32514,14 +32509,14 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12474",
+            "12533",
             "12490",
             "8148",
             "11610",
             "13346",
             "8110",
-            "10236",
-            "11620"
+            "11628",
+            "12489"
           ],
           "starters_points": [
             0.0,
@@ -32562,7 +32557,6 @@
             "5967",
             "8126",
             "8137",
-            "8698",
             "9229",
             "9488",
             "9504",
@@ -32592,7 +32586,6 @@
             "5967": 0.0,
             "8126": 0.0,
             "8137": 0.0,
-            "8698": 0.0,
             "9229": 0.0,
             "9488": 0.0,
             "9504": 0.0,
@@ -32778,13 +32771,13 @@
           "roster_id": 6,
           "starters": [
             "12545",
-            "8155",
-            "8408",
+            "8151",
+            "12472",
             "8144",
             "7526",
             "10213",
             "10859",
-            "8151",
+            "4039",
             "4983"
           ],
           "starters_points": [
@@ -33155,8 +33148,8 @@
           "custom_points": null,
           "matchup_id": 1,
           "players": [
+            "10236",
             "11435",
-            "11628",
             "11630",
             "12493",
             "12495",
@@ -33184,8 +33177,8 @@
             "9757"
           ],
           "players_points": {
+            "10236": 0.0,
             "11435": 0.0,
-            "11628": 0.0,
             "11630": 0.0,
             "12493": 0.0,
             "12495": 0.0,
@@ -33221,7 +33214,7 @@
             "6794",
             "8112",
             "7569",
-            "3214",
+            "10236",
             "5927",
             "12529"
           ],
@@ -33326,7 +33319,31 @@
           ]
         }
       ],
-      "transactions": []
+      "transactions": [
+        {
+          "adds": null,
+          "consenter_ids": [
+            4
+          ],
+          "created": 1790763032969,
+          "creator": "987088466540384256",
+          "draft_picks": [],
+          "drops": {
+            "8698": 4
+          },
+          "leg": 4,
+          "metadata": null,
+          "roster_ids": [
+            4
+          ],
+          "settings": null,
+          "status": "complete",
+          "status_updated": 1790763032969,
+          "transaction_id": "1410966062022901760",
+          "type": "free_agent",
+          "waiver_budget": []
+        }
+      ]
     },
     "5": {
       "matchups": [
@@ -33510,13 +33527,13 @@
           "custom_points": null,
           "matchup_id": 2,
           "players": [
-            "10236",
             "11237",
             "11576",
             "11603",
             "11610",
             "11618",
             "11620",
+            "11628",
             "11783",
             "12474",
             "12484",
@@ -33539,13 +33556,13 @@
             "8148"
           ],
           "players_points": {
-            "10236": 0.0,
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
+            "11628": 0.0,
             "11783": 0.0,
             "12474": 0.0,
             "12484": 0.0,
@@ -33571,14 +33588,14 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12474",
+            "12533",
             "12490",
             "8148",
-            "0",
+            "11610",
             "13346",
-            "10236",
-            "8131",
-            "8110"
+            "8110",
+            "11628",
+            "12489"
           ],
           "starters_points": [
             0.0,
@@ -33619,7 +33636,6 @@
             "5967",
             "8126",
             "8137",
-            "8698",
             "9229",
             "9488",
             "9504",
@@ -33649,7 +33665,6 @@
             "5967": 0.0,
             "8126": 0.0,
             "8137": 0.0,
-            "8698": 0.0,
             "9229": 0.0,
             "9488": 0.0,
             "9504": 0.0,
@@ -33835,13 +33850,13 @@
           "roster_id": 6,
           "starters": [
             "12545",
-            "8155",
-            "8408",
+            "8151",
+            "12472",
             "8144",
             "7526",
             "10213",
             "10859",
-            "8151",
+            "4039",
             "4983"
           ],
           "starters_points": [
@@ -34212,8 +34227,8 @@
           "custom_points": null,
           "matchup_id": 2,
           "players": [
+            "10236",
             "11435",
-            "11628",
             "11630",
             "12493",
             "12495",
@@ -34241,8 +34256,8 @@
             "9757"
           ],
           "players_points": {
+            "10236": 0.0,
             "11435": 0.0,
-            "11628": 0.0,
             "11630": 0.0,
             "12493": 0.0,
             "12495": 0.0,
@@ -34277,9 +34292,9 @@
             "12512",
             "6794",
             "8112",
+            "7569",
+            "10236",
             "5927",
-            "3214",
-            "5872",
             "12529"
           ],
           "starters_points": [
@@ -34567,13 +34582,13 @@
           "custom_points": null,
           "matchup_id": 1,
           "players": [
-            "10236",
             "11237",
             "11576",
             "11603",
             "11610",
             "11618",
             "11620",
+            "11628",
             "11783",
             "12474",
             "12484",
@@ -34596,13 +34611,13 @@
             "8148"
           ],
           "players_points": {
-            "10236": 0.0,
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
+            "11628": 0.0,
             "11783": 0.0,
             "12474": 0.0,
             "12484": 0.0,
@@ -34628,14 +34643,14 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12474",
+            "12533",
             "12490",
             "8148",
-            "0",
+            "11610",
             "13346",
-            "10236",
-            "8131",
-            "8110"
+            "8110",
+            "11628",
+            "12489"
           ],
           "starters_points": [
             0.0,
@@ -34676,7 +34691,6 @@
             "5967",
             "8126",
             "8137",
-            "8698",
             "9229",
             "9488",
             "9504",
@@ -34706,7 +34720,6 @@
             "5967": 0.0,
             "8126": 0.0,
             "8137": 0.0,
-            "8698": 0.0,
             "9229": 0.0,
             "9488": 0.0,
             "9504": 0.0,
@@ -34892,13 +34905,13 @@
           "roster_id": 6,
           "starters": [
             "12545",
-            "8155",
-            "8408",
+            "8151",
+            "12472",
             "8144",
             "7526",
             "10213",
             "10859",
-            "8151",
+            "4039",
             "4983"
           ],
           "starters_points": [
@@ -35269,8 +35282,8 @@
           "custom_points": null,
           "matchup_id": 3,
           "players": [
+            "10236",
             "11435",
-            "11628",
             "11630",
             "12493",
             "12495",
@@ -35298,8 +35311,8 @@
             "9757"
           ],
           "players_points": {
+            "10236": 0.0,
             "11435": 0.0,
-            "11628": 0.0,
             "11630": 0.0,
             "12493": 0.0,
             "12495": 0.0,
@@ -35334,9 +35347,9 @@
             "12512",
             "6794",
             "8112",
+            "7569",
+            "10236",
             "5927",
-            "3214",
-            "5872",
             "12529"
           ],
           "starters_points": [
@@ -35624,13 +35637,13 @@
           "custom_points": null,
           "matchup_id": 2,
           "players": [
-            "10236",
             "11237",
             "11576",
             "11603",
             "11610",
             "11618",
             "11620",
+            "11628",
             "11783",
             "12474",
             "12484",
@@ -35653,13 +35666,13 @@
             "8148"
           ],
           "players_points": {
-            "10236": 0.0,
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
+            "11628": 0.0,
             "11783": 0.0,
             "12474": 0.0,
             "12484": 0.0,
@@ -35685,14 +35698,14 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12474",
+            "12533",
             "12490",
             "8148",
-            "0",
+            "11610",
             "13346",
-            "10236",
-            "8131",
-            "8110"
+            "8110",
+            "11628",
+            "12489"
           ],
           "starters_points": [
             0.0,
@@ -35733,7 +35746,6 @@
             "5967",
             "8126",
             "8137",
-            "8698",
             "9229",
             "9488",
             "9504",
@@ -35763,7 +35775,6 @@
             "5967": 0.0,
             "8126": 0.0,
             "8137": 0.0,
-            "8698": 0.0,
             "9229": 0.0,
             "9488": 0.0,
             "9504": 0.0,
@@ -35949,13 +35960,13 @@
           "roster_id": 6,
           "starters": [
             "12545",
-            "8155",
-            "8408",
+            "8151",
+            "12472",
             "8144",
             "7526",
             "10213",
             "10859",
-            "8151",
+            "4039",
             "4983"
           ],
           "starters_points": [
@@ -36326,8 +36337,8 @@
           "custom_points": null,
           "matchup_id": 4,
           "players": [
+            "10236",
             "11435",
-            "11628",
             "11630",
             "12493",
             "12495",
@@ -36355,8 +36366,8 @@
             "9757"
           ],
           "players_points": {
+            "10236": 0.0,
             "11435": 0.0,
-            "11628": 0.0,
             "11630": 0.0,
             "12493": 0.0,
             "12495": 0.0,
@@ -36391,9 +36402,9 @@
             "12512",
             "6794",
             "8112",
+            "7569",
+            "10236",
             "5927",
-            "3214",
-            "5872",
             "12529"
           ],
           "starters_points": [
@@ -36681,13 +36692,13 @@
           "custom_points": null,
           "matchup_id": 3,
           "players": [
-            "10236",
             "11237",
             "11576",
             "11603",
             "11610",
             "11618",
             "11620",
+            "11628",
             "11783",
             "12474",
             "12484",
@@ -36710,13 +36721,13 @@
             "8148"
           ],
           "players_points": {
-            "10236": 0.0,
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
+            "11628": 0.0,
             "11783": 0.0,
             "12474": 0.0,
             "12484": 0.0,
@@ -36742,14 +36753,14 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12474",
+            "12533",
             "12490",
             "8148",
-            "0",
+            "11610",
             "13346",
-            "10236",
-            "8131",
-            "8110"
+            "8110",
+            "11628",
+            "12489"
           ],
           "starters_points": [
             0.0,
@@ -36790,7 +36801,6 @@
             "5967",
             "8126",
             "8137",
-            "8698",
             "9229",
             "9488",
             "9504",
@@ -36820,7 +36830,6 @@
             "5967": 0.0,
             "8126": 0.0,
             "8137": 0.0,
-            "8698": 0.0,
             "9229": 0.0,
             "9488": 0.0,
             "9504": 0.0,
@@ -37006,13 +37015,13 @@
           "roster_id": 6,
           "starters": [
             "12545",
-            "8155",
-            "8408",
+            "8151",
+            "12472",
             "8144",
             "7526",
             "10213",
             "10859",
-            "8151",
+            "4039",
             "4983"
           ],
           "starters_points": [
@@ -37383,8 +37392,8 @@
           "custom_points": null,
           "matchup_id": 5,
           "players": [
+            "10236",
             "11435",
-            "11628",
             "11630",
             "12493",
             "12495",
@@ -37412,8 +37421,8 @@
             "9757"
           ],
           "players_points": {
+            "10236": 0.0,
             "11435": 0.0,
-            "11628": 0.0,
             "11630": 0.0,
             "12493": 0.0,
             "12495": 0.0,
@@ -37448,9 +37457,9 @@
             "12512",
             "6794",
             "8112",
+            "7569",
+            "10236",
             "5927",
-            "3214",
-            "5872",
             "12529"
           ],
           "starters_points": [
@@ -37738,13 +37747,13 @@
           "custom_points": null,
           "matchup_id": 4,
           "players": [
-            "10236",
             "11237",
             "11576",
             "11603",
             "11610",
             "11618",
             "11620",
+            "11628",
             "11783",
             "12474",
             "12484",
@@ -37767,13 +37776,13 @@
             "8148"
           ],
           "players_points": {
-            "10236": 0.0,
             "11237": 0.0,
             "11576": 0.0,
             "11603": 0.0,
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
+            "11628": 0.0,
             "11783": 0.0,
             "12474": 0.0,
             "12484": 0.0,
@@ -37799,14 +37808,14 @@
           "roster_id": 3,
           "starters": [
             "5870",
-            "12474",
+            "12533",
             "12490",
             "8148",
-            "0",
+            "11610",
             "13346",
-            "10236",
-            "8131",
-            "8110"
+            "8110",
+            "11628",
+            "12489"
           ],
           "starters_points": [
             0.0,
@@ -37847,7 +37856,6 @@
             "5967",
             "8126",
             "8137",
-            "8698",
             "9229",
             "9488",
             "9504",
@@ -37877,7 +37885,6 @@
             "5967": 0.0,
             "8126": 0.0,
             "8137": 0.0,
-            "8698": 0.0,
             "9229": 0.0,
             "9488": 0.0,
             "9504": 0.0,
@@ -38063,13 +38070,13 @@
           "roster_id": 6,
           "starters": [
             "12545",
-            "8155",
-            "8408",
+            "8151",
+            "12472",
             "8144",
             "7526",
             "10213",
             "10859",
-            "8151",
+            "4039",
             "4983"
           ],
           "starters_points": [
@@ -38440,8 +38447,8 @@
           "custom_points": null,
           "matchup_id": 6,
           "players": [
+            "10236",
             "11435",
-            "11628",
             "11630",
             "12493",
             "12495",
@@ -38469,8 +38476,8 @@
             "9757"
           ],
           "players_points": {
+            "10236": 0.0,
             "11435": 0.0,
-            "11628": 0.0,
             "11630": 0.0,
             "12493": 0.0,
             "12495": 0.0,
@@ -38505,9 +38512,9 @@
             "12512",
             "6794",
             "8112",
+            "7569",
+            "10236",
             "5927",
-            "3214",
-            "5872",
             "12529"
           ],
           "starters_points": [

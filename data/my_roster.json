@@ -49,6 +49,12 @@
     },
     {
       "current_owner_roster_id": 11,
+      "original_roster_id": 3,
+      "round": 3,
+      "season": "2028"
+    },
+    {
+      "current_owner_roster_id": 11,
       "original_roster_id": 11,
       "round": 3,
       "season": "2028"
@@ -84,7 +90,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-09-30T05:33:08.198236+00:00",
+  "generated_at": "2026-09-30T12:35:27.411266+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -110,6 +116,23 @@
     "player_details": [
       {
         "active": true,
+        "age": 26,
+        "depth_chart_order": 1,
+        "depth_chart_position": "TE",
+        "fantasy_positions": [
+          "TE"
+        ],
+        "full_name": "Dalton Kincaid",
+        "injury_body_part": null,
+        "injury_status": null,
+        "player_id": "10236",
+        "position": "TE",
+        "status": "Active",
+        "team": "BUF",
+        "years_exp": 3
+      },
+      {
+        "active": true,
         "age": 27,
         "depth_chart_order": 2,
         "depth_chart_position": "RB",
@@ -124,23 +147,6 @@
         "status": "Active",
         "team": "SEA",
         "years_exp": 3
-      },
-      {
-        "active": true,
-        "age": 24,
-        "depth_chart_order": 2,
-        "depth_chart_position": "LWR",
-        "fantasy_positions": [
-          "WR"
-        ],
-        "full_name": "Marvin Harrison",
-        "injury_body_part": null,
-        "injury_status": null,
-        "player_id": "11628",
-        "position": "WR",
-        "status": "Active",
-        "team": "ARI",
-        "years_exp": 2
       },
       {
         "active": true,
@@ -185,8 +191,8 @@
           "RB"
         ],
         "full_name": "Ollie Gordon",
-        "injury_body_part": "Undisclosed",
-        "injury_status": "Questionable",
+        "injury_body_part": null,
+        "injury_status": null,
         "player_id": "12495",
         "position": "RB",
         "status": "Active",
@@ -339,7 +345,7 @@
         ],
         "full_name": "Dallas Goedert",
         "injury_body_part": "Knee - MCL",
-        "injury_status": "Out",
+        "injury_status": "Doubtful",
         "player_id": "5022",
         "position": "TE",
         "status": "Active",
@@ -407,7 +413,7 @@
         ],
         "full_name": "Justin Jefferson",
         "injury_body_part": "Ankle",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "player_id": "6794",
         "position": "WR",
         "status": "Active",
@@ -441,7 +447,7 @@
         ],
         "full_name": "Nico Collins",
         "injury_body_part": "Hamstring",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "player_id": "7569",
         "position": "WR",
         "status": "Active",
@@ -543,7 +549,7 @@
         ],
         "full_name": "Marvin Mims",
         "injury_body_part": "Foot",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "player_id": "9494",
         "position": "WR",
         "status": "Active",
@@ -570,8 +576,8 @@
     ],
     "player_map": null,
     "players": [
+      "10236",
       "11435",
-      "11628",
       "11630",
       "12493",
       "12495",
@@ -620,9 +626,9 @@
       "12512",
       "6794",
       "8112",
+      "7569",
+      "10236",
       "5927",
-      "3214",
-      "5872",
       "12529"
     ],
     "taxi": [
