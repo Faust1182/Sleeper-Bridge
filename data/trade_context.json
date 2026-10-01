@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-01T13:15:34.392696+00:00",
+  "generated_at": "2026-10-01T22:41:49.325461+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1157,7 +1157,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 30,
+      "daily_waivers_last_ran": 1,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -1730,7 +1730,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 40,
-      "waiver_position": 9,
+      "waiver_position": 8,
       "wins": 1
     },
     "starters": [
@@ -2501,6 +2501,23 @@
         },
         {
           "active": true,
+          "age": 23,
+          "depth_chart_order": 3,
+          "depth_chart_position": "LWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Konata Mumpfield",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "12718",
+          "position": "WR",
+          "status": "Active",
+          "team": "LAR",
+          "years_exp": 1
+        },
+        {
+          "active": true,
           "age": 22,
           "depth_chart_order": 10,
           "depth_chart_position": "SWR",
@@ -2678,8 +2695,8 @@
             "WR"
           ],
           "full_name": "Chris Godwin",
-          "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "4037",
           "position": "WR",
           "status": "Active",
@@ -2695,8 +2712,8 @@
             "RB"
           ],
           "full_name": "D'Andre Swift",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Knee",
+          "injury_status": "Questionable",
           "player_id": "6790",
           "position": "RB",
           "status": "Active",
@@ -2819,8 +2836,8 @@
         "ppts_decimal": 74,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 34,
-        "waiver_position": 5,
+        "waiver_budget_used": 41,
+        "waiver_position": 12,
         "wins": 3
       },
       "starters": [
@@ -2867,8 +2884,8 @@
             "RB"
           ],
           "full_name": "D'Andre Swift",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Knee",
+          "injury_status": "Questionable",
           "player_id": "6790",
           "position": "RB",
           "status": "Active",
@@ -3548,7 +3565,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 15,
-        "waiver_position": 8,
+        "waiver_position": 7,
         "wins": 0
       },
       "starters": [
@@ -4276,26 +4293,26 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 34,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 1
       },
       "starters": [
         {
           "active": true,
-          "age": 29,
+          "age": 23,
           "depth_chart_order": 1,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
           ],
-          "full_name": "Daniel Jones",
+          "full_name": "Jalon Daniels",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "5870",
+          "player_id": "13425",
           "position": "QB",
           "status": "Active",
-          "team": "IND",
-          "years_exp": 7
+          "team": "TB",
+          "years_exp": 0
         },
         {
           "active": true,
@@ -4845,8 +4862,8 @@
             "RB"
           ],
           "full_name": "Tony Pollard",
-          "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "5967",
           "position": "RB",
           "status": "Active",
@@ -5233,8 +5250,8 @@
             "RB"
           ],
           "full_name": "Jaylen Wright",
-          "injury_body_part": "Foot",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "11643",
           "position": "RB",
           "status": "Active",
@@ -5658,8 +5675,8 @@
             "WR"
           ],
           "full_name": "Zay Flowers",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "9997",
           "position": "WR",
           "status": "Active",
@@ -5762,8 +5779,8 @@
             "WR"
           ],
           "full_name": "Zay Flowers",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "9997",
           "position": "WR",
           "status": "Active",
@@ -6426,7 +6443,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 30,
-        "waiver_position": 12,
+        "waiver_position": 11,
         "wins": 1
       },
       "starters": [
@@ -6910,8 +6927,8 @@
             "QB"
           ],
           "full_name": "Lamar Jackson",
-          "injury_body_part": "Undisclosed",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "4881",
           "position": "QB",
           "status": "Active",
@@ -7167,8 +7184,8 @@
             "QB"
           ],
           "full_name": "Lamar Jackson",
-          "injury_body_part": "Undisclosed",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "4881",
           "position": "QB",
           "status": "Active",
@@ -7428,7 +7445,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -7882,7 +7899,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 100,
-        "waiver_position": 7,
+        "waiver_position": 6,
         "wins": 1
       },
       "starters": [
@@ -8574,7 +8591,7 @@
           "injury_status": "PUP",
           "player_id": "9753",
           "position": "RB",
-          "status": "Active",
+          "status": "Inactive",
           "team": "SEA",
           "years_exp": 3
         }
@@ -8593,7 +8610,7 @@
           "injury_status": "PUP",
           "player_id": "9753",
           "position": "RB",
-          "status": "Active",
+          "status": "Inactive",
           "team": "SEA",
           "years_exp": 3
         }
@@ -8610,7 +8627,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 11,
-        "waiver_position": 6,
+        "waiver_position": 5,
         "wins": 2
       },
       "starters": [
@@ -9128,8 +9145,8 @@
             "TE"
           ],
           "full_name": "Noah Fant",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Abdomen",
+          "injury_status": "Questionable",
           "player_id": "5857",
           "position": "TE",
           "status": "Active",
@@ -9180,10 +9197,10 @@
           ],
           "full_name": "Travis Etienne",
           "injury_body_part": "Hamstring",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "player_id": "7543",
           "position": "RB",
-          "status": "Active",
+          "status": "Inactive",
           "team": "NO",
           "years_exp": 5
         },
@@ -10031,7 +10048,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 40,
-        "waiver_position": 9,
+        "waiver_position": 8,
         "wins": 1
       },
       "starters": [
@@ -10345,8 +10362,8 @@
             "WR"
           ],
           "full_name": "Keenan Allen",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Groin",
+          "injury_status": "Questionable",
           "player_id": "1479",
           "position": "WR",
           "status": "Active",
@@ -10759,7 +10776,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 45,
-        "waiver_position": 11,
+        "waiver_position": 10,
         "wins": 2
       },
       "starters": [
