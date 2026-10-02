@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-02T12:35:57.015002+00:00",
+  "generated_at": "2026-10-02T22:14:38.478338+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1157,7 +1157,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 1,
+      "daily_waivers_last_ran": 2,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -1365,23 +1365,6 @@
       },
       {
         "active": true,
-        "age": 22,
-        "depth_chart_order": 4,
-        "depth_chart_position": "RB",
-        "fantasy_positions": [
-          "RB"
-        ],
-        "full_name": "LeQuint Allen",
-        "injury_body_part": "Hip",
-        "injury_status": "Questionable",
-        "player_id": "12544",
-        "position": "RB",
-        "status": "Active",
-        "team": "JAX",
-        "years_exp": 1
-      },
-      {
-        "active": true,
         "age": 23,
         "depth_chart_order": 4,
         "depth_chart_position": "SWR",
@@ -1395,6 +1378,23 @@
         "position": "WR",
         "status": "Active",
         "team": "LV",
+        "years_exp": 0
+      },
+      {
+        "active": true,
+        "age": 23,
+        "depth_chart_order": 4,
+        "depth_chart_position": "SWR",
+        "fantasy_positions": [
+          "WR"
+        ],
+        "full_name": "Josh Cameron",
+        "injury_body_part": null,
+        "injury_status": null,
+        "player_id": "13394",
+        "position": "WR",
+        "status": "Active",
+        "team": "JAX",
         "years_exp": 0
       },
       {
@@ -1458,7 +1458,7 @@
         ],
         "full_name": "Dallas Goedert",
         "injury_body_part": "Knee - MCL",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "player_id": "5022",
         "position": "TE",
         "status": "Active",
@@ -1508,8 +1508,8 @@
           "WR"
         ],
         "full_name": "Terry McLaurin",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Hamstring",
+        "injury_status": "Questionable",
         "player_id": "5927",
         "position": "WR",
         "status": "Active",
@@ -1526,7 +1526,7 @@
         ],
         "full_name": "Justin Jefferson",
         "injury_body_part": "Ankle",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "player_id": "6794",
         "position": "WR",
         "status": "Active",
@@ -1559,8 +1559,8 @@
           "WR"
         ],
         "full_name": "Nico Collins",
-        "injury_body_part": "Hamstring",
-        "injury_status": "Questionable",
+        "injury_body_part": null,
+        "injury_status": null,
         "player_id": "7569",
         "position": "WR",
         "status": "Active",
@@ -1697,8 +1697,8 @@
       "12512",
       "12529",
       "12540",
-      "12544",
       "13329",
+      "13394",
       "2505",
       "3214",
       "4046",
@@ -1730,7 +1730,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 40,
-      "waiver_position": 8,
+      "waiver_position": 12,
       "wins": 1
     },
     "starters": [
@@ -1739,9 +1739,9 @@
       "12512",
       "8112",
       "7569",
-      "5927",
+      "5872",
       "10236",
-      "6794",
+      "5927",
       "12529"
     ],
     "taxi": [
@@ -2431,8 +2431,8 @@
             "RB"
           ],
           "full_name": "Tyrone Tracy",
-          "injury_body_part": "Knee",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "11655",
           "position": "RB",
           "status": "Active",
@@ -2546,7 +2546,7 @@
           "active": true,
           "age": 23,
           "depth_chart_order": 3,
-          "depth_chart_position": "LWR",
+          "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
@@ -2755,8 +2755,8 @@
             "RB"
           ],
           "full_name": "D'Andre Swift",
-          "injury_body_part": "Knee",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "6790",
           "position": "RB",
           "status": "Active",
@@ -2790,7 +2790,7 @@
           ],
           "full_name": "DeVonta Smith",
           "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "7525",
           "position": "WR",
           "status": "Active",
@@ -2880,7 +2880,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 41,
-        "waiver_position": 12,
+        "waiver_position": 10,
         "wins": 3
       },
       "starters": [
@@ -2927,8 +2927,8 @@
             "RB"
           ],
           "full_name": "D'Andre Swift",
-          "injury_body_part": "Knee",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "6790",
           "position": "RB",
           "status": "Active",
@@ -2937,20 +2937,20 @@
         },
         {
           "active": true,
-          "age": 27,
-          "depth_chart_order": 1,
-          "depth_chart_position": "LWR",
+          "age": 30,
+          "depth_chart_order": 2,
+          "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "DeVonta Smith",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
-          "player_id": "7525",
+          "full_name": "Chris Godwin",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "4037",
           "position": "WR",
           "status": "Active",
-          "team": "PHI",
-          "years_exp": 5
+          "team": "TB",
+          "years_exp": 9
         },
         {
           "active": true,
@@ -3127,7 +3127,7 @@
           ],
           "full_name": "Jayden Daniels",
           "injury_body_part": "Elbow",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "11566",
           "position": "QB",
           "status": "Active",
@@ -3194,8 +3194,8 @@
             "WR"
           ],
           "full_name": "Keon Coleman",
-          "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "11637",
           "position": "WR",
           "status": "Active",
@@ -3432,8 +3432,8 @@
             "WR"
           ],
           "full_name": "Jakobi Meyers",
-          "injury_body_part": "Thumb",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "5947",
           "position": "WR",
           "status": "Active",
@@ -3484,7 +3484,7 @@
           ],
           "full_name": "Rachaad White",
           "injury_body_part": "Shoulder",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "8136",
           "position": "RB",
           "status": "Active",
@@ -3608,7 +3608,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 15,
-        "waiver_position": 7,
+        "waiver_position": 6,
         "wins": 0
       },
       "starters": [
@@ -3656,7 +3656,7 @@
           ],
           "full_name": "Rachaad White",
           "injury_body_part": "Shoulder",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "8136",
           "position": "RB",
           "status": "Active",
@@ -3689,8 +3689,8 @@
             "WR"
           ],
           "full_name": "Jakobi Meyers",
-          "injury_body_part": "Thumb",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "5947",
           "position": "WR",
           "status": "Active",
@@ -4336,43 +4336,43 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 34,
-        "waiver_position": 9,
+        "waiver_position": 7,
         "wins": 1
       },
       "starters": [
         {
           "active": true,
-          "age": 23,
+          "age": 27,
           "depth_chart_order": 1,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
           ],
-          "full_name": "Jalon Daniels",
+          "full_name": "Jordan Love",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "13425",
+          "player_id": "6804",
           "position": "QB",
           "status": "Active",
-          "team": "TB",
-          "years_exp": 0
+          "team": "GB",
+          "years_exp": 6
         },
         {
           "active": true,
-          "age": 25,
+          "age": 22,
           "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Jacory Croskey-Merritt",
+          "full_name": "Braelon Allen",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "12533",
+          "player_id": "11576",
           "position": "RB",
           "status": "Active",
-          "team": "WAS",
-          "years_exp": 1
+          "team": "NYJ",
+          "years_exp": 2
         },
         {
           "active": true,
@@ -4410,19 +4410,19 @@
         },
         {
           "active": true,
-          "age": 25,
-          "depth_chart_order": 1,
-          "depth_chart_position": "SWR",
+          "age": 24,
+          "depth_chart_order": 2,
+          "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Malik Washington",
+          "full_name": "Marvin Harrison",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "11610",
+          "player_id": "11628",
           "position": "WR",
           "status": "Active",
-          "team": "MIA",
+          "team": "ARI",
           "years_exp": 2
         },
         {
@@ -4461,20 +4461,20 @@
         },
         {
           "active": true,
-          "age": 24,
-          "depth_chart_order": 2,
-          "depth_chart_position": "LWR",
+          "age": 25,
+          "depth_chart_order": 1,
+          "depth_chart_position": "RB",
           "fantasy_positions": [
-            "WR"
+            "RB"
           ],
-          "full_name": "Marvin Harrison",
+          "full_name": "Jacory Croskey-Merritt",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "11628",
-          "position": "WR",
+          "player_id": "12533",
+          "position": "RB",
           "status": "Active",
-          "team": "ARI",
-          "years_exp": 2
+          "team": "WAS",
+          "years_exp": 1
         },
         {
           "active": true,
@@ -4583,7 +4583,7 @@
           ],
           "full_name": "Caleb Williams",
           "injury_body_part": "Hamstring",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "player_id": "11560",
           "position": "QB",
           "status": "Active",
@@ -4616,8 +4616,8 @@
             "RB"
           ],
           "full_name": "Bucky Irving",
-          "injury_body_part": "Lower Body",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "11584",
           "position": "RB",
           "status": "Active",
@@ -4650,8 +4650,8 @@
             "TE"
           ],
           "full_name": "Ben Sinnott",
-          "injury_body_part": "Ribs",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "11596",
           "position": "TE",
           "status": "Active",
@@ -4729,14 +4729,14 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
           ],
           "full_name": "Mason Taylor",
           "injury_body_part": "Thumb",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "player_id": "12498",
           "position": "TE",
           "status": "Active",
@@ -4830,20 +4830,20 @@
         },
         {
           "active": true,
-          "age": 24,
-          "depth_chart_order": 6,
-          "depth_chart_position": "LWR",
+          "age": 38,
+          "depth_chart_order": 1,
+          "depth_chart_position": "QB",
           "fantasy_positions": [
-            "WR"
+            "QB"
           ],
-          "full_name": "Colbie Young",
-          "injury_body_part": "Knee",
-          "injury_status": "Out",
-          "player_id": "13477",
-          "position": "WR",
+          "full_name": "Case Keenum",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "1737",
+          "position": "QB",
           "status": "Active",
-          "team": "CIN",
-          "years_exp": 0
+          "team": "CHI",
+          "years_exp": 14
         },
         {
           "active": true,
@@ -5047,7 +5047,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 2,
+        "waiver_position": 11,
         "wins": 2
       },
       "starters": [
@@ -5179,8 +5179,8 @@
             "RB"
           ],
           "full_name": "Bucky Irving",
-          "injury_body_part": "Lower Body",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "11584",
           "position": "RB",
           "status": "Active",
@@ -5215,8 +5215,8 @@
             "TE"
           ],
           "full_name": "Ben Sinnott",
-          "injury_body_part": "Ribs",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "11596",
           "position": "TE",
           "status": "Active",
@@ -5259,8 +5259,8 @@
             "RB"
           ],
           "full_name": "Ray Davis",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Hamstring",
+          "injury_status": "Questionable",
           "player_id": "11575",
           "position": "RB",
           "status": "Active",
@@ -5498,7 +5498,7 @@
           ],
           "full_name": "Brenen Thompson",
           "injury_body_part": "Quadriceps",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "13380",
           "position": "WR",
           "status": "Active",
@@ -5718,8 +5718,8 @@
             "WR"
           ],
           "full_name": "Zay Flowers",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Hamstring",
+          "injury_status": "Questionable",
           "player_id": "9997",
           "position": "WR",
           "status": "Active",
@@ -5822,8 +5822,8 @@
             "WR"
           ],
           "full_name": "Zay Flowers",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Hamstring",
+          "injury_status": "Questionable",
           "player_id": "9997",
           "position": "WR",
           "status": "Active",
@@ -6038,8 +6038,8 @@
             "RB"
           ],
           "full_name": "George Holani",
-          "injury_body_part": "Ribs",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "12048",
           "position": "RB",
           "status": "Active",
@@ -6225,8 +6225,8 @@
             "WR"
           ],
           "full_name": "DJ Moore",
-          "injury_body_part": "Shoulder",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "4983",
           "position": "WR",
           "status": "Active",
@@ -6355,14 +6355,14 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 3,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
           "full_name": "Breece Hall",
-          "injury_body_part": "Thigh",
-          "injury_status": "Doubtful",
+          "injury_body_part": "Quadriceps",
+          "injury_status": "Out",
           "player_id": "8155",
           "position": "RB",
           "status": "Active",
@@ -6378,8 +6378,8 @@
             "TE"
           ],
           "full_name": "Chig Okonkwo",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "8210",
           "position": "TE",
           "status": "Active",
@@ -6486,7 +6486,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 30,
-        "waiver_position": 11,
+        "waiver_position": 9,
         "wins": 1
       },
       "starters": [
@@ -6635,8 +6635,8 @@
             "WR"
           ],
           "full_name": "DJ Moore",
-          "injury_body_part": "Shoulder",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "4983",
           "position": "WR",
           "status": "Active",
@@ -6879,7 +6879,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -7214,7 +7214,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 15,
-        "waiver_position": 4,
+        "waiver_position": 3,
         "wins": 2
       },
       "starters": [
@@ -7410,7 +7410,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -7488,14 +7488,14 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 7,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Adonai Mitchell",
           "injury_body_part": "Finger",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "player_id": "11625",
           "position": "WR",
           "status": "Active",
@@ -7942,7 +7942,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 100,
-        "waiver_position": 6,
+        "waiver_position": 5,
         "wins": 1
       },
       "starters": [
@@ -8199,14 +8199,14 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 4,
+          "depth_chart_order": 7,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Xavier Legette",
           "injury_body_part": "Knee",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "player_id": "11626",
           "position": "WR",
           "status": "Active",
@@ -8376,7 +8376,7 @@
           ],
           "full_name": "Jadarian Price",
           "injury_body_part": "Chest",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "13286",
           "position": "RB",
           "status": "Active",
@@ -8420,14 +8420,14 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Chris Bell",
-          "injury_body_part": "Knee",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13311",
           "position": "WR",
           "status": "Active",
@@ -8495,7 +8495,7 @@
           ],
           "full_name": "Marquise Brown",
           "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "5848",
           "position": "WR",
           "status": "Active",
@@ -8670,7 +8670,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 11,
-        "waiver_position": 5,
+        "waiver_position": 4,
         "wins": 2
       },
       "starters": [
@@ -8718,7 +8718,7 @@
           ],
           "full_name": "Jadarian Price",
           "injury_body_part": "Chest",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "13286",
           "position": "RB",
           "status": "Active",
@@ -8849,14 +8849,14 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 4,
+          "depth_chart_order": 7,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Xavier Legette",
           "injury_body_part": "Knee",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "player_id": "11626",
           "position": "WR",
           "status": "Active",
@@ -9036,10 +9036,10 @@
           ],
           "full_name": "Terrance Ferguson",
           "injury_body_part": "Ankle",
-          "injury_status": "Doubtful",
+          "injury_status": "IR",
           "player_id": "12487",
           "position": "TE",
-          "status": "Active",
+          "status": "Inactive",
           "team": "LAR",
           "years_exp": 1
         },
@@ -9341,8 +9341,8 @@
             "WR"
           ],
           "full_name": "Puka Nacua",
-          "injury_body_part": "Hip",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "9493",
           "position": "WR",
           "status": "Active",
@@ -9398,7 +9398,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 25,
-        "waiver_position": 3,
+        "waiver_position": 2,
         "wins": 3
       },
       "starters": [
@@ -9479,8 +9479,8 @@
             "WR"
           ],
           "full_name": "Puka Nacua",
-          "injury_body_part": "Hip",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "9493",
           "position": "WR",
           "status": "Active",
@@ -9756,23 +9756,6 @@
         },
         {
           "active": true,
-          "age": 22,
-          "depth_chart_order": 4,
-          "depth_chart_position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "full_name": "LeQuint Allen",
-          "injury_body_part": "Hip",
-          "injury_status": "Questionable",
-          "player_id": "12544",
-          "position": "RB",
-          "status": "Active",
-          "team": "JAX",
-          "years_exp": 1
-        },
-        {
-          "active": true,
           "age": 23,
           "depth_chart_order": 4,
           "depth_chart_position": "SWR",
@@ -9786,6 +9769,23 @@
           "position": "WR",
           "status": "Active",
           "team": "LV",
+          "years_exp": 0
+        },
+        {
+          "active": true,
+          "age": 23,
+          "depth_chart_order": 4,
+          "depth_chart_position": "SWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Josh Cameron",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "13394",
+          "position": "WR",
+          "status": "Active",
+          "team": "JAX",
           "years_exp": 0
         },
         {
@@ -9849,7 +9849,7 @@
           ],
           "full_name": "Dallas Goedert",
           "injury_body_part": "Knee - MCL",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "player_id": "5022",
           "position": "TE",
           "status": "Active",
@@ -9899,8 +9899,8 @@
             "WR"
           ],
           "full_name": "Terry McLaurin",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Hamstring",
+          "injury_status": "Questionable",
           "player_id": "5927",
           "position": "WR",
           "status": "Active",
@@ -9917,7 +9917,7 @@
           ],
           "full_name": "Justin Jefferson",
           "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "6794",
           "position": "WR",
           "status": "Active",
@@ -9950,8 +9950,8 @@
             "WR"
           ],
           "full_name": "Nico Collins",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "7569",
           "position": "WR",
           "status": "Active",
@@ -10091,7 +10091,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 40,
-        "waiver_position": 8,
+        "waiver_position": 12,
         "wins": 1
       },
       "starters": [
@@ -10172,8 +10172,8 @@
             "WR"
           ],
           "full_name": "Nico Collins",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "7569",
           "position": "WR",
           "status": "Active",
@@ -10182,19 +10182,19 @@
         },
         {
           "active": true,
-          "age": 31,
-          "depth_chart_order": 1,
-          "depth_chart_position": "LWR",
+          "age": 30,
+          "depth_chart_order": 2,
+          "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Terry McLaurin",
+          "full_name": "Deebo Samuel",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "5927",
+          "player_id": "5872",
           "position": "WR",
           "status": "Active",
-          "team": "WAS",
+          "team": "SF",
           "years_exp": 7
         },
         {
@@ -10216,20 +10216,20 @@
         },
         {
           "active": true,
-          "age": 27,
+          "age": 31,
           "depth_chart_order": 1,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Justin Jefferson",
-          "injury_body_part": "Ankle",
+          "full_name": "Terry McLaurin",
+          "injury_body_part": "Hamstring",
           "injury_status": "Questionable",
-          "player_id": "6794",
+          "player_id": "5927",
           "position": "WR",
           "status": "Active",
-          "team": "MIN",
-          "years_exp": 6
+          "team": "WAS",
+          "years_exp": 7
         },
         {
           "active": true,
@@ -10331,14 +10331,14 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 2,
+          "depth_chart_order": 9,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Caleb Douglas",
           "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "13296",
           "position": "WR",
           "status": "Active",
@@ -10779,8 +10779,8 @@
             "RB"
           ],
           "full_name": "Keaton Mitchell",
-          "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "9511",
           "position": "RB",
           "status": "Active",
@@ -10819,7 +10819,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 45,
-        "waiver_position": 10,
+        "waiver_position": 8,
         "wins": 2
       },
       "starters": [
@@ -10981,14 +10981,14 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 2,
+          "depth_chart_order": 9,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Caleb Douglas",
           "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "13296",
           "position": "WR",
           "status": "Active",

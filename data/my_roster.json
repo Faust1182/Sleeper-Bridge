@@ -90,7 +90,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-10-02T12:35:57.015002+00:00",
+  "generated_at": "2026-10-02T22:14:38.478338+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -252,23 +252,6 @@
       },
       {
         "active": true,
-        "age": 22,
-        "depth_chart_order": 4,
-        "depth_chart_position": "RB",
-        "fantasy_positions": [
-          "RB"
-        ],
-        "full_name": "LeQuint Allen",
-        "injury_body_part": "Hip",
-        "injury_status": "Questionable",
-        "player_id": "12544",
-        "position": "RB",
-        "status": "Active",
-        "team": "JAX",
-        "years_exp": 1
-      },
-      {
-        "active": true,
         "age": 23,
         "depth_chart_order": 4,
         "depth_chart_position": "SWR",
@@ -282,6 +265,23 @@
         "position": "WR",
         "status": "Active",
         "team": "LV",
+        "years_exp": 0
+      },
+      {
+        "active": true,
+        "age": 23,
+        "depth_chart_order": 4,
+        "depth_chart_position": "SWR",
+        "fantasy_positions": [
+          "WR"
+        ],
+        "full_name": "Josh Cameron",
+        "injury_body_part": null,
+        "injury_status": null,
+        "player_id": "13394",
+        "position": "WR",
+        "status": "Active",
+        "team": "JAX",
         "years_exp": 0
       },
       {
@@ -345,7 +345,7 @@
         ],
         "full_name": "Dallas Goedert",
         "injury_body_part": "Knee - MCL",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "player_id": "5022",
         "position": "TE",
         "status": "Active",
@@ -395,8 +395,8 @@
           "WR"
         ],
         "full_name": "Terry McLaurin",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Hamstring",
+        "injury_status": "Questionable",
         "player_id": "5927",
         "position": "WR",
         "status": "Active",
@@ -413,7 +413,7 @@
         ],
         "full_name": "Justin Jefferson",
         "injury_body_part": "Ankle",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "player_id": "6794",
         "position": "WR",
         "status": "Active",
@@ -446,8 +446,8 @@
           "WR"
         ],
         "full_name": "Nico Collins",
-        "injury_body_part": "Hamstring",
-        "injury_status": "Questionable",
+        "injury_body_part": null,
+        "injury_status": null,
         "player_id": "7569",
         "position": "WR",
         "status": "Active",
@@ -584,8 +584,8 @@
       "12512",
       "12529",
       "12540",
-      "12544",
       "13329",
+      "13394",
       "2505",
       "3214",
       "4046",
@@ -617,7 +617,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 40,
-      "waiver_position": 8,
+      "waiver_position": 12,
       "wins": 1
     },
     "starters": [
@@ -626,9 +626,9 @@
       "12512",
       "8112",
       "7569",
-      "5927",
+      "5872",
       "10236",
-      "6794",
+      "5927",
       "12529"
     ],
     "taxi": [
