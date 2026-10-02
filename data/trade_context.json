@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-01T22:41:49.325461+00:00",
+  "generated_at": "2026-10-02T05:37:54.769152+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -4179,7 +4179,7 @@
         {
           "active": true,
           "age": 28,
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -5403,8 +5403,8 @@
             "QB"
           ],
           "full_name": "Drew Allar",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "13289",
           "position": "QB",
           "status": "Active",
@@ -5900,8 +5900,8 @@
             "QB"
           ],
           "full_name": "Drew Allar",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "13289",
           "position": "QB",
           "status": "Active",
@@ -6853,7 +6853,7 @@
         {
           "active": true,
           "age": 32,
-          "depth_chart_order": 7,
+          "depth_chart_order": 6,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -7125,7 +7125,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 6,
+          "depth_chart_order": 7,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -7144,7 +7144,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 6,
+          "depth_chart_order": 7,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -7939,19 +7939,19 @@
         },
         {
           "active": true,
-          "age": 26,
+          "age": 27,
           "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Kyren Williams",
+          "full_name": "Jaylen Warren",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "8150",
+          "player_id": "8228",
           "position": "RB",
           "status": "Active",
-          "team": "LAR",
+          "team": "PIT",
           "years_exp": 4
         },
         {
@@ -8041,19 +8041,19 @@
         },
         {
           "active": true,
-          "age": 27,
+          "age": 26,
           "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Jaylen Warren",
+          "full_name": "Kyren Williams",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "8228",
+          "player_id": "8150",
           "position": "RB",
           "status": "Active",
-          "team": "PIT",
+          "team": "LAR",
           "years_exp": 4
         }
       ],
@@ -8156,7 +8156,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -8806,7 +8806,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -10748,20 +10748,20 @@
       "reserve": [
         {
           "active": true,
-          "age": 31,
-          "depth_chart_order": 4,
-          "depth_chart_position": "RB",
+          "age": 26,
+          "depth_chart_order": 6,
+          "depth_chart_position": null,
           "fantasy_positions": [
-            "RB"
+            "WR"
           ],
-          "full_name": "James Conner",
-          "injury_body_part": "Foot",
+          "full_name": "Jayden Reed",
+          "injury_body_part": "Neck",
           "injury_status": "IR",
-          "player_id": "4137",
-          "position": "RB",
+          "player_id": "10222",
+          "position": "WR",
           "status": "Inactive",
-          "team": "ARI",
-          "years_exp": 9
+          "team": "GB",
+          "years_exp": 3
         }
       ],
       "roster_id": 12,
@@ -10867,20 +10867,20 @@
         },
         {
           "active": true,
-          "age": 32,
+          "age": 28,
           "depth_chart_order": 2,
-          "depth_chart_position": "SWR",
+          "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Stefon Diggs",
+          "full_name": "Michael Pittman",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "2449",
+          "player_id": "6819",
           "position": "WR",
           "status": "Active",
-          "team": "WAS",
-          "years_exp": 11
+          "team": "PIT",
+          "years_exp": 6
         },
         {
           "active": true,
@@ -10918,20 +10918,20 @@
         },
         {
           "active": true,
-          "age": 33,
-          "depth_chart_order": 1,
-          "depth_chart_position": "LWR",
+          "age": 32,
+          "depth_chart_order": 2,
+          "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Mike Evans",
-          "injury_body_part": "Ribs",
-          "injury_status": "Questionable",
-          "player_id": "2216",
+          "full_name": "Stefon Diggs",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "2449",
           "position": "WR",
           "status": "Active",
-          "team": "SF",
-          "years_exp": 12
+          "team": "WAS",
+          "years_exp": 11
         }
       ],
       "taxi": [
