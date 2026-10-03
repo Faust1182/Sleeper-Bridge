@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-03T16:18:00.615571+00:00",
+  "generated_at": "2026-10-03T21:14:49.559074+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -3415,8 +3415,8 @@
             "WR"
           ],
           "full_name": "Barion Brown",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13533",
           "position": "WR",
           "status": "Active",
@@ -8206,10 +8206,10 @@
           ],
           "full_name": "Xavier Legette",
           "injury_body_part": "Knee",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "player_id": "11626",
           "position": "WR",
-          "status": "Active",
+          "status": "Inactive",
           "team": "CAR",
           "years_exp": 2
         },
@@ -8376,10 +8376,10 @@
           ],
           "full_name": "Jadarian Price",
           "injury_body_part": "Chest",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "player_id": "13286",
           "position": "RB",
-          "status": "Active",
+          "status": "Inactive",
           "team": "SEA",
           "years_exp": 0
         },
@@ -8718,10 +8718,10 @@
           ],
           "full_name": "Jadarian Price",
           "injury_body_part": "Chest",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "player_id": "13286",
           "position": "RB",
-          "status": "Active",
+          "status": "Inactive",
           "team": "SEA",
           "years_exp": 0
         },
@@ -8856,10 +8856,10 @@
           ],
           "full_name": "Xavier Legette",
           "injury_body_part": "Knee",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "player_id": "11626",
           "position": "WR",
-          "status": "Active",
+          "status": "Inactive",
           "team": "CAR",
           "years_exp": 2
         },
@@ -10399,7 +10399,7 @@
         {
           "active": true,
           "age": 34,
-          "depth_chart_order": 2,
+          "depth_chart_order": 7,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
