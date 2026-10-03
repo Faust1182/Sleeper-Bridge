@@ -90,7 +90,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-10-03T11:40:07.885209+00:00",
+  "generated_at": "2026-10-03T16:18:00.615571+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -185,7 +185,7 @@
       {
         "active": true,
         "age": 22,
-        "depth_chart_order": 1,
+        "depth_chart_order": 2,
         "depth_chart_position": "RB",
         "fantasy_positions": [
           "RB"
@@ -396,7 +396,7 @@
         ],
         "full_name": "Terry McLaurin",
         "injury_body_part": "Hamstring",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "player_id": "5927",
         "position": "WR",
         "status": "Active",
@@ -617,7 +617,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 40,
-      "waiver_position": 12,
+      "waiver_position": 11,
       "wins": 1
     },
     "starters": [
@@ -628,7 +628,7 @@
       "7569",
       "5872",
       "10236",
-      "5927",
+      "11435",
       "12529"
     ],
     "taxi": [

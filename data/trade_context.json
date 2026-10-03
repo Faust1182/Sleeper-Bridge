@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-03T11:40:07.885209+00:00",
+  "generated_at": "2026-10-03T16:18:00.615571+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1157,7 +1157,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 2,
+      "daily_waivers_last_ran": 3,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -1298,7 +1298,7 @@
       {
         "active": true,
         "age": 22,
-        "depth_chart_order": 1,
+        "depth_chart_order": 2,
         "depth_chart_position": "RB",
         "fantasy_positions": [
           "RB"
@@ -1509,7 +1509,7 @@
         ],
         "full_name": "Terry McLaurin",
         "injury_body_part": "Hamstring",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "player_id": "5927",
         "position": "WR",
         "status": "Active",
@@ -1730,7 +1730,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 40,
-      "waiver_position": 12,
+      "waiver_position": 11,
       "wins": 1
     },
     "starters": [
@@ -1741,7 +1741,7 @@
       "7569",
       "5872",
       "10236",
-      "5927",
+      "11435",
       "12529"
     ],
     "taxi": [
@@ -2528,7 +2528,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 7,
+          "depth_chart_order": 6,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -2880,7 +2880,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 41,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 3
       },
       "starters": [
@@ -3830,23 +3830,6 @@
       "players": [
         {
           "active": true,
-          "age": 25,
-          "depth_chart_order": 3,
-          "depth_chart_position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "full_name": "Jacob Saylors",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "11237",
-          "position": "RB",
-          "status": "Active",
-          "team": "DET",
-          "years_exp": 3
-        },
-        {
-          "active": true,
           "age": 22,
           "depth_chart_order": 1,
           "depth_chart_position": "RB",
@@ -4085,6 +4068,23 @@
         },
         {
           "active": true,
+          "age": 26,
+          "depth_chart_order": 3,
+          "depth_chart_position": "SWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Dohnte Meyers",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "13264",
+          "position": "WR",
+          "status": "Active",
+          "team": "CIN",
+          "years_exp": 0
+        },
+        {
+          "active": true,
           "age": 22,
           "depth_chart_order": 4,
           "depth_chart_position": "LWR",
@@ -4222,7 +4222,7 @@
         {
           "active": true,
           "age": 28,
-          "depth_chart_order": 5,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -4336,7 +4336,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 34,
-        "waiver_position": 7,
+        "waiver_position": 12,
         "wins": 1
       },
       "starters": [
@@ -4559,7 +4559,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -4831,7 +4831,7 @@
         {
           "active": true,
           "age": 38,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -5047,7 +5047,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 11,
+        "waiver_position": 10,
         "wins": 2
       },
       "starters": [
@@ -5287,7 +5287,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -6486,7 +6486,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 30,
-        "waiver_position": 9,
+        "waiver_position": 8,
         "wins": 1
       },
       "starters": [
@@ -9689,7 +9689,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -9900,7 +9900,7 @@
           ],
           "full_name": "Terry McLaurin",
           "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "player_id": "5927",
           "position": "WR",
           "status": "Active",
@@ -10091,7 +10091,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 40,
-        "waiver_position": 12,
+        "waiver_position": 11,
         "wins": 1
       },
       "starters": [
@@ -10216,20 +10216,20 @@
         },
         {
           "active": true,
-          "age": 31,
+          "age": 27,
           "depth_chart_order": 1,
-          "depth_chart_position": "LWR",
+          "depth_chart_position": "RB",
           "fantasy_positions": [
-            "WR"
+            "RB"
           ],
-          "full_name": "Terry McLaurin",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
-          "player_id": "5927",
-          "position": "WR",
+          "full_name": "Emanuel Wilson",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "11435",
+          "position": "RB",
           "status": "Active",
-          "team": "WAS",
-          "years_exp": 7
+          "team": "SEA",
+          "years_exp": 3
         },
         {
           "active": true,
@@ -10406,7 +10406,7 @@
           ],
           "full_name": "Keenan Allen",
           "injury_body_part": "Groin",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "1479",
           "position": "WR",
           "status": "Active",
@@ -10819,7 +10819,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 45,
-        "waiver_position": 8,
+        "waiver_position": 7,
         "wins": 2
       },
       "starters": [
