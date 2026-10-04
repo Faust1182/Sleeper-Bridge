@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-04T05:53:40.547284+00:00",
+  "generated_at": "2026-10-04T12:22:02.615403+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1509,7 +1509,7 @@
         ],
         "full_name": "Terry McLaurin",
         "injury_body_part": "Hamstring",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "player_id": "5927",
         "position": "WR",
         "status": "Active",
@@ -3211,8 +3211,8 @@
             "RB"
           ],
           "full_name": "DJ Giddens",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "12471",
           "position": "RB",
           "status": "Active",
@@ -8710,19 +8710,19 @@
         },
         {
           "active": true,
-          "age": 22,
-          "depth_chart_order": 8,
+          "age": 23,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Jadarian Price",
-          "injury_body_part": "Chest",
-          "injury_status": "IR",
-          "player_id": "13286",
+          "full_name": "Mike Washington",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "13305",
           "position": "RB",
-          "status": "Inactive",
-          "team": "SEA",
+          "status": "Active",
+          "team": "LV",
           "years_exp": 0
         },
         {
@@ -9900,7 +9900,7 @@
           ],
           "full_name": "Terry McLaurin",
           "injury_body_part": "Hamstring",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "player_id": "5927",
           "position": "WR",
           "status": "Active",
@@ -10876,20 +10876,20 @@
         },
         {
           "active": true,
-          "age": 33,
-          "depth_chart_order": 2,
-          "depth_chart_position": "LWR",
+          "age": 32,
+          "depth_chart_order": 1,
+          "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Davante Adams",
+          "full_name": "Stefon Diggs",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "2133",
+          "player_id": "2449",
           "position": "WR",
           "status": "Active",
-          "team": "LAR",
-          "years_exp": 12
+          "team": "WAS",
+          "years_exp": 11
         },
         {
           "active": true,
@@ -10961,20 +10961,20 @@
         },
         {
           "active": true,
-          "age": 32,
-          "depth_chart_order": 1,
-          "depth_chart_position": "SWR",
+          "age": 33,
+          "depth_chart_order": 2,
+          "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Stefon Diggs",
+          "full_name": "Davante Adams",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "2449",
+          "player_id": "2133",
           "position": "WR",
           "status": "Active",
-          "team": "WAS",
-          "years_exp": 11
+          "team": "LAR",
+          "years_exp": 12
         }
       ],
       "taxi": [

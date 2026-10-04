@@ -90,7 +90,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-10-04T05:53:40.547284+00:00",
+  "generated_at": "2026-10-04T12:22:02.615403+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -396,7 +396,7 @@
         ],
         "full_name": "Terry McLaurin",
         "injury_body_part": "Hamstring",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "player_id": "5927",
         "position": "WR",
         "status": "Active",
