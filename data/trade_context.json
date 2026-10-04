@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-03T21:14:49.559074+00:00",
+  "generated_at": "2026-10-04T05:53:40.547284+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1502,7 +1502,7 @@
       {
         "active": true,
         "age": 31,
-        "depth_chart_order": 1,
+        "depth_chart_order": 2,
         "depth_chart_position": "LWR",
         "fantasy_positions": [
           "WR"
@@ -2528,7 +2528,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 6,
+          "depth_chart_order": 7,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -7607,8 +7607,8 @@
         {
           "active": true,
           "age": 35,
-          "depth_chart_order": null,
-          "depth_chart_position": null,
+          "depth_chart_order": 1,
+          "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
           ],
@@ -8624,7 +8624,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -8643,7 +8643,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -9893,7 +9893,7 @@
         {
           "active": true,
           "age": 31,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -10467,7 +10467,7 @@
         {
           "active": true,
           "age": 32,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -10962,7 +10962,7 @@
         {
           "active": true,
           "age": 32,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
