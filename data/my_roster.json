@@ -1,6 +1,6 @@
 {
   "account": {
-    "avatar": "a45df165aac787c20c63df7ee8007f8e",
+    "avatar": "b824215729810c2280f0842ee9f2e7b0",
     "cookies": null,
     "created": null,
     "currencies": null,
@@ -90,7 +90,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-10-04T21:25:44.091979+00:00",
+  "generated_at": "2026-10-05T05:41:04.237620+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -638,7 +638,7 @@
     ]
   },
   "user": {
-    "avatar": "a45df165aac787c20c63df7ee8007f8e",
+    "avatar": "b824215729810c2280f0842ee9f2e7b0",
     "display_name": "cpablo1182",
     "is_bot": false,
     "is_owner": false,

@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-04T21:25:44.091979+00:00",
+  "generated_at": "2026-10-05T05:41:04.237620+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1751,7 +1751,7 @@
     ]
   },
   "my_user": {
-    "avatar": "a45df165aac787c20c63df7ee8007f8e",
+    "avatar": "b824215729810c2280f0842ee9f2e7b0",
     "display_name": "cpablo1182",
     "is_bot": false,
     "is_owner": false,
@@ -2697,7 +2697,7 @@
         },
         {
           "active": true,
-          "age": 36,
+          "age": 37,
           "depth_chart_order": 1,
           "depth_chart_position": "TE",
           "fantasy_positions": [
@@ -2988,7 +2988,7 @@
         },
         {
           "active": true,
-          "age": 36,
+          "age": 37,
           "depth_chart_order": 1,
           "depth_chart_position": "TE",
           "fantasy_positions": [
@@ -3154,14 +3154,14 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
           ],
           "full_name": "Ja'Tavion Sanders",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "11600",
           "position": "TE",
           "status": "Active",
@@ -3375,7 +3375,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 4,
+          "depth_chart_order": 6,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -3500,8 +3500,8 @@
             "WR"
           ],
           "full_name": "Jalen Nailor",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Concussion",
+          "injury_status": "Questionable",
           "player_id": "8180",
           "position": "WR",
           "status": "Active",
@@ -3517,8 +3517,8 @@
             "WR"
           ],
           "full_name": "Tyquan Thornton",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ankle",
+          "injury_status": "Out",
           "player_id": "8188",
           "position": "WR",
           "status": "Active",
@@ -4024,8 +4024,8 @@
             "WR"
           ],
           "full_name": "Pat Bryant",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Leg",
+          "injury_status": "Questionable",
           "player_id": "12492",
           "position": "WR",
           "status": "Active",
@@ -4678,14 +4678,14 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 2,
+          "depth_chart_order": 7,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Jalen Coker",
           "injury_body_part": "Quadriceps",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "11646",
           "position": "WR",
           "status": "Active",
@@ -5321,7 +5321,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 4,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -6406,7 +6406,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -6459,7 +6459,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -6800,8 +6800,8 @@
             "WR"
           ],
           "full_name": "Ladd McConkey",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Foot",
+          "injury_status": "Out",
           "player_id": "11635",
           "position": "WR",
           "status": "Active",
@@ -7363,8 +7363,8 @@
             "WR"
           ],
           "full_name": "Ladd McConkey",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Foot",
+          "injury_status": "Out",
           "player_id": "11635",
           "position": "WR",
           "status": "Active",
@@ -8199,7 +8199,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 7,
+          "depth_chart_order": 6,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -8233,7 +8233,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -8849,7 +8849,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 7,
+          "depth_chart_order": 6,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -10619,7 +10619,7 @@
         },
         {
           "active": true,
-          "age": 28,
+          "age": 29,
           "depth_chart_order": 2,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
@@ -10910,7 +10910,7 @@
         },
         {
           "active": true,
-          "age": 28,
+          "age": 29,
           "depth_chart_order": 2,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
@@ -11033,7 +11033,7 @@
     }
   ],
   "sleeper_account": {
-    "avatar": "a45df165aac787c20c63df7ee8007f8e",
+    "avatar": "b824215729810c2280f0842ee9f2e7b0",
     "cookies": null,
     "created": null,
     "currencies": null,
