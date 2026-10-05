@@ -25,27 +25,9 @@
   "future_picks": [
     {
       "current_owner_roster_id": 11,
-      "original_roster_id": 11,
-      "round": 1,
-      "season": "2027"
-    },
-    {
-      "current_owner_roster_id": 11,
       "original_roster_id": 12,
       "round": 3,
       "season": "2027"
-    },
-    {
-      "current_owner_roster_id": 11,
-      "original_roster_id": 11,
-      "round": 1,
-      "season": "2028"
-    },
-    {
-      "current_owner_roster_id": 11,
-      "original_roster_id": 4,
-      "round": 2,
-      "season": "2028"
     },
     {
       "current_owner_roster_id": 11,
@@ -68,18 +50,6 @@
     {
       "current_owner_roster_id": 11,
       "original_roster_id": 11,
-      "round": 1,
-      "season": "2029"
-    },
-    {
-      "current_owner_roster_id": 11,
-      "original_roster_id": 11,
-      "round": 2,
-      "season": "2029"
-    },
-    {
-      "current_owner_roster_id": 11,
-      "original_roster_id": 11,
       "round": 3,
       "season": "2029"
     },
@@ -90,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-10-05T05:41:04.237620+00:00",
+  "generated_at": "2026-10-05T14:39:49.382867+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -214,23 +184,6 @@
         "position": "RB",
         "status": "Active",
         "team": "CLE",
-        "years_exp": 1
-      },
-      {
-        "active": true,
-        "age": 23,
-        "depth_chart_order": 2,
-        "depth_chart_position": "RB",
-        "fantasy_positions": [
-          "RB"
-        ],
-        "full_name": "TreVeyon Henderson",
-        "injury_body_part": null,
-        "injury_status": null,
-        "player_id": "12529",
-        "position": "RB",
-        "status": "Active",
-        "team": "NE",
         "years_exp": 1
       },
       {
@@ -422,19 +375,19 @@
       },
       {
         "active": true,
-        "age": 28,
-        "depth_chart_order": 2,
+        "age": 27,
+        "depth_chart_order": 1,
         "depth_chart_position": "RB",
         "fantasy_positions": [
           "RB"
         ],
-        "full_name": "AJ Dillon",
+        "full_name": "Jonathan Taylor",
         "injury_body_part": null,
         "injury_status": null,
-        "player_id": "6828",
+        "player_id": "6813",
         "position": "RB",
         "status": "Active",
-        "team": "CAR",
+        "team": "IND",
         "years_exp": 6
       },
       {
@@ -541,6 +494,23 @@
       },
       {
         "active": true,
+        "age": 26,
+        "depth_chart_order": 1,
+        "depth_chart_position": "RB",
+        "fantasy_positions": [
+          "RB"
+        ],
+        "full_name": "Chase Brown",
+        "injury_body_part": null,
+        "injury_status": null,
+        "player_id": "9224",
+        "position": "RB",
+        "status": "Active",
+        "team": "CIN",
+        "years_exp": 3
+      },
+      {
+        "active": true,
         "age": 24,
         "depth_chart_order": 5,
         "depth_chart_position": "SWR",
@@ -582,7 +552,6 @@
       "12493",
       "12495",
       "12512",
-      "12529",
       "12540",
       "13329",
       "13394",
@@ -594,13 +563,14 @@
       "5872",
       "5927",
       "6794",
-      "6828",
+      "6813",
       "7569",
       "7591",
       "7600",
       "8112",
       "8138",
       "8154",
+      "9224",
       "9494",
       "9757"
     ],
@@ -629,7 +599,7 @@
       "5872",
       "10236",
       "11435",
-      "12529"
+      "0"
     ],
     "taxi": [
       "11630",
