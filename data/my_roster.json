@@ -60,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-10-05T14:39:49.382867+00:00",
+  "generated_at": "2026-10-06T00:03:48.994917+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -291,7 +291,7 @@
       {
         "active": true,
         "age": 31,
-        "depth_chart_order": 4,
+        "depth_chart_order": 3,
         "depth_chart_position": "TE",
         "fantasy_positions": [
           "TE"
@@ -587,7 +587,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 40,
-      "waiver_position": 11,
+      "waiver_position": 10,
       "wins": 1
     },
     "starters": [
