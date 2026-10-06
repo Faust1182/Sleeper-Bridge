@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-06T06:21:20.607370+00:00",
+  "generated_at": "2026-10-06T18:22:33.781130+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2393,9 +2393,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1412866959283863552",
+    "last_message_id": "1413231854328225792",
     "last_message_text_map": null,
-    "last_message_time": 1791216242193,
+    "last_message_time": 1791303239951,
     "last_pinned_message_id": "1412159439930212352",
     "last_read_id": null,
     "league_id": "1314667834135040000",
@@ -2494,12 +2494,12 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 5,
+      "daily_waivers_last_ran": 6,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
       "faab_suggestions": 0,
-      "last_report": 3,
+      "last_report": 4,
       "last_scored_leg": 4,
       "league_average_match": 0,
       "leg": 4,
@@ -2638,7 +2638,7 @@
       {
         "active": true,
         "age": 22,
-        "depth_chart_order": 2,
+        "depth_chart_order": 1,
         "depth_chart_position": "RB",
         "fantasy_positions": [
           "RB"
@@ -2825,7 +2825,7 @@
       {
         "active": true,
         "age": 31,
-        "depth_chart_order": 6,
+        "depth_chart_order": 5,
         "depth_chart_position": "LWR",
         "fantasy_positions": [
           "WR"
@@ -2995,7 +2995,7 @@
       {
         "active": true,
         "age": 24,
-        "depth_chart_order": 5,
+        "depth_chart_order": 4,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -3835,7 +3835,7 @@
     "11627": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -3920,7 +3920,7 @@
     "11635": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 1,
+      "depth_chart_order": 2,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -3971,7 +3971,7 @@
     "11643": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 1,
+      "depth_chart_order": 2,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -4362,7 +4362,7 @@
     "12492": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 3,
+      "depth_chart_order": 7,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -4396,7 +4396,7 @@
     "12495": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 2,
+      "depth_chart_order": 1,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -4549,7 +4549,7 @@
     "12505": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -5009,7 +5009,7 @@
     "12641": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 5,
+      "depth_chart_order": 8,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -5247,7 +5247,7 @@
     "13286": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 8,
+      "depth_chart_order": 9,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -5825,7 +5825,7 @@
     "13413": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 5,
+      "depth_chart_order": 4,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -6964,7 +6964,7 @@
     "5927": {
       "active": true,
       "age": 31,
-      "depth_chart_order": 6,
+      "depth_chart_order": 5,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -7168,7 +7168,7 @@
     "6801": {
       "active": true,
       "age": 27,
-      "depth_chart_order": 2,
+      "depth_chart_order": 1,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -7542,7 +7542,7 @@
     "7564": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 1,
+      "depth_chart_order": 2,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -8171,7 +8171,7 @@
     "8188": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 3,
+      "depth_chart_order": 6,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -8324,7 +8324,7 @@
     "9225": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -8511,7 +8511,7 @@
     "9494": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 5,
+      "depth_chart_order": 4,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -8681,7 +8681,7 @@
     "9753": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 5,
+      "depth_chart_order": 6,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -8698,7 +8698,7 @@
     "9754": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 2,
+      "depth_chart_order": 1,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -8960,7 +8960,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 5,
+          "depth_chart_order": 8,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -9331,14 +9331,14 @@
         "wins": 3
       },
       "starters": [
-        "1373",
+        "11564",
         "9221",
         "6790",
         "4037",
         "8167",
         "12501",
-        "1466",
         "11604",
+        "13317",
         "9500"
       ],
       "taxi": [
@@ -9774,7 +9774,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 3,
+          "depth_chart_order": 6,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -9930,7 +9930,7 @@
       },
       "owner": {
         "display_name": "brettycotz",
-        "team_name": "I take friendship srsly",
+        "team_name": "Will u collude with me?",
         "user_id": "987059842407841792",
         "username": null
       },
@@ -10126,7 +10126,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 7,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -10955,7 +10955,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -11087,7 +11087,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -11325,7 +11325,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 5,
+          "depth_chart_order": 4,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -11444,7 +11444,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -12120,14 +12120,14 @@
         "wins": 1
       },
       "starters": [
-        "12545",
-        "8151",
+        "6770",
         "12472",
+        "8155",
         "4983",
         "7526",
         "10213",
         "10859",
-        "4039",
+        "9482",
         "8144"
       ],
       "taxi": [
@@ -12244,7 +12244,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -12793,7 +12793,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -13254,9 +13254,9 @@
         "8228",
         "9487",
         "8146",
-        "10229",
+        "8121",
         "12506",
-        "4866",
+        "3634",
         "8150"
       ],
       "taxi": [
@@ -13518,7 +13518,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 8,
+          "depth_chart_order": 9,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -13773,7 +13773,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -13958,7 +13958,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -14247,7 +14247,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -14506,7 +14506,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -14693,7 +14693,7 @@
         {
           "active": true,
           "age": 31,
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -14863,7 +14863,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 5,
+          "depth_chart_order": 4,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -15266,7 +15266,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -16046,7 +16046,7 @@
         "player_like_pn": "off",
         "player_nickname_update": "off",
         "show_mascots": "on",
-        "team_name": "I take friendship srsly",
+        "team_name": "Will u collude with me?",
         "team_name_update": "off",
         "trade_block_pn": "off",
         "transaction_commissioner": "on",
@@ -20170,14 +20170,14 @@
           "points": 0.0,
           "roster_id": 1,
           "starters": [
-            "1373",
+            "11564",
             "9221",
             "6790",
             "4037",
             "8167",
             "12501",
-            "1466",
             "11604",
+            "13317",
             "9500"
           ],
           "starters_points": [
@@ -20606,14 +20606,14 @@
           "points": 0.0,
           "roster_id": 6,
           "starters": [
-            "12545",
-            "8151",
+            "6770",
             "12472",
+            "8155",
             "4983",
             "7526",
             "10213",
             "10859",
-            "4039",
+            "9482",
             "8144"
           ],
           "starters_points": [
@@ -20787,9 +20787,9 @@
             "8228",
             "9487",
             "8146",
-            "10229",
+            "8121",
             "12506",
-            "4866",
+            "3634",
             "8150"
           ],
           "starters_points": [
@@ -21225,14 +21225,14 @@
           "points": 0.0,
           "roster_id": 1,
           "starters": [
-            "1373",
+            "11564",
             "9221",
             "6790",
             "4037",
             "8167",
             "12501",
-            "1466",
             "11604",
+            "13317",
             "9500"
           ],
           "starters_points": [
@@ -21661,14 +21661,14 @@
           "points": 0.0,
           "roster_id": 6,
           "starters": [
-            "12545",
-            "8151",
+            "6770",
             "12472",
+            "8155",
             "4983",
             "7526",
             "10213",
             "10859",
-            "4039",
+            "9482",
             "8144"
           ],
           "starters_points": [
@@ -21842,9 +21842,9 @@
             "8228",
             "9487",
             "8146",
-            "10229",
+            "8121",
             "12506",
-            "4866",
+            "3634",
             "8150"
           ],
           "starters_points": [
@@ -22280,14 +22280,14 @@
           "points": 0.0,
           "roster_id": 1,
           "starters": [
-            "1373",
+            "11564",
             "9221",
             "6790",
             "4037",
             "8167",
             "12501",
-            "1466",
             "11604",
+            "13317",
             "9500"
           ],
           "starters_points": [
@@ -22716,14 +22716,14 @@
           "points": 0.0,
           "roster_id": 6,
           "starters": [
-            "12545",
-            "8151",
+            "6770",
             "12472",
+            "8155",
             "4983",
             "7526",
             "10213",
             "10859",
-            "4039",
+            "9482",
             "8144"
           ],
           "starters_points": [
@@ -22897,9 +22897,9 @@
             "8228",
             "9487",
             "8146",
-            "10229",
+            "8121",
             "12506",
-            "4866",
+            "3634",
             "8150"
           ],
           "starters_points": [
@@ -23335,14 +23335,14 @@
           "points": 0.0,
           "roster_id": 1,
           "starters": [
-            "1373",
+            "11564",
             "9221",
             "6790",
             "4037",
             "8167",
             "12501",
-            "1466",
             "11604",
+            "13317",
             "9500"
           ],
           "starters_points": [
@@ -23771,14 +23771,14 @@
           "points": 0.0,
           "roster_id": 6,
           "starters": [
-            "12545",
-            "8151",
+            "6770",
             "12472",
+            "8155",
             "4983",
             "7526",
             "10213",
             "10859",
-            "4039",
+            "9482",
             "8144"
           ],
           "starters_points": [
@@ -23952,9 +23952,9 @@
             "8228",
             "9487",
             "8146",
-            "10229",
+            "8121",
             "12506",
-            "4866",
+            "3634",
             "8150"
           ],
           "starters_points": [
@@ -24390,14 +24390,14 @@
           "points": 0.0,
           "roster_id": 1,
           "starters": [
-            "1373",
+            "11564",
             "9221",
             "6790",
             "4037",
             "8167",
             "12501",
-            "1466",
             "11604",
+            "13317",
             "9500"
           ],
           "starters_points": [
@@ -24826,14 +24826,14 @@
           "points": 0.0,
           "roster_id": 6,
           "starters": [
-            "12545",
-            "8151",
+            "6770",
             "12472",
+            "8155",
             "4983",
             "7526",
             "10213",
             "10859",
-            "4039",
+            "9482",
             "8144"
           ],
           "starters_points": [
@@ -25007,9 +25007,9 @@
             "8228",
             "9487",
             "8146",
-            "10229",
+            "8121",
             "12506",
-            "4866",
+            "3634",
             "8150"
           ],
           "starters_points": [
@@ -25445,14 +25445,14 @@
           "points": 0.0,
           "roster_id": 1,
           "starters": [
-            "1373",
+            "11564",
             "9221",
             "6790",
             "4037",
             "8167",
             "12501",
-            "1466",
             "11604",
+            "13317",
             "9500"
           ],
           "starters_points": [
@@ -25881,14 +25881,14 @@
           "points": 0.0,
           "roster_id": 6,
           "starters": [
-            "12545",
-            "8151",
+            "6770",
             "12472",
+            "8155",
             "4983",
             "7526",
             "10213",
             "10859",
-            "4039",
+            "9482",
             "8144"
           ],
           "starters_points": [
@@ -26062,9 +26062,9 @@
             "8228",
             "9487",
             "8146",
-            "10229",
+            "8121",
             "12506",
-            "4866",
+            "3634",
             "8150"
           ],
           "starters_points": [
@@ -26500,14 +26500,14 @@
           "points": 0.0,
           "roster_id": 1,
           "starters": [
-            "1373",
+            "11564",
             "9221",
             "6790",
             "4037",
             "8167",
             "12501",
-            "1466",
             "11604",
+            "13317",
             "9500"
           ],
           "starters_points": [
@@ -26936,14 +26936,14 @@
           "points": 0.0,
           "roster_id": 6,
           "starters": [
-            "12545",
-            "8151",
+            "6770",
             "12472",
+            "8155",
             "4983",
             "7526",
             "10213",
             "10859",
-            "4039",
+            "9482",
             "8144"
           ],
           "starters_points": [
@@ -27117,9 +27117,9 @@
             "8228",
             "9487",
             "8146",
-            "10229",
+            "8121",
             "12506",
-            "4866",
+            "3634",
             "8150"
           ],
           "starters_points": [
@@ -27555,14 +27555,14 @@
           "points": 0.0,
           "roster_id": 1,
           "starters": [
-            "1373",
+            "11564",
             "9221",
             "6790",
             "4037",
             "8167",
             "12501",
-            "1466",
             "11604",
+            "13317",
             "9500"
           ],
           "starters_points": [
@@ -27991,14 +27991,14 @@
           "points": 0.0,
           "roster_id": 6,
           "starters": [
-            "12545",
-            "8151",
+            "6770",
             "12472",
+            "8155",
             "4983",
             "7526",
             "10213",
             "10859",
-            "4039",
+            "9482",
             "8144"
           ],
           "starters_points": [
@@ -28172,9 +28172,9 @@
             "8228",
             "9487",
             "8146",
-            "10229",
+            "8121",
             "12506",
-            "4866",
+            "3634",
             "8150"
           ],
           "starters_points": [
@@ -28610,14 +28610,14 @@
           "points": 0.0,
           "roster_id": 1,
           "starters": [
-            "1373",
+            "11564",
             "9221",
             "6790",
             "4037",
             "8167",
             "12501",
-            "1466",
             "11604",
+            "13317",
             "9500"
           ],
           "starters_points": [
@@ -29046,14 +29046,14 @@
           "points": 0.0,
           "roster_id": 6,
           "starters": [
-            "12545",
-            "8151",
+            "6770",
             "12472",
+            "8155",
             "4983",
             "7526",
             "10213",
             "10859",
-            "4039",
+            "9482",
             "8144"
           ],
           "starters_points": [
@@ -29227,9 +29227,9 @@
             "8228",
             "9487",
             "8146",
-            "10229",
+            "8121",
             "12506",
-            "4866",
+            "3634",
             "8150"
           ],
           "starters_points": [
@@ -33987,14 +33987,14 @@
           "points": 0.0,
           "roster_id": 1,
           "starters": [
-            "1373",
+            "11564",
             "9221",
             "6790",
             "4037",
             "8167",
             "12501",
-            "1466",
             "11604",
+            "13317",
             "9500"
           ],
           "starters_points": [
@@ -34423,14 +34423,14 @@
           "points": 0.0,
           "roster_id": 6,
           "starters": [
-            "12545",
-            "8151",
+            "6770",
             "12472",
+            "8155",
             "4983",
             "7526",
             "10213",
             "10859",
-            "4039",
+            "9482",
             "8144"
           ],
           "starters_points": [
@@ -34606,7 +34606,7 @@
             "8146",
             "8121",
             "12506",
-            "4866",
+            "3634",
             "8150"
           ],
           "starters_points": [
@@ -35042,14 +35042,14 @@
           "points": 0.0,
           "roster_id": 1,
           "starters": [
-            "1373",
+            "11564",
             "9221",
             "6790",
             "4037",
             "8167",
             "12501",
-            "1466",
             "11604",
+            "13317",
             "9500"
           ],
           "starters_points": [
@@ -35478,14 +35478,14 @@
           "points": 0.0,
           "roster_id": 6,
           "starters": [
-            "12545",
-            "8151",
+            "6770",
             "12472",
+            "8155",
             "4983",
             "7526",
             "10213",
             "10859",
-            "4039",
+            "9482",
             "8144"
           ],
           "starters_points": [
@@ -35659,9 +35659,9 @@
             "8228",
             "9487",
             "8146",
-            "10229",
+            "8121",
             "12506",
-            "4866",
+            "3634",
             "8150"
           ],
           "starters_points": [
@@ -36097,14 +36097,14 @@
           "points": 0.0,
           "roster_id": 1,
           "starters": [
-            "1373",
+            "11564",
             "9221",
             "6790",
             "4037",
             "8167",
             "12501",
-            "1466",
             "11604",
+            "13317",
             "9500"
           ],
           "starters_points": [
@@ -36533,14 +36533,14 @@
           "points": 0.0,
           "roster_id": 6,
           "starters": [
-            "12545",
-            "8151",
+            "6770",
             "12472",
+            "8155",
             "4983",
             "7526",
             "10213",
             "10859",
-            "4039",
+            "9482",
             "8144"
           ],
           "starters_points": [
@@ -36714,9 +36714,9 @@
             "8228",
             "9487",
             "8146",
-            "10229",
+            "8121",
             "12506",
-            "4866",
+            "3634",
             "8150"
           ],
           "starters_points": [
@@ -37152,14 +37152,14 @@
           "points": 0.0,
           "roster_id": 1,
           "starters": [
-            "1373",
+            "11564",
             "9221",
             "6790",
             "4037",
             "8167",
             "12501",
-            "1466",
             "11604",
+            "13317",
             "9500"
           ],
           "starters_points": [
@@ -37588,14 +37588,14 @@
           "points": 0.0,
           "roster_id": 6,
           "starters": [
-            "12545",
-            "8151",
+            "6770",
             "12472",
+            "8155",
             "4983",
             "7526",
             "10213",
             "10859",
-            "4039",
+            "9482",
             "8144"
           ],
           "starters_points": [
@@ -37769,9 +37769,9 @@
             "8228",
             "9487",
             "8146",
-            "10229",
+            "8121",
             "12506",
-            "4866",
+            "3634",
             "8150"
           ],
           "starters_points": [
@@ -38207,14 +38207,14 @@
           "points": 0.0,
           "roster_id": 1,
           "starters": [
-            "1373",
+            "11564",
             "9221",
             "6790",
             "4037",
             "8167",
             "12501",
-            "1466",
             "11604",
+            "13317",
             "9500"
           ],
           "starters_points": [
@@ -38643,14 +38643,14 @@
           "points": 0.0,
           "roster_id": 6,
           "starters": [
-            "12545",
-            "8151",
+            "6770",
             "12472",
+            "8155",
             "4983",
             "7526",
             "10213",
             "10859",
-            "4039",
+            "9482",
             "8144"
           ],
           "starters_points": [
@@ -38824,9 +38824,9 @@
             "8228",
             "9487",
             "8146",
-            "10229",
+            "8121",
             "12506",
-            "4866",
+            "3634",
             "8150"
           ],
           "starters_points": [
