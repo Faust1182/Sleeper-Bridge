@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-06T18:22:33.781130+00:00",
+  "generated_at": "2026-10-07T06:00:03.716625+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -2637,16 +2637,16 @@
           "active": true,
           "age": 24,
           "depth_chart_order": 8,
-          "depth_chart_position": "SWR",
+          "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Jaylin Lane",
           "injury_body_part": "Ankle",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "player_id": "12641",
           "position": "WR",
-          "status": "Active",
+          "status": "Inactive",
           "team": "WAS",
           "years_exp": 1
         },
@@ -2829,12 +2829,12 @@
             "RB"
           ],
           "full_name": "Joe Mixon",
-          "injury_body_part": null,
-          "injury_status": "Active",
+          "injury_body_part": "Foot",
+          "injury_status": "",
           "player_id": "4018",
           "position": "RB",
           "status": "Active",
-          "team": "SEA",
+          "team": null,
           "years_exp": 9
         },
         {
@@ -3567,7 +3567,7 @@
         },
         {
           "active": true,
-          "age": 26,
+          "age": 27,
           "depth_chart_order": 5,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
@@ -4803,7 +4803,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -5298,19 +5298,19 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 2,
-          "depth_chart_position": "SWR",
+          "depth_chart_order": 1,
+          "depth_chart_position": "RB",
           "fantasy_positions": [
-            "WR"
+            "RB"
           ],
-          "full_name": "Wan'Dale Robinson",
+          "full_name": "MarShawn Lloyd",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "8126",
-          "position": "WR",
+          "player_id": "11581",
+          "position": "RB",
           "status": "Active",
-          "team": "TEN",
-          "years_exp": 4
+          "team": "GB",
+          "years_exp": 2
         }
       ],
       "taxi": [
@@ -5758,8 +5758,8 @@
             "RB"
           ],
           "full_name": "Tank Bigsby",
-          "injury_body_part": "Lower Body",
-          "injury_status": "Out",
+          "injury_body_part": "Abdomen",
+          "injury_status": "IR",
           "player_id": "9225",
           "position": "RB",
           "status": "Inactive",
@@ -5871,8 +5871,21 @@
           "years_exp": 5
         },
         {
-          "full_name": "0",
-          "player_id": "0"
+          "active": true,
+          "age": 27,
+          "depth_chart_order": 1,
+          "depth_chart_position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "full_name": "J.K. Dobbins",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "6806",
+          "position": "RB",
+          "status": "Active",
+          "team": "DEN",
+          "years_exp": 6
         },
         {
           "active": true,
@@ -5961,20 +5974,20 @@
         },
         {
           "active": true,
-          "age": 27,
-          "depth_chart_order": 1,
-          "depth_chart_position": "RB",
+          "age": 23,
+          "depth_chart_order": 2,
+          "depth_chart_position": "RWR",
           "fantasy_positions": [
-            "RB"
+            "WR"
           ],
-          "full_name": "J.K. Dobbins",
+          "full_name": "Malachi Fields",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "6806",
-          "position": "RB",
+          "player_id": "13285",
+          "position": "WR",
           "status": "Active",
-          "team": "DEN",
-          "years_exp": 6
+          "team": "NYG",
+          "years_exp": 0
         },
         {
           "active": true,
@@ -8447,7 +8460,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 9,
+          "depth_chart_order": 8,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -8702,7 +8715,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -8720,20 +8733,20 @@
       "reserve": [
         {
           "active": true,
-          "age": 25,
-          "depth_chart_order": 6,
-          "depth_chart_position": "RB",
+          "age": 23,
+          "depth_chart_order": 4,
+          "depth_chart_position": "QB",
           "fantasy_positions": [
-            "RB"
+            "QB"
           ],
-          "full_name": "Zach Charbonnet",
-          "injury_body_part": "Knee - ACL",
-          "injury_status": "PUP",
-          "player_id": "9753",
-          "position": "RB",
+          "full_name": "Jaxson Dart",
+          "injury_body_part": "Knee - Meniscus",
+          "injury_status": "IR",
+          "player_id": "12508",
+          "position": "QB",
           "status": "Inactive",
-          "team": "SEA",
-          "years_exp": 3
+          "team": "NYG",
+          "years_exp": 1
         }
       ],
       "roster_id": 9,
@@ -8822,20 +8835,20 @@
         },
         {
           "active": true,
-          "age": 23,
+          "age": 21,
           "depth_chart_order": 1,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Emeka Egbuka",
+          "full_name": "Carnell Tate",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "12514",
+          "player_id": "13279",
           "position": "WR",
           "status": "Active",
-          "team": "TB",
-          "years_exp": 1
+          "team": "TEN",
+          "years_exp": 0
         },
         {
           "active": true,
@@ -8890,20 +8903,20 @@
         },
         {
           "active": true,
-          "age": 21,
-          "depth_chart_order": 1,
-          "depth_chart_position": "LWR",
+          "age": 26,
+          "depth_chart_order": 2,
+          "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Carnell Tate",
+          "full_name": "Khalil Shakir",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "13279",
+          "player_id": "8134",
           "position": "WR",
           "status": "Active",
-          "team": "TEN",
-          "years_exp": 0
+          "team": "BUF",
+          "years_exp": 4
         }
       ],
       "taxi": [
