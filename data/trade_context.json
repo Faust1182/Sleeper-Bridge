@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-08T13:30:09.435363+00:00",
+  "generated_at": "2026-10-08T23:21:29.002366+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1157,7 +1157,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 7,
+      "daily_waivers_last_ran": 8,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -2482,8 +2482,8 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 3,
-          "depth_chart_position": "RB",
+          "depth_chart_order": null,
+          "depth_chart_position": null,
           "fantasy_positions": [
             "RB"
           ],
@@ -2522,8 +2522,8 @@
             "TE"
           ],
           "full_name": "Brock Bowers",
-          "injury_body_part": "Knee",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "11604",
           "position": "TE",
           "status": "Active",
@@ -3103,8 +3103,8 @@
             "TE"
           ],
           "full_name": "Brock Bowers",
-          "injury_body_part": "Knee",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "11604",
           "position": "TE",
           "status": "Active",
@@ -3489,8 +3489,8 @@
             "TE"
           ],
           "full_name": "Justin Joly",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Concussion",
+          "injury_status": "Questionable",
           "player_id": "13400",
           "position": "TE",
           "status": "Active",
@@ -3506,8 +3506,8 @@
             "RB"
           ],
           "full_name": "Kaelon Black",
-          "injury_body_part": "Illness",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13414",
           "position": "RB",
           "status": "Active",
@@ -3728,14 +3728,14 @@
           "fantasy_positions": [
             "QB"
           ],
-          "full_name": "C.J. Stroud",
+          "full_name": "Jayden Daniels",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "9758",
+          "player_id": "11566",
           "position": "QB",
           "status": "Active",
-          "team": "HOU",
-          "years_exp": 3
+          "team": "WAS",
+          "years_exp": 2
         },
         {
           "active": true,
@@ -3774,18 +3774,18 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 2,
-          "depth_chart_position": "RWR",
+          "depth_chart_order": 3,
+          "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Xavier Worthy",
+          "full_name": "Keon Coleman",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "11624",
+          "player_id": "11637",
           "position": "WR",
           "status": "Active",
-          "team": "KC",
+          "team": "BUF",
           "years_exp": 2
         },
         {
@@ -3841,20 +3841,20 @@
         },
         {
           "active": true,
-          "age": 23,
-          "depth_chart_order": 1,
-          "depth_chart_position": "LWR",
+          "age": 27,
+          "depth_chart_order": 2,
+          "depth_chart_position": "RB",
           "fantasy_positions": [
-            "WR"
+            "RB"
           ],
-          "full_name": "Tetairoa McMillan",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "12526",
-          "position": "WR",
+          "full_name": "Rachaad White",
+          "injury_body_part": "Shoulder",
+          "injury_status": "Questionable",
+          "player_id": "8136",
+          "position": "RB",
           "status": "Active",
-          "team": "CAR",
-          "years_exp": 1
+          "team": "WAS",
+          "years_exp": 4
         },
         {
           "active": true,
@@ -3865,8 +3865,8 @@
             "RB"
           ],
           "full_name": "Kaelon Black",
-          "injury_body_part": "Illness",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13414",
           "position": "RB",
           "status": "Active",
@@ -4194,7 +4194,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -4623,7 +4623,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -4758,8 +4758,8 @@
             "TE"
           ],
           "full_name": "Ben Sinnott",
-          "injury_body_part": "Ribs",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "11596",
           "position": "TE",
           "status": "Active",
@@ -4877,8 +4877,8 @@
             "RB"
           ],
           "full_name": "Ashton Jeanty",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ankle",
+          "injury_status": "Questionable",
           "player_id": "12527",
           "position": "RB",
           "status": "Active",
@@ -5013,8 +5013,8 @@
             "RB"
           ],
           "full_name": "Tony Pollard",
-          "injury_body_part": "Foot",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "5967",
           "position": "RB",
           "status": "Active",
@@ -5185,8 +5185,8 @@
             "RB"
           ],
           "full_name": "Ashton Jeanty",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ankle",
+          "injury_status": "Questionable",
           "player_id": "12527",
           "position": "RB",
           "status": "Active",
@@ -5323,8 +5323,8 @@
             "TE"
           ],
           "full_name": "Ben Sinnott",
-          "injury_body_part": "Ribs",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "11596",
           "position": "TE",
           "status": "Active",
@@ -5401,8 +5401,8 @@
             "RB"
           ],
           "full_name": "Jaylen Wright",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Foot",
+          "injury_status": "Questionable",
           "player_id": "11643",
           "position": "RB",
           "status": "Active",
@@ -5452,8 +5452,8 @@
             "TE"
           ],
           "full_name": "Gunnar Helm",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Knee",
+          "injury_status": "Questionable",
           "player_id": "12502",
           "position": "TE",
           "status": "Active",
@@ -5964,8 +5964,8 @@
             "TE"
           ],
           "full_name": "Gunnar Helm",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Knee",
+          "injury_status": "Questionable",
           "player_id": "12502",
           "position": "TE",
           "status": "Active",
@@ -6197,8 +6197,8 @@
             "QB"
           ],
           "full_name": "Tyler Shough",
-          "injury_body_part": "Hand",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "12545",
           "position": "QB",
           "status": "Active",
@@ -6418,8 +6418,8 @@
             "WR"
           ],
           "full_name": "Chris Olave",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Foot",
+          "injury_status": "Questionable",
           "player_id": "8144",
           "position": "WR",
           "status": "Active",
@@ -6726,8 +6726,8 @@
             "WR"
           ],
           "full_name": "Chris Olave",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Foot",
+          "injury_status": "Questionable",
           "player_id": "8144",
           "position": "WR",
           "status": "Active",
@@ -7874,8 +7874,8 @@
             "WR"
           ],
           "full_name": "Rashod Bateman",
-          "injury_body_part": "Shoulder",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "7571",
           "position": "WR",
           "status": "Active",
@@ -8449,8 +8449,8 @@
             "WR"
           ],
           "full_name": "Carnell Tate",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Back",
+          "injury_status": "Questionable",
           "player_id": "13279",
           "position": "WR",
           "status": "Active",
@@ -8842,8 +8842,8 @@
             "WR"
           ],
           "full_name": "Carnell Tate",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Back",
+          "injury_status": "Questionable",
           "player_id": "13279",
           "position": "WR",
           "status": "Active",
@@ -9415,8 +9415,8 @@
             "WR"
           ],
           "full_name": "Dontayvion Wicks",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Hamstring",
+          "injury_status": "Questionable",
           "player_id": "9486",
           "position": "WR",
           "status": "Active",
@@ -9621,8 +9621,8 @@
             "WR"
           ],
           "full_name": "Dontayvion Wicks",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Hamstring",
+          "injury_status": "Questionable",
           "player_id": "9486",
           "position": "WR",
           "status": "Active",
@@ -10698,14 +10698,14 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 3,
+          "depth_chart_order": 6,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Michael Pittman",
           "injury_body_part": "Foot",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "6819",
           "position": "WR",
           "status": "Active",
@@ -10988,20 +10988,20 @@
         },
         {
           "active": true,
-          "age": 32,
+          "age": 34,
           "depth_chart_order": 2,
-          "depth_chart_position": "SWR",
+          "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Stefon Diggs",
-          "injury_body_part": "Undisclosed",
+          "full_name": "Keenan Allen",
+          "injury_body_part": "Groin",
           "injury_status": "Questionable",
-          "player_id": "2449",
+          "player_id": "1479",
           "position": "WR",
           "status": "Active",
-          "team": "WAS",
-          "years_exp": 11
+          "team": "IND",
+          "years_exp": 13
         },
         {
           "active": true,
@@ -11022,20 +11022,20 @@
         },
         {
           "active": true,
-          "age": 27,
-          "depth_chart_order": 1,
-          "depth_chart_position": "RWR",
+          "age": 24,
+          "depth_chart_order": 2,
+          "depth_chart_position": "RB",
           "fantasy_positions": [
-            "WR"
+            "RB"
           ],
-          "full_name": "Tee Higgins",
-          "injury_body_part": "Groin",
-          "injury_status": "Questionable",
-          "player_id": "6801",
-          "position": "WR",
+          "full_name": "Keaton Mitchell",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "9511",
+          "position": "RB",
           "status": "Active",
-          "team": "CIN",
-          "years_exp": 6
+          "team": "LAC",
+          "years_exp": 3
         },
         {
           "active": true,

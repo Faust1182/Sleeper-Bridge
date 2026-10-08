@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-08T13:30:09.435363+00:00",
+  "generated_at": "2026-10-08T23:21:29.002366+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2494,7 +2494,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 7,
+      "daily_waivers_last_ran": 8,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -3308,8 +3308,8 @@
     "11199": {
       "active": true,
       "age": 27,
-      "depth_chart_order": 3,
-      "depth_chart_position": "RB",
+      "depth_chart_order": null,
+      "depth_chart_position": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -3671,8 +3671,8 @@
         "TE"
       ],
       "full_name": "Ben Sinnott",
-      "injury_body_part": "Ribs",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "11596",
       "position": "TE",
       "status": "Active",
@@ -3739,8 +3739,8 @@
         "TE"
       ],
       "full_name": "Brock Bowers",
-      "injury_body_part": "Knee",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "11604",
       "position": "TE",
       "status": "Active",
@@ -3994,8 +3994,8 @@
         "RB"
       ],
       "full_name": "Jaylen Wright",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Foot",
+      "injury_status": "Questionable",
       "player_id": "11643",
       "position": "RB",
       "status": "Active",
@@ -4521,8 +4521,8 @@
         "TE"
       ],
       "full_name": "Gunnar Helm",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Knee",
+      "injury_status": "Questionable",
       "player_id": "12502",
       "position": "TE",
       "status": "Active",
@@ -4827,8 +4827,8 @@
         "RB"
       ],
       "full_name": "Ashton Jeanty",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Ankle",
+      "injury_status": "Questionable",
       "player_id": "12527",
       "position": "RB",
       "status": "Active",
@@ -4998,8 +4998,8 @@
         "QB"
       ],
       "full_name": "Tyler Shough",
-      "injury_body_part": "Hand",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "12545",
       "position": "QB",
       "status": "Active",
@@ -5128,7 +5128,7 @@
     "13274": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -5202,8 +5202,8 @@
         "WR"
       ],
       "full_name": "Carnell Tate",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Back",
+      "injury_status": "Questionable",
       "player_id": "13279",
       "position": "WR",
       "status": "Active",
@@ -5746,8 +5746,8 @@
         "TE"
       ],
       "full_name": "Justin Joly",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Concussion",
+      "injury_status": "Questionable",
       "player_id": "13400",
       "position": "TE",
       "status": "Active",
@@ -5831,8 +5831,8 @@
         "RB"
       ],
       "full_name": "Kaelon Black",
-      "injury_body_part": "Illness",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "13414",
       "position": "RB",
       "status": "Active",
@@ -7004,8 +7004,8 @@
         "RB"
       ],
       "full_name": "Tony Pollard",
-      "injury_body_part": "Foot",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "5967",
       "position": "RB",
       "status": "Active",
@@ -7236,14 +7236,14 @@
     "6819": {
       "active": true,
       "age": 29,
-      "depth_chart_order": 3,
+      "depth_chart_order": 6,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
       ],
       "full_name": "Michael Pittman",
       "injury_body_part": "Foot",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "player_id": "6819",
       "position": "WR",
       "status": "Active",
@@ -7599,8 +7599,8 @@
         "WR"
       ],
       "full_name": "Rashod Bateman",
-      "injury_body_part": "Shoulder",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "7571",
       "position": "WR",
       "status": "Active",
@@ -7973,8 +7973,8 @@
         "WR"
       ],
       "full_name": "Chris Olave",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Foot",
+      "injury_status": "Questionable",
       "player_id": "8144",
       "position": "WR",
       "status": "Active",
@@ -8449,8 +8449,8 @@
         "WR"
       ],
       "full_name": "Dontayvion Wicks",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Hamstring",
+      "injury_status": "Questionable",
       "player_id": "9486",
       "position": "WR",
       "status": "Active",
@@ -8806,8 +8806,8 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 3,
-          "depth_chart_position": "RB",
+          "depth_chart_order": null,
+          "depth_chart_position": null,
           "fantasy_positions": [
             "RB"
           ],
@@ -8846,8 +8846,8 @@
             "TE"
           ],
           "full_name": "Brock Bowers",
-          "injury_body_part": "Knee",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "11604",
           "position": "TE",
           "status": "Active",
@@ -9644,8 +9644,8 @@
             "TE"
           ],
           "full_name": "Justin Joly",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Concussion",
+          "injury_status": "Questionable",
           "player_id": "13400",
           "position": "TE",
           "status": "Active",
@@ -9661,8 +9661,8 @@
             "RB"
           ],
           "full_name": "Kaelon Black",
-          "injury_body_part": "Illness",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13414",
           "position": "RB",
           "status": "Active",
@@ -9890,14 +9890,14 @@
         "wins": 1
       },
       "starters": [
-        "9758",
+        "11566",
         "12507",
         "10219",
-        "11624",
+        "11637",
         "5947",
         "13298",
         "9480",
-        "12526",
+        "8136",
         "13414"
       ],
       "taxi": [
@@ -10194,7 +10194,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -10604,8 +10604,8 @@
             "TE"
           ],
           "full_name": "Ben Sinnott",
-          "injury_body_part": "Ribs",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "11596",
           "position": "TE",
           "status": "Active",
@@ -10723,8 +10723,8 @@
             "RB"
           ],
           "full_name": "Ashton Jeanty",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ankle",
+          "injury_status": "Questionable",
           "player_id": "12527",
           "position": "RB",
           "status": "Active",
@@ -10859,8 +10859,8 @@
             "RB"
           ],
           "full_name": "Tony Pollard",
-          "injury_body_part": "Foot",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "5967",
           "position": "RB",
           "status": "Active",
@@ -11093,8 +11093,8 @@
             "RB"
           ],
           "full_name": "Jaylen Wright",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Foot",
+          "injury_status": "Questionable",
           "player_id": "11643",
           "position": "RB",
           "status": "Active",
@@ -11144,8 +11144,8 @@
             "TE"
           ],
           "full_name": "Gunnar Helm",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Knee",
+          "injury_status": "Questionable",
           "player_id": "12502",
           "position": "TE",
           "status": "Active",
@@ -11721,8 +11721,8 @@
             "QB"
           ],
           "full_name": "Tyler Shough",
-          "injury_body_part": "Hand",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "12545",
           "position": "QB",
           "status": "Active",
@@ -11942,8 +11942,8 @@
             "WR"
           ],
           "full_name": "Chris Olave",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Foot",
+          "injury_status": "Questionable",
           "player_id": "8144",
           "position": "WR",
           "status": "Active",
@@ -13071,8 +13071,8 @@
             "WR"
           ],
           "full_name": "Rashod Bateman",
-          "injury_body_part": "Shoulder",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "7571",
           "position": "WR",
           "status": "Active",
@@ -13507,8 +13507,8 @@
             "WR"
           ],
           "full_name": "Carnell Tate",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Back",
+          "injury_status": "Questionable",
           "player_id": "13279",
           "position": "WR",
           "status": "Active",
@@ -14304,8 +14304,8 @@
             "WR"
           ],
           "full_name": "Dontayvion Wicks",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Hamstring",
+          "injury_status": "Questionable",
           "player_id": "9486",
           "position": "WR",
           "status": "Active",
@@ -15284,14 +15284,14 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 3,
+          "depth_chart_order": 6,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Michael Pittman",
           "injury_body_part": "Foot",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "6819",
           "position": "WR",
           "status": "Active",
@@ -15507,9 +15507,9 @@
         "12529",
         "2133",
         "2216",
-        "2449",
+        "1479",
         "8130",
-        "6801",
+        "9511",
         "11577"
       ],
       "taxi": [
@@ -20259,14 +20259,14 @@
           "points": 0.0,
           "roster_id": 2,
           "starters": [
-            "9758",
+            "11566",
             "12507",
             "10219",
-            "11624",
+            "11637",
             "5947",
             "13298",
             "9480",
-            "12526",
+            "8136",
             "13414"
           ],
           "starters_points": [
@@ -21138,9 +21138,9 @@
             "12529",
             "2133",
             "2216",
-            "2449",
+            "1479",
             "8130",
-            "6801",
+            "9511",
             "11577"
           ],
           "starters_points": [
@@ -21314,14 +21314,14 @@
           "points": 0.0,
           "roster_id": 2,
           "starters": [
-            "9758",
+            "11566",
             "12507",
             "10219",
-            "11624",
+            "11637",
             "5947",
             "13298",
             "9480",
-            "12526",
+            "8136",
             "13414"
           ],
           "starters_points": [
@@ -22193,9 +22193,9 @@
             "12529",
             "2133",
             "2216",
-            "2449",
+            "1479",
             "8130",
-            "6801",
+            "9511",
             "11577"
           ],
           "starters_points": [
@@ -22369,14 +22369,14 @@
           "points": 0.0,
           "roster_id": 2,
           "starters": [
-            "9758",
+            "11566",
             "12507",
             "10219",
-            "11624",
+            "11637",
             "5947",
             "13298",
             "9480",
-            "12526",
+            "8136",
             "13414"
           ],
           "starters_points": [
@@ -23248,9 +23248,9 @@
             "12529",
             "2133",
             "2216",
-            "2449",
+            "1479",
             "8130",
-            "6801",
+            "9511",
             "11577"
           ],
           "starters_points": [
@@ -23424,14 +23424,14 @@
           "points": 0.0,
           "roster_id": 2,
           "starters": [
-            "9758",
+            "11566",
             "12507",
             "10219",
-            "11624",
+            "11637",
             "5947",
             "13298",
             "9480",
-            "12526",
+            "8136",
             "13414"
           ],
           "starters_points": [
@@ -24303,9 +24303,9 @@
             "12529",
             "2133",
             "2216",
-            "2449",
+            "1479",
             "8130",
-            "6801",
+            "9511",
             "11577"
           ],
           "starters_points": [
@@ -24479,14 +24479,14 @@
           "points": 0.0,
           "roster_id": 2,
           "starters": [
-            "9758",
+            "11566",
             "12507",
             "10219",
-            "11624",
+            "11637",
             "5947",
             "13298",
             "9480",
-            "12526",
+            "8136",
             "13414"
           ],
           "starters_points": [
@@ -25358,9 +25358,9 @@
             "12529",
             "2133",
             "2216",
-            "2449",
+            "1479",
             "8130",
-            "6801",
+            "9511",
             "11577"
           ],
           "starters_points": [
@@ -25534,14 +25534,14 @@
           "points": 0.0,
           "roster_id": 2,
           "starters": [
-            "9758",
+            "11566",
             "12507",
             "10219",
-            "11624",
+            "11637",
             "5947",
             "13298",
             "9480",
-            "12526",
+            "8136",
             "13414"
           ],
           "starters_points": [
@@ -26413,9 +26413,9 @@
             "12529",
             "2133",
             "2216",
-            "2449",
+            "1479",
             "8130",
-            "6801",
+            "9511",
             "11577"
           ],
           "starters_points": [
@@ -26589,14 +26589,14 @@
           "points": 0.0,
           "roster_id": 2,
           "starters": [
-            "9758",
+            "11566",
             "12507",
             "10219",
-            "11624",
+            "11637",
             "5947",
             "13298",
             "9480",
-            "12526",
+            "8136",
             "13414"
           ],
           "starters_points": [
@@ -27468,9 +27468,9 @@
             "12529",
             "2133",
             "2216",
-            "2449",
+            "1479",
             "8130",
-            "6801",
+            "9511",
             "11577"
           ],
           "starters_points": [
@@ -27644,14 +27644,14 @@
           "points": 0.0,
           "roster_id": 2,
           "starters": [
-            "9758",
+            "11566",
             "12507",
             "10219",
-            "11624",
+            "11637",
             "5947",
             "13298",
             "9480",
-            "12526",
+            "8136",
             "13414"
           ],
           "starters_points": [
@@ -28523,9 +28523,9 @@
             "12529",
             "2133",
             "2216",
-            "2449",
+            "1479",
             "8130",
-            "6801",
+            "9511",
             "11577"
           ],
           "starters_points": [
@@ -28699,14 +28699,14 @@
           "points": 0.0,
           "roster_id": 2,
           "starters": [
-            "9758",
+            "11566",
             "12507",
             "10219",
-            "11624",
+            "11637",
             "5947",
             "13298",
             "9480",
-            "12526",
+            "8136",
             "13414"
           ],
           "starters_points": [
@@ -29578,9 +29578,9 @@
             "12529",
             "2133",
             "2216",
-            "2449",
+            "1479",
             "8130",
-            "6801",
+            "9511",
             "11577"
           ],
           "starters_points": [
@@ -34364,14 +34364,14 @@
           "points": 0.0,
           "roster_id": 2,
           "starters": [
-            "9758",
+            "11566",
             "12507",
             "10219",
-            "11624",
+            "11637",
             "5947",
             "13298",
             "9480",
-            "12526",
+            "8136",
             "13414"
           ],
           "starters_points": [
@@ -35243,9 +35243,9 @@
             "12529",
             "2133",
             "2216",
-            "2449",
+            "1479",
             "8130",
-            "6801",
+            "9511",
             "11577"
           ],
           "starters_points": [
@@ -35419,14 +35419,14 @@
           "points": 0.0,
           "roster_id": 2,
           "starters": [
-            "9758",
+            "11566",
             "12507",
             "10219",
-            "11624",
+            "11637",
             "5947",
             "13298",
             "9480",
-            "12526",
+            "8136",
             "13414"
           ],
           "starters_points": [
@@ -36298,9 +36298,9 @@
             "12529",
             "2133",
             "2216",
-            "2449",
+            "1479",
             "8130",
-            "6801",
+            "9511",
             "11577"
           ],
           "starters_points": [
@@ -36474,14 +36474,14 @@
           "points": 0.0,
           "roster_id": 2,
           "starters": [
-            "9758",
+            "11566",
             "12507",
             "10219",
-            "11624",
+            "11637",
             "5947",
             "13298",
             "9480",
-            "12526",
+            "8136",
             "13414"
           ],
           "starters_points": [
@@ -37353,9 +37353,9 @@
             "12529",
             "2133",
             "2216",
-            "2449",
+            "1479",
             "8130",
-            "6801",
+            "9511",
             "11577"
           ],
           "starters_points": [
@@ -37529,14 +37529,14 @@
           "points": 0.0,
           "roster_id": 2,
           "starters": [
-            "9758",
+            "11566",
             "12507",
             "10219",
-            "11624",
+            "11637",
             "5947",
             "13298",
             "9480",
-            "12526",
+            "8136",
             "13414"
           ],
           "starters_points": [
@@ -38408,9 +38408,9 @@
             "12529",
             "2133",
             "2216",
-            "2449",
+            "1479",
             "8130",
-            "6801",
+            "9511",
             "11577"
           ],
           "starters_points": [
@@ -38584,14 +38584,14 @@
           "points": 0.0,
           "roster_id": 2,
           "starters": [
-            "9758",
+            "11566",
             "12507",
             "10219",
-            "11624",
+            "11637",
             "5947",
             "13298",
             "9480",
-            "12526",
+            "8136",
             "13414"
           ],
           "starters_points": [
@@ -39463,9 +39463,9 @@
             "12529",
             "2133",
             "2216",
-            "2449",
+            "1479",
             "8130",
-            "6801",
+            "9511",
             "11577"
           ],
           "starters_points": [
