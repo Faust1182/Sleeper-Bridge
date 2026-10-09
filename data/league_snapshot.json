@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-09T06:09:21.434087+00:00",
+  "generated_at": "2026-10-09T13:17:44.556470+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -3342,7 +3342,7 @@
     "11370": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -6828,7 +6828,7 @@
     "5850": {
       "active": true,
       "age": 28,
-      "depth_chart_order": 4,
+      "depth_chart_order": 5,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -12210,7 +12210,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -15233,7 +15233,7 @@
         {
           "active": true,
           "age": 28,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
