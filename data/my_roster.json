@@ -60,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-10-09T13:17:44.556470+00:00",
+  "generated_at": "2026-10-09T22:38:51.921521+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -297,8 +297,8 @@
           "TE"
         ],
         "full_name": "Dallas Goedert",
-        "injury_body_part": "Knee - MCL",
-        "injury_status": "Questionable",
+        "injury_body_part": null,
+        "injury_status": null,
         "player_id": "5022",
         "position": "TE",
         "status": "Active",
