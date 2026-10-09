@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-08T23:21:29.002366+00:00",
+  "generated_at": "2026-10-09T06:09:21.434087+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -2642,8 +2642,8 @@
             "WR"
           ],
           "full_name": "Konata Mumpfield",
-          "injury_body_part": "Shoulder",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "12718",
           "position": "WR",
           "status": "Active",
@@ -3517,7 +3517,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -4075,7 +4075,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 8,
+          "depth_chart_order": 9,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -4227,7 +4227,7 @@
         },
         {
           "active": true,
-          "age": 22,
+          "age": 23,
           "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
@@ -4245,7 +4245,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 13,
+          "depth_chart_order": 12,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -4417,7 +4417,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 8,
+          "depth_chart_order": 9,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -4639,7 +4639,7 @@
         },
         {
           "active": true,
-          "age": 22,
+          "age": 23,
           "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
@@ -4989,7 +4989,7 @@
         },
         {
           "active": true,
-          "age": 32,
+          "age": 33,
           "depth_chart_order": 1,
           "depth_chart_position": "TE",
           "fantasy_positions": [
@@ -5263,7 +5263,7 @@
         },
         {
           "active": true,
-          "age": 32,
+          "age": 33,
           "depth_chart_order": 1,
           "depth_chart_position": "TE",
           "fantasy_positions": [
@@ -5616,8 +5616,8 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
-          "depth_chart_position": "RB",
+          "depth_chart_order": null,
+          "depth_chart_position": null,
           "fantasy_positions": [
             "RB"
           ],
@@ -7163,8 +7163,8 @@
             "WR"
           ],
           "full_name": "CeeDee Lamb",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Quadriceps",
+          "injury_status": "Questionable",
           "player_id": "6786",
           "position": "WR",
           "status": "Active",
@@ -7369,8 +7369,8 @@
             "WR"
           ],
           "full_name": "CeeDee Lamb",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Quadriceps",
+          "injury_status": "Questionable",
           "player_id": "6786",
           "position": "WR",
           "status": "Active",
@@ -8459,7 +8459,7 @@
         },
         {
           "active": true,
-          "age": 22,
+          "age": 23,
           "depth_chart_order": 8,
           "depth_chart_position": "RB",
           "fantasy_positions": [
@@ -8477,7 +8477,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -8852,20 +8852,20 @@
         },
         {
           "active": true,
-          "age": 28,
-          "depth_chart_order": 1,
-          "depth_chart_position": "LWR",
+          "age": 26,
+          "depth_chart_order": 2,
+          "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "DK Metcalf",
+          "full_name": "Khalil Shakir",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "5846",
+          "player_id": "8134",
           "position": "WR",
           "status": "Active",
-          "team": "PIT",
-          "years_exp": 7
+          "team": "BUF",
+          "years_exp": 4
         },
         {
           "active": true,
@@ -8903,20 +8903,20 @@
         },
         {
           "active": true,
-          "age": 26,
-          "depth_chart_order": 2,
-          "depth_chart_position": "SWR",
+          "age": 28,
+          "depth_chart_order": 1,
+          "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Khalil Shakir",
+          "full_name": "DK Metcalf",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "8134",
+          "player_id": "5846",
           "position": "WR",
           "status": "Active",
-          "team": "BUF",
-          "years_exp": 4
+          "team": "PIT",
+          "years_exp": 7
         }
       ],
       "taxi": [
@@ -9086,7 +9086,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 12,
+          "depth_chart_order": 11,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -9358,7 +9358,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -9462,7 +9462,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 12,
+          "depth_chart_order": 11,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -9547,7 +9547,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -10681,7 +10681,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"

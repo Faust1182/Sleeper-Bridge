@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-08T23:21:29.002366+00:00",
+  "generated_at": "2026-10-09T06:09:21.434087+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -3971,7 +3971,7 @@
     "11638": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 12,
+      "depth_chart_order": 11,
       "depth_chart_position": null,
       "fantasy_positions": [
         "WR"
@@ -4294,7 +4294,7 @@
     "12484": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 8,
+      "depth_chart_order": 9,
       "depth_chart_position": null,
       "fantasy_positions": [
         "WR"
@@ -5049,8 +5049,8 @@
         "WR"
       ],
       "full_name": "Konata Mumpfield",
-      "injury_body_part": "Shoulder",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "12718",
       "position": "WR",
       "status": "Active",
@@ -5246,7 +5246,7 @@
     },
     "13286": {
       "active": true,
-      "age": 22,
+      "age": 23,
       "depth_chart_order": 8,
       "depth_chart_position": "RB",
       "fantasy_positions": [
@@ -5332,7 +5332,7 @@
     "13294": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -5637,7 +5637,7 @@
     },
     "13347": {
       "active": true,
-      "age": 22,
+      "age": 23,
       "depth_chart_order": 2,
       "depth_chart_position": "RB",
       "fantasy_positions": [
@@ -5774,8 +5774,8 @@
     "13405": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 4,
-      "depth_chart_position": "RB",
+      "depth_chart_order": null,
+      "depth_chart_position": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -5842,7 +5842,7 @@
     "13417": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 13,
+      "depth_chart_order": 12,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -5927,7 +5927,7 @@
     "13533": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 4,
+      "depth_chart_order": 5,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -6504,7 +6504,7 @@
     },
     "4217": {
       "active": true,
-      "age": 32,
+      "age": 33,
       "depth_chart_order": 1,
       "depth_chart_position": "TE",
       "fantasy_positions": [
@@ -7106,8 +7106,8 @@
         "WR"
       ],
       "full_name": "CeeDee Lamb",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Quadriceps",
+      "injury_status": "Questionable",
       "player_id": "6786",
       "position": "WR",
       "status": "Active",
@@ -7168,7 +7168,7 @@
     "6801": {
       "active": true,
       "age": 27,
-      "depth_chart_order": 1,
+      "depth_chart_order": 2,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -7542,7 +7542,7 @@
     "7564": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 2,
+      "depth_chart_order": 1,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -8966,8 +8966,8 @@
             "WR"
           ],
           "full_name": "Konata Mumpfield",
-          "injury_body_part": "Shoulder",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "12718",
           "position": "WR",
           "status": "Active",
@@ -9672,7 +9672,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -10075,7 +10075,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 8,
+          "depth_chart_order": 9,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -10227,7 +10227,7 @@
         },
         {
           "active": true,
-          "age": 22,
+          "age": 23,
           "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
@@ -10245,7 +10245,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 13,
+          "depth_chart_order": 12,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -10835,7 +10835,7 @@
         },
         {
           "active": true,
-          "age": 32,
+          "age": 33,
           "depth_chart_order": 1,
           "depth_chart_position": "TE",
           "fantasy_positions": [
@@ -11308,8 +11308,8 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
-          "depth_chart_position": "RB",
+          "depth_chart_order": null,
+          "depth_chart_position": null,
           "fantasy_positions": [
             "RB"
           ],
@@ -12522,8 +12522,8 @@
             "WR"
           ],
           "full_name": "CeeDee Lamb",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Quadriceps",
+          "injury_status": "Questionable",
           "player_id": "6786",
           "position": "WR",
           "status": "Active",
@@ -13517,7 +13517,7 @@
         },
         {
           "active": true,
-          "age": 22,
+          "age": 23,
           "depth_chart_order": 8,
           "depth_chart_position": "RB",
           "fantasy_positions": [
@@ -13535,7 +13535,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -13843,10 +13843,10 @@
         "13305",
         "12519",
         "13279",
-        "5846",
+        "8134",
         "9484",
         "12517",
-        "8134"
+        "5846"
       ],
       "taxi": [
         "11565",
@@ -13975,7 +13975,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 12,
+          "depth_chart_order": 11,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -14247,7 +14247,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -15267,7 +15267,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -20876,10 +20876,10 @@
             "13305",
             "12519",
             "13279",
-            "5846",
+            "8134",
             "9484",
             "12517",
-            "8134"
+            "5846"
           ],
           "starters_points": [
             0.0,
@@ -21931,10 +21931,10 @@
             "13305",
             "12519",
             "13279",
-            "5846",
+            "8134",
             "9484",
             "12517",
-            "8134"
+            "5846"
           ],
           "starters_points": [
             0.0,
@@ -22986,10 +22986,10 @@
             "13305",
             "12519",
             "13279",
-            "5846",
+            "8134",
             "9484",
             "12517",
-            "8134"
+            "5846"
           ],
           "starters_points": [
             0.0,
@@ -24041,10 +24041,10 @@
             "13305",
             "12519",
             "13279",
-            "5846",
+            "8134",
             "9484",
             "12517",
-            "8134"
+            "5846"
           ],
           "starters_points": [
             0.0,
@@ -25096,10 +25096,10 @@
             "13305",
             "12519",
             "13279",
-            "5846",
+            "8134",
             "9484",
             "12517",
-            "8134"
+            "5846"
           ],
           "starters_points": [
             0.0,
@@ -26151,10 +26151,10 @@
             "13305",
             "12519",
             "13279",
-            "5846",
+            "8134",
             "9484",
             "12517",
-            "8134"
+            "5846"
           ],
           "starters_points": [
             0.0,
@@ -27206,10 +27206,10 @@
             "13305",
             "12519",
             "13279",
-            "5846",
+            "8134",
             "9484",
             "12517",
-            "8134"
+            "5846"
           ],
           "starters_points": [
             0.0,
@@ -28261,10 +28261,10 @@
             "13305",
             "12519",
             "13279",
-            "5846",
+            "8134",
             "9484",
             "12517",
-            "8134"
+            "5846"
           ],
           "starters_points": [
             0.0,
@@ -29316,10 +29316,10 @@
             "13305",
             "12519",
             "13279",
-            "5846",
+            "8134",
             "9484",
             "12517",
-            "8134"
+            "5846"
           ],
           "starters_points": [
             0.0,
@@ -34265,7 +34265,7 @@
             "3161": 0.0,
             "3271": 0.0,
             "4018": 0.0,
-            "4037": 0.0,
+            "4037": 5.5,
             "6790": 0.0,
             "6826": 0.0,
             "7525": 0.0,
@@ -34273,7 +34273,7 @@
             "9221": 0.0,
             "9500": 0.0
           },
-          "points": 0.0,
+          "points": 5.5,
           "roster_id": 1,
           "starters": [
             "11564",
@@ -34290,7 +34290,7 @@
             0.0,
             0.0,
             0.0,
-            0.0,
+            5.5,
             0.0,
             0.0,
             0.0,
@@ -34426,7 +34426,7 @@
             "11618": 0.0,
             "11620": 0.0,
             "11628": 0.0,
-            "11783": 0.0,
+            "11783": 10.5,
             "12474": 0.0,
             "12484": 0.0,
             "12489": 0.0,
@@ -34439,17 +34439,17 @@
             "13346": 0.0,
             "13347": 0.0,
             "13417": 0.0,
-            "13425": 0.0,
+            "13425": 13.86,
             "4892": 0.0,
             "5870": 0.0,
             "6804": 0.0,
             "7021": 0.0,
-            "8110": 0.0,
+            "8110": 3.4,
             "8131": 0.0,
             "8132": 0.0,
             "8148": 0.0
           },
-          "points": 0.0,
+          "points": 13.86,
           "roster_id": 3,
           "starters": [
             "13425",
@@ -34463,7 +34463,7 @@
             "11628"
           ],
           "starters_points": [
-            0.0,
+            13.86,
             0.0,
             0.0,
             0.0,
@@ -34510,7 +34510,7 @@
             "11256": 0.0,
             "11560": 0.0,
             "11581": 0.0,
-            "11584": 0.0,
+            "11584": 30.5,
             "11589": 0.0,
             "11596": 0.0,
             "11632": 0.0,
@@ -34529,13 +34529,13 @@
             "4217": 0.0,
             "5967": 0.0,
             "8126": 0.0,
-            "8137": 0.0,
+            "8137": 23.5,
             "9229": 0.0,
             "9488": 0.0,
             "9504": 0.0,
             "9754": 0.0
           },
-          "points": 0.0,
+          "points": 54.0,
           "roster_id": 4,
           "starters": [
             "4017",
@@ -34554,9 +34554,9 @@
             0.0,
             0.0,
             0.0,
+            23.5,
             0.0,
-            0.0,
-            0.0,
+            30.5,
             0.0
           ]
         },
@@ -34617,7 +34617,7 @@
             "8172": 0.0,
             "8676": 0.0,
             "9225": 0.0,
-            "9506": 0.0,
+            "9506": 1.8,
             "96": 0.0,
             "9997": 0.0
           },
@@ -34789,15 +34789,15 @@
             "5045": 0.0,
             "5892": 0.0,
             "5906": 0.0,
-            "6786": 0.0,
+            "6786": 1.9,
             "7083": 0.0,
             "7090": 0.0,
-            "7567": 0.0,
+            "7567": 4.3,
             "7611": 0.0,
-            "8111": 0.0,
+            "8111": 4.0,
             "8125": 0.0
           },
-          "points": 0.0,
+          "points": 1.9,
           "roster_id": 7,
           "starters": [
             "421",
@@ -34814,7 +34814,7 @@
             0.0,
             0.0,
             0.0,
-            0.0,
+            1.9,
             0.0,
             0.0,
             0.0,
@@ -34952,7 +34952,7 @@
             "12481": 0.0,
             "12499": 0.0,
             "12508": 0.0,
-            "12514": 0.0,
+            "12514": 14.2,
             "12517": 0.0,
             "12519": 0.0,
             "13279": 0.0,
@@ -34981,10 +34981,10 @@
             "13305",
             "12519",
             "13279",
-            "5846",
+            "8134",
             "9484",
             "12517",
-            "8134"
+            "5846"
           ],
           "starters_points": [
             0.0,
@@ -35044,7 +35044,7 @@
             "12524": 0.0,
             "13281": 0.0,
             "13348": 0.0,
-            "3294": 0.0,
+            "3294": 12.64,
             "4035": 0.0,
             "4199": 0.0,
             "4984": 0.0,
@@ -35226,7 +35226,7 @@
             "6801": 0.0,
             "6819": 0.0,
             "7049": 0.0,
-            "7588": 0.0,
+            "7588": 13.2,
             "7594": 0.0,
             "8130": 0.0,
             "8161": 0.0,
@@ -35235,7 +35235,7 @@
             "9508": 0.0,
             "9511": 0.0
           },
-          "points": 0.0,
+          "points": 13.2,
           "roster_id": 12,
           "starters": [
             "8183",
@@ -35250,7 +35250,7 @@
           ],
           "starters_points": [
             0.0,
-            0.0,
+            13.2,
             0.0,
             0.0,
             0.0,
@@ -36036,10 +36036,10 @@
             "13305",
             "12519",
             "13279",
-            "5846",
+            "8134",
             "9484",
             "12517",
-            "8134"
+            "5846"
           ],
           "starters_points": [
             0.0,
@@ -37091,10 +37091,10 @@
             "13305",
             "12519",
             "13279",
-            "5846",
+            "8134",
             "9484",
             "12517",
-            "8134"
+            "5846"
           ],
           "starters_points": [
             0.0,
@@ -38146,10 +38146,10 @@
             "13305",
             "12519",
             "13279",
-            "5846",
+            "8134",
             "9484",
             "12517",
-            "8134"
+            "5846"
           ],
           "starters_points": [
             0.0,
@@ -39201,10 +39201,10 @@
             "13305",
             "12519",
             "13279",
-            "5846",
+            "8134",
             "9484",
             "12517",
-            "8134"
+            "5846"
           ],
           "starters_points": [
             0.0,
