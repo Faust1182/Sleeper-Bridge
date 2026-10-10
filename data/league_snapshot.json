@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-10T12:32:38.168647+00:00",
+  "generated_at": "2026-10-10T21:44:47.498878+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2494,7 +2494,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 9,
+      "daily_waivers_last_ran": 10,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -3349,10 +3349,10 @@
       ],
       "full_name": "Chris Brooks",
       "injury_body_part": "Ankle",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "player_id": "11370",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "team": "GB",
       "years_exp": 3
     },
@@ -3869,14 +3869,14 @@
     "11628": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 2,
+      "depth_chart_order": 6,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
       ],
       "full_name": "Marvin Harrison",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Coach's Decision",
+      "injury_status": "Out",
       "player_id": "11628",
       "position": "WR",
       "status": "Active",
@@ -4294,7 +4294,7 @@
     "12484": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 9,
+      "depth_chart_order": 7,
       "depth_chart_position": null,
       "fantasy_positions": [
         "WR"
@@ -4907,7 +4907,7 @@
     "12534": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 6,
+      "depth_chart_order": 5,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -6461,10 +6461,10 @@
       ],
       "full_name": "Mack Hollins",
       "injury_body_part": "Calf",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "player_id": "4177",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "team": "NE",
       "years_exp": 9
     },
@@ -6522,7 +6522,7 @@
     "4454": {
       "active": true,
       "age": 31,
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -7243,10 +7243,10 @@
       ],
       "full_name": "Michael Pittman",
       "injury_body_part": "Foot",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "player_id": "6819",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "team": "PIT",
       "years_exp": 6
     },
@@ -7701,8 +7701,8 @@
         "WR"
       ],
       "full_name": "Joshua Palmer",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Shoulder",
+      "injury_status": "Out",
       "player_id": "7670",
       "position": "WR",
       "status": "Active",
@@ -10024,14 +10024,14 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 2,
+          "depth_chart_order": 6,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Marvin Harrison",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "11628",
           "position": "WR",
           "status": "Active",
@@ -10075,7 +10075,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 9,
+          "depth_chart_order": 7,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -10463,15 +10463,15 @@
         "wins": 1
       },
       "starters": [
-        "6804",
-        "11576",
+        "13425",
+        "12489",
         "12490",
         "8148",
-        "11628",
+        "11620",
         "13346",
-        "8110",
-        "12533",
-        "12489"
+        "8131",
+        "13264",
+        "11576"
       ],
       "taxi": [
         "12497",
@@ -11189,7 +11189,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -12217,10 +12217,10 @@
           ],
           "full_name": "Chris Brooks",
           "injury_body_part": "Ankle",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "player_id": "11370",
           "position": "RB",
-          "status": "Active",
+          "status": "Inactive",
           "team": "GB",
           "years_exp": 3
         },
@@ -12370,10 +12370,10 @@
           ],
           "full_name": "Mack Hollins",
           "injury_body_part": "Calf",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "player_id": "4177",
           "position": "WR",
-          "status": "Active",
+          "status": "Inactive",
           "team": "NE",
           "years_exp": 9
         },
@@ -12397,7 +12397,7 @@
         {
           "active": true,
           "age": 31,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -14270,8 +14270,8 @@
             "WR"
           ],
           "full_name": "Joshua Palmer",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Shoulder",
+          "injury_status": "Out",
           "player_id": "7670",
           "position": "WR",
           "status": "Active",
@@ -15291,10 +15291,10 @@
           ],
           "full_name": "Michael Pittman",
           "injury_body_part": "Foot",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "player_id": "6819",
           "position": "WR",
-          "status": "Active",
+          "status": "Inactive",
           "team": "PIT",
           "years_exp": 6
         },
@@ -20347,15 +20347,15 @@
           "points": 0.0,
           "roster_id": 3,
           "starters": [
-            "6804",
-            "11576",
+            "13425",
+            "12489",
             "12490",
             "8148",
-            "11628",
+            "11620",
             "13346",
-            "8110",
-            "12533",
-            "12489"
+            "8131",
+            "13264",
+            "11576"
           ],
           "starters_points": [
             0.0,
@@ -21402,15 +21402,15 @@
           "points": 0.0,
           "roster_id": 3,
           "starters": [
-            "6804",
-            "11576",
+            "13425",
+            "12489",
             "12490",
             "8148",
-            "11628",
+            "11620",
             "13346",
-            "8110",
-            "12533",
-            "12489"
+            "8131",
+            "13264",
+            "11576"
           ],
           "starters_points": [
             0.0,
@@ -22457,15 +22457,15 @@
           "points": 0.0,
           "roster_id": 3,
           "starters": [
-            "6804",
-            "11576",
+            "13425",
+            "12489",
             "12490",
             "8148",
-            "11628",
+            "11620",
             "13346",
-            "8110",
-            "12533",
-            "12489"
+            "8131",
+            "13264",
+            "11576"
           ],
           "starters_points": [
             0.0,
@@ -23512,15 +23512,15 @@
           "points": 0.0,
           "roster_id": 3,
           "starters": [
-            "6804",
-            "11576",
+            "13425",
+            "12489",
             "12490",
             "8148",
-            "11628",
+            "11620",
             "13346",
-            "8110",
-            "12533",
-            "12489"
+            "8131",
+            "13264",
+            "11576"
           ],
           "starters_points": [
             0.0,
@@ -24567,15 +24567,15 @@
           "points": 0.0,
           "roster_id": 3,
           "starters": [
-            "6804",
-            "11576",
+            "13425",
+            "12489",
             "12490",
             "8148",
-            "11628",
+            "11620",
             "13346",
-            "8110",
-            "12533",
-            "12489"
+            "8131",
+            "13264",
+            "11576"
           ],
           "starters_points": [
             0.0,
@@ -25622,15 +25622,15 @@
           "points": 0.0,
           "roster_id": 3,
           "starters": [
-            "6804",
-            "11576",
+            "13425",
+            "12489",
             "12490",
             "8148",
-            "11628",
+            "11620",
             "13346",
-            "8110",
-            "12533",
-            "12489"
+            "8131",
+            "13264",
+            "11576"
           ],
           "starters_points": [
             0.0,
@@ -26677,15 +26677,15 @@
           "points": 0.0,
           "roster_id": 3,
           "starters": [
-            "6804",
-            "11576",
+            "13425",
+            "12489",
             "12490",
             "8148",
-            "11628",
+            "11620",
             "13346",
-            "8110",
-            "12533",
-            "12489"
+            "8131",
+            "13264",
+            "11576"
           ],
           "starters_points": [
             0.0,
@@ -27732,15 +27732,15 @@
           "points": 0.0,
           "roster_id": 3,
           "starters": [
-            "6804",
-            "11576",
+            "13425",
+            "12489",
             "12490",
             "8148",
-            "11628",
+            "11620",
             "13346",
-            "8110",
-            "12533",
-            "12489"
+            "8131",
+            "13264",
+            "11576"
           ],
           "starters_points": [
             0.0,
@@ -28787,15 +28787,15 @@
           "points": 0.0,
           "roster_id": 3,
           "starters": [
-            "6804",
-            "11576",
+            "13425",
+            "12489",
             "12490",
             "8148",
-            "11628",
+            "11620",
             "13346",
-            "8110",
-            "12533",
-            "12489"
+            "8131",
+            "13264",
+            "11576"
           ],
           "starters_points": [
             0.0,
@@ -34460,7 +34460,7 @@
             "13346",
             "8131",
             "13264",
-            "11628"
+            "11576"
           ],
           "starters_points": [
             13.86,
@@ -35507,15 +35507,15 @@
           "points": 0.0,
           "roster_id": 3,
           "starters": [
-            "6804",
-            "11576",
+            "13425",
+            "12489",
             "12490",
             "8148",
-            "11628",
+            "11620",
             "13346",
-            "8110",
-            "12533",
-            "12489"
+            "8131",
+            "13264",
+            "11576"
           ],
           "starters_points": [
             0.0,
@@ -36562,15 +36562,15 @@
           "points": 0.0,
           "roster_id": 3,
           "starters": [
-            "6804",
-            "11576",
+            "13425",
+            "12489",
             "12490",
             "8148",
-            "11628",
+            "11620",
             "13346",
-            "8110",
-            "12533",
-            "12489"
+            "8131",
+            "13264",
+            "11576"
           ],
           "starters_points": [
             0.0,
@@ -37617,15 +37617,15 @@
           "points": 0.0,
           "roster_id": 3,
           "starters": [
-            "6804",
-            "11576",
+            "13425",
+            "12489",
             "12490",
             "8148",
-            "11628",
+            "11620",
             "13346",
-            "8110",
-            "12533",
-            "12489"
+            "8131",
+            "13264",
+            "11576"
           ],
           "starters_points": [
             0.0,
@@ -38672,15 +38672,15 @@
           "points": 0.0,
           "roster_id": 3,
           "starters": [
-            "6804",
-            "11576",
+            "13425",
+            "12489",
             "12490",
             "8148",
-            "11628",
+            "11620",
             "13346",
-            "8110",
-            "12533",
-            "12489"
+            "8131",
+            "13264",
+            "11576"
           ],
           "starters_points": [
             0.0,

@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-10T12:32:38.168647+00:00",
+  "generated_at": "2026-10-10T21:44:47.498878+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1157,7 +1157,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 9,
+      "daily_waivers_last_ran": 10,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -4024,14 +4024,14 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 2,
+          "depth_chart_order": 6,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Marvin Harrison",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "11628",
           "position": "WR",
           "status": "Active",
@@ -4075,7 +4075,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 9,
+          "depth_chart_order": 7,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -4417,7 +4417,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 9,
+          "depth_chart_order": 7,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -4450,37 +4450,37 @@
       "starters": [
         {
           "active": true,
-          "age": 27,
+          "age": 23,
           "depth_chart_order": 1,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
           ],
-          "full_name": "Jordan Love",
+          "full_name": "Jalon Daniels",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "6804",
+          "player_id": "13425",
           "position": "QB",
           "status": "Active",
-          "team": "GB",
-          "years_exp": 6
+          "team": "TB",
+          "years_exp": 0
         },
         {
           "active": true,
-          "age": 22,
-          "depth_chart_order": 1,
+          "age": 25,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Braelon Allen",
+          "full_name": "RJ Harvey",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "11576",
+          "player_id": "12489",
           "position": "RB",
           "status": "Active",
-          "team": "NYJ",
-          "years_exp": 2
+          "team": "DEN",
+          "years_exp": 1
         },
         {
           "active": true,
@@ -4524,13 +4524,13 @@
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Marvin Harrison",
+          "full_name": "Rome Odunze",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "11628",
+          "player_id": "11620",
           "position": "WR",
           "status": "Active",
-          "team": "ARI",
+          "team": "CHI",
           "years_exp": 2
         },
         {
@@ -4552,54 +4552,54 @@
         },
         {
           "active": true,
-          "age": 27,
+          "age": 26,
           "depth_chart_order": 1,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
           ],
-          "full_name": "Jake Ferguson",
+          "full_name": "Isaiah Likely",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "8110",
+          "player_id": "8131",
           "position": "TE",
           "status": "Active",
-          "team": "DAL",
+          "team": "NYG",
           "years_exp": 4
         },
         {
           "active": true,
-          "age": 25,
+          "age": 26,
+          "depth_chart_order": 3,
+          "depth_chart_position": "SWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Dohnte Meyers",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "13264",
+          "position": "WR",
+          "status": "Active",
+          "team": "CIN",
+          "years_exp": 0
+        },
+        {
+          "active": true,
+          "age": 22,
           "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Jacory Croskey-Merritt",
+          "full_name": "Braelon Allen",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "12533",
+          "player_id": "11576",
           "position": "RB",
           "status": "Active",
-          "team": "WAS",
-          "years_exp": 1
-        },
-        {
-          "active": true,
-          "age": 25,
-          "depth_chart_order": 2,
-          "depth_chart_position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "full_name": "RJ Harvey",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "12489",
-          "position": "RB",
-          "status": "Active",
-          "team": "DEN",
-          "years_exp": 1
+          "team": "NYJ",
+          "years_exp": 2
         }
       ],
       "taxi": [
@@ -5497,7 +5497,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -5890,7 +5890,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -6858,10 +6858,10 @@
           ],
           "full_name": "Chris Brooks",
           "injury_body_part": "Ankle",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "player_id": "11370",
           "position": "RB",
-          "status": "Active",
+          "status": "Inactive",
           "team": "GB",
           "years_exp": 3
         },
@@ -7011,10 +7011,10 @@
           ],
           "full_name": "Mack Hollins",
           "injury_body_part": "Calf",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "player_id": "4177",
           "position": "WR",
-          "status": "Active",
+          "status": "Inactive",
           "team": "NE",
           "years_exp": 9
         },
@@ -7038,7 +7038,7 @@
         {
           "active": true,
           "age": 31,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -9381,8 +9381,8 @@
             "WR"
           ],
           "full_name": "Joshua Palmer",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Shoulder",
+          "injury_status": "Out",
           "player_id": "7670",
           "position": "WR",
           "status": "Active",
@@ -10705,10 +10705,10 @@
           ],
           "full_name": "Michael Pittman",
           "injury_body_part": "Foot",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "player_id": "6819",
           "position": "WR",
-          "status": "Active",
+          "status": "Inactive",
           "team": "PIT",
           "years_exp": 6
         },
