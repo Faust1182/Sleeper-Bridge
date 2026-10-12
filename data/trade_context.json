@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-12T05:58:43.154625+00:00",
+  "generated_at": "2026-10-12T15:26:17.794952+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -2636,7 +2636,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -3296,7 +3296,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -3808,7 +3808,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -4025,7 +4025,7 @@
           "active": true,
           "age": 24,
           "depth_chart_order": 7,
-          "depth_chart_position": "LWR",
+          "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
@@ -4075,7 +4075,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 8,
+          "depth_chart_order": 9,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -4417,7 +4417,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 8,
+          "depth_chart_order": 9,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -6818,7 +6818,7 @@
           "active": true,
           "age": 26,
           "depth_chart_order": 1,
-          "depth_chart_position": "RWR",
+          "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
           ],
@@ -6891,8 +6891,8 @@
             "WR"
           ],
           "full_name": "Ladd McConkey",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Foot",
+          "injury_status": "Questionable",
           "player_id": "11635",
           "position": "WR",
           "status": "Active",
@@ -7039,7 +7039,7 @@
           "active": true,
           "age": 31,
           "depth_chart_order": 2,
-          "depth_chart_position": "SWR",
+          "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
@@ -7381,7 +7381,7 @@
           "active": true,
           "age": 26,
           "depth_chart_order": 1,
-          "depth_chart_position": "RWR",
+          "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
           ],
@@ -8664,7 +8664,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -8853,7 +8853,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
