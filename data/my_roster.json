@@ -60,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-10-11T21:58:35.882517+00:00",
+  "generated_at": "2026-10-12T05:58:43.154625+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -331,8 +331,8 @@
           "WR"
         ],
         "full_name": "Deebo Samuel",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Hamstring",
+        "injury_status": "Out",
         "player_id": "5872",
         "position": "WR",
         "status": "Active",
