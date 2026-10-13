@@ -60,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-10-13T00:40:08.369068+00:00",
+  "generated_at": "2026-10-13T14:12:25.124966+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -72,9 +72,9 @@
       "allow_pn_inactive_starters": "on",
       "allow_pn_player_injury_status": "on",
       "allow_pn_scoring": "on",
-      "record": "LWLW",
+      "record": "LWLWL",
       "restrict_pn_scoring_starters_only": "on",
-      "streak": "1W"
+      "streak": "1L"
     },
     "owner": {
       "display_name": "mklaszky25",
@@ -325,7 +325,7 @@
       {
         "active": true,
         "age": 30,
-        "depth_chart_order": 2,
+        "depth_chart_order": 8,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -577,13 +577,13 @@
     "reserve": null,
     "roster_id": 11,
     "settings": {
-      "fpts": 436,
-      "fpts_against": 416,
-      "fpts_against_decimal": 60,
-      "fpts_decimal": 54,
-      "losses": 2,
-      "ppts": 566,
-      "ppts_decimal": 18,
+      "fpts": 541,
+      "fpts_against": 530,
+      "fpts_against_decimal": 56,
+      "fpts_decimal": 20,
+      "losses": 3,
+      "ppts": 705,
+      "ppts_decimal": 94,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 40,
@@ -592,14 +592,14 @@
     },
     "starters": [
       "4046",
+      "6813",
       "8138",
-      "12512",
       "8112",
       "7569",
-      "5872",
+      "5927",
       "10236",
       "11435",
-      "0"
+      "12512"
     ],
     "taxi": [
       "11630",
