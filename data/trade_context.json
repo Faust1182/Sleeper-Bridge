@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-12T15:26:17.794952+00:00",
+  "generated_at": "2026-10-13T00:40:08.369068+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1157,7 +1157,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 11,
+      "daily_waivers_last_ran": 12,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -2636,7 +2636,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -2676,8 +2676,8 @@
             "TE"
           ],
           "full_name": "Max Klare",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "13278",
           "position": "TE",
           "status": "Active",
@@ -3173,8 +3173,8 @@
             "TE"
           ],
           "full_name": "Max Klare",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "13278",
           "position": "TE",
           "status": "Active",
@@ -3296,7 +3296,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -3626,10 +3626,10 @@
           ],
           "full_name": "Tyquan Thornton",
           "injury_body_part": "Ankle",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "player_id": "8188",
           "position": "WR",
-          "status": "Active",
+          "status": "Inactive",
           "team": "KC",
           "years_exp": 4
         },
@@ -3808,7 +3808,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -5081,8 +5081,8 @@
             "WR"
           ],
           "full_name": "Jaxon Smith-Njigba",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ankle",
+          "injury_status": "Questionable",
           "player_id": "9488",
           "position": "WR",
           "status": "Active",
@@ -5219,8 +5219,8 @@
             "WR"
           ],
           "full_name": "Jaxon Smith-Njigba",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ankle",
+          "injury_status": "Questionable",
           "player_id": "9488",
           "position": "WR",
           "status": "Active",
@@ -5520,8 +5520,8 @@
             "QB"
           ],
           "full_name": "Ty Simpson",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "13275",
           "position": "QB",
           "status": "Active",
@@ -6017,8 +6017,8 @@
             "QB"
           ],
           "full_name": "Ty Simpson",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "13275",
           "position": "QB",
           "status": "Active",
@@ -6316,8 +6316,8 @@
             "WR"
           ],
           "full_name": "DJ Moore",
-          "injury_body_part": "Undisclosed",
-          "injury_status": "Questionable",
+          "injury_body_part": "Shoulder - AC Joint",
+          "injury_status": "Out",
           "player_id": "4983",
           "position": "WR",
           "status": "Active",
@@ -6496,7 +6496,7 @@
         },
         {
           "active": true,
-          "age": 24,
+          "age": 25,
           "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
@@ -6549,7 +6549,7 @@
       "reserve": [
         {
           "active": true,
-          "age": 24,
+          "age": 25,
           "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
@@ -6641,8 +6641,8 @@
             "WR"
           ],
           "full_name": "DJ Moore",
-          "injury_body_part": "Undisclosed",
-          "injury_status": "Questionable",
+          "injury_body_part": "Shoulder - AC Joint",
+          "injury_status": "Out",
           "player_id": "4983",
           "position": "WR",
           "status": "Active",
@@ -8602,8 +8602,8 @@
             "QB"
           ],
           "full_name": "Drew Lock",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Forearm",
+          "injury_status": "Questionable",
           "player_id": "5854",
           "position": "QB",
           "status": "Active",
@@ -8664,7 +8664,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -8853,7 +8853,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"

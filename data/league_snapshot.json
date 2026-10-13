@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-12T15:26:17.794952+00:00",
+  "generated_at": "2026-10-13T00:40:08.369068+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2494,7 +2494,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 11,
+      "daily_waivers_last_ran": 12,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -3937,7 +3937,7 @@
     "11637": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -5043,7 +5043,7 @@
     "12718": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -5151,8 +5151,8 @@
         "QB"
       ],
       "full_name": "Ty Simpson",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Coach's Decision",
+      "injury_status": "Out",
       "player_id": "13275",
       "position": "QB",
       "status": "Active",
@@ -5185,8 +5185,8 @@
         "TE"
       ],
       "full_name": "Max Klare",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Coach's Decision",
+      "injury_status": "Out",
       "player_id": "13278",
       "position": "TE",
       "status": "Active",
@@ -6647,8 +6647,8 @@
         "WR"
       ],
       "full_name": "DJ Moore",
-      "injury_body_part": "Undisclosed",
-      "injury_status": "Questionable",
+      "injury_body_part": "Shoulder - AC Joint",
+      "injury_status": "Out",
       "player_id": "4983",
       "position": "WR",
       "status": "Active",
@@ -6851,8 +6851,8 @@
         "QB"
       ],
       "full_name": "Drew Lock",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Forearm",
+      "injury_status": "Questionable",
       "player_id": "5854",
       "position": "QB",
       "status": "Active",
@@ -7865,7 +7865,7 @@
     "8134": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -8178,10 +8178,10 @@
       ],
       "full_name": "Tyquan Thornton",
       "injury_body_part": "Ankle",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "player_id": "8188",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "team": "KC",
       "years_exp": 4
     },
@@ -8340,7 +8340,7 @@
     },
     "9226": {
       "active": true,
-      "age": 24,
+      "age": 25,
       "depth_chart_order": 5,
       "depth_chart_position": "RB",
       "fantasy_positions": [
@@ -8483,8 +8483,8 @@
         "WR"
       ],
       "full_name": "Jaxon Smith-Njigba",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Ankle",
+      "injury_status": "Questionable",
       "player_id": "9488",
       "position": "WR",
       "status": "Active",
@@ -8960,7 +8960,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -9000,8 +9000,8 @@
             "TE"
           ],
           "full_name": "Max Klare",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "13278",
           "position": "TE",
           "status": "Active",
@@ -9451,7 +9451,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -9781,10 +9781,10 @@
           ],
           "full_name": "Tyquan Thornton",
           "injury_body_part": "Ankle",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "player_id": "8188",
           "position": "WR",
-          "status": "Active",
+          "status": "Inactive",
           "team": "KC",
           "years_exp": 4
         },
@@ -10927,8 +10927,8 @@
             "WR"
           ],
           "full_name": "Jaxon Smith-Njigba",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ankle",
+          "injury_status": "Questionable",
           "player_id": "9488",
           "position": "WR",
           "status": "Active",
@@ -11212,8 +11212,8 @@
             "QB"
           ],
           "full_name": "Ty Simpson",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "13275",
           "position": "QB",
           "status": "Active",
@@ -11840,8 +11840,8 @@
             "WR"
           ],
           "full_name": "DJ Moore",
-          "injury_body_part": "Undisclosed",
-          "injury_status": "Questionable",
+          "injury_body_part": "Shoulder - AC Joint",
+          "injury_status": "Out",
           "player_id": "4983",
           "position": "WR",
           "status": "Active",
@@ -12020,7 +12020,7 @@
         },
         {
           "active": true,
-          "age": 24,
+          "age": 25,
           "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
@@ -13660,8 +13660,8 @@
             "QB"
           ],
           "full_name": "Drew Lock",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Forearm",
+          "injury_status": "Questionable",
           "player_id": "5854",
           "position": "QB",
           "status": "Active",
@@ -13722,7 +13722,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -34265,7 +34265,7 @@
             "1373": 9.98,
             "1466": 0.0,
             "3161": 0.0,
-            "3271": 0.0,
+            "3271": 1.3,
             "4018": 0.0,
             "4037": 5.5,
             "6790": 15.3,
@@ -34783,7 +34783,7 @@
             "13338": 10.5,
             "3286": 0.0,
             "4177": 0.0,
-            "421": 0.0,
+            "421": 1.44,
             "4454": 9.5,
             "4881": 0.0,
             "4981": 4.3,
@@ -34799,7 +34799,7 @@
             "8111": 4.0,
             "8125": 0.0
           },
-          "points": 55.98,
+          "points": 57.42,
           "roster_id": 7,
           "starters": [
             "421",
@@ -34813,7 +34813,7 @@
             "5012"
           ],
           "starters_points": [
-            0.0,
+            1.44,
             2.2,
             1.1,
             1.9,
@@ -34860,7 +34860,7 @@
           "players_points": {
             "10229": 0.0,
             "11563": 7.92,
-            "11586": 0.0,
+            "11586": 0.2,
             "11625": 0.0,
             "12505": 0.0,
             "12506": 0.9,
@@ -34881,13 +34881,13 @@
             "7571": 8.7,
             "8121": 2.1,
             "8146": 19.9,
-            "8150": 0.0,
+            "8150": 2.2,
             "8205": 0.0,
             "8228": 33.8,
             "9487": 27.4,
             "9756": 0.0
           },
-          "points": 131.58,
+          "points": 133.78,
           "roster_id": 8,
           "starters": [
             "3257",
@@ -34909,7 +34909,7 @@
             2.1,
             0.9,
             6.9,
-            0.0
+            2.2
           ]
         },
         {
@@ -35049,7 +35049,7 @@
             "3294": 12.64,
             "4035": 1.6,
             "4199": 17.2,
-            "4984": 0.0,
+            "4984": 1.08,
             "5844": 1.2,
             "5857": 1.2,
             "6130": 0.0,
@@ -35060,10 +35060,10 @@
             "7670": 0.0,
             "9228": 0.0,
             "9486": 8.8,
-            "9493": 0.0,
+            "9493": 4.3,
             "9509": 13.8
           },
-          "points": 71.6,
+          "points": 76.98,
           "roster_id": 10,
           "starters": [
             "4984",
@@ -35077,11 +35077,11 @@
             "4199"
           ],
           "starters_points": [
-            0.0,
+            1.08,
             13.8,
             1.6,
             16.7,
-            0.0,
+            4.3,
             9.9,
             3.6,
             8.8,
@@ -35143,13 +35143,13 @@
             "7591": 0.0,
             "7600": 19.0,
             "8112": 15.3,
-            "8138": 0.0,
+            "8138": 2.4,
             "8154": 1.6,
             "9224": 5.5,
             "9494": 1.9,
             "9757": 9.0
           },
-          "points": 79.16,
+          "points": 81.56,
           "roster_id": 11,
           "starters": [
             "5849",
@@ -35170,7 +35170,7 @@
             15.3,
             15.8,
             0.0,
-            0.0,
+            2.4,
             6.5
           ]
         },
@@ -35626,7 +35626,7 @@
           "points": 0.0,
           "roster_id": 4,
           "starters": [
-            "4017",
+            "11560",
             "12527",
             "3198",
             "9488",
@@ -35634,7 +35634,7 @@
             "8137",
             "4217",
             "11584",
-            "11646"
+            "11581"
           ],
           "starters_points": [
             0.0,
