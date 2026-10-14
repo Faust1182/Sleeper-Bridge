@@ -60,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-10-14T17:10:48.566828+00:00",
+  "generated_at": "2026-10-14T21:41:42.814914+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -121,7 +121,7 @@
       {
         "active": true,
         "age": 25,
-        "depth_chart_order": 4,
+        "depth_chart_order": 9,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -246,8 +246,8 @@
           "TE"
         ],
         "full_name": "Darren Waller",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Toe",
+        "injury_status": "Questionable",
         "player_id": "2505",
         "position": "TE",
         "status": "Active",
@@ -513,7 +513,7 @@
         "active": true,
         "age": 24,
         "depth_chart_order": 4,
-        "depth_chart_position": "SWR",
+        "depth_chart_position": "RWR",
         "fantasy_positions": [
           "WR"
         ],
