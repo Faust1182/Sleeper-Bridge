@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-15T11:29:42.224184+00:00",
+  "generated_at": "2026-10-15T17:01:14.151186+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1157,7 +1157,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 14,
+      "daily_waivers_last_ran": 15,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -2549,6 +2549,23 @@
         },
         {
           "active": true,
+          "age": 24,
+          "depth_chart_order": 2,
+          "depth_chart_position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "full_name": "Corey Kiner",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "12491",
+          "position": "RB",
+          "status": "Active",
+          "team": "NE",
+          "years_exp": 1
+        },
+        {
+          "active": true,
           "age": 23,
           "depth_chart_order": 2,
           "depth_chart_position": "RWR",
@@ -2823,23 +2840,6 @@
         {
           "active": true,
           "age": 30,
-          "depth_chart_order": null,
-          "depth_chart_position": null,
-          "fantasy_positions": [
-            "RB"
-          ],
-          "full_name": "Joe Mixon",
-          "injury_body_part": "Foot",
-          "injury_status": "Questionable",
-          "player_id": "4018",
-          "position": "RB",
-          "status": "Active",
-          "team": null,
-          "years_exp": 9
-        },
-        {
-          "active": true,
-          "age": 30,
           "depth_chart_order": 2,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
@@ -2988,7 +2988,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 52,
-        "waiver_position": 10,
+        "waiver_position": 11,
         "wins": 4
       },
       "starters": [
@@ -3012,19 +3012,19 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Jahmyr Gibbs",
+          "full_name": "Corey Kiner",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "9221",
+          "player_id": "12491",
           "position": "RB",
           "status": "Active",
-          "team": "DET",
-          "years_exp": 3
+          "team": "NE",
+          "years_exp": 1
         },
         {
           "active": true,
@@ -3045,20 +3045,20 @@
         },
         {
           "active": true,
-          "age": 30,
-          "depth_chart_order": 2,
-          "depth_chart_position": "SWR",
+          "age": 27,
+          "depth_chart_order": 1,
+          "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Chris Godwin",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "4037",
+          "full_name": "DeVonta Smith",
+          "injury_body_part": "Hamstring",
+          "injury_status": "Questionable",
+          "player_id": "7525",
           "position": "WR",
           "status": "Active",
-          "team": "TB",
-          "years_exp": 9
+          "team": "PHI",
+          "years_exp": 5
         },
         {
           "active": true,
@@ -3113,20 +3113,20 @@
         },
         {
           "active": true,
-          "age": 22,
-          "depth_chart_order": 3,
-          "depth_chart_position": "RWR",
+          "age": 37,
+          "depth_chart_order": 1,
+          "depth_chart_position": "TE",
           "fantasy_positions": [
-            "WR"
+            "TE"
           ],
-          "full_name": "Ted Hurst",
+          "full_name": "Travis Kelce",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "13317",
-          "position": "WR",
+          "player_id": "1466",
+          "position": "TE",
           "status": "Active",
-          "team": "TB",
-          "years_exp": 0
+          "team": "KC",
+          "years_exp": 13
         },
         {
           "active": true,
@@ -6293,6 +6293,23 @@
         {
           "active": true,
           "age": 31,
+          "depth_chart_order": 2,
+          "depth_chart_position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "full_name": "Samaje Perine",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "4147",
+          "position": "RB",
+          "status": "Active",
+          "team": "CIN",
+          "years_exp": 9
+        },
+        {
+          "active": true,
+          "age": 31,
           "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
@@ -6390,23 +6407,6 @@
           "position": "RB",
           "status": "Active",
           "team": "PHI",
-          "years_exp": 4
-        },
-        {
-          "active": true,
-          "age": 26,
-          "depth_chart_order": 4,
-          "depth_chart_position": "RWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Treylon Burks",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "8135",
-          "position": "WR",
-          "status": "Active",
-          "team": "WAS",
           "years_exp": 4
         },
         {
@@ -6577,7 +6577,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 95,
-        "waiver_position": 11,
+        "waiver_position": 12,
         "wins": 1
       },
       "starters": [
@@ -8039,20 +8039,20 @@
       "starters": [
         {
           "active": true,
-          "age": 33,
+          "age": 32,
           "depth_chart_order": 1,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
           ],
-          "full_name": "Jacoby Brissett",
+          "full_name": "Jameis Winston",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "3257",
+          "player_id": "2306",
           "position": "QB",
           "status": "Active",
-          "team": "ARI",
-          "years_exp": 10
+          "team": "NYG",
+          "years_exp": 11
         },
         {
           "active": true,
@@ -10910,7 +10910,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 160,
-        "waiver_position": 12,
+        "waiver_position": 10,
         "wins": 3
       },
       "starters": [
