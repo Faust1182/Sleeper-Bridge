@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-15T17:01:14.151186+00:00",
+  "generated_at": "2026-10-15T21:23:27.050838+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -2948,8 +2948,8 @@
             "WR"
           ],
           "full_name": "Josh Downs",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "9500",
           "position": "WR",
           "status": "Active",
@@ -3137,8 +3137,8 @@
             "WR"
           ],
           "full_name": "Josh Downs",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "9500",
           "position": "WR",
           "status": "Active",
@@ -3745,23 +3745,6 @@
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Chris Rodriguez",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "10219",
-          "position": "RB",
-          "status": "Active",
-          "team": "JAX",
-          "years_exp": 3
-        },
-        {
-          "active": true,
-          "age": 27,
-          "depth_chart_order": 2,
-          "depth_chart_position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
           "full_name": "Rachaad White",
           "injury_body_part": null,
           "injury_status": null,
@@ -3770,6 +3753,23 @@
           "status": "Active",
           "team": "WAS",
           "years_exp": 4
+        },
+        {
+          "active": true,
+          "age": 29,
+          "depth_chart_order": 2,
+          "depth_chart_position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "full_name": "Ty Johnson",
+          "injury_body_part": "Hamstring",
+          "injury_status": "Questionable",
+          "player_id": "6039",
+          "position": "RB",
+          "status": "Active",
+          "team": "BUF",
+          "years_exp": 7
         },
         {
           "active": true,
@@ -3790,23 +3790,6 @@
         },
         {
           "active": true,
-          "age": 22,
-          "depth_chart_order": 2,
-          "depth_chart_position": "SWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "KC Concepcion",
-          "injury_body_part": "Concussion",
-          "injury_status": "Questionable",
-          "player_id": "13298",
-          "position": "WR",
-          "status": "Active",
-          "team": "CLE",
-          "years_exp": 0
-        },
-        {
-          "active": true,
           "age": 23,
           "depth_chart_order": 3,
           "depth_chart_position": "LWR",
@@ -3820,6 +3803,23 @@
           "position": "WR",
           "status": "Active",
           "team": "BUF",
+          "years_exp": 2
+        },
+        {
+          "active": true,
+          "age": 23,
+          "depth_chart_order": 2,
+          "depth_chart_position": "RWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Xavier Worthy",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "11624",
+          "position": "WR",
+          "status": "Active",
+          "team": "KC",
           "years_exp": 2
         },
         {
@@ -3858,20 +3858,20 @@
         },
         {
           "active": true,
-          "age": 24,
-          "depth_chart_order": 2,
-          "depth_chart_position": "RB",
+          "age": 23,
+          "depth_chart_order": 1,
+          "depth_chart_position": "LWR",
           "fantasy_positions": [
-            "RB"
+            "WR"
           ],
-          "full_name": "Kaelon Black",
+          "full_name": "Tetairoa McMillan",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "13414",
-          "position": "RB",
+          "player_id": "12526",
+          "position": "WR",
           "status": "Active",
-          "team": "SF",
-          "years_exp": 0
+          "team": "CAR",
+          "years_exp": 1
         }
       ],
       "taxi": [
@@ -4336,8 +4336,8 @@
             "RB"
           ],
           "full_name": "Rico Dowdle",
-          "injury_body_part": "Toe",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "7021",
           "position": "RB",
           "status": "Active",
@@ -4468,18 +4468,18 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Jacory Croskey-Merritt",
+          "full_name": "RJ Harvey",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "12533",
+          "player_id": "12489",
           "position": "RB",
           "status": "Active",
-          "team": "WAS",
+          "team": "DEN",
           "years_exp": 1
         },
         {
@@ -5809,8 +5809,8 @@
             "WR"
           ],
           "full_name": "Zay Flowers",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Toe",
+          "injury_status": "Questionable",
           "player_id": "9997",
           "position": "WR",
           "status": "Active",
@@ -5913,8 +5913,8 @@
             "WR"
           ],
           "full_name": "Zay Flowers",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Toe",
+          "injury_status": "Questionable",
           "player_id": "9997",
           "position": "WR",
           "status": "Active",
@@ -7197,8 +7197,8 @@
             "WR"
           ],
           "full_name": "Darnell Mooney",
-          "injury_body_part": "Neck",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "7090",
           "position": "WR",
           "status": "Active",
@@ -8159,19 +8159,19 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 1,
-          "depth_chart_position": "RB",
+          "depth_chart_order": 6,
+          "depth_chart_position": "LWR",
           "fantasy_positions": [
-            "RB"
+            "WR"
           ],
-          "full_name": "Saquon Barkley",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
-          "player_id": "4866",
-          "position": "RB",
-          "status": "Active",
-          "team": "PHI",
-          "years_exp": 8
+          "full_name": "A.J. Brown",
+          "injury_body_part": "Ankle",
+          "injury_status": "IR",
+          "player_id": "5859",
+          "position": "WR",
+          "status": "Inactive",
+          "team": "NE",
+          "years_exp": 7
         },
         {
           "active": true,
@@ -8619,8 +8619,8 @@
             "QB"
           ],
           "full_name": "Jalen Hurts",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Calf",
+          "injury_status": "Out",
           "player_id": "6904",
           "position": "QB",
           "status": "Active",
@@ -8774,8 +8774,8 @@
             "QB"
           ],
           "full_name": "Jalen Hurts",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Calf",
+          "injury_status": "Out",
           "player_id": "6904",
           "position": "QB",
           "status": "Active",
@@ -10564,8 +10564,8 @@
             "WR"
           ],
           "full_name": "Mike Evans",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ribs",
+          "injury_status": "Questionable",
           "player_id": "2216",
           "position": "WR",
           "status": "Active",
@@ -10991,8 +10991,8 @@
             "WR"
           ],
           "full_name": "Mike Evans",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ribs",
+          "injury_status": "Questionable",
           "player_id": "2216",
           "position": "WR",
           "status": "Active",
