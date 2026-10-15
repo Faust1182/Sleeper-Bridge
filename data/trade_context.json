@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-15T04:39:33.495244+00:00",
+  "generated_at": "2026-10-15T11:29:42.224184+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -2585,7 +2585,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -4024,7 +4024,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 5,
+          "depth_chart_order": 4,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -5092,7 +5092,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -7345,20 +7345,20 @@
         },
         {
           "active": true,
-          "age": 29,
-          "depth_chart_order": 3,
+          "age": 28,
+          "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "David Montgomery",
-          "injury_body_part": "Groin",
-          "injury_status": "Doubtful",
-          "player_id": "5892",
+          "full_name": "Rhamondre Stevenson",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "7611",
           "position": "RB",
           "status": "Active",
-          "team": "HOU",
-          "years_exp": 7
+          "team": "NE",
+          "years_exp": 5
         },
         {
           "active": true,
@@ -7430,19 +7430,19 @@
         },
         {
           "active": true,
-          "age": 28,
-          "depth_chart_order": 1,
+          "age": 27,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Rhamondre Stevenson",
+          "full_name": "Kenny Gainwell",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "7611",
+          "player_id": "7567",
           "position": "RB",
           "status": "Active",
-          "team": "NE",
+          "team": "TB",
           "years_exp": 5
         },
         {
@@ -8984,7 +8984,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -9581,7 +9581,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"

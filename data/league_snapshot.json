@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-15T04:39:33.495244+00:00",
+  "generated_at": "2026-10-15T11:29:42.224184+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -3138,7 +3138,7 @@
     "10218": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -3852,7 +3852,7 @@
     "11628": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 5,
+      "depth_chart_order": 4,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -4924,7 +4924,7 @@
     "12536": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -8579,7 +8579,7 @@
     "9504": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 4,
+      "depth_chart_order": 5,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -8909,7 +8909,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -10024,7 +10024,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 5,
+          "depth_chart_order": 4,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -10938,7 +10938,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -12685,12 +12685,12 @@
       "starters": [
         "421",
         "13287",
-        "5892",
+        "7611",
         "6786",
         "10232",
         "5045",
         "12518",
-        "7611",
+        "7567",
         "5012"
       ],
       "taxi": [
@@ -13873,7 +13873,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -20698,12 +20698,12 @@
           "starters": [
             "421",
             "13287",
-            "5892",
+            "7611",
             "6786",
             "10232",
             "5045",
             "12518",
-            "7611",
+            "7567",
             "5012"
           ],
           "starters_points": [
@@ -21753,12 +21753,12 @@
           "starters": [
             "421",
             "13287",
-            "5892",
+            "7611",
             "6786",
             "10232",
             "5045",
             "12518",
-            "7611",
+            "7567",
             "5012"
           ],
           "starters_points": [
@@ -22808,12 +22808,12 @@
           "starters": [
             "421",
             "13287",
-            "5892",
+            "7611",
             "6786",
             "10232",
             "5045",
             "12518",
-            "7611",
+            "7567",
             "5012"
           ],
           "starters_points": [
@@ -23863,12 +23863,12 @@
           "starters": [
             "421",
             "13287",
-            "5892",
+            "7611",
             "6786",
             "10232",
             "5045",
             "12518",
-            "7611",
+            "7567",
             "5012"
           ],
           "starters_points": [
@@ -24918,12 +24918,12 @@
           "starters": [
             "421",
             "13287",
-            "5892",
+            "7611",
             "6786",
             "10232",
             "5045",
             "12518",
-            "7611",
+            "7567",
             "5012"
           ],
           "starters_points": [
@@ -25973,12 +25973,12 @@
           "starters": [
             "421",
             "13287",
-            "5892",
+            "7611",
             "6786",
             "10232",
             "5045",
             "12518",
-            "7611",
+            "7567",
             "5012"
           ],
           "starters_points": [
@@ -27028,12 +27028,12 @@
           "starters": [
             "421",
             "13287",
-            "5892",
+            "7611",
             "6786",
             "10232",
             "5045",
             "12518",
-            "7611",
+            "7567",
             "5012"
           ],
           "starters_points": [
@@ -28083,12 +28083,12 @@
           "starters": [
             "421",
             "13287",
-            "5892",
+            "7611",
             "6786",
             "10232",
             "5045",
             "12518",
-            "7611",
+            "7567",
             "5012"
           ],
           "starters_points": [
@@ -29138,12 +29138,12 @@
           "starters": [
             "421",
             "13287",
-            "5892",
+            "7611",
             "6786",
             "10232",
             "5045",
             "12518",
-            "7611",
+            "7567",
             "5012"
           ],
           "starters_points": [
@@ -36063,12 +36063,12 @@
           "starters": [
             "421",
             "13287",
-            "5892",
+            "7611",
             "6786",
             "10232",
             "5045",
             "12518",
-            "7611",
+            "7567",
             "5012"
           ],
           "starters_points": [
@@ -37233,12 +37233,12 @@
           "starters": [
             "421",
             "13287",
-            "5892",
+            "7611",
             "6786",
             "10232",
             "5045",
             "12518",
-            "7611",
+            "7567",
             "5012"
           ],
           "starters_points": [
@@ -38288,12 +38288,12 @@
           "starters": [
             "421",
             "13287",
-            "5892",
+            "7611",
             "6786",
             "10232",
             "5045",
             "12518",
-            "7611",
+            "7567",
             "5012"
           ],
           "starters_points": [
@@ -39343,12 +39343,12 @@
           "starters": [
             "421",
             "13287",
-            "5892",
+            "7611",
             "6786",
             "10232",
             "5045",
             "12518",
-            "7611",
+            "7567",
             "5012"
           ],
           "starters_points": [
