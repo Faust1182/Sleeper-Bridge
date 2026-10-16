@@ -318,12 +318,6 @@
         "original_roster_id": 12,
         "round": 3,
         "season": "2029"
-      },
-      {
-        "current_owner_roster_id": 12,
-        "original_roster_id": 12,
-        "round": 4,
-        "season": "2029"
       }
     ],
     "2": [
@@ -506,6 +500,12 @@
       {
         "current_owner_roster_id": 3,
         "original_roster_id": 3,
+        "round": 4,
+        "season": "2029"
+      },
+      {
+        "current_owner_roster_id": 3,
+        "original_roster_id": 12,
         "round": 4,
         "season": "2029"
       }
@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-16T04:32:36.177905+00:00",
+  "generated_at": "2026-10-16T11:25:10.236003+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -2468,6 +2468,95 @@
         }
       ],
       "week": 4
+    },
+    {
+      "adds": null,
+      "consenter_ids": [
+        3,
+        12
+      ],
+      "created": 1791999225479,
+      "creator": "988586141739696128",
+      "draft_picks": [
+        {
+          "league_id": null,
+          "owner_id": 3,
+          "previous_owner_id": 12,
+          "roster_id": 12,
+          "round": 4,
+          "season": "2029"
+        }
+      ],
+      "drops": null,
+      "leg": 6,
+      "metadata": {
+        "notes": "Your trade was processed successfully!",
+        "poll_id": "1416152313399160832",
+        "veto_msg_id": "1416152313466265600"
+      },
+      "roster_ids": [
+        3,
+        12
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1792131834734,
+      "transaction_id": "1416151029212291072",
+      "type": "trade",
+      "waiver_budget": [
+        {
+          "amount": 158,
+          "receiver": 12,
+          "sender": 3
+        }
+      ],
+      "week": 6
+    },
+    {
+      "adds": null,
+      "consenter_ids": [
+        3,
+        6,
+        12
+      ],
+      "created": 1791996698910,
+      "creator": "988586141739696128",
+      "draft_picks": [],
+      "drops": null,
+      "leg": 6,
+      "metadata": {
+        "notes": "Your trade was processed successfully!",
+        "poll_id": "1416158066352652288",
+        "veto_msg_id": "1416158066457546752"
+      },
+      "roster_ids": [
+        3,
+        6,
+        12
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1792131834734,
+      "transaction_id": "1416140432009596928",
+      "type": "trade",
+      "waiver_budget": [
+        {
+          "amount": 1,
+          "receiver": 3,
+          "sender": 12
+        },
+        {
+          "amount": 1,
+          "receiver": 6,
+          "sender": 3
+        },
+        {
+          "amount": 1,
+          "receiver": 12,
+          "sender": 6
+        }
+      ],
+      "week": 6
     }
   ],
   "rosters": [
@@ -2891,7 +2980,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 1,
+          "depth_chart_order": 3,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -4443,7 +4532,7 @@
         "ppts_decimal": 52,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 34,
+        "waiver_budget_used": 192,
         "waiver_position": 8,
         "wins": 2
       },
@@ -5429,7 +5518,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -6208,7 +6297,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -6395,7 +6484,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -6601,7 +6690,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -7800,7 +7889,7 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -9409,7 +9498,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -9615,7 +9704,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -10909,7 +10998,7 @@
         "ppts_decimal": 6,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 160,
+        "waiver_budget_used": 2,
         "waiver_position": 10,
         "wins": 3
       },
@@ -11525,6 +11614,13 @@
       "roster_id": 12,
       "round": 3,
       "season": "2027"
+    },
+    {
+      "owner_id": 3,
+      "previous_owner_id": 12,
+      "roster_id": 12,
+      "round": 4,
+      "season": "2029"
     }
   ]
 }
