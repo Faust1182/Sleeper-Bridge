@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-16T11:25:10.236003+00:00",
+  "generated_at": "2026-10-16T16:40:03.535361+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1157,7 +1157,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 15,
+      "daily_waivers_last_ran": 16,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -1730,7 +1730,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 40,
-      "waiver_position": 7,
+      "waiver_position": 5,
       "wins": 2
     },
     "starters": [
@@ -3077,7 +3077,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 52,
-        "waiver_position": 11,
+        "waiver_position": 9,
         "wins": 4
       },
       "starters": [
@@ -3347,23 +3347,6 @@
           "status": "Active",
           "team": "NO",
           "years_exp": 1
-        },
-        {
-          "active": true,
-          "age": 23,
-          "depth_chart_order": 4,
-          "depth_chart_position": "TE",
-          "fantasy_positions": [
-            "TE"
-          ],
-          "full_name": "Ja'Tavion Sanders",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "11600",
-          "position": "TE",
-          "status": "Active",
-          "team": "CAR",
-          "years_exp": 2
         },
         {
           "active": true,
@@ -3725,6 +3708,23 @@
         {
           "active": true,
           "age": 25,
+          "depth_chart_order": 2,
+          "depth_chart_position": "TE",
+          "fantasy_positions": [
+            "TE"
+          ],
+          "full_name": "Darnell Washington",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "9479",
+          "position": "TE",
+          "status": "Active",
+          "team": "PIT",
+          "years_exp": 3
+        },
+        {
+          "active": true,
+          "age": 25,
           "depth_chart_order": 1,
           "depth_chart_position": "TE",
           "fantasy_positions": [
@@ -3804,8 +3804,8 @@
         "ppts_decimal": 90,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 15,
-        "waiver_position": 5,
+        "waiver_budget_used": 20,
+        "waiver_position": 12,
         "wins": 2
       },
       "starters": [
@@ -4533,7 +4533,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 192,
-        "waiver_position": 8,
+        "waiver_position": 6,
         "wins": 2
       },
       "starters": [
@@ -5244,7 +5244,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 6,
+        "waiver_position": 4,
         "wins": 3
       },
       "starters": [
@@ -6542,7 +6542,7 @@
           ],
           "full_name": "Breece Hall",
           "injury_body_part": "Quadriceps",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "player_id": "8155",
           "position": "RB",
           "status": "Active",
@@ -6666,7 +6666,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 95,
-        "waiver_position": 12,
+        "waiver_position": 10,
         "wins": 1
       },
       "starters": [
@@ -7675,7 +7675,7 @@
           ],
           "full_name": "Adonai Mitchell",
           "injury_body_part": "Finger",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "player_id": "11625",
           "position": "WR",
           "status": "Active",
@@ -8122,7 +8122,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 107,
-        "waiver_position": 9,
+        "waiver_position": 7,
         "wins": 2
       },
       "starters": [
@@ -8684,23 +8684,6 @@
         },
         {
           "active": true,
-          "age": 29,
-          "depth_chart_order": 2,
-          "depth_chart_position": "QB",
-          "fantasy_positions": [
-            "QB"
-          ],
-          "full_name": "Drew Lock",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "5854",
-          "position": "QB",
-          "status": "Active",
-          "team": "SEA",
-          "years_exp": 7
-        },
-        {
-          "active": true,
           "age": 28,
           "depth_chart_order": 2,
           "depth_chart_position": "QB",
@@ -8786,6 +8769,23 @@
         },
         {
           "active": true,
+          "age": 26,
+          "depth_chart_order": 1,
+          "depth_chart_position": "QB",
+          "fantasy_positions": [
+            "QB"
+          ],
+          "full_name": "Tanner McKee",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "9230",
+          "position": "QB",
+          "status": "Active",
+          "team": "PHI",
+          "years_exp": 3
+        },
+        {
+          "active": true,
           "age": 25,
           "depth_chart_order": 1,
           "depth_chart_position": "TE",
@@ -8849,27 +8849,27 @@
         "ppts_decimal": 96,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 11,
-        "waiver_position": 4,
+        "waiver_budget_used": 80,
+        "waiver_position": 11,
         "wins": 3
       },
       "starters": [
         {
           "active": true,
-          "age": 28,
-          "depth_chart_order": 2,
+          "age": 26,
+          "depth_chart_order": 1,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
           ],
-          "full_name": "Jalen Hurts",
-          "injury_body_part": "Calf",
-          "injury_status": "Out",
-          "player_id": "6904",
+          "full_name": "Tanner McKee",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "9230",
           "position": "QB",
           "status": "Active",
           "team": "PHI",
-          "years_exp": 6
+          "years_exp": 3
         },
         {
           "active": true,
@@ -9618,20 +9618,37 @@
         },
         {
           "active": true,
-          "age": 31,
-          "depth_chart_order": 1,
+          "age": 25,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Alvin Kamara",
-          "injury_body_part": "Back",
-          "injury_status": "Questionable",
-          "player_id": "4035",
+          "full_name": "Roschon Johnson",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "10235",
           "position": "RB",
           "status": "Active",
-          "team": "NO",
-          "years_exp": 9
+          "team": "CHI",
+          "years_exp": 3
+        },
+        {
+          "active": true,
+          "age": 25,
+          "depth_chart_order": 1,
+          "depth_chart_position": "RWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Puka Nacua",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "9493",
+          "position": "WR",
+          "status": "Active",
+          "team": "LAR",
+          "years_exp": 3
         },
         {
           "active": true,
@@ -9658,30 +9675,13 @@
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Puka Nacua",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "9493",
+          "full_name": "Dontayvion Wicks",
+          "injury_body_part": "Hamstring",
+          "injury_status": "Questionable",
+          "player_id": "9486",
           "position": "WR",
           "status": "Active",
-          "team": "LAR",
-          "years_exp": 3
-        },
-        {
-          "active": true,
-          "age": 26,
-          "depth_chart_order": 2,
-          "depth_chart_position": "LWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Xavier Hutchinson",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "10218",
-          "position": "WR",
-          "status": "Active",
-          "team": "HOU",
+          "team": "PHI",
           "years_exp": 3
         },
         {
@@ -9703,36 +9703,36 @@
         },
         {
           "active": true,
-          "age": 25,
+          "age": 31,
           "depth_chart_order": 1,
-          "depth_chart_position": "RWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Dontayvion Wicks",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
-          "player_id": "9486",
-          "position": "WR",
-          "status": "Active",
-          "team": "PHI",
-          "years_exp": 3
-        },
-        {
-          "active": true,
-          "age": 25,
-          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Roschon Johnson",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "10235",
+          "full_name": "Alvin Kamara",
+          "injury_body_part": "Back",
+          "injury_status": "Questionable",
+          "player_id": "4035",
           "position": "RB",
           "status": "Active",
-          "team": "CHI",
+          "team": "NO",
+          "years_exp": 9
+        },
+        {
+          "active": true,
+          "age": 26,
+          "depth_chart_order": 2,
+          "depth_chart_position": "LWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Xavier Hutchinson",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "10218",
+          "position": "WR",
+          "status": "Active",
+          "team": "HOU",
           "years_exp": 3
         }
       ],
@@ -10271,7 +10271,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 40,
-        "waiver_position": 7,
+        "waiver_position": 5,
         "wins": 2
       },
       "starters": [
@@ -10999,7 +10999,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 2,
-        "waiver_position": 10,
+        "waiver_position": 8,
         "wins": 3
       },
       "starters": [
