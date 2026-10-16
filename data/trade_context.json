@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-16T16:40:03.535361+00:00",
+  "generated_at": "2026-10-16T21:08:51.463203+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1389,8 +1389,8 @@
           "TE"
         ],
         "full_name": "Darren Waller",
-        "injury_body_part": "Toe",
-        "injury_status": "Questionable",
+        "injury_body_part": null,
+        "injury_status": null,
         "player_id": "2505",
         "position": "TE",
         "status": "Active",
@@ -2986,8 +2986,8 @@
             "WR"
           ],
           "full_name": "DeVonta Smith",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "7525",
           "position": "WR",
           "status": "Active",
@@ -3351,7 +3351,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -3480,7 +3480,7 @@
           "injury_status": "IR",
           "player_id": "12531",
           "position": "RB",
-          "status": "Inactive",
+          "status": "Active",
           "team": "CAR",
           "years_exp": 1
         },
@@ -3493,8 +3493,8 @@
             "WR"
           ],
           "full_name": "KC Concepcion",
-          "injury_body_part": "Concussion",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13298",
           "position": "WR",
           "status": "Active",
@@ -3691,7 +3691,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 7,
+          "depth_chart_order": 6,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -3788,7 +3788,7 @@
           "injury_status": "IR",
           "player_id": "12531",
           "position": "RB",
-          "status": "Inactive",
+          "status": "Active",
           "team": "CAR",
           "years_exp": 1
         }
@@ -3897,7 +3897,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -4306,8 +4306,8 @@
             "WR"
           ],
           "full_name": "Denzel Boston",
-          "injury_body_part": "Foot",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13346",
           "position": "WR",
           "status": "Active",
@@ -4375,7 +4375,7 @@
           ],
           "full_name": "Baker Mayfield",
           "injury_body_part": "Thumb",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "player_id": "4892",
           "position": "QB",
           "status": "Active",
@@ -4425,8 +4425,8 @@
             "RB"
           ],
           "full_name": "Rico Dowdle",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Toe",
+          "injury_status": "Questionable",
           "player_id": "7021",
           "position": "RB",
           "status": "Active",
@@ -4470,7 +4470,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -4631,8 +4631,8 @@
             "WR"
           ],
           "full_name": "Denzel Boston",
-          "injury_body_part": "Foot",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13346",
           "position": "WR",
           "status": "Active",
@@ -4675,20 +4675,20 @@
         },
         {
           "active": true,
-          "age": 25,
+          "age": 26,
           "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Jacory Croskey-Merritt",
-          "injury_body_part": "Groin",
-          "injury_status": "Questionable",
-          "player_id": "12533",
+          "full_name": "Tyler Allgeier",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "8132",
           "position": "RB",
           "status": "Active",
-          "team": "WAS",
-          "years_exp": 1
+          "team": "ARI",
+          "years_exp": 4
         }
       ],
       "taxi": [
@@ -4824,7 +4824,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 7,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -4950,7 +4950,7 @@
           ],
           "full_name": "Tre' Harris",
           "injury_body_part": "Hamstring",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "player_id": "12509",
           "position": "WR",
           "status": "Active",
@@ -5204,8 +5204,8 @@
             "WR"
           ],
           "full_name": "Quentin Johnston",
-          "injury_body_part": "Chest",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "9754",
           "position": "WR",
           "status": "Active",
@@ -5217,7 +5217,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 7,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -5593,7 +5593,7 @@
           ],
           "full_name": "Kyle Monangai",
           "injury_body_part": "Toe",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "12534",
           "position": "RB",
           "status": "Active",
@@ -5722,7 +5722,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -5898,8 +5898,8 @@
             "WR"
           ],
           "full_name": "Zay Flowers",
-          "injury_body_part": "Toe",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "9997",
           "position": "WR",
           "status": "Active",
@@ -5978,19 +5978,19 @@
         },
         {
           "active": true,
-          "age": 24,
-          "depth_chart_order": 2,
+          "age": 23,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Kyle Monangai",
-          "injury_body_part": "Toe",
-          "injury_status": "Questionable",
-          "player_id": "12534",
+          "full_name": "Kaleb Johnson",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "12504",
           "position": "RB",
           "status": "Active",
-          "team": "CHI",
+          "team": "GB",
           "years_exp": 1
         },
         {
@@ -6002,8 +6002,8 @@
             "WR"
           ],
           "full_name": "Zay Flowers",
-          "injury_body_part": "Toe",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "9997",
           "position": "WR",
           "status": "Active",
@@ -6134,7 +6134,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -6535,7 +6535,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 2,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -6980,8 +6980,8 @@
             "WR"
           ],
           "full_name": "Ladd McConkey",
-          "injury_body_part": "Foot",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "11635",
           "position": "WR",
           "status": "Active",
@@ -6997,8 +6997,8 @@
             "TE"
           ],
           "full_name": "Tyler Warren",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Groin",
+          "injury_status": "Questionable",
           "player_id": "12518",
           "position": "TE",
           "status": "Active",
@@ -7042,14 +7042,14 @@
         {
           "active": true,
           "age": 21,
-          "depth_chart_order": 1,
+          "depth_chart_order": 7,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
           "full_name": "Jeremiyah Love",
           "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "13287",
           "position": "RB",
           "status": "Active",
@@ -7144,17 +7144,17 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
           ],
           "full_name": "Lamar Jackson",
           "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "4881",
           "position": "QB",
-          "status": "Active",
+          "status": "Inactive",
           "team": "BAL",
           "years_exp": 8
         },
@@ -7263,7 +7263,7 @@
         {
           "active": true,
           "age": 28,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -7417,20 +7417,20 @@
         },
         {
           "active": true,
-          "age": 21,
-          "depth_chart_order": 1,
+          "age": 27,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Jeremiyah Love",
-          "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
-          "player_id": "13287",
+          "full_name": "Kenny Gainwell",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "7567",
           "position": "RB",
           "status": "Active",
-          "team": "ARI",
-          "years_exp": 0
+          "team": "TB",
+          "years_exp": 5
         },
         {
           "active": true,
@@ -7509,8 +7509,8 @@
             "TE"
           ],
           "full_name": "Tyler Warren",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Groin",
+          "injury_status": "Questionable",
           "player_id": "12518",
           "position": "TE",
           "status": "Active",
@@ -7519,20 +7519,20 @@
         },
         {
           "active": true,
-          "age": 27,
-          "depth_chart_order": 2,
-          "depth_chart_position": "RB",
+          "age": 24,
+          "depth_chart_order": 1,
+          "depth_chart_position": "SWR",
           "fantasy_positions": [
-            "RB"
+            "WR"
           ],
-          "full_name": "Kenny Gainwell",
+          "full_name": "Ladd McConkey",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "7567",
-          "position": "RB",
+          "player_id": "11635",
+          "position": "WR",
           "status": "Active",
-          "team": "TB",
-          "years_exp": 5
+          "team": "LAC",
+          "years_exp": 2
         },
         {
           "active": true,
@@ -7617,14 +7617,14 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 1,
+          "depth_chart_order": 7,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Rashee Rice",
           "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "10229",
           "position": "WR",
           "status": "Active",
@@ -7668,7 +7668,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 4,
+          "depth_chart_order": 6,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -7685,7 +7685,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -7770,14 +7770,14 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 2,
+          "depth_chart_order": 5,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
           ],
           "full_name": "Matt Hibner",
           "injury_body_part": "Hand",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "13324",
           "position": "TE",
           "status": "Active",
@@ -7896,7 +7896,7 @@
           ],
           "full_name": "Saquon Barkley",
           "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "4866",
           "position": "RB",
           "status": "Active",
@@ -7963,8 +7963,8 @@
             "WR"
           ],
           "full_name": "Rashod Bateman",
-          "injury_body_part": "Shoulder",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "7571",
           "position": "WR",
           "status": "Active",
@@ -8215,18 +8215,18 @@
           "active": true,
           "age": 26,
           "depth_chart_order": 1,
-          "depth_chart_position": "SWR",
+          "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Rashee Rice",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
-          "player_id": "10229",
+          "full_name": "Romeo Doubs",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "8121",
           "position": "WR",
           "status": "Active",
-          "team": "KC",
-          "years_exp": 3
+          "team": "NE",
+          "years_exp": 4
         },
         {
           "active": true,
@@ -8284,7 +8284,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -8657,8 +8657,8 @@
             "WR"
           ],
           "full_name": "DK Metcalf",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Illness",
+          "injury_status": "Questionable",
           "player_id": "5846",
           "position": "WR",
           "status": "Active",
@@ -8674,8 +8674,8 @@
             "WR"
           ],
           "full_name": "Marquise Brown",
-          "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "5848",
           "position": "WR",
           "status": "Active",
@@ -8753,7 +8753,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 11,
+          "depth_chart_order": 10,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -8948,8 +8948,8 @@
             "WR"
           ],
           "full_name": "DK Metcalf",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Illness",
+          "injury_status": "Questionable",
           "player_id": "5846",
           "position": "WR",
           "status": "Active",
@@ -9124,7 +9124,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -9148,7 +9148,7 @@
           ],
           "full_name": "Theo Johnson",
           "injury_body_part": "Neck",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "11597",
           "position": "TE",
           "status": "Active",
@@ -9504,8 +9504,8 @@
             "WR"
           ],
           "full_name": "Dontayvion Wicks",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "9486",
           "position": "WR",
           "status": "Active",
@@ -9676,8 +9676,8 @@
             "WR"
           ],
           "full_name": "Dontayvion Wicks",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "9486",
           "position": "WR",
           "status": "Active",
@@ -9960,8 +9960,8 @@
             "TE"
           ],
           "full_name": "Darren Waller",
-          "injury_body_part": "Toe",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "2505",
           "position": "TE",
           "status": "Active",
@@ -10715,7 +10715,7 @@
         {
           "active": true,
           "age": 31,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
