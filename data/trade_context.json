@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-16T21:08:51.463203+00:00",
+  "generated_at": "2026-10-17T04:26:32.801227+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1348,7 +1348,7 @@
       },
       {
         "active": true,
-        "age": 23,
+        "age": 24,
         "depth_chart_order": 4,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
@@ -1468,7 +1468,7 @@
       {
         "active": true,
         "age": 30,
-        "depth_chart_order": 8,
+        "depth_chart_order": 7,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -3555,7 +3555,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -3571,7 +3571,7 @@
         },
         {
           "active": true,
-          "age": 24,
+          "age": 25,
           "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
@@ -3629,8 +3629,8 @@
             "RB"
           ],
           "full_name": "Ty Johnson",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "6039",
           "position": "RB",
           "status": "Active",
@@ -3663,8 +3663,8 @@
             "RB"
           ],
           "full_name": "Rachaad White",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Shoulder",
+          "injury_status": "Questionable",
           "player_id": "8136",
           "position": "RB",
           "status": "Active",
@@ -3680,8 +3680,8 @@
             "WR"
           ],
           "full_name": "Jalen Nailor",
-          "injury_body_part": "Concussion",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "8180",
           "position": "WR",
           "status": "Active",
@@ -3835,8 +3835,8 @@
             "RB"
           ],
           "full_name": "Rachaad White",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Shoulder",
+          "injury_status": "Questionable",
           "player_id": "8136",
           "position": "RB",
           "status": "Active",
@@ -3852,8 +3852,8 @@
             "RB"
           ],
           "full_name": "Ty Johnson",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "6039",
           "position": "RB",
           "status": "Active",
@@ -4334,7 +4334,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 12,
+          "depth_chart_order": 10,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -5705,7 +5705,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -8413,7 +8413,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -9175,7 +9175,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 11,
+          "depth_chart_order": 9,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -9551,7 +9551,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 11,
+          "depth_chart_order": 9,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -9919,7 +9919,7 @@
         },
         {
           "active": true,
-          "age": 23,
+          "age": 24,
           "depth_chart_order": 4,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
@@ -10039,7 +10039,7 @@
         {
           "active": true,
           "age": 30,
-          "depth_chart_order": 8,
+          "depth_chart_order": 7,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -10466,7 +10466,7 @@
         },
         {
           "active": true,
-          "age": 23,
+          "age": 24,
           "depth_chart_order": 4,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
@@ -10545,7 +10545,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 9,
+          "depth_chart_order": 6,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -11161,7 +11161,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 9,
+          "depth_chart_order": 6,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
