@@ -101,14 +101,8 @@
       },
       {
         "current_owner_roster_id": 10,
-        "original_roster_id": 2,
-        "round": 1,
-        "season": "2027"
-      },
-      {
-        "current_owner_roster_id": 10,
-        "original_roster_id": 10,
-        "round": 1,
+        "original_roster_id": 6,
+        "round": 2,
         "season": "2027"
       },
       {
@@ -733,14 +727,20 @@
       },
       {
         "current_owner_roster_id": 6,
-        "original_roster_id": 6,
+        "original_roster_id": 2,
         "round": 1,
         "season": "2027"
       },
       {
         "current_owner_roster_id": 6,
         "original_roster_id": 6,
-        "round": 2,
+        "round": 1,
+        "season": "2027"
+      },
+      {
+        "current_owner_roster_id": 6,
+        "original_roster_id": 10,
+        "round": 1,
         "season": "2027"
       },
       {
@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-17T04:26:32.801227+00:00",
+  "generated_at": "2026-10-17T10:44:28.412672+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1468,7 +1468,7 @@
       {
         "active": true,
         "age": 30,
-        "depth_chart_order": 7,
+        "depth_chart_order": 8,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -2468,6 +2468,82 @@
         }
       ],
       "week": 4
+    },
+    {
+      "adds": {
+        "4199": 6,
+        "7547": 6,
+        "8144": 10,
+        "8151": 10,
+        "8155": 10
+      },
+      "consenter_ids": [
+        6,
+        10
+      ],
+      "created": 1792092551767,
+      "creator": "938180870501007360",
+      "draft_picks": [
+        {
+          "league_id": null,
+          "owner_id": 6,
+          "previous_owner_id": 10,
+          "roster_id": 10,
+          "round": 1,
+          "season": "2027"
+        },
+        {
+          "league_id": null,
+          "owner_id": 6,
+          "previous_owner_id": 10,
+          "roster_id": 2,
+          "round": 1,
+          "season": "2027"
+        },
+        {
+          "league_id": null,
+          "owner_id": 10,
+          "previous_owner_id": 6,
+          "roster_id": 6,
+          "round": 2,
+          "season": "2027"
+        }
+      ],
+      "drops": {
+        "4199": 10,
+        "7547": 10,
+        "8144": 6,
+        "8151": 6,
+        "8155": 6
+      },
+      "leg": 6,
+      "metadata": {
+        "notes": "Your trade was processed successfully!",
+        "poll_id": "1416542617969201152",
+        "veto_msg_id": "1416542618032091136"
+      },
+      "roster_ids": [
+        6,
+        10
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1792218238063,
+      "transaction_id": "1416542468031201280",
+      "type": "trade",
+      "waiver_budget": [
+        {
+          "amount": 1,
+          "receiver": 6,
+          "sender": 10
+        },
+        {
+          "amount": 1,
+          "receiver": 10,
+          "sender": 6
+        }
+      ],
+      "week": 6
     },
     {
       "adds": null,
@@ -3555,7 +3631,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -4334,7 +4410,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 10,
+          "depth_chart_order": 12,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -4943,7 +5019,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 5,
+          "depth_chart_order": 8,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -5586,7 +5662,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 2,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -5688,7 +5764,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -5705,7 +5781,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -6399,6 +6475,23 @@
         {
           "active": true,
           "age": 31,
+          "depth_chart_order": 1,
+          "depth_chart_position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "full_name": "Aaron Jones",
+          "injury_body_part": "Leg",
+          "injury_status": "Questionable",
+          "player_id": "4199",
+          "position": "RB",
+          "status": "Active",
+          "team": "MIN",
+          "years_exp": 9
+        },
+        {
+          "active": true,
+          "age": 31,
           "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
@@ -6468,6 +6561,23 @@
           "active": true,
           "age": 26,
           "depth_chart_order": 1,
+          "depth_chart_position": "SWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Amon-Ra St. Brown",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "7547",
+          "position": "WR",
+          "status": "Active",
+          "team": "DET",
+          "years_exp": 5
+        },
+        {
+          "active": true,
+          "age": 26,
+          "depth_chart_order": 1,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -6496,57 +6606,6 @@
           "position": "RB",
           "status": "Active",
           "team": "PHI",
-          "years_exp": 4
-        },
-        {
-          "active": true,
-          "age": 26,
-          "depth_chart_order": 1,
-          "depth_chart_position": "RWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Chris Olave",
-          "injury_body_part": "Illness",
-          "injury_status": "Questionable",
-          "player_id": "8144",
-          "position": "WR",
-          "status": "Active",
-          "team": "NO",
-          "years_exp": 4
-        },
-        {
-          "active": true,
-          "age": 25,
-          "depth_chart_order": 1,
-          "depth_chart_position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "full_name": "Kenneth Walker",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "8151",
-          "position": "RB",
-          "status": "Active",
-          "team": "KC",
-          "years_exp": 4
-        },
-        {
-          "active": true,
-          "age": 25,
-          "depth_chart_order": 5,
-          "depth_chart_position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "full_name": "Breece Hall",
-          "injury_body_part": "Quadriceps",
-          "injury_status": "Out",
-          "player_id": "8155",
-          "position": "RB",
-          "status": "Active",
-          "team": "NYJ",
           "years_exp": 4
         },
         {
@@ -6705,38 +6764,12 @@
           "years_exp": 4
         },
         {
-          "active": true,
-          "age": 25,
-          "depth_chart_order": 1,
-          "depth_chart_position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "full_name": "Kenneth Walker",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "8151",
-          "position": "RB",
-          "status": "Active",
-          "team": "KC",
-          "years_exp": 4
+          "full_name": "0",
+          "player_id": "0"
         },
         {
-          "active": true,
-          "age": 26,
-          "depth_chart_order": 1,
-          "depth_chart_position": "RWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Chris Olave",
-          "injury_body_part": "Illness",
-          "injury_status": "Questionable",
-          "player_id": "8144",
-          "position": "WR",
-          "status": "Active",
-          "team": "NO",
-          "years_exp": 4
+          "full_name": "0",
+          "player_id": "0"
         },
         {
           "active": true,
@@ -7889,7 +7922,7 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -8413,7 +8446,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -9090,7 +9123,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -9141,7 +9174,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -9175,7 +9208,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 9,
+          "depth_chart_order": 11,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -9310,23 +9343,6 @@
         },
         {
           "active": true,
-          "age": 31,
-          "depth_chart_order": 1,
-          "depth_chart_position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "full_name": "Aaron Jones",
-          "injury_body_part": "Leg",
-          "injury_status": "Questionable",
-          "player_id": "4199",
-          "position": "RB",
-          "status": "Active",
-          "team": "MIN",
-          "years_exp": 9
-        },
-        {
-          "active": true,
           "age": 30,
           "depth_chart_order": 1,
           "depth_chart_position": "QB",
@@ -9431,23 +9447,6 @@
           "active": true,
           "age": 26,
           "depth_chart_order": 1,
-          "depth_chart_position": "SWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Amon-Ra St. Brown",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "7547",
-          "position": "WR",
-          "status": "Active",
-          "team": "DET",
-          "years_exp": 5
-        },
-        {
-          "active": true,
-          "age": 26,
-          "depth_chart_order": 1,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -9477,6 +9476,57 @@
           "status": "Active",
           "team": "BUF",
           "years_exp": 5
+        },
+        {
+          "active": true,
+          "age": 26,
+          "depth_chart_order": 1,
+          "depth_chart_position": "RWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Chris Olave",
+          "injury_body_part": "Illness",
+          "injury_status": "Questionable",
+          "player_id": "8144",
+          "position": "WR",
+          "status": "Active",
+          "team": "NO",
+          "years_exp": 4
+        },
+        {
+          "active": true,
+          "age": 25,
+          "depth_chart_order": 1,
+          "depth_chart_position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "full_name": "Kenneth Walker",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "8151",
+          "position": "RB",
+          "status": "Active",
+          "team": "KC",
+          "years_exp": 4
+        },
+        {
+          "active": true,
+          "age": 25,
+          "depth_chart_order": 5,
+          "depth_chart_position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "full_name": "Breece Hall",
+          "injury_body_part": "Quadriceps",
+          "injury_status": "Out",
+          "player_id": "8155",
+          "position": "RB",
+          "status": "Active",
+          "team": "NYJ",
+          "years_exp": 4
         },
         {
           "active": true,
@@ -9551,7 +9601,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 9,
+          "depth_chart_order": 11,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -9619,7 +9669,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -10039,7 +10089,7 @@
         {
           "active": true,
           "age": 30,
-          "depth_chart_order": 7,
+          "depth_chart_order": 8,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -10545,7 +10595,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 6,
+          "depth_chart_order": 9,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -11161,7 +11211,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 6,
+          "depth_chart_order": 9,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -11259,8 +11309,8 @@
       "season": "2026"
     },
     {
-      "owner_id": 10,
-      "previous_owner_id": 2,
+      "owner_id": 6,
+      "previous_owner_id": 10,
       "roster_id": 2,
       "round": 1,
       "season": "2027"
@@ -11399,6 +11449,13 @@
       "season": "2026"
     },
     {
+      "owner_id": 10,
+      "previous_owner_id": 6,
+      "roster_id": 6,
+      "round": 2,
+      "season": "2027"
+    },
+    {
       "owner_id": 3,
       "previous_owner_id": 6,
       "roster_id": 6,
@@ -11509,6 +11566,13 @@
       "roster_id": 10,
       "round": 3,
       "season": "2026"
+    },
+    {
+      "owner_id": 6,
+      "previous_owner_id": 10,
+      "roster_id": 10,
+      "round": 1,
+      "season": "2027"
     },
     {
       "owner_id": 5,
