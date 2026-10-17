@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-17T10:44:28.412672+00:00",
+  "generated_at": "2026-10-17T15:35:27.552714+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -6764,12 +6764,38 @@
           "years_exp": 4
         },
         {
-          "full_name": "0",
-          "player_id": "0"
+          "active": true,
+          "age": 31,
+          "depth_chart_order": 3,
+          "depth_chart_position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "full_name": "Austin Ekeler",
+          "injury_body_part": "Chest",
+          "injury_status": "Questionable",
+          "player_id": "4663",
+          "position": "RB",
+          "status": "Active",
+          "team": "WAS",
+          "years_exp": 9
         },
         {
-          "full_name": "0",
-          "player_id": "0"
+          "active": true,
+          "age": 22,
+          "depth_chart_order": 3,
+          "depth_chart_position": "LWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Antonio Williams",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "13301",
+          "position": "WR",
+          "status": "Active",
+          "team": "WAS",
+          "years_exp": 0
         },
         {
           "active": true,
@@ -7966,7 +7992,7 @@
           "injury_status": "IR",
           "player_id": "5859",
           "position": "WR",
-          "status": "Inactive",
+          "status": "Active",
           "team": "NE",
           "years_exp": 7
         },
@@ -8291,7 +8317,7 @@
           "injury_status": "IR",
           "player_id": "5859",
           "position": "WR",
-          "status": "Inactive",
+          "status": "Active",
           "team": "NE",
           "years_exp": 7
         },
@@ -9394,23 +9420,6 @@
         },
         {
           "active": true,
-          "age": 29,
-          "depth_chart_order": 4,
-          "depth_chart_position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "full_name": "Devin Singletary",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "6130",
-          "position": "RB",
-          "status": "Active",
-          "team": "NYG",
-          "years_exp": 7
-        },
-        {
-          "active": true,
           "age": 30,
           "depth_chart_order": 1,
           "depth_chart_position": "TE",
@@ -9669,19 +9678,19 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Roschon Johnson",
+          "full_name": "Kenneth Walker",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "10235",
+          "player_id": "8151",
           "position": "RB",
           "status": "Active",
-          "team": "CHI",
-          "years_exp": 3
+          "team": "KC",
+          "years_exp": 4
         },
         {
           "active": true,
@@ -9702,20 +9711,20 @@
         },
         {
           "active": true,
-          "age": 27,
-          "depth_chart_order": 4,
+          "age": 26,
+          "depth_chart_order": 1,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Joshua Palmer",
-          "injury_body_part": "Shoulder",
+          "full_name": "Chris Olave",
+          "injury_body_part": "Illness",
           "injury_status": "Questionable",
-          "player_id": "7670",
+          "player_id": "8144",
           "position": "WR",
           "status": "Active",
-          "team": "BUF",
-          "years_exp": 5
+          "team": "NO",
+          "years_exp": 4
         },
         {
           "active": true,
@@ -9770,19 +9779,19 @@
         },
         {
           "active": true,
-          "age": 26,
+          "age": 25,
           "depth_chart_order": 2,
-          "depth_chart_position": "LWR",
+          "depth_chart_position": "RB",
           "fantasy_positions": [
-            "WR"
+            "RB"
           ],
-          "full_name": "Xavier Hutchinson",
+          "full_name": "Roschon Johnson",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "10218",
-          "position": "WR",
+          "player_id": "10235",
+          "position": "RB",
           "status": "Active",
-          "team": "HOU",
+          "team": "CHI",
           "years_exp": 3
         }
       ],
