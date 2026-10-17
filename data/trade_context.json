@@ -440,18 +440,18 @@
       {
         "current_owner_roster_id": 3,
         "original_roster_id": 3,
-        "round": 1,
-        "season": "2027"
-      },
-      {
-        "current_owner_roster_id": 3,
-        "original_roster_id": 3,
         "round": 2,
         "season": "2027"
       },
       {
         "current_owner_roster_id": 3,
         "original_roster_id": 3,
+        "round": 3,
+        "season": "2027"
+      },
+      {
+        "current_owner_roster_id": 3,
+        "original_roster_id": 9,
         "round": 3,
         "season": "2027"
       },
@@ -477,12 +477,6 @@
         "current_owner_roster_id": 3,
         "original_roster_id": 3,
         "round": 1,
-        "season": "2029"
-      },
-      {
-        "current_owner_roster_id": 3,
-        "original_roster_id": 3,
-        "round": 2,
         "season": "2029"
       },
       {
@@ -973,6 +967,12 @@
       },
       {
         "current_owner_roster_id": 9,
+        "original_roster_id": 3,
+        "round": 1,
+        "season": "2027"
+      },
+      {
+        "current_owner_roster_id": 9,
         "original_roster_id": 5,
         "round": 1,
         "season": "2027"
@@ -999,12 +999,6 @@
         "current_owner_roster_id": 9,
         "original_roster_id": 9,
         "round": 2,
-        "season": "2027"
-      },
-      {
-        "current_owner_roster_id": 9,
-        "original_roster_id": 9,
-        "round": 3,
         "season": "2027"
       },
       {
@@ -1051,6 +1045,12 @@
       },
       {
         "current_owner_roster_id": 9,
+        "original_roster_id": 3,
+        "round": 2,
+        "season": "2029"
+      },
+      {
+        "current_owner_roster_id": 9,
         "original_roster_id": 9,
         "round": 2,
         "season": "2029"
@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-17T15:35:27.552714+00:00",
+  "generated_at": "2026-10-17T20:36:59.595943+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1157,7 +1157,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 16,
+      "daily_waivers_last_ran": 17,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -1264,17 +1264,17 @@
       {
         "active": true,
         "age": 25,
-        "depth_chart_order": 9,
+        "depth_chart_order": 8,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
         ],
         "full_name": "Roman Wilson",
         "injury_body_part": "Finger",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "player_id": "11630",
         "position": "WR",
-        "status": "Active",
+        "status": "Inactive",
         "team": "PIT",
         "years_exp": 2
       },
@@ -1491,8 +1491,8 @@
           "WR"
         ],
         "full_name": "Terry McLaurin",
-        "injury_body_part": "Hamstring",
-        "injury_status": "Questionable",
+        "injury_body_part": null,
+        "injury_status": null,
         "player_id": "5927",
         "position": "WR",
         "status": "Active",
@@ -1576,8 +1576,8 @@
           "TE"
         ],
         "full_name": "Pat Freiermuth",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Calf",
+        "injury_status": "Questionable",
         "player_id": "7600",
         "position": "TE",
         "status": "Active",
@@ -2320,6 +2320,64 @@
     },
     {
       "adds": {
+        "12514": 3
+      },
+      "consenter_ids": [
+        3,
+        9
+      ],
+      "created": 1790535403542,
+      "creator": "987059842407841792",
+      "draft_picks": [
+        {
+          "league_id": null,
+          "owner_id": 9,
+          "previous_owner_id": 3,
+          "roster_id": 3,
+          "round": 1,
+          "season": "2027"
+        },
+        {
+          "league_id": null,
+          "owner_id": 9,
+          "previous_owner_id": 3,
+          "roster_id": 3,
+          "round": 2,
+          "season": "2029"
+        },
+        {
+          "league_id": null,
+          "owner_id": 3,
+          "previous_owner_id": 9,
+          "roster_id": 9,
+          "round": 3,
+          "season": "2027"
+        }
+      ],
+      "drops": {
+        "12514": 9
+      },
+      "leg": 3,
+      "metadata": {
+        "poll_id": "1416158784090341376",
+        "veto_msg_id": "1416158784170012672"
+      },
+      "roster_ids": [
+        3,
+        9
+      ],
+      "settings": {
+        "is_counter": 1
+      },
+      "status": "complete",
+      "status_updated": 1792256305212,
+      "transaction_id": "1410011315002494976",
+      "type": "trade",
+      "waiver_budget": [],
+      "week": 3
+    },
+    {
+      "adds": {
         "12529": 12,
         "6813": 11
       },
@@ -2817,23 +2875,6 @@
         },
         {
           "active": true,
-          "age": 23,
-          "depth_chart_order": 4,
-          "depth_chart_position": "SWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Konata Mumpfield",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "12718",
-          "position": "WR",
-          "status": "Active",
-          "team": "LAR",
-          "years_exp": 1
-        },
-        {
-          "active": true,
           "age": 22,
           "depth_chart_order": 9,
           "depth_chart_position": "SWR",
@@ -2842,7 +2883,7 @@
           ],
           "full_name": "Omar Cooper",
           "injury_body_part": "Ankle",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "player_id": "13276",
           "position": "WR",
           "status": "Inactive",
@@ -2876,7 +2917,7 @@
           ],
           "full_name": "Ja'Kobi Lane",
           "injury_body_part": "Wrist",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "player_id": "13293",
           "position": "WR",
           "status": "Inactive",
@@ -2967,6 +3008,23 @@
           "status": "Active",
           "team": "KC",
           "years_exp": 13
+        },
+        {
+          "active": true,
+          "age": 33,
+          "depth_chart_order": 3,
+          "depth_chart_position": "SWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Brandin Cooks",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "2197",
+          "position": "WR",
+          "status": "Active",
+          "team": "SF",
+          "years_exp": 12
         },
         {
           "active": true,
@@ -3153,7 +3211,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 52,
-        "waiver_position": 9,
+        "waiver_position": 12,
         "wins": 4
       },
       "starters": [
@@ -3210,20 +3268,20 @@
         },
         {
           "active": true,
-          "age": 30,
-          "depth_chart_order": 2,
-          "depth_chart_position": "SWR",
+          "age": 27,
+          "depth_chart_order": 3,
+          "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Chris Godwin",
+          "full_name": "DeVonta Smith",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "4037",
+          "player_id": "7525",
           "position": "WR",
           "status": "Active",
-          "team": "TB",
-          "years_exp": 9
+          "team": "PHI",
+          "years_exp": 5
         },
         {
           "active": true,
@@ -3356,7 +3414,7 @@
           ],
           "full_name": "Ja'Kobi Lane",
           "injury_body_part": "Wrist",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "player_id": "13293",
           "position": "WR",
           "status": "Inactive",
@@ -3553,7 +3611,7 @@
           ],
           "full_name": "Trevor Etienne",
           "injury_body_part": "Ankle",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "player_id": "12531",
           "position": "RB",
           "status": "Active",
@@ -3733,14 +3791,14 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
           "full_name": "Rachaad White",
-          "injury_body_part": "Shoulder",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "8136",
           "position": "RB",
           "status": "Active",
@@ -3861,7 +3919,7 @@
           ],
           "full_name": "Trevor Etienne",
           "injury_body_part": "Ankle",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "player_id": "12531",
           "position": "RB",
           "status": "Active",
@@ -3881,7 +3939,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 20,
-        "waiver_position": 12,
+        "waiver_position": 11,
         "wins": 2
       },
       "starters": [
@@ -3905,14 +3963,14 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
           "full_name": "Rachaad White",
-          "injury_body_part": "Shoulder",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "8136",
           "position": "RB",
           "status": "Active",
@@ -4324,15 +4382,32 @@
         },
         {
           "active": true,
-          "age": 25,
+          "age": 24,
           "depth_chart_order": 1,
+          "depth_chart_position": "LWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Emeka Egbuka",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "12514",
+          "position": "WR",
+          "status": "Active",
+          "team": "TB",
+          "years_exp": 1
+        },
+        {
+          "active": true,
+          "age": 25,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
           "full_name": "Jacory Croskey-Merritt",
           "injury_body_part": "Groin",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "12533",
           "position": "RB",
           "status": "Active",
@@ -4341,26 +4416,9 @@
         },
         {
           "active": true,
-          "age": 26,
-          "depth_chart_order": 3,
-          "depth_chart_position": "SWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Dohnte Meyers",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "13264",
-          "position": "WR",
-          "status": "Active",
-          "team": "CIN",
-          "years_exp": 0
-        },
-        {
-          "active": true,
           "age": 22,
           "depth_chart_order": 2,
-          "depth_chart_position": "LWR",
+          "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
@@ -4666,20 +4724,20 @@
         },
         {
           "active": true,
-          "age": 26,
-          "depth_chart_order": 3,
-          "depth_chart_position": "SWR",
+          "age": 24,
+          "depth_chart_order": 1,
+          "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Ryan Flournoy",
+          "full_name": "Emeka Egbuka",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "11783",
+          "player_id": "12514",
           "position": "WR",
           "status": "Active",
-          "team": "DAL",
-          "years_exp": 2
+          "team": "TB",
+          "years_exp": 1
         },
         {
           "active": true,
@@ -4789,7 +4847,7 @@
           "active": true,
           "age": 22,
           "depth_chart_order": 2,
-          "depth_chart_position": "LWR",
+          "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
@@ -6492,14 +6550,14 @@
         {
           "active": true,
           "age": 31,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
           "full_name": "Austin Ekeler",
-          "injury_body_part": "Chest",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "4663",
           "position": "RB",
           "status": "Active",
@@ -6725,7 +6783,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 95,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 1
       },
       "starters": [
@@ -6766,14 +6824,14 @@
         {
           "active": true,
           "age": 31,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
           "full_name": "Austin Ekeler",
-          "injury_body_part": "Chest",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "4663",
           "position": "RB",
           "status": "Active",
@@ -7091,7 +7149,7 @@
           ],
           "full_name": "KeAndre Lambert-Smith",
           "injury_body_part": "Hamstring",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "player_id": "12670",
           "position": "WR",
           "status": "Inactive",
@@ -7989,7 +8047,7 @@
           ],
           "full_name": "A.J. Brown",
           "injury_body_part": "Ankle",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "player_id": "5859",
           "position": "WR",
           "status": "Active",
@@ -8314,7 +8372,7 @@
           ],
           "full_name": "A.J. Brown",
           "injury_body_part": "Ankle",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "player_id": "5859",
           "position": "WR",
           "status": "Active",
@@ -8539,23 +8597,6 @@
         },
         {
           "active": true,
-          "age": 24,
-          "depth_chart_order": 1,
-          "depth_chart_position": "LWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Emeka Egbuka",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "12514",
-          "position": "WR",
-          "status": "Active",
-          "team": "TB",
-          "years_exp": 1
-        },
-        {
-          "active": true,
           "age": 22,
           "depth_chart_order": 1,
           "depth_chart_position": "TE",
@@ -8716,8 +8757,8 @@
             "WR"
           ],
           "full_name": "DK Metcalf",
-          "injury_body_part": "Illness",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "5846",
           "position": "WR",
           "status": "Active",
@@ -8751,7 +8792,7 @@
           ],
           "full_name": "Jalen Hurts",
           "injury_body_part": "Calf",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "player_id": "6904",
           "position": "QB",
           "status": "Active",
@@ -8909,7 +8950,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 80,
-        "waiver_position": 11,
+        "waiver_position": 10,
         "wins": 3
       },
       "starters": [
@@ -9007,8 +9048,8 @@
             "WR"
           ],
           "full_name": "DK Metcalf",
-          "injury_body_part": "Illness",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "5846",
           "position": "WR",
           "status": "Active",
@@ -9894,17 +9935,17 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 9,
+          "depth_chart_order": 8,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Roman Wilson",
           "injury_body_part": "Finger",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "player_id": "11630",
           "position": "WR",
-          "status": "Active",
+          "status": "Inactive",
           "team": "PIT",
           "years_exp": 2
         },
@@ -10121,8 +10162,8 @@
             "WR"
           ],
           "full_name": "Terry McLaurin",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "5927",
           "position": "WR",
           "status": "Active",
@@ -10206,8 +10247,8 @@
             "TE"
           ],
           "full_name": "Pat Freiermuth",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Calf",
+          "injury_status": "Questionable",
           "player_id": "7600",
           "position": "TE",
           "status": "Active",
@@ -10428,8 +10469,8 @@
             "WR"
           ],
           "full_name": "Terry McLaurin",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "5927",
           "position": "WR",
           "status": "Active",
@@ -10492,17 +10533,17 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 9,
+          "depth_chart_order": 8,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Roman Wilson",
           "injury_body_part": "Finger",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "player_id": "11630",
           "position": "WR",
-          "status": "Active",
+          "status": "Inactive",
           "team": "PIT",
           "years_exp": 2
         },
@@ -10860,7 +10901,7 @@
           "active": true,
           "age": 29,
           "depth_chart_order": 4,
-          "depth_chart_position": "RWR",
+          "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
           ],
@@ -11346,6 +11387,13 @@
       "season": "2026"
     },
     {
+      "owner_id": 9,
+      "previous_owner_id": 3,
+      "roster_id": 3,
+      "round": 1,
+      "season": "2027"
+    },
+    {
       "owner_id": 10,
       "previous_owner_id": 3,
       "roster_id": 3,
@@ -11365,6 +11413,13 @@
       "roster_id": 3,
       "round": 3,
       "season": "2028"
+    },
+    {
+      "owner_id": 9,
+      "previous_owner_id": 3,
+      "roster_id": 3,
+      "round": 2,
+      "season": "2029"
     },
     {
       "owner_id": 5,
@@ -11547,6 +11602,13 @@
       "roster_id": 9,
       "round": 4,
       "season": "2026"
+    },
+    {
+      "owner_id": 3,
+      "previous_owner_id": 9,
+      "roster_id": 9,
+      "round": 3,
+      "season": "2027"
     },
     {
       "owner_id": 5,
