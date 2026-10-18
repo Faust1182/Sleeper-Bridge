@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-18T11:05:40.580044+00:00",
+  "generated_at": "2026-10-18T15:52:20.306930+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2393,9 +2393,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1417267195011923968",
+    "last_message_id": "1417542878980325376",
     "last_message_text_map": null,
-    "last_message_time": 1792265340143,
+    "last_message_time": 1792331068323,
     "last_pinned_message_id": "1416542618032091136",
     "last_read_id": null,
     "league_id": "1314667834135040000",
@@ -2661,8 +2661,8 @@
           "RB"
         ],
         "full_name": "Quinshon Judkins",
-        "injury_body_part": "Lower Leg",
-        "injury_status": "Questionable",
+        "injury_body_part": "Foot",
+        "injury_status": "Out",
         "player_id": "12512",
         "position": "RB",
         "status": "Active",
@@ -2916,8 +2916,8 @@
           "TE"
         ],
         "full_name": "Pat Freiermuth",
-        "injury_body_part": "Calf",
-        "injury_status": "Questionable",
+        "injury_body_part": null,
+        "injury_status": null,
         "player_id": "7600",
         "position": "TE",
         "status": "Active",
@@ -3082,7 +3082,7 @@
       "5927",
       "10236",
       "11435",
-      "12512"
+      "5022"
     ],
     "taxi": [
       "11630",
@@ -4656,8 +4656,8 @@
         "RB"
       ],
       "full_name": "Quinshon Judkins",
-      "injury_body_part": "Lower Leg",
-      "injury_status": "Questionable",
+      "injury_body_part": "Foot",
+      "injury_status": "Out",
       "player_id": "12512",
       "position": "RB",
       "status": "Active",
@@ -4708,7 +4708,7 @@
       ],
       "full_name": "Tyler Warren",
       "injury_body_part": "Groin",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "player_id": "12518",
       "position": "TE",
       "status": "Active",
@@ -4826,8 +4826,8 @@
         "RB"
       ],
       "full_name": "TreVeyon Henderson",
-      "injury_body_part": "Ankle",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "12529",
       "position": "RB",
       "status": "Active",
@@ -5065,8 +5065,8 @@
         "WR"
       ],
       "full_name": "Elijah Sarratt",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Coach's Decision",
+      "injury_status": "Out",
       "player_id": "13268",
       "position": "WR",
       "status": "Active",
@@ -5150,8 +5150,8 @@
         "WR"
       ],
       "full_name": "Omar Cooper",
-      "injury_body_part": "Ankle",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "13276",
       "position": "WR",
       "status": "Active",
@@ -5269,8 +5269,8 @@
         "RB"
       ],
       "full_name": "Nicholas Singleton",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Coach's Decision",
+      "injury_status": "Out",
       "player_id": "13288",
       "position": "RB",
       "status": "Active",
@@ -5286,8 +5286,8 @@
         "QB"
       ],
       "full_name": "Drew Allar",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Coach's Decision",
+      "injury_status": "Out",
       "player_id": "13289",
       "position": "QB",
       "status": "Active",
@@ -5303,8 +5303,8 @@
         "WR"
       ],
       "full_name": "Ja'Kobi Lane",
-      "injury_body_part": "Wrist",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "13293",
       "position": "WR",
       "status": "Active",
@@ -5541,8 +5541,8 @@
         "TE"
       ],
       "full_name": "Kenyon Sadiq",
-      "injury_body_part": "Concussion",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "13330",
       "position": "TE",
       "status": "Active",
@@ -6323,8 +6323,8 @@
         "RB"
       ],
       "full_name": "Alvin Kamara",
-      "injury_body_part": "Back",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "4035",
       "position": "RB",
       "status": "Active",
@@ -6782,8 +6782,8 @@
         "WR"
       ],
       "full_name": "Marquise Brown",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Coach's Decision",
+      "injury_status": "Out",
       "player_id": "5848",
       "position": "WR",
       "status": "Active",
@@ -6850,8 +6850,8 @@
         "WR"
       ],
       "full_name": "A.J. Brown",
-      "injury_body_part": "Ankle",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "5859",
       "position": "WR",
       "status": "Active",
@@ -7258,8 +7258,8 @@
         "RB"
       ],
       "full_name": "Rico Dowdle",
-      "injury_body_part": "Toe",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "7021",
       "position": "RB",
       "status": "Active",
@@ -7453,23 +7453,6 @@
       "team": "ATL",
       "years_exp": 5
     },
-    "7562": {
-      "active": true,
-      "age": 27,
-      "depth_chart_order": 3,
-      "depth_chart_position": "RWR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "full_name": "Tutu Atwell",
-      "injury_body_part": null,
-      "injury_status": null,
-      "player_id": "7562",
-      "position": "WR",
-      "status": "Active",
-      "team": "LAR",
-      "years_exp": 5
-    },
     "7564": {
       "active": true,
       "age": 26,
@@ -7598,8 +7581,8 @@
         "TE"
       ],
       "full_name": "Pat Freiermuth",
-      "injury_body_part": "Calf",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "7600",
       "position": "TE",
       "status": "Active",
@@ -7904,8 +7887,8 @@
         "WR"
       ],
       "full_name": "Chris Olave",
-      "injury_body_part": "Illness",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "8144",
       "position": "WR",
       "status": "Active",
@@ -8948,8 +8931,8 @@
             "WR"
           ],
           "full_name": "Omar Cooper",
-          "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13276",
           "position": "WR",
           "status": "Active",
@@ -8982,8 +8965,8 @@
             "WR"
           ],
           "full_name": "Ja'Kobi Lane",
-          "injury_body_part": "Wrist",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13293",
           "position": "WR",
           "status": "Active",
@@ -9671,23 +9654,6 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 3,
-          "depth_chart_position": "RWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Tutu Atwell",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "7562",
-          "position": "WR",
-          "status": "Active",
-          "team": "LAR",
-          "years_exp": 5
-        },
-        {
-          "active": true,
-          "age": 27,
           "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
@@ -9827,7 +9793,6 @@
         "13533",
         "5947",
         "6039",
-        "7562",
         "8136",
         "8180",
         "8188",
@@ -9837,7 +9802,7 @@
         "9758"
       ],
       "reserve": [
-        "12531"
+        "8188"
       ],
       "roster_id": 2,
       "settings": {
@@ -9857,12 +9822,12 @@
       "starters": [
         "11566",
         "8136",
-        "6039",
+        "12507",
         "5947",
         "11637",
         "11624",
         "9480",
-        "12507",
+        "13298",
         "12526"
       ],
       "taxi": [
@@ -10301,8 +10266,8 @@
             "RB"
           ],
           "full_name": "Rico Dowdle",
-          "injury_body_part": "Toe",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "7021",
           "position": "RB",
           "status": "Active",
@@ -10705,8 +10670,8 @@
             "RB"
           ],
           "full_name": "Nicholas Singleton",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "13288",
           "position": "RB",
           "status": "Active",
@@ -10739,8 +10704,8 @@
             "TE"
           ],
           "full_name": "Kenyon Sadiq",
-          "injury_body_part": "Concussion",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13330",
           "position": "TE",
           "status": "Active",
@@ -11211,8 +11176,8 @@
             "QB"
           ],
           "full_name": "Drew Allar",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "13289",
           "position": "QB",
           "status": "Active",
@@ -12215,7 +12180,7 @@
           ],
           "full_name": "Tyler Warren",
           "injury_body_part": "Groin",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "12518",
           "position": "TE",
           "status": "Active",
@@ -12814,8 +12779,8 @@
             "WR"
           ],
           "full_name": "Elijah Sarratt",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "13268",
           "position": "WR",
           "status": "Active",
@@ -12984,8 +12949,8 @@
             "WR"
           ],
           "full_name": "A.J. Brown",
-          "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "5859",
           "position": "WR",
           "status": "Active",
@@ -13573,8 +13538,8 @@
             "WR"
           ],
           "full_name": "Marquise Brown",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "5848",
           "position": "WR",
           "status": "Active",
@@ -14029,8 +13994,8 @@
             "RB"
           ],
           "full_name": "Alvin Kamara",
-          "injury_body_part": "Back",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "4035",
           "position": "RB",
           "status": "Active",
@@ -14165,8 +14130,8 @@
             "WR"
           ],
           "full_name": "Chris Olave",
-          "injury_body_part": "Illness",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "8144",
           "position": "WR",
           "status": "Active",
@@ -14458,8 +14423,8 @@
             "RB"
           ],
           "full_name": "Quinshon Judkins",
-          "injury_body_part": "Lower Leg",
-          "injury_status": "Questionable",
+          "injury_body_part": "Foot",
+          "injury_status": "Out",
           "player_id": "12512",
           "position": "RB",
           "status": "Active",
@@ -14713,8 +14678,8 @@
             "TE"
           ],
           "full_name": "Pat Freiermuth",
-          "injury_body_part": "Calf",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "7600",
           "position": "TE",
           "status": "Active",
@@ -14879,7 +14844,7 @@
         "5927",
         "10236",
         "11435",
-        "12512"
+        "5022"
       ],
       "taxi": [
         "11630",
@@ -14947,8 +14912,8 @@
             "RB"
           ],
           "full_name": "TreVeyon Henderson",
-          "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "12529",
           "position": "RB",
           "status": "Active",
@@ -15432,14 +15397,14 @@
       },
       "starters": [
         "8183",
-        "7588",
+        "11439",
         "7594",
         "2133",
         "2216",
         "1479",
         "8130",
-        "9511",
-        "11439"
+        "7588",
+        "12529"
       ],
       "taxi": [
         "13296",
@@ -20189,7 +20154,6 @@
             "13533",
             "5947",
             "6039",
-            "7562",
             "8136",
             "8180",
             "8188",
@@ -20219,7 +20183,6 @@
             "13533": 0.0,
             "5947": 0.0,
             "6039": 0.0,
-            "7562": 0.0,
             "8136": 0.0,
             "8180": 0.0,
             "8188": 0.0,
@@ -20233,12 +20196,12 @@
           "starters": [
             "11566",
             "8136",
-            "6039",
+            "12507",
             "5947",
             "11637",
             "11624",
             "9480",
-            "12507",
+            "13298",
             "12526"
           ],
           "starters_points": [
@@ -21018,10 +20981,10 @@
             "8138",
             "8112",
             "7569",
-            "6794",
+            "5927",
             "10236",
-            "9224",
-            "12512"
+            "11435",
+            "5022"
           ],
           "starters_points": [
             0.0,
@@ -21102,14 +21065,14 @@
           "roster_id": 12,
           "starters": [
             "8183",
-            "7588",
+            "11439",
             "7594",
             "2133",
             "2216",
             "1479",
             "8130",
-            "9511",
-            "11439"
+            "7588",
+            "12529"
           ],
           "starters_points": [
             0.0,
@@ -21240,7 +21203,6 @@
             "13533",
             "5947",
             "6039",
-            "7562",
             "8136",
             "8180",
             "8188",
@@ -21270,7 +21232,6 @@
             "13533": 0.0,
             "5947": 0.0,
             "6039": 0.0,
-            "7562": 0.0,
             "8136": 0.0,
             "8180": 0.0,
             "8188": 0.0,
@@ -21284,12 +21245,12 @@
           "starters": [
             "11566",
             "8136",
-            "6039",
+            "12507",
             "5947",
             "11637",
             "11624",
             "9480",
-            "12507",
+            "13298",
             "12526"
           ],
           "starters_points": [
@@ -22067,12 +22028,12 @@
             "4046",
             "6813",
             "8138",
-            "6794",
+            "8112",
             "7569",
             "5927",
             "10236",
-            "9224",
-            "12495"
+            "11435",
+            "5022"
           ],
           "starters_points": [
             0.0,
@@ -22153,14 +22114,14 @@
           "roster_id": 12,
           "starters": [
             "8183",
-            "7588",
+            "11439",
             "7594",
             "2133",
             "2216",
             "1479",
             "8130",
-            "9511",
-            "11439"
+            "7588",
+            "12529"
           ],
           "starters_points": [
             0.0,
@@ -22291,7 +22252,6 @@
             "13533",
             "5947",
             "6039",
-            "7562",
             "8136",
             "8180",
             "8188",
@@ -22321,7 +22281,6 @@
             "13533": 0.0,
             "5947": 0.0,
             "6039": 0.0,
-            "7562": 0.0,
             "8136": 0.0,
             "8180": 0.0,
             "8188": 0.0,
@@ -22335,12 +22294,12 @@
           "starters": [
             "11566",
             "8136",
-            "6039",
+            "12507",
             "5947",
             "11637",
             "11624",
             "9480",
-            "12507",
+            "13298",
             "12526"
           ],
           "starters_points": [
@@ -23120,10 +23079,10 @@
             "8138",
             "8112",
             "7569",
-            "6794",
+            "5927",
             "10236",
-            "9224",
-            "12512"
+            "11435",
+            "5022"
           ],
           "starters_points": [
             0.0,
@@ -23204,14 +23163,14 @@
           "roster_id": 12,
           "starters": [
             "8183",
-            "7588",
+            "11439",
             "7594",
             "2133",
             "2216",
             "1479",
             "8130",
-            "9511",
-            "11439"
+            "7588",
+            "12529"
           ],
           "starters_points": [
             0.0,
@@ -23342,7 +23301,6 @@
             "13533",
             "5947",
             "6039",
-            "7562",
             "8136",
             "8180",
             "8188",
@@ -23372,7 +23330,6 @@
             "13533": 0.0,
             "5947": 0.0,
             "6039": 0.0,
-            "7562": 0.0,
             "8136": 0.0,
             "8180": 0.0,
             "8188": 0.0,
@@ -23386,12 +23343,12 @@
           "starters": [
             "11566",
             "8136",
-            "6039",
+            "12507",
             "5947",
             "11637",
             "11624",
             "9480",
-            "12507",
+            "13298",
             "12526"
           ],
           "starters_points": [
@@ -24167,14 +24124,14 @@
           "roster_id": 11,
           "starters": [
             "4046",
-            "12512",
+            "6813",
             "8138",
             "8112",
             "7569",
-            "6794",
+            "5927",
             "10236",
-            "9224",
-            "12495"
+            "11435",
+            "5022"
           ],
           "starters_points": [
             0.0,
@@ -24255,14 +24212,14 @@
           "roster_id": 12,
           "starters": [
             "8183",
-            "7588",
+            "11439",
             "7594",
             "2133",
             "2216",
             "1479",
             "8130",
-            "9511",
-            "11439"
+            "7588",
+            "12529"
           ],
           "starters_points": [
             0.0,
@@ -24393,7 +24350,6 @@
             "13533",
             "5947",
             "6039",
-            "7562",
             "8136",
             "8180",
             "8188",
@@ -24423,7 +24379,6 @@
             "13533": 0.0,
             "5947": 0.0,
             "6039": 0.0,
-            "7562": 0.0,
             "8136": 0.0,
             "8180": 0.0,
             "8188": 0.0,
@@ -24437,12 +24392,12 @@
           "starters": [
             "11566",
             "8136",
-            "6039",
+            "12507",
             "5947",
             "11637",
             "11624",
             "9480",
-            "12507",
+            "13298",
             "12526"
           ],
           "starters_points": [
@@ -25222,10 +25177,10 @@
             "8138",
             "8112",
             "7569",
-            "6794",
+            "5927",
             "10236",
-            "9224",
-            "12512"
+            "11435",
+            "5022"
           ],
           "starters_points": [
             0.0,
@@ -25306,14 +25261,14 @@
           "roster_id": 12,
           "starters": [
             "8183",
-            "7588",
+            "11439",
             "7594",
             "2133",
             "2216",
             "1479",
             "8130",
-            "9511",
-            "11439"
+            "7588",
+            "12529"
           ],
           "starters_points": [
             0.0,
@@ -25444,7 +25399,6 @@
             "13533",
             "5947",
             "6039",
-            "7562",
             "8136",
             "8180",
             "8188",
@@ -25474,7 +25428,6 @@
             "13533": 0.0,
             "5947": 0.0,
             "6039": 0.0,
-            "7562": 0.0,
             "8136": 0.0,
             "8180": 0.0,
             "8188": 0.0,
@@ -25488,12 +25441,12 @@
           "starters": [
             "11566",
             "8136",
-            "6039",
+            "12507",
             "5947",
             "11637",
             "11624",
             "9480",
-            "12507",
+            "13298",
             "12526"
           ],
           "starters_points": [
@@ -26276,7 +26229,7 @@
             "5927",
             "10236",
             "11435",
-            "12512"
+            "5022"
           ],
           "starters_points": [
             0.0,
@@ -26357,14 +26310,14 @@
           "roster_id": 12,
           "starters": [
             "8183",
-            "7588",
+            "11439",
             "7594",
             "2133",
             "2216",
             "1479",
             "8130",
-            "9511",
-            "11439"
+            "7588",
+            "12529"
           ],
           "starters_points": [
             0.0,
@@ -26495,7 +26448,6 @@
             "13533",
             "5947",
             "6039",
-            "7562",
             "8136",
             "8180",
             "8188",
@@ -26525,7 +26477,6 @@
             "13533": 0.0,
             "5947": 0.0,
             "6039": 0.0,
-            "7562": 0.0,
             "8136": 0.0,
             "8180": 0.0,
             "8188": 0.0,
@@ -26539,12 +26490,12 @@
           "starters": [
             "11566",
             "8136",
-            "6039",
+            "12507",
             "5947",
             "11637",
             "11624",
             "9480",
-            "12507",
+            "13298",
             "12526"
           ],
           "starters_points": [
@@ -27327,7 +27278,7 @@
             "5927",
             "10236",
             "11435",
-            "12512"
+            "5022"
           ],
           "starters_points": [
             0.0,
@@ -27408,14 +27359,14 @@
           "roster_id": 12,
           "starters": [
             "8183",
-            "7588",
+            "11439",
             "7594",
             "2133",
             "2216",
             "1479",
             "8130",
-            "9511",
-            "11439"
+            "7588",
+            "12529"
           ],
           "starters_points": [
             0.0,
@@ -27546,7 +27497,6 @@
             "13533",
             "5947",
             "6039",
-            "7562",
             "8136",
             "8180",
             "8188",
@@ -27576,7 +27526,6 @@
             "13533": 0.0,
             "5947": 0.0,
             "6039": 0.0,
-            "7562": 0.0,
             "8136": 0.0,
             "8180": 0.0,
             "8188": 0.0,
@@ -27590,12 +27539,12 @@
           "starters": [
             "11566",
             "8136",
-            "6039",
+            "12507",
             "5947",
             "11637",
             "11624",
             "9480",
-            "12507",
+            "13298",
             "12526"
           ],
           "starters_points": [
@@ -28378,7 +28327,7 @@
             "5927",
             "10236",
             "11435",
-            "12512"
+            "5022"
           ],
           "starters_points": [
             0.0,
@@ -28459,14 +28408,14 @@
           "roster_id": 12,
           "starters": [
             "8183",
-            "7588",
+            "11439",
             "7594",
             "2133",
             "2216",
             "1479",
             "8130",
-            "9511",
-            "11439"
+            "7588",
+            "12529"
           ],
           "starters_points": [
             0.0,
@@ -28597,7 +28546,6 @@
             "13533",
             "5947",
             "6039",
-            "7562",
             "8136",
             "8180",
             "8188",
@@ -28627,7 +28575,6 @@
             "13533": 0.0,
             "5947": 0.0,
             "6039": 0.0,
-            "7562": 0.0,
             "8136": 0.0,
             "8180": 0.0,
             "8188": 0.0,
@@ -28641,12 +28588,12 @@
           "starters": [
             "11566",
             "8136",
-            "6039",
+            "12507",
             "5947",
             "11637",
             "11624",
             "9480",
-            "12507",
+            "13298",
             "12526"
           ],
           "starters_points": [
@@ -29429,7 +29376,7 @@
             "5927",
             "10236",
             "11435",
-            "12512"
+            "5022"
           ],
           "starters_points": [
             0.0,
@@ -29510,14 +29457,14 @@
           "roster_id": 12,
           "starters": [
             "8183",
-            "7588",
+            "11439",
             "7594",
             "2133",
             "2216",
             "1479",
             "8130",
-            "9511",
-            "11439"
+            "7588",
+            "12529"
           ],
           "starters_points": [
             0.0,
@@ -35503,8 +35450,8 @@
             "12483": 0.0,
             "12491": 0.0,
             "12501": 0.0,
-            "12530": 0.0,
-            "12536": 0.0,
+            "12530": 2.4,
+            "12536": 18.7,
             "12542": 0.0,
             "12543": 0.0,
             "13276": 0.0,
@@ -35575,7 +35522,6 @@
             "13533",
             "5947",
             "6039",
-            "7562",
             "8136",
             "8180",
             "8188",
@@ -35585,7 +35531,7 @@
             "9758"
           ],
           "players_points": {
-            "10219": 0.0,
+            "10219": 5.2,
             "11566": 0.0,
             "11569": 0.0,
             "11624": 0.0,
@@ -35603,38 +35549,37 @@
             "13400": 0.0,
             "13414": 0.0,
             "13533": 0.0,
-            "5947": 0.0,
+            "5947": 8.8,
             "6039": 0.0,
-            "7562": 0.0,
             "8136": 0.0,
             "8180": 0.0,
             "8188": 0.0,
             "9479": 0.0,
-            "9480": 0.0,
+            "9480": 4.4,
             "9502": 0.0,
-            "9758": 0.0
+            "9758": 21.34
           },
-          "points": 0.0,
+          "points": 13.2,
           "roster_id": 2,
           "starters": [
             "11566",
             "8136",
-            "6039",
+            "12507",
             "5947",
             "11637",
             "11624",
             "9480",
-            "12507",
+            "13298",
             "12526"
           ],
           "starters_points": [
             0.0,
             0.0,
             0.0,
+            8.8,
             0.0,
             0.0,
-            0.0,
-            0.0,
+            4.4,
             0.0,
             0.0
           ]
@@ -35678,12 +35623,12 @@
             "11610": 0.0,
             "11618": 0.0,
             "11620": 0.0,
-            "11628": 0.0,
+            "11628": 4.9,
             "11783": 0.0,
-            "12474": 0.0,
+            "12474": 2.9,
             "12484": 0.0,
             "12489": 13.1,
-            "12490": 0.0,
+            "12490": 19.0,
             "12492": 0.0,
             "12497": 1.8,
             "12514": 0.0,
@@ -35702,7 +35647,7 @@
             "8132": 0.0,
             "8148": 0.0
           },
-          "points": 0.0,
+          "points": 21.9,
           "roster_id": 3,
           "starters": [
             "6804",
@@ -35718,12 +35663,12 @@
           "starters_points": [
             0.0,
             0.0,
+            19.0,
             0.0,
             0.0,
             0.0,
             0.0,
-            0.0,
-            0.0,
+            2.9,
             0.0
           ]
         },
@@ -35785,7 +35730,7 @@
             "8137": 0.0,
             "9229": 0.0,
             "9488": 19.4,
-            "9504": 0.0,
+            "9504": 1.5,
             "9754": 0.0
           },
           "points": 19.4,
@@ -35866,7 +35811,7 @@
             "13420": 0.0,
             "5995": 0.0,
             "6806": 12.1,
-            "7523": 0.0,
+            "7523": 15.34,
             "8172": 0.0,
             "8676": 9.3,
             "9225": 0.0,
@@ -35874,7 +35819,7 @@
             "96": 0.0,
             "9997": 0.0
           },
-          "points": 21.4,
+          "points": 36.74,
           "roster_id": 5,
           "starters": [
             "7523",
@@ -35888,7 +35833,7 @@
             "11834"
           ],
           "starters_points": [
-            0.0,
+            15.34,
             12.1,
             0.0,
             0.0,
@@ -36133,10 +36078,10 @@
             "8150": 0.0,
             "8205": 0.0,
             "8228": 0.0,
-            "9487": 0.0,
+            "9487": 6.9,
             "9756": 0.0
           },
-          "points": 0.0,
+          "points": 6.9,
           "roster_id": 8,
           "starters": [
             "2306",
@@ -36153,7 +36098,7 @@
             0.0,
             0.0,
             0.0,
-            0.0,
+            6.9,
             0.0,
             0.0,
             0.0,
@@ -36211,7 +36156,7 @@
             "13305": 0.0,
             "13311": 0.0,
             "3163": 0.0,
-            "5001": 0.0,
+            "5001": 3.2,
             "5846": 0.0,
             "5848": 0.0,
             "5854": 0.0,
@@ -36283,7 +36228,7 @@
             "9509"
           ],
           "players_points": {
-            "10218": 0.0,
+            "10218": 1.0,
             "10235": 0.0,
             "11559": 0.0,
             "11571": 0.0,
@@ -36388,7 +36333,7 @@
             "5927": 0.0,
             "6794": 0.0,
             "6813": 0.0,
-            "7569": 0.0,
+            "7569": 4.7,
             "7591": 0.0,
             "7600": 0.0,
             "8112": 0.0,
@@ -36398,7 +36343,7 @@
             "9494": 2.3,
             "9757": 0.0
           },
-          "points": 5.2,
+          "points": 9.9,
           "roster_id": 11,
           "starters": [
             "4046",
@@ -36409,14 +36354,14 @@
             "5927",
             "10236",
             "11435",
-            "12512"
+            "5022"
           ],
           "starters_points": [
             0.0,
             0.0,
             0.0,
             0.0,
-            0.0,
+            4.7,
             0.0,
             0.0,
             5.2,
@@ -36490,14 +36435,14 @@
           "roster_id": 12,
           "starters": [
             "8183",
-            "7588",
+            "11439",
             "7594",
             "2133",
             "2216",
             "1479",
             "8130",
-            "9511",
-            "11439"
+            "7588",
+            "12529"
           ],
           "starters_points": [
             0.0,
@@ -36513,6 +36458,29 @@
         }
       ],
       "transactions": [
+        {
+          "adds": null,
+          "consenter_ids": [
+            2
+          ],
+          "created": 1792331068300,
+          "creator": "987087223516377088",
+          "draft_picks": [],
+          "drops": {
+            "7562": 2
+          },
+          "leg": 6,
+          "metadata": null,
+          "roster_ids": [
+            2
+          ],
+          "settings": null,
+          "status": "complete",
+          "status_updated": 1792331068300,
+          "transaction_id": "1417542878883762176",
+          "type": "free_agent",
+          "waiver_budget": []
+        },
         {
           "adds": null,
           "consenter_ids": [
@@ -37185,7 +37153,6 @@
             "13533",
             "5947",
             "6039",
-            "7562",
             "8136",
             "8180",
             "8188",
@@ -37215,7 +37182,6 @@
             "13533": 0.0,
             "5947": 0.0,
             "6039": 0.0,
-            "7562": 0.0,
             "8136": 0.0,
             "8180": 0.0,
             "8188": 0.0,
@@ -37229,12 +37195,12 @@
           "starters": [
             "11566",
             "8136",
-            "6039",
+            "12507",
             "5947",
             "11637",
             "11624",
             "9480",
-            "12507",
+            "13298",
             "12526"
           ],
           "starters_points": [
@@ -38011,13 +37977,13 @@
           "starters": [
             "4046",
             "6813",
-            "9224",
+            "8138",
             "8112",
             "7569",
-            "6794",
-            "5022",
-            "12495",
-            "12512"
+            "5927",
+            "10236",
+            "11435",
+            "5022"
           ],
           "starters_points": [
             0.0,
@@ -38098,14 +38064,14 @@
           "roster_id": 12,
           "starters": [
             "8183",
-            "7588",
+            "11439",
             "7594",
             "2133",
             "2216",
-            "6801",
+            "1479",
             "8130",
-            "12529",
-            "5850"
+            "7588",
+            "12529"
           ],
           "starters_points": [
             0.0,
@@ -38236,7 +38202,6 @@
             "13533",
             "5947",
             "6039",
-            "7562",
             "8136",
             "8180",
             "8188",
@@ -38266,7 +38231,6 @@
             "13533": 0.0,
             "5947": 0.0,
             "6039": 0.0,
-            "7562": 0.0,
             "8136": 0.0,
             "8180": 0.0,
             "8188": 0.0,
@@ -38280,12 +38244,12 @@
           "starters": [
             "11566",
             "8136",
-            "6039",
+            "12507",
             "5947",
             "11637",
             "11624",
             "9480",
-            "12507",
+            "13298",
             "12526"
           ],
           "starters_points": [
@@ -39064,11 +39028,11 @@
             "6813",
             "8138",
             "8112",
-            "6794",
+            "7569",
             "5927",
             "10236",
-            "9224",
-            "12512"
+            "11435",
+            "5022"
           ],
           "starters_points": [
             0.0,
@@ -39148,14 +39112,14 @@
           "points": 0.0,
           "roster_id": 12,
           "starters": [
-            "4943",
-            "7588",
+            "8183",
+            "11439",
             "7594",
             "2133",
-            "2449",
+            "2216",
             "1479",
             "8130",
-            "9511",
+            "7588",
             "12529"
           ],
           "starters_points": [
@@ -39287,7 +39251,6 @@
             "13533",
             "5947",
             "6039",
-            "7562",
             "8136",
             "8180",
             "8188",
@@ -39317,7 +39280,6 @@
             "13533": 0.0,
             "5947": 0.0,
             "6039": 0.0,
-            "7562": 0.0,
             "8136": 0.0,
             "8180": 0.0,
             "8188": 0.0,
@@ -39331,12 +39293,12 @@
           "starters": [
             "11566",
             "8136",
-            "6039",
+            "12507",
             "5947",
             "11637",
             "11624",
             "9480",
-            "12507",
+            "13298",
             "12526"
           ],
           "starters_points": [
@@ -40116,10 +40078,10 @@
             "8138",
             "8112",
             "7569",
-            "6794",
+            "5927",
             "10236",
-            "12512",
-            "9224"
+            "11435",
+            "5022"
           ],
           "starters_points": [
             0.0,
@@ -40200,14 +40162,14 @@
           "roster_id": 12,
           "starters": [
             "8183",
-            "7588",
+            "11439",
             "7594",
             "2133",
             "2216",
-            "6801",
+            "1479",
             "8130",
-            "12529",
-            "5850"
+            "7588",
+            "12529"
           ],
           "starters_points": [
             0.0,

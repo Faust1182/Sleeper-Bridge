@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-18T11:05:40.580044+00:00",
+  "generated_at": "2026-10-18T15:52:20.306930+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1321,8 +1321,8 @@
           "RB"
         ],
         "full_name": "Quinshon Judkins",
-        "injury_body_part": "Lower Leg",
-        "injury_status": "Questionable",
+        "injury_body_part": "Foot",
+        "injury_status": "Out",
         "player_id": "12512",
         "position": "RB",
         "status": "Active",
@@ -1576,8 +1576,8 @@
           "TE"
         ],
         "full_name": "Pat Freiermuth",
-        "injury_body_part": "Calf",
-        "injury_status": "Questionable",
+        "injury_body_part": null,
+        "injury_status": null,
         "player_id": "7600",
         "position": "TE",
         "status": "Active",
@@ -1742,7 +1742,7 @@
       "5927",
       "10236",
       "11435",
-      "12512"
+      "5022"
     ],
     "taxi": [
       "11630",
@@ -2882,8 +2882,8 @@
             "WR"
           ],
           "full_name": "Omar Cooper",
-          "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13276",
           "position": "WR",
           "status": "Active",
@@ -2916,8 +2916,8 @@
             "WR"
           ],
           "full_name": "Ja'Kobi Lane",
-          "injury_body_part": "Wrist",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13293",
           "position": "WR",
           "status": "Active",
@@ -3413,8 +3413,8 @@
             "WR"
           ],
           "full_name": "Ja'Kobi Lane",
-          "injury_body_part": "Wrist",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13293",
           "position": "WR",
           "status": "Active",
@@ -3774,23 +3774,6 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 3,
-          "depth_chart_position": "RWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Tutu Atwell",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "7562",
-          "position": "WR",
-          "status": "Active",
-          "team": "LAR",
-          "years_exp": 5
-        },
-        {
-          "active": true,
-          "age": 27,
           "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
@@ -3911,20 +3894,20 @@
       "reserve": [
         {
           "active": true,
-          "age": 22,
-          "depth_chart_order": 2,
-          "depth_chart_position": "RB",
+          "age": 26,
+          "depth_chart_order": 6,
+          "depth_chart_position": "LWR",
           "fantasy_positions": [
-            "RB"
+            "WR"
           ],
-          "full_name": "Trevor Etienne",
+          "full_name": "Tyquan Thornton",
           "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
-          "player_id": "12531",
-          "position": "RB",
-          "status": "Active",
-          "team": "CAR",
-          "years_exp": 1
+          "injury_status": "IR",
+          "player_id": "8188",
+          "position": "WR",
+          "status": "Inactive",
+          "team": "KC",
+          "years_exp": 4
         }
       ],
       "roster_id": 2,
@@ -3979,20 +3962,20 @@
         },
         {
           "active": true,
-          "age": 29,
-          "depth_chart_order": 2,
+          "age": 23,
+          "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Ty Johnson",
+          "full_name": "Omarion Hampton",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "6039",
+          "player_id": "12507",
           "position": "RB",
           "status": "Active",
-          "team": "BUF",
-          "years_exp": 7
+          "team": "LAC",
+          "years_exp": 1
         },
         {
           "active": true,
@@ -4064,20 +4047,20 @@
         },
         {
           "active": true,
-          "age": 23,
-          "depth_chart_order": 1,
-          "depth_chart_position": "RB",
+          "age": 22,
+          "depth_chart_order": 2,
+          "depth_chart_position": "SWR",
           "fantasy_positions": [
-            "RB"
+            "WR"
           ],
-          "full_name": "Omarion Hampton",
+          "full_name": "KC Concepcion",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "12507",
-          "position": "RB",
+          "player_id": "13298",
+          "position": "WR",
           "status": "Active",
-          "team": "LAC",
-          "years_exp": 1
+          "team": "CLE",
+          "years_exp": 0
         },
         {
           "active": true,
@@ -4559,8 +4542,8 @@
             "RB"
           ],
           "full_name": "Rico Dowdle",
-          "injury_body_part": "Toe",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "7021",
           "position": "RB",
           "status": "Active",
@@ -5117,8 +5100,8 @@
             "RB"
           ],
           "full_name": "Nicholas Singleton",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "13288",
           "position": "RB",
           "status": "Active",
@@ -5151,8 +5134,8 @@
             "TE"
           ],
           "full_name": "Kenyon Sadiq",
-          "injury_body_part": "Concussion",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13330",
           "position": "TE",
           "status": "Active",
@@ -5527,8 +5510,8 @@
             "TE"
           ],
           "full_name": "Kenyon Sadiq",
-          "injury_body_part": "Concussion",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13330",
           "position": "TE",
           "status": "Active",
@@ -5563,8 +5546,8 @@
             "RB"
           ],
           "full_name": "Nicholas Singleton",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "13288",
           "position": "RB",
           "status": "Active",
@@ -5777,8 +5760,8 @@
             "QB"
           ],
           "full_name": "Drew Allar",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "13289",
           "position": "QB",
           "status": "Active",
@@ -6257,8 +6240,8 @@
             "QB"
           ],
           "full_name": "Drew Allar",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "13289",
           "position": "QB",
           "status": "Active",
@@ -7115,7 +7098,7 @@
           ],
           "full_name": "Tyler Warren",
           "injury_body_part": "Groin",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "12518",
           "position": "TE",
           "status": "Active",
@@ -7627,7 +7610,7 @@
           ],
           "full_name": "Tyler Warren",
           "injury_body_part": "Groin",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "12518",
           "position": "TE",
           "status": "Active",
@@ -7876,8 +7859,8 @@
             "WR"
           ],
           "full_name": "Elijah Sarratt",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "13268",
           "position": "WR",
           "status": "Active",
@@ -8046,8 +8029,8 @@
             "WR"
           ],
           "full_name": "A.J. Brown",
-          "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "5859",
           "position": "WR",
           "status": "Active",
@@ -8371,8 +8354,8 @@
             "WR"
           ],
           "full_name": "A.J. Brown",
-          "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "5859",
           "position": "WR",
           "status": "Active",
@@ -8441,8 +8424,8 @@
             "WR"
           ],
           "full_name": "Elijah Sarratt",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "13268",
           "position": "WR",
           "status": "Active",
@@ -8774,8 +8757,8 @@
             "WR"
           ],
           "full_name": "Marquise Brown",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "5848",
           "position": "WR",
           "status": "Active",
@@ -9400,8 +9383,8 @@
             "RB"
           ],
           "full_name": "Alvin Kamara",
-          "injury_body_part": "Back",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "4035",
           "position": "RB",
           "status": "Active",
@@ -9536,8 +9519,8 @@
             "WR"
           ],
           "full_name": "Chris Olave",
-          "injury_body_part": "Illness",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "8144",
           "position": "WR",
           "status": "Active",
@@ -9759,8 +9742,8 @@
             "WR"
           ],
           "full_name": "Chris Olave",
-          "injury_body_part": "Illness",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "8144",
           "position": "WR",
           "status": "Active",
@@ -9810,8 +9793,8 @@
             "RB"
           ],
           "full_name": "Alvin Kamara",
-          "injury_body_part": "Back",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "4035",
           "position": "RB",
           "status": "Active",
@@ -9992,8 +9975,8 @@
             "RB"
           ],
           "full_name": "Quinshon Judkins",
-          "injury_body_part": "Lower Leg",
-          "injury_status": "Questionable",
+          "injury_body_part": "Foot",
+          "injury_status": "Out",
           "player_id": "12512",
           "position": "RB",
           "status": "Active",
@@ -10247,8 +10230,8 @@
             "TE"
           ],
           "full_name": "Pat Freiermuth",
-          "injury_body_part": "Calf",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "7600",
           "position": "TE",
           "status": "Active",
@@ -10513,20 +10496,20 @@
         },
         {
           "active": true,
-          "age": 22,
+          "age": 31,
           "depth_chart_order": 1,
-          "depth_chart_position": "RB",
+          "depth_chart_position": "TE",
           "fantasy_positions": [
-            "RB"
+            "TE"
           ],
-          "full_name": "Quinshon Judkins",
-          "injury_body_part": "Lower Leg",
-          "injury_status": "Questionable",
-          "player_id": "12512",
-          "position": "RB",
+          "full_name": "Dallas Goedert",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "5022",
+          "position": "TE",
           "status": "Active",
-          "team": "CLE",
-          "years_exp": 1
+          "team": "PHI",
+          "years_exp": 8
         }
       ],
       "taxi": [
@@ -10634,8 +10617,8 @@
             "RB"
           ],
           "full_name": "TreVeyon Henderson",
-          "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "12529",
           "position": "RB",
           "status": "Active",
@@ -11123,19 +11106,19 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Javonte Williams",
+          "full_name": "Jaleel McLaughlin",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "7588",
+          "player_id": "11439",
           "position": "RB",
           "status": "Active",
-          "team": "DAL",
-          "years_exp": 5
+          "team": "CLE",
+          "years_exp": 3
         },
         {
           "active": true,
@@ -11224,37 +11207,37 @@
         },
         {
           "active": true,
-          "age": 24,
-          "depth_chart_order": 2,
+          "age": 26,
+          "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Keaton Mitchell",
+          "full_name": "Javonte Williams",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "9511",
+          "player_id": "7588",
           "position": "RB",
           "status": "Active",
-          "team": "LAC",
-          "years_exp": 3
+          "team": "DAL",
+          "years_exp": 5
         },
         {
           "active": true,
-          "age": 26,
+          "age": 23,
           "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Jaleel McLaughlin",
+          "full_name": "TreVeyon Henderson",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "11439",
+          "player_id": "12529",
           "position": "RB",
           "status": "Active",
-          "team": "CLE",
-          "years_exp": 3
+          "team": "NE",
+          "years_exp": 1
         }
       ],
       "taxi": [
