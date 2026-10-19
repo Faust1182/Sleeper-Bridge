@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-18T20:43:58.589284+00:00",
+  "generated_at": "2026-10-19T04:41:11.467762+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1236,8 +1236,8 @@
           "TE"
         ],
         "full_name": "Dalton Kincaid",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Ribs",
+        "injury_status": "Questionable",
         "player_id": "10236",
         "position": "TE",
         "status": "Active",
@@ -7097,8 +7097,8 @@
             "WR"
           ],
           "full_name": "Ladd McConkey",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Concussion",
+          "injury_status": "Out",
           "player_id": "11635",
           "position": "WR",
           "status": "Active",
@@ -7643,8 +7643,8 @@
             "WR"
           ],
           "full_name": "Ladd McConkey",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Concussion",
+          "injury_status": "Out",
           "player_id": "11635",
           "position": "WR",
           "status": "Active",
@@ -9907,8 +9907,8 @@
             "TE"
           ],
           "full_name": "Dalton Kincaid",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ribs",
+          "injury_status": "Questionable",
           "player_id": "10236",
           "position": "TE",
           "status": "Active",
@@ -10486,8 +10486,8 @@
             "TE"
           ],
           "full_name": "Dalton Kincaid",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ribs",
+          "injury_status": "Questionable",
           "player_id": "10236",
           "position": "TE",
           "status": "Active",
@@ -10679,7 +10679,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 5,
+          "depth_chart_order": 4,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -11295,7 +11295,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 5,
+          "depth_chart_order": 4,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"

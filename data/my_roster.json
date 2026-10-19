@@ -60,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-10-18T20:43:58.589284+00:00",
+  "generated_at": "2026-10-19T04:41:11.467762+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -93,8 +93,8 @@
           "TE"
         ],
         "full_name": "Dalton Kincaid",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Ribs",
+        "injury_status": "Questionable",
         "player_id": "10236",
         "position": "TE",
         "status": "Active",
