@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-19T13:16:25.526252+00:00",
+  "generated_at": "2026-10-19T22:21:26.833467+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1157,7 +1157,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 18,
+      "daily_waivers_last_ran": 19,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -4390,10 +4390,10 @@
           ],
           "full_name": "Jacory Croskey-Merritt",
           "injury_body_part": "Groin",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "player_id": "12533",
           "position": "RB",
-          "status": "Active",
+          "status": "Inactive",
           "team": "WAS",
           "years_exp": 1
         },
@@ -8098,10 +8098,10 @@
           ],
           "full_name": "Romeo Doubs",
           "injury_body_part": "Shoulder",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "player_id": "8121",
           "position": "WR",
-          "status": "Active",
+          "status": "Inactive",
           "team": "NE",
           "years_exp": 4
         },
@@ -8338,10 +8338,10 @@
           ],
           "full_name": "Romeo Doubs",
           "injury_body_part": "Shoulder",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "player_id": "8121",
           "position": "WR",
-          "status": "Active",
+          "status": "Inactive",
           "team": "NE",
           "years_exp": 4
         },
@@ -10736,8 +10736,8 @@
             "WR"
           ],
           "full_name": "Davante Adams",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Knee",
+          "injury_status": "Out",
           "player_id": "2133",
           "position": "WR",
           "status": "Active",
@@ -11163,8 +11163,8 @@
             "WR"
           ],
           "full_name": "Davante Adams",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Knee",
+          "injury_status": "Out",
           "player_id": "2133",
           "position": "WR",
           "status": "Active",
