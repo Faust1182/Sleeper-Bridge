@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-20T04:51:40.655923+00:00",
+  "generated_at": "2026-10-20T11:37:15.602152+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -2842,7 +2842,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -3553,7 +3553,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -3808,7 +3808,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -3895,7 +3895,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -4281,7 +4281,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 7,
+          "depth_chart_order": 9,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -4383,7 +4383,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 4,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -4451,7 +4451,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 11,
+          "depth_chart_order": 12,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -4623,7 +4623,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 7,
+          "depth_chart_order": 9,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -5111,7 +5111,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -5703,7 +5703,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 4,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -5975,7 +5975,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -6737,7 +6737,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -6824,36 +6824,36 @@
         {
           "active": true,
           "age": 31,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Austin Ekeler",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "4663",
+          "full_name": "Aaron Jones",
+          "injury_body_part": "Leg",
+          "injury_status": "Questionable",
+          "player_id": "4199",
           "position": "RB",
           "status": "Active",
-          "team": "WAS",
+          "team": "MIN",
           "years_exp": 9
         },
         {
           "active": true,
-          "age": 22,
-          "depth_chart_order": 3,
-          "depth_chart_position": "LWR",
+          "age": 26,
+          "depth_chart_order": 1,
+          "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Antonio Williams",
+          "full_name": "Amon-Ra St. Brown",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "13301",
+          "player_id": "7547",
           "position": "WR",
           "status": "Active",
-          "team": "WAS",
-          "years_exp": 0
+          "team": "DET",
+          "years_exp": 5
         },
         {
           "active": true,
@@ -6891,25 +6891,25 @@
         },
         {
           "active": true,
-          "age": 26,
+          "age": 25,
           "depth_chart_order": 1,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
           ],
-          "full_name": "Kyle Pitts",
+          "full_name": "Sam LaPorta",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "7553",
+          "player_id": "10859",
           "position": "TE",
           "status": "Active",
-          "team": "ATL",
-          "years_exp": 5
+          "team": "DET",
+          "years_exp": 3
         },
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -6925,20 +6925,20 @@
         },
         {
           "active": true,
-          "age": 27,
-          "depth_chart_order": 2,
-          "depth_chart_position": "RB",
+          "age": 26,
+          "depth_chart_order": 1,
+          "depth_chart_position": "TE",
           "fantasy_positions": [
-            "RB"
+            "TE"
           ],
-          "full_name": "Pierre Strong",
+          "full_name": "Kyle Pitts",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "8116",
-          "position": "RB",
+          "player_id": "7553",
+          "position": "TE",
           "status": "Active",
-          "team": "GB",
-          "years_exp": 4
+          "team": "ATL",
+          "years_exp": 5
         }
       ],
       "taxi": [
@@ -7125,7 +7125,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 5,
+          "depth_chart_order": 4,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -7279,7 +7279,7 @@
           "active": true,
           "age": 31,
           "depth_chart_order": 4,
-          "depth_chart_position": "RWR",
+          "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
           ],
@@ -7690,7 +7690,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 5,
+          "depth_chart_order": 4,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -7734,7 +7734,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 6,
+          "depth_chart_order": 7,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -7785,7 +7785,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 6,
+          "depth_chart_order": 7,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -8091,7 +8091,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 2,
+          "depth_chart_order": 7,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -8331,7 +8331,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 2,
+          "depth_chart_order": 7,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -8530,7 +8530,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -8633,7 +8633,7 @@
           "active": true,
           "age": 21,
           "depth_chart_order": 1,
-          "depth_chart_position": "LWR",
+          "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
@@ -9026,7 +9026,7 @@
           "active": true,
           "age": 21,
           "depth_chart_order": 1,
-          "depth_chart_position": "LWR",
+          "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
@@ -9275,7 +9275,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 10,
+          "depth_chart_order": 11,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -9651,7 +9651,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 10,
+          "depth_chart_order": 11,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -10730,7 +10730,7 @@
         {
           "active": true,
           "age": 33,
-          "depth_chart_order": 2,
+          "depth_chart_order": 5,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -10900,7 +10900,7 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 6,
+          "depth_chart_order": 4,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -11128,14 +11128,14 @@
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Jaleel McLaughlin",
+          "full_name": "Javonte Williams",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "11439",
+          "player_id": "7588",
           "position": "RB",
           "status": "Active",
-          "team": "CLE",
-          "years_exp": 3
+          "team": "DAL",
+          "years_exp": 5
         },
         {
           "active": true,
@@ -11156,37 +11156,37 @@
         },
         {
           "active": true,
-          "age": 33,
+          "age": 27,
           "depth_chart_order": 2,
-          "depth_chart_position": "LWR",
+          "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Davante Adams",
-          "injury_body_part": "Knee",
-          "injury_status": "Out",
-          "player_id": "2133",
+          "full_name": "Tee Higgins",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "6801",
           "position": "WR",
           "status": "Active",
-          "team": "LAR",
-          "years_exp": 12
+          "team": "CIN",
+          "years_exp": 6
         },
         {
           "active": true,
-          "age": 33,
-          "depth_chart_order": 1,
-          "depth_chart_position": "LWR",
+          "age": 27,
+          "depth_chart_order": 3,
+          "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Mike Evans",
-          "injury_body_part": "Achilles",
-          "injury_status": "Out",
-          "player_id": "2216",
+          "full_name": "Jerry Jeudy",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "6783",
           "position": "WR",
           "status": "Active",
-          "team": "SF",
-          "years_exp": 12
+          "team": "CLE",
+          "years_exp": 6
         },
         {
           "active": true,
@@ -11224,20 +11224,20 @@
         },
         {
           "active": true,
-          "age": 26,
-          "depth_chart_order": 1,
+          "age": 28,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Javonte Williams",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "7588",
+          "full_name": "Josh Jacobs",
+          "injury_body_part": "Personal",
+          "injury_status": "NA",
+          "player_id": "5850",
           "position": "RB",
           "status": "Active",
-          "team": "DAL",
-          "years_exp": 5
+          "team": "GB",
+          "years_exp": 7
         },
         {
           "active": true,
