@@ -60,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-10-20T17:05:06.389885+00:00",
+  "generated_at": "2026-10-20T21:37:33.598711+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -121,7 +121,7 @@
       {
         "active": true,
         "age": 25,
-        "depth_chart_order": 9,
+        "depth_chart_order": 10,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -343,7 +343,7 @@
         "active": true,
         "age": 31,
         "depth_chart_order": 1,
-        "depth_chart_position": "LWR",
+        "depth_chart_position": null,
         "fantasy_positions": [
           "WR"
         ],

@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-20T17:05:06.389885+00:00",
+  "generated_at": "2026-10-20T21:37:33.598711+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2604,7 +2604,7 @@
       {
         "active": true,
         "age": 25,
-        "depth_chart_order": 9,
+        "depth_chart_order": 10,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -2826,7 +2826,7 @@
         "active": true,
         "age": 31,
         "depth_chart_order": 1,
-        "depth_chart_position": "LWR",
+        "depth_chart_position": null,
         "fantasy_positions": [
           "WR"
         ],
@@ -3851,7 +3851,7 @@
     "11630": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 9,
+      "depth_chart_order": 10,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -4021,7 +4021,7 @@
     "11655": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -4872,7 +4872,7 @@
     "12533": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 6,
+      "depth_chart_order": 4,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -5263,7 +5263,7 @@
     "13288": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 5,
+      "depth_chart_order": 6,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -6000,8 +6000,8 @@
         "WR"
       ],
       "full_name": "Davante Adams",
-      "injury_body_part": "Knee",
-      "injury_status": "Out",
+      "injury_body_part": "Hamstring",
+      "injury_status": "IR",
       "player_id": "2133",
       "position": "WR",
       "status": "Active",
@@ -6930,7 +6930,7 @@
       "active": true,
       "age": 31,
       "depth_chart_order": 1,
-      "depth_chart_position": "LWR",
+      "depth_chart_position": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -7184,7 +7184,7 @@
     "6819": {
       "active": true,
       "age": 29,
-      "depth_chart_order": 4,
+      "depth_chart_order": 5,
       "depth_chart_position": null,
       "fantasy_positions": [
         "WR"
@@ -7388,8 +7388,8 @@
     "7528": {
       "active": true,
       "age": 28,
-      "depth_chart_order": 2,
-      "depth_chart_position": "RB",
+      "depth_chart_order": null,
+      "depth_chart_position": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -8537,7 +8537,7 @@
       "injury_status": "IR",
       "player_id": "9502",
       "position": "WR",
-      "status": "Inactive",
+      "status": "Active",
       "team": "HOU",
       "years_exp": 3
     },
@@ -8805,7 +8805,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -9766,7 +9766,7 @@
           "injury_status": "IR",
           "player_id": "9502",
           "position": "WR",
-          "status": "Inactive",
+          "status": "Active",
           "team": "HOU",
           "years_exp": 3
         },
@@ -9838,14 +9838,14 @@
       },
       "starters": [
         "11566",
-        "8136",
         "12507",
-        "5947",
-        "11637",
+        "8136",
         "11624",
+        "8180",
+        "9502",
         "9480",
-        "13298",
-        "12526"
+        "12526",
+        "13298"
       ],
       "taxi": [
         "13319",
@@ -10124,7 +10124,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 6,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -10681,7 +10681,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -13618,8 +13618,8 @@
         {
           "active": true,
           "age": 28,
-          "depth_chart_order": 2,
-          "depth_chart_position": "RB",
+          "depth_chart_order": null,
+          "depth_chart_position": null,
           "fantasy_positions": [
             "RB"
           ],
@@ -14401,7 +14401,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 9,
+          "depth_chart_order": 10,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -14623,7 +14623,7 @@
           "active": true,
           "age": 31,
           "depth_chart_order": 1,
-          "depth_chart_position": "LWR",
+          "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
           ],
@@ -15049,8 +15049,8 @@
             "WR"
           ],
           "full_name": "Davante Adams",
-          "injury_body_part": "Knee",
-          "injury_status": "Out",
+          "injury_body_part": "Hamstring",
+          "injury_status": "IR",
           "player_id": "2133",
           "position": "WR",
           "status": "Active",
@@ -15213,7 +15213,7 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -20230,14 +20230,14 @@
           "roster_id": 2,
           "starters": [
             "11566",
-            "8136",
             "12507",
-            "5947",
-            "11637",
+            "8136",
             "11624",
+            "8180",
+            "9502",
             "9480",
-            "13298",
-            "12526"
+            "12526",
+            "13298"
           ],
           "starters_points": [
             0.0,
@@ -21281,14 +21281,14 @@
           "roster_id": 2,
           "starters": [
             "11566",
-            "8136",
             "12507",
-            "5947",
-            "11637",
+            "8136",
             "11624",
+            "8180",
+            "9502",
             "9480",
-            "13298",
-            "12526"
+            "12526",
+            "13298"
           ],
           "starters_points": [
             0.0,
@@ -22332,14 +22332,14 @@
           "roster_id": 2,
           "starters": [
             "11566",
-            "8136",
             "12507",
-            "5947",
-            "11637",
+            "8136",
             "11624",
+            "8180",
+            "9502",
             "9480",
-            "13298",
-            "12526"
+            "12526",
+            "13298"
           ],
           "starters_points": [
             0.0,
@@ -23383,14 +23383,14 @@
           "roster_id": 2,
           "starters": [
             "11566",
-            "8136",
             "12507",
-            "5947",
-            "11637",
+            "8136",
             "11624",
+            "8180",
+            "9502",
             "9480",
-            "13298",
-            "12526"
+            "12526",
+            "13298"
           ],
           "starters_points": [
             0.0,
@@ -24434,14 +24434,14 @@
           "roster_id": 2,
           "starters": [
             "11566",
-            "8136",
             "12507",
-            "5947",
-            "11637",
+            "8136",
             "11624",
+            "8180",
+            "9502",
             "9480",
-            "13298",
-            "12526"
+            "12526",
+            "13298"
           ],
           "starters_points": [
             0.0,
@@ -25485,14 +25485,14 @@
           "roster_id": 2,
           "starters": [
             "11566",
-            "8136",
             "12507",
-            "5947",
-            "11637",
+            "8136",
             "11624",
+            "8180",
+            "9502",
             "9480",
-            "13298",
-            "12526"
+            "12526",
+            "13298"
           ],
           "starters_points": [
             0.0,
@@ -26536,14 +26536,14 @@
           "roster_id": 2,
           "starters": [
             "11566",
-            "8136",
             "12507",
-            "5947",
-            "11637",
+            "8136",
             "11624",
+            "8180",
+            "9502",
             "9480",
-            "13298",
-            "12526"
+            "12526",
+            "13298"
           ],
           "starters_points": [
             0.0,
@@ -27587,14 +27587,14 @@
           "roster_id": 2,
           "starters": [
             "11566",
-            "8136",
             "12507",
-            "5947",
-            "11637",
+            "8136",
             "11624",
+            "8180",
+            "9502",
             "9480",
-            "13298",
-            "12526"
+            "12526",
+            "13298"
           ],
           "starters_points": [
             0.0,
@@ -28638,14 +28638,14 @@
           "roster_id": 2,
           "starters": [
             "11566",
-            "8136",
             "12507",
-            "5947",
-            "11637",
+            "8136",
             "11624",
+            "8180",
+            "9502",
             "9480",
-            "13298",
-            "12526"
+            "12526",
+            "13298"
           ],
           "starters_points": [
             0.0,
@@ -37277,14 +37277,14 @@
           "roster_id": 2,
           "starters": [
             "11566",
-            "8136",
             "12507",
-            "5947",
-            "11637",
+            "8136",
             "11624",
+            "8180",
+            "9502",
             "9480",
-            "13298",
-            "12526"
+            "12526",
+            "13298"
           ],
           "starters_points": [
             0.0,
@@ -38328,14 +38328,14 @@
           "roster_id": 2,
           "starters": [
             "11566",
-            "8136",
             "12507",
-            "5947",
-            "11637",
+            "8136",
             "11624",
+            "8180",
+            "9502",
             "9480",
-            "13298",
-            "12526"
+            "12526",
+            "13298"
           ],
           "starters_points": [
             0.0,
@@ -39379,14 +39379,14 @@
           "roster_id": 2,
           "starters": [
             "11566",
-            "8136",
             "12507",
-            "5947",
-            "11637",
+            "8136",
             "11624",
+            "8180",
+            "9502",
             "9480",
-            "13298",
-            "12526"
+            "12526",
+            "13298"
           ],
           "starters_points": [
             0.0,

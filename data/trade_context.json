@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-20T17:05:06.389885+00:00",
+  "generated_at": "2026-10-20T21:37:33.598711+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1264,7 +1264,7 @@
       {
         "active": true,
         "age": 25,
-        "depth_chart_order": 9,
+        "depth_chart_order": 10,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -1486,7 +1486,7 @@
         "active": true,
         "age": 31,
         "depth_chart_order": 1,
-        "depth_chart_position": "LWR",
+        "depth_chart_position": null,
         "fantasy_positions": [
           "WR"
         ],
@@ -2739,7 +2739,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -3354,7 +3354,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -3869,7 +3869,7 @@
           "injury_status": "IR",
           "player_id": "9502",
           "position": "WR",
-          "status": "Inactive",
+          "status": "Active",
           "team": "HOU",
           "years_exp": 3
         },
@@ -3945,23 +3945,6 @@
         },
         {
           "active": true,
-          "age": 27,
-          "depth_chart_order": 1,
-          "depth_chart_position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "full_name": "Rachaad White",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "8136",
-          "position": "RB",
-          "status": "Active",
-          "team": "WAS",
-          "years_exp": 4
-        },
-        {
-          "active": true,
           "age": 23,
           "depth_chart_order": 1,
           "depth_chart_position": "RB",
@@ -3979,37 +3962,20 @@
         },
         {
           "active": true,
-          "age": 29,
-          "depth_chart_order": 2,
-          "depth_chart_position": "RWR",
+          "age": 27,
+          "depth_chart_order": 1,
+          "depth_chart_position": "RB",
           "fantasy_positions": [
-            "WR"
+            "RB"
           ],
-          "full_name": "Jakobi Meyers",
+          "full_name": "Rachaad White",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "5947",
-          "position": "WR",
+          "player_id": "8136",
+          "position": "RB",
           "status": "Active",
-          "team": "JAX",
-          "years_exp": 7
-        },
-        {
-          "active": true,
-          "age": 23,
-          "depth_chart_order": 2,
-          "depth_chart_position": "LWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Keon Coleman",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "11637",
-          "position": "WR",
-          "status": "Active",
-          "team": "BUF",
-          "years_exp": 2
+          "team": "WAS",
+          "years_exp": 4
         },
         {
           "active": true,
@@ -4030,6 +3996,40 @@
         },
         {
           "active": true,
+          "age": 27,
+          "depth_chart_order": 2,
+          "depth_chart_position": "RWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Jalen Nailor",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "8180",
+          "position": "WR",
+          "status": "Active",
+          "team": "LV",
+          "years_exp": 4
+        },
+        {
+          "active": true,
+          "age": 26,
+          "depth_chart_order": 6,
+          "depth_chart_position": "SWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Tank Dell",
+          "injury_body_part": "Knee - ACL + MCL",
+          "injury_status": "IR",
+          "player_id": "9502",
+          "position": "WR",
+          "status": "Active",
+          "team": "HOU",
+          "years_exp": 3
+        },
+        {
+          "active": true,
           "age": 25,
           "depth_chart_order": 1,
           "depth_chart_position": "TE",
@@ -4047,23 +4047,6 @@
         },
         {
           "active": true,
-          "age": 22,
-          "depth_chart_order": 2,
-          "depth_chart_position": "SWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "KC Concepcion",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "13298",
-          "position": "WR",
-          "status": "Active",
-          "team": "CLE",
-          "years_exp": 0
-        },
-        {
-          "active": true,
           "age": 23,
           "depth_chart_order": 1,
           "depth_chart_position": "LWR",
@@ -4078,6 +4061,23 @@
           "status": "Active",
           "team": "CAR",
           "years_exp": 1
+        },
+        {
+          "active": true,
+          "age": 22,
+          "depth_chart_order": 2,
+          "depth_chart_position": "SWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "KC Concepcion",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "13298",
+          "position": "WR",
+          "status": "Active",
+          "team": "CLE",
+          "years_exp": 0
         }
       ],
       "taxi": [
@@ -4383,7 +4383,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 6,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -5094,7 +5094,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -5540,7 +5540,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -8819,8 +8819,8 @@
         {
           "active": true,
           "age": 28,
-          "depth_chart_order": 2,
-          "depth_chart_position": "RB",
+          "depth_chart_order": null,
+          "depth_chart_position": null,
           "fantasy_positions": [
             "RB"
           ],
@@ -9935,7 +9935,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 9,
+          "depth_chart_order": 10,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -10157,7 +10157,7 @@
           "active": true,
           "age": 31,
           "depth_chart_order": 1,
-          "depth_chart_position": "LWR",
+          "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
           ],
@@ -10464,7 +10464,7 @@
           "active": true,
           "age": 31,
           "depth_chart_order": 1,
-          "depth_chart_position": "LWR",
+          "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
           ],
@@ -10533,7 +10533,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 9,
+          "depth_chart_order": 10,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -10736,8 +10736,8 @@
             "WR"
           ],
           "full_name": "Davante Adams",
-          "injury_body_part": "Knee",
-          "injury_status": "Out",
+          "injury_body_part": "Hamstring",
+          "injury_status": "IR",
           "player_id": "2133",
           "position": "WR",
           "status": "Active",
@@ -10900,7 +10900,7 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
