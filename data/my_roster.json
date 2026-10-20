@@ -60,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-10-19T22:21:26.833467+00:00",
+  "generated_at": "2026-10-20T04:51:40.655923+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -72,9 +72,9 @@
       "allow_pn_inactive_starters": "on",
       "allow_pn_player_injury_status": "on",
       "allow_pn_scoring": "on",
-      "record": "LWLWL",
+      "record": "LWLWLL",
       "restrict_pn_scoring_starters_only": "on",
-      "streak": "1L"
+      "streak": "2L"
     },
     "owner": {
       "display_name": "mklaszky25",
@@ -348,8 +348,8 @@
           "WR"
         ],
         "full_name": "Terry McLaurin",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Knee",
+        "injury_status": "Out",
         "player_id": "5927",
         "position": "WR",
         "status": "Active",
@@ -577,13 +577,13 @@
     "reserve": null,
     "roster_id": 11,
     "settings": {
-      "fpts": 541,
-      "fpts_against": 530,
-      "fpts_against_decimal": 56,
-      "fpts_decimal": 20,
-      "losses": 3,
-      "ppts": 705,
-      "ppts_decimal": 94,
+      "fpts": 638,
+      "fpts_against": 653,
+      "fpts_against_decimal": 12,
+      "fpts_decimal": 98,
+      "losses": 4,
+      "ppts": 812,
+      "ppts_decimal": 2,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 40,

@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-19T22:21:26.833467+00:00",
+  "generated_at": "2026-10-20T04:51:40.655923+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2500,7 +2500,7 @@
       "draft_rounds": 4,
       "faab_suggestions": 0,
       "last_report": 5,
-      "last_scored_leg": 5,
+      "last_scored_leg": 6,
       "league_average_match": 0,
       "leg": 6,
       "max_keepers": 1,
@@ -2555,9 +2555,9 @@
       "allow_pn_inactive_starters": "on",
       "allow_pn_player_injury_status": "on",
       "allow_pn_scoring": "on",
-      "record": "LWLWL",
+      "record": "LWLWLL",
       "restrict_pn_scoring_starters_only": "on",
-      "streak": "1L"
+      "streak": "2L"
     },
     "owner": {
       "display_name": "mklaszky25",
@@ -2831,8 +2831,8 @@
           "WR"
         ],
         "full_name": "Terry McLaurin",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Knee",
+        "injury_status": "Out",
         "player_id": "5927",
         "position": "WR",
         "status": "Active",
@@ -3060,13 +3060,13 @@
     "reserve": null,
     "roster_id": 11,
     "settings": {
-      "fpts": 541,
-      "fpts_against": 530,
-      "fpts_against_decimal": 56,
-      "fpts_decimal": 20,
-      "losses": 3,
-      "ppts": 705,
-      "ppts_decimal": 94,
+      "fpts": 638,
+      "fpts_against": 653,
+      "fpts_against_decimal": 12,
+      "fpts_decimal": 98,
+      "losses": 4,
+      "ppts": 812,
+      "ppts_decimal": 2,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 40,
@@ -3108,13 +3108,13 @@
     "display_week": 6,
     "league_create_season": "2026",
     "league_season": "2026",
-    "leg": 6,
+    "leg": 7,
     "previous_season": "2025",
     "season": "2026",
     "season_has_scores": true,
     "season_start_date": "2026-09-09",
     "season_type": "regular",
-    "week": 6
+    "week": 7
   },
   "players": {
     "10213": {
@@ -3205,7 +3205,7 @@
     "10229": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 7,
+      "depth_chart_order": 6,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -3783,7 +3783,7 @@
     "11625": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 7,
+      "depth_chart_order": 6,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -3936,7 +3936,7 @@
     "11638": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 11,
+      "depth_chart_order": 10,
       "depth_chart_position": null,
       "fantasy_positions": [
         "WR"
@@ -4004,7 +4004,7 @@
     "11651": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 6,
+      "depth_chart_order": 5,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -4259,7 +4259,7 @@
     "12484": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 9,
+      "depth_chart_order": 7,
       "depth_chart_position": null,
       "fantasy_positions": [
         "WR"
@@ -4742,7 +4742,7 @@
       ],
       "full_name": "Elijah Arroyo",
       "injury_body_part": "Shoulder",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "player_id": "12521",
       "position": "TE",
       "status": "Active",
@@ -4872,7 +4872,7 @@
     "12533": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 6,
+      "depth_chart_order": 4,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -4889,7 +4889,7 @@
     "12534": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 6,
+      "depth_chart_order": 4,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -5399,7 +5399,7 @@
     "13303": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "depth_chart_position": "QB",
       "fantasy_positions": [
         "QB"
@@ -5824,7 +5824,7 @@
     "13417": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 12,
+      "depth_chart_order": 11,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -6034,8 +6034,8 @@
         "WR"
       ],
       "full_name": "Mike Evans",
-      "injury_body_part": "Ribs",
-      "injury_status": "Questionable",
+      "injury_body_part": "Achilles",
+      "injury_status": "Out",
       "player_id": "2216",
       "position": "WR",
       "status": "Active",
@@ -6068,8 +6068,8 @@
         "WR"
       ],
       "full_name": "Stefon Diggs",
-      "injury_body_part": "Hamstring",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "2449",
       "position": "WR",
       "status": "Active",
@@ -6850,8 +6850,8 @@
         "WR"
       ],
       "full_name": "A.J. Brown",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Ankle",
+      "injury_status": "Questionable",
       "player_id": "5859",
       "position": "WR",
       "status": "Active",
@@ -6895,7 +6895,7 @@
     "5892": {
       "active": true,
       "age": 29,
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -6935,8 +6935,8 @@
         "WR"
       ],
       "full_name": "Terry McLaurin",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Knee",
+      "injury_status": "Out",
       "player_id": "5927",
       "position": "WR",
       "status": "Active",
@@ -7965,7 +7965,7 @@
     },
     "8151": {
       "active": true,
-      "age": 25,
+      "age": 26,
       "depth_chart_order": 1,
       "depth_chart_position": "RB",
       "fantasy_positions": [
@@ -8102,7 +8102,7 @@
     "8188": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 6,
+      "depth_chart_order": 5,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -8756,9 +8756,9 @@
         "allow_pn_player_injury_status": "on",
         "allow_pn_scoring": "on",
         "p_nick_5870": "DJ Stormborn",
-        "record": "WWWLW",
+        "record": "WWWLWW",
         "restrict_pn_scoring_starters_only": "on",
-        "streak": "1W"
+        "streak": "2W"
       },
       "owner": {
         "display_name": "Pheewma",
@@ -9282,18 +9282,18 @@
       ],
       "roster_id": 1,
       "settings": {
-        "fpts": 649,
-        "fpts_against": 550,
-        "fpts_against_decimal": 34,
-        "fpts_decimal": 42,
+        "fpts": 767,
+        "fpts_against": 661,
+        "fpts_against_decimal": 68,
+        "fpts_decimal": 22,
         "losses": 1,
-        "ppts": 735,
-        "ppts_decimal": 46,
+        "ppts": 895,
+        "ppts_decimal": 6,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 52,
         "waiver_position": 11,
-        "wins": 4
+        "wins": 5
       },
       "starters": [
         "11564",
@@ -9317,8 +9317,8 @@
       "keepers": null,
       "league_id": "1314667834135040000",
       "metadata": {
-        "record": "LLLWW",
-        "streak": "2W"
+        "record": "LLLWWW",
+        "streak": "3W"
       },
       "owner": {
         "display_name": "chaelig1",
@@ -9457,7 +9457,7 @@
           ],
           "full_name": "Elijah Arroyo",
           "injury_body_part": "Shoulder",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "player_id": "12521",
           "position": "TE",
           "status": "Active",
@@ -9705,7 +9705,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -9823,18 +9823,18 @@
       ],
       "roster_id": 2,
       "settings": {
-        "fpts": 392,
-        "fpts_against": 440,
-        "fpts_against_decimal": 92,
-        "fpts_decimal": 82,
+        "fpts": 493,
+        "fpts_against": 521,
+        "fpts_against_decimal": 70,
+        "fpts_decimal": 32,
         "losses": 3,
-        "ppts": 489,
-        "ppts_decimal": 90,
+        "ppts": 596,
+        "ppts_decimal": 98,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 20,
         "waiver_position": 10,
-        "wins": 2
+        "wins": 3
       },
       "starters": [
         "11566",
@@ -9871,9 +9871,9 @@
         "p_nick_8148": "Roll",
         "p_nick_8154": "Gunshot survivor",
         "p_nick_8180": "I barely know her!",
-        "record": "LLWLW",
+        "record": "LLWLWL",
         "restrict_pn_scoring_starters_only": "on",
-        "streak": "1W"
+        "streak": "1L"
       },
       "owner": {
         "display_name": "brettycotz",
@@ -10022,7 +10022,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 9,
+          "depth_chart_order": 7,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -10124,7 +10124,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 6,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -10192,7 +10192,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 12,
+          "depth_chart_order": 11,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -10396,13 +10396,13 @@
       ],
       "roster_id": 3,
       "settings": {
-        "fpts": 423,
-        "fpts_against": 483,
-        "fpts_against_decimal": 16,
-        "fpts_decimal": 78,
-        "losses": 3,
-        "ppts": 575,
-        "ppts_decimal": 52,
+        "fpts": 535,
+        "fpts_against": 600,
+        "fpts_against_decimal": 96,
+        "fpts_decimal": 12,
+        "losses": 4,
+        "ppts": 720,
+        "ppts_decimal": 96,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 192,
@@ -10446,8 +10446,8 @@
         "p_nick_9229": "Anthony Jeffardson",
         "p_nick_9488": "Jaxon Smith-?",
         "p_nick_9754": "Quentin Jeffston",
-        "record": "WWLLW",
-        "streak": "1W"
+        "record": "WWLLWW",
+        "streak": "2W"
       },
       "owner": {
         "display_name": "Habes44",
@@ -10698,7 +10698,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -10952,18 +10952,18 @@
       ],
       "roster_id": 4,
       "settings": {
-        "fpts": 664,
-        "fpts_against": 568,
-        "fpts_against_decimal": 20,
-        "fpts_decimal": 52,
+        "fpts": 773,
+        "fpts_against": 673,
+        "fpts_against_decimal": 80,
+        "fpts_decimal": 82,
         "losses": 2,
-        "ppts": 775,
-        "ppts_decimal": 22,
+        "ppts": 899,
+        "ppts_decimal": 62,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
         "waiver_position": 4,
-        "wins": 3
+        "wins": 4
       },
       "starters": [
         "4017",
@@ -10986,8 +10986,8 @@
       "keepers": null,
       "league_id": "1314667834135040000",
       "metadata": {
-        "record": "LLLLL",
-        "streak": "5L"
+        "record": "LLLLLW",
+        "streak": "1W"
       },
       "owner": {
         "display_name": "Schaeffer15",
@@ -11136,7 +11136,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 6,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -11492,18 +11492,18 @@
       ],
       "roster_id": 5,
       "settings": {
-        "fpts": 408,
-        "fpts_against": 591,
-        "fpts_against_decimal": 24,
-        "fpts_decimal": 66,
+        "fpts": 475,
+        "fpts_against": 638,
+        "fpts_against_decimal": 22,
+        "fpts_decimal": 50,
         "losses": 5,
-        "ppts": 472,
-        "ppts_decimal": 30,
+        "ppts": 550,
+        "ppts_decimal": 44,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 5,
         "waiver_position": 1,
-        "wins": 0
+        "wins": 1
       },
       "starters": [
         "7523",
@@ -11529,8 +11529,8 @@
       "keepers": null,
       "league_id": "1314667834135040000",
       "metadata": {
-        "record": "LWLLL",
-        "streak": "3L"
+        "record": "LWLLLW",
+        "streak": "1W"
       },
       "owner": {
         "display_name": "rgreco40",
@@ -12053,18 +12053,18 @@
       ],
       "roster_id": 6,
       "settings": {
-        "fpts": 498,
-        "fpts_against": 523,
-        "fpts_against_decimal": 80,
-        "fpts_decimal": 68,
+        "fpts": 621,
+        "fpts_against": 621,
+        "fpts_against_decimal": 58,
+        "fpts_decimal": 24,
         "losses": 4,
-        "ppts": 649,
-        "ppts_decimal": 70,
+        "ppts": 790,
+        "ppts_decimal": 56,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 95,
         "waiver_position": 12,
-        "wins": 1
+        "wins": 2
       },
       "starters": [
         "12545",
@@ -12091,9 +12091,9 @@
         "allow_pn_inactive_starters": "on",
         "allow_pn_player_injury_status": "on",
         "allow_pn_scoring": "on",
-        "record": "WLWWW",
+        "record": "WLWWWL",
         "restrict_pn_scoring_starters_only": "on",
-        "streak": "3W"
+        "streak": "1L"
       },
       "owner": {
         "display_name": "swaggyp1216",
@@ -12429,7 +12429,7 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -12616,13 +12616,13 @@
       ],
       "roster_id": 7,
       "settings": {
-        "fpts": 498,
-        "fpts_against": 446,
-        "fpts_against_decimal": 10,
-        "fpts_decimal": 78,
-        "losses": 1,
-        "ppts": 603,
-        "ppts_decimal": 72,
+        "fpts": 545,
+        "fpts_against": 512,
+        "fpts_against_decimal": 94,
+        "fpts_decimal": 76,
+        "losses": 2,
+        "ppts": 658,
+        "ppts_decimal": 50,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 15,
@@ -12657,9 +12657,9 @@
         "allow_pn_player_injury_status": "off",
         "allow_pn_scoring": "on",
         "p_nick_96": "Dark Room",
-        "record": "LLWLW",
+        "record": "LLWLWL",
         "restrict_pn_scoring_starters_only": "on",
-        "streak": "1W"
+        "streak": "1L"
       },
       "owner": {
         "display_name": "ki11job",
@@ -12672,7 +12672,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 7,
+          "depth_chart_order": 6,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -12723,7 +12723,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 7,
+          "depth_chart_order": 6,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -12984,8 +12984,8 @@
             "WR"
           ],
           "full_name": "A.J. Brown",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ankle",
+          "injury_status": "Questionable",
           "player_id": "5859",
           "position": "WR",
           "status": "Active",
@@ -13182,13 +13182,13 @@
       ],
       "roster_id": 8,
       "settings": {
-        "fpts": 586,
-        "fpts_against": 615,
-        "fpts_against_decimal": 99,
-        "fpts_decimal": 62,
-        "losses": 3,
-        "ppts": 705,
-        "ppts_decimal": 4,
+        "fpts": 667,
+        "fpts_against": 716,
+        "fpts_against_decimal": 50,
+        "fpts_decimal": 40,
+        "losses": 4,
+        "ppts": 797,
+        "ppts_decimal": 10,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 107,
@@ -13247,8 +13247,8 @@
         "p_nick_8142": "Haydu",
         "p_nick_9484": "Cheese-du",
         "p_nick_9753": "Haydu",
-        "record": "WLWWL",
-        "streak": "1L"
+        "record": "WLWWLW",
+        "streak": "1W"
       },
       "owner": {
         "display_name": "honeybadger1207",
@@ -13329,7 +13329,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -13753,18 +13753,18 @@
       ],
       "roster_id": 9,
       "settings": {
-        "fpts": 367,
-        "fpts_against": 469,
-        "fpts_against_decimal": 56,
-        "fpts_decimal": 62,
+        "fpts": 463,
+        "fpts_against": 564,
+        "fpts_against_decimal": 82,
+        "fpts_decimal": 12,
         "losses": 2,
-        "ppts": 498,
-        "ppts_decimal": 96,
+        "ppts": 603,
+        "ppts_decimal": 68,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 80,
         "waiver_position": 9,
-        "wins": 3
+        "wins": 4
       },
       "starters": [
         "9230",
@@ -13788,8 +13788,8 @@
       "keepers": null,
       "league_id": "1314667834135040000",
       "metadata": {
-        "record": "WWWWL",
-        "streak": "1L"
+        "record": "WWWWLL",
+        "streak": "2L"
       },
       "owner": {
         "display_name": "bcoe1990",
@@ -13904,7 +13904,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 11,
+          "depth_chart_order": 10,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -14175,7 +14175,7 @@
         },
         {
           "active": true,
-          "age": 25,
+          "age": 26,
           "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
@@ -14312,13 +14312,13 @@
       ],
       "roster_id": 10,
       "settings": {
-        "fpts": 682,
-        "fpts_against": 561,
-        "fpts_against_decimal": 98,
-        "fpts_decimal": 26,
-        "losses": 1,
-        "ppts": 754,
-        "ppts_decimal": 48,
+        "fpts": 787,
+        "fpts_against": 671,
+        "fpts_against_decimal": 28,
+        "fpts_decimal": 86,
+        "losses": 2,
+        "ppts": 865,
+        "ppts_decimal": 68,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 25,
@@ -14352,9 +14352,9 @@
         "allow_pn_inactive_starters": "on",
         "allow_pn_player_injury_status": "on",
         "allow_pn_scoring": "on",
-        "record": "LWLWL",
+        "record": "LWLWLL",
         "restrict_pn_scoring_starters_only": "on",
-        "streak": "1L"
+        "streak": "2L"
       },
       "owner": {
         "display_name": "mklaszky25",
@@ -14628,8 +14628,8 @@
             "WR"
           ],
           "full_name": "Terry McLaurin",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Knee",
+          "injury_status": "Out",
           "player_id": "5927",
           "position": "WR",
           "status": "Active",
@@ -14857,13 +14857,13 @@
       "reserve": null,
       "roster_id": 11,
       "settings": {
-        "fpts": 541,
-        "fpts_against": 530,
-        "fpts_against_decimal": 56,
-        "fpts_decimal": 20,
-        "losses": 3,
-        "ppts": 705,
-        "ppts_decimal": 94,
+        "fpts": 638,
+        "fpts_against": 653,
+        "fpts_against_decimal": 12,
+        "fpts_decimal": 98,
+        "losses": 4,
+        "ppts": 812,
+        "ppts_decimal": 2,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 40,
@@ -14893,8 +14893,8 @@
       "league_id": "1314667834135040000",
       "metadata": {
         "p_nick_11577": "Shirley Checkdown",
-        "record": "WWLWL",
-        "streak": "1L"
+        "record": "WWLWLL",
+        "streak": "2L"
       },
       "owner": {
         "display_name": "TheCamps",
@@ -15066,8 +15066,8 @@
             "WR"
           ],
           "full_name": "Mike Evans",
-          "injury_body_part": "Ribs",
-          "injury_status": "Questionable",
+          "injury_body_part": "Achilles",
+          "injury_status": "Out",
           "player_id": "2216",
           "position": "WR",
           "status": "Active",
@@ -15083,8 +15083,8 @@
             "WR"
           ],
           "full_name": "Stefon Diggs",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "2449",
           "position": "WR",
           "status": "Active",
@@ -15417,13 +15417,13 @@
       ],
       "roster_id": 12,
       "settings": {
-        "fpts": 680,
-        "fpts_against": 612,
-        "fpts_against_decimal": 54,
-        "fpts_decimal": 4,
-        "losses": 2,
-        "ppts": 740,
-        "ppts_decimal": 6,
+        "fpts": 775,
+        "fpts_against": 708,
+        "fpts_against_decimal": 4,
+        "fpts_decimal": 30,
+        "losses": 3,
+        "ppts": 849,
+        "ppts_decimal": 72,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 2,
@@ -35515,7 +35515,7 @@
             "13411": 4.0,
             "1373": 11.98,
             "1466": 7.3,
-            "2197": 0.0,
+            "2197": 1.8,
             "3161": 0.0,
             "3271": 2.2,
             "4037": 5.7,
@@ -35585,7 +35585,7 @@
           ],
           "players_points": {
             "10219": 5.5,
-            "11566": 0.0,
+            "11566": 21.0,
             "11569": 0.0,
             "11624": 10.8,
             "11637": 13.9,
@@ -35600,11 +35600,11 @@
             "13337": 3.4,
             "13345": 0.0,
             "13400": 0.0,
-            "13414": 0.0,
+            "13414": 4.2,
             "13533": 1.0,
             "5947": 10.8,
             "6039": 3.7,
-            "8136": 0.0,
+            "8136": 13.7,
             "8180": 1.4,
             "8188": 0.0,
             "9479": 10.5,
@@ -35612,7 +35612,7 @@
             "9502": 0.0,
             "9758": 22.98
           },
-          "points": 65.8,
+          "points": 100.5,
           "roster_id": 2,
           "starters": [
             "11566",
@@ -35626,8 +35626,8 @@
             "12526"
           ],
           "starters_points": [
-            0.0,
-            0.0,
+            21.0,
+            13.7,
             5.9,
             10.8,
             13.9,
@@ -35777,7 +35777,7 @@
             "1737": 0.0,
             "3198": 4.5,
             "4017": 9.46,
-            "4217": 0.0,
+            "4217": 15.4,
             "5967": 7.6,
             "8126": 3.7,
             "8137": 10.3,
@@ -35786,7 +35786,7 @@
             "9504": 2.6,
             "9754": 6.2
           },
-          "points": 93.9,
+          "points": 109.3,
           "roster_id": 4,
           "starters": [
             "11560",
@@ -35806,7 +35806,7 @@
             19.4,
             22.5,
             10.3,
-            0.0,
+            15.4,
             5.9,
             1.0
           ]
@@ -35942,11 +35942,11 @@
             "13150": 1.4,
             "13269": 0.0,
             "13272": 0.0,
-            "13301": 0.0,
+            "13301": 6.5,
             "4039": 7.5,
             "4147": 0.0,
             "4199": 0.0,
-            "4663": 0.0,
+            "4663": 1.7,
             "4983": 0.0,
             "6770": 0.0,
             "7526": 4.4,
@@ -35954,13 +35954,13 @@
             "7553": 20.5,
             "8116": 9.2,
             "8129": 13.0,
-            "8210": 0.0,
+            "8210": 10.4,
             "8408": 0.0,
             "9226": 0.0,
             "9482": 13.0,
             "9501": 16.1
           },
-          "points": 114.36,
+          "points": 122.56,
           "roster_id": 6,
           "starters": [
             "12545",
@@ -35976,8 +35976,8 @@
           "starters_points": [
             26.96,
             13.0,
-            0.0,
-            0.0,
+            1.7,
+            6.5,
             4.4,
             24.2,
             20.5,
@@ -36122,7 +36122,7 @@
             "3257": 6.92,
             "3634": 2.8,
             "4033": 0.0,
-            "4034": 0.0,
+            "4034": 26.2,
             "4866": 0.0,
             "4993": 0.0,
             "5859": 4.2,
@@ -36136,7 +36136,7 @@
             "9487": 8.4,
             "9756": 0.0
           },
-          "points": 54.58,
+          "points": 80.78,
           "roster_id": 8,
           "starters": [
             "2306",
@@ -36151,7 +36151,7 @@
           ],
           "starters_points": [
             6.48,
-            0.0,
+            26.2,
             8.8,
             8.4,
             6.4,
@@ -36385,7 +36385,7 @@
             "5022": 9.1,
             "5849": 0.0,
             "5872": 0.0,
-            "5927": 0.0,
+            "5927": 3.2,
             "6794": 0.0,
             "6813": 20.1,
             "7569": 9.4,
@@ -36398,7 +36398,7 @@
             "9494": 2.3,
             "9757": 8.0
           },
-          "points": 94.58,
+          "points": 97.78,
           "roster_id": 11,
           "starters": [
             "4046",
@@ -36417,7 +36417,7 @@
             22.8,
             10.2,
             9.4,
-            0.0,
+            3.2,
             7.3,
             5.2,
             9.1
@@ -36466,8 +36466,8 @@
             "13424": 2.7,
             "1479": 12.2,
             "2133": 5.4,
-            "2216": 0.0,
-            "2449": 0.0,
+            "2216": 10.9,
+            "2449": 13.4,
             "3321": 0.0,
             "4066": 2.3,
             "4137": 0.0,
@@ -36481,12 +36481,12 @@
             "7594": 18.6,
             "8130": 8.8,
             "8161": 0.0,
-            "8183": 0.0,
+            "8183": 17.36,
             "8207": 1.4,
             "9508": 1.3,
             "9511": 0.4
           },
-          "points": 67.0,
+          "points": 95.26,
           "roster_id": 12,
           "starters": [
             "8183",
@@ -36500,11 +36500,11 @@
             "12529"
           ],
           "starters_points": [
-            0.0,
+            17.36,
             7.5,
             18.6,
             5.4,
-            0.0,
+            10.9,
             12.2,
             8.8,
             12.0,
@@ -38062,13 +38062,13 @@
           "starters": [
             "4046",
             "6813",
-            "8138",
+            "9224",
             "8112",
             "7569",
-            "5927",
-            "10236",
-            "11435",
-            "5022"
+            "6794",
+            "5022",
+            "12495",
+            "12512"
           ],
           "starters_points": [
             0.0,
