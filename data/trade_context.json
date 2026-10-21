@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-20T21:37:33.598711+00:00",
+  "generated_at": "2026-10-21T04:47:57.125433+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -4383,7 +4383,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 4,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -4690,19 +4690,19 @@
         },
         {
           "active": true,
-          "age": 23,
-          "depth_chart_order": 1,
+          "age": 25,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Bhayshul Tuten",
+          "full_name": "RJ Harvey",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "12490",
+          "player_id": "12489",
           "position": "RB",
           "status": "Active",
-          "team": "JAX",
+          "team": "DEN",
           "years_exp": 1
         },
         {
@@ -5958,7 +5958,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 5,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -8006,7 +8006,7 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 4,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -8365,7 +8365,7 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 4,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -10740,7 +10740,7 @@
           "injury_status": "IR",
           "player_id": "2133",
           "position": "WR",
-          "status": "Active",
+          "status": "Inactive",
           "team": "LAR",
           "years_exp": 12
         },

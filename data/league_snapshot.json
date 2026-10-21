@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-20T21:37:33.598711+00:00",
+  "generated_at": "2026-10-21T04:47:57.125433+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -4872,7 +4872,7 @@
     "12533": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 4,
+      "depth_chart_order": 6,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -6004,7 +6004,7 @@
       "injury_status": "IR",
       "player_id": "2133",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "team": "LAR",
       "years_exp": 12
     },
@@ -6538,7 +6538,7 @@
     "4866": {
       "active": true,
       "age": 29,
-      "depth_chart_order": 4,
+      "depth_chart_order": 2,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -8255,7 +8255,7 @@
     "9225": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 5,
+      "depth_chart_order": 3,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -10124,7 +10124,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 4,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -10412,7 +10412,7 @@
       "starters": [
         "6804",
         "11576",
-        "12490",
+        "12489",
         "12514",
         "11620",
         "13346",
@@ -11391,7 +11391,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 5,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -12944,7 +12944,7 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 4,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -15053,7 +15053,7 @@
           "injury_status": "IR",
           "player_id": "2133",
           "position": "WR",
-          "status": "Active",
+          "status": "Inactive",
           "team": "LAR",
           "years_exp": 12
         },
@@ -20319,7 +20319,7 @@
           "starters": [
             "6804",
             "11576",
-            "12490",
+            "12489",
             "12514",
             "11620",
             "13346",
@@ -21370,7 +21370,7 @@
           "starters": [
             "6804",
             "11576",
-            "12490",
+            "12489",
             "12514",
             "11620",
             "13346",
@@ -22421,7 +22421,7 @@
           "starters": [
             "6804",
             "11576",
-            "12490",
+            "12489",
             "12514",
             "11620",
             "13346",
@@ -23472,7 +23472,7 @@
           "starters": [
             "6804",
             "11576",
-            "12490",
+            "12489",
             "12514",
             "11620",
             "13346",
@@ -24523,7 +24523,7 @@
           "starters": [
             "6804",
             "11576",
-            "12490",
+            "12489",
             "12514",
             "11620",
             "13346",
@@ -25574,7 +25574,7 @@
           "starters": [
             "6804",
             "11576",
-            "12490",
+            "12489",
             "12514",
             "11620",
             "13346",
@@ -26625,7 +26625,7 @@
           "starters": [
             "6804",
             "11576",
-            "12490",
+            "12489",
             "12514",
             "11620",
             "13346",
@@ -27676,7 +27676,7 @@
           "starters": [
             "6804",
             "11576",
-            "12490",
+            "12489",
             "12514",
             "11620",
             "13346",
@@ -28727,7 +28727,7 @@
           "starters": [
             "6804",
             "11576",
-            "12490",
+            "12489",
             "12514",
             "11620",
             "13346",
@@ -37366,7 +37366,7 @@
           "starters": [
             "6804",
             "11576",
-            "12490",
+            "12489",
             "12514",
             "11620",
             "13346",
@@ -38417,7 +38417,7 @@
           "starters": [
             "6804",
             "11576",
-            "12490",
+            "12489",
             "12514",
             "11620",
             "13346",
@@ -39468,7 +39468,7 @@
           "starters": [
             "6804",
             "11576",
-            "12490",
+            "12489",
             "12514",
             "11620",
             "13346",
