@@ -60,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-10-21T11:49:43.606008+00:00",
+  "generated_at": "2026-10-21T17:12:49.028363+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -121,7 +121,7 @@
       {
         "active": true,
         "age": 25,
-        "depth_chart_order": 8,
+        "depth_chart_order": 10,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -172,7 +172,7 @@
       {
         "active": true,
         "age": 22,
-        "depth_chart_order": 3,
+        "depth_chart_order": 6,
         "depth_chart_position": "RB",
         "fantasy_positions": [
           "RB"
@@ -205,8 +205,25 @@
       },
       {
         "active": true,
+        "age": 23,
+        "depth_chart_order": 2,
+        "depth_chart_position": "SWR",
+        "fantasy_positions": [
+          "WR"
+        ],
+        "full_name": "Konata Mumpfield",
+        "injury_body_part": null,
+        "injury_status": null,
+        "player_id": "12718",
+        "position": "WR",
+        "status": "Active",
+        "team": "LAR",
+        "years_exp": 1
+      },
+      {
+        "active": true,
         "age": 24,
-        "depth_chart_order": 3,
+        "depth_chart_order": 4,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -236,23 +253,6 @@
         "status": "Active",
         "team": "JAX",
         "years_exp": 0
-      },
-      {
-        "active": true,
-        "age": 34,
-        "depth_chart_order": 1,
-        "depth_chart_position": "TE",
-        "fantasy_positions": [
-          "TE"
-        ],
-        "full_name": "Darren Waller",
-        "injury_body_part": null,
-        "injury_status": null,
-        "player_id": "2505",
-        "position": "TE",
-        "status": "Active",
-        "team": "CAR",
-        "years_exp": 11
       },
       {
         "active": true,
@@ -553,9 +553,9 @@
       "12495",
       "12512",
       "12540",
+      "12718",
       "13329",
       "13394",
-      "2505",
       "3214",
       "4046",
       "5022",
@@ -586,8 +586,8 @@
       "ppts_decimal": 2,
       "ties": 0,
       "total_moves": 0,
-      "waiver_budget_used": 40,
-      "waiver_position": 5,
+      "waiver_budget_used": 135,
+      "waiver_position": 10,
       "wins": 2
     },
     "starters": [
