@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-21T17:12:49.028363+00:00",
+  "generated_at": "2026-10-21T21:43:13.933602+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2393,9 +2393,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1418676931691290624",
+    "last_message_id": "1418697273759604736",
     "last_message_text_map": null,
-    "last_message_time": 1792601447560,
+    "last_message_time": 1792606297486,
     "last_pinned_message_id": "1418676931691290624",
     "last_read_id": null,
     "league_id": "1314667834135040000",
@@ -2643,7 +2643,7 @@
         "fantasy_positions": [
           "RB"
         ],
-        "full_name": "Ollie Gordon",
+        "full_name": "Ollie Gordon II",
         "injury_body_part": null,
         "injury_status": null,
         "player_id": "12495",
@@ -2813,7 +2813,7 @@
         "fantasy_positions": [
           "WR"
         ],
-        "full_name": "Deebo Samuel",
+        "full_name": "Deebo Samuel Sr.",
         "injury_body_part": "Hamstring",
         "injury_status": "Out",
         "player_id": "5872",
@@ -2848,8 +2848,8 @@
           "WR"
         ],
         "full_name": "Justin Jefferson",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Ankle",
+        "injury_status": "Questionable",
         "player_id": "6794",
         "position": "WR",
         "status": "Active",
@@ -2949,7 +2949,7 @@
         "fantasy_positions": [
           "RB"
         ],
-        "full_name": "James Cook",
+        "full_name": "James Cook III",
         "injury_body_part": null,
         "injury_status": null,
         "player_id": "8138",
@@ -2966,7 +2966,7 @@
         "fantasy_positions": [
           "RB"
         ],
-        "full_name": "Brian Robinson",
+        "full_name": "Brian Robinson Jr.",
         "injury_body_part": null,
         "injury_status": null,
         "player_id": "8154",
@@ -3000,7 +3000,7 @@
         "fantasy_positions": [
           "WR"
         ],
-        "full_name": "Marvin Mims",
+        "full_name": "Marvin Mims Jr.",
         "injury_body_part": null,
         "injury_status": null,
         "player_id": "9494",
@@ -3159,7 +3159,7 @@
       "fantasy_positions": [
         "RB"
       ],
-      "full_name": "Chris Rodriguez",
+      "full_name": "Chris Rodriguez Jr.",
       "injury_body_part": null,
       "injury_status": null,
       "player_id": "10219",
@@ -3278,7 +3278,7 @@
       "fantasy_positions": [
         "QB"
       ],
-      "full_name": "Stetson Bennett",
+      "full_name": "Stetson Bennett IV",
       "injury_body_part": null,
       "injury_status": null,
       "player_id": "10857",
@@ -3363,7 +3363,7 @@
       "fantasy_positions": [
         "QB"
       ],
-      "full_name": "Michael Penix",
+      "full_name": "Michael Penix Jr.",
       "injury_body_part": null,
       "injury_status": null,
       "player_id": "11559",
@@ -3585,8 +3585,8 @@
         "RB"
       ],
       "full_name": "Bucky Irving",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Illness",
+      "injury_status": "Questionable",
       "player_id": "11584",
       "position": "RB",
       "status": "Active",
@@ -3822,7 +3822,7 @@
       "fantasy_positions": [
         "WR"
       ],
-      "full_name": "Marvin Harrison",
+      "full_name": "Marvin Harrison Jr.",
       "injury_body_part": null,
       "injury_status": null,
       "player_id": "11628",
@@ -3856,7 +3856,7 @@
       "fantasy_positions": [
         "WR"
       ],
-      "full_name": "Brian Thomas",
+      "full_name": "Brian Thomas Jr.",
       "injury_body_part": null,
       "injury_status": null,
       "player_id": "11631",
@@ -3942,8 +3942,8 @@
         "RB"
       ],
       "full_name": "Jaylen Wright",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Foot",
+      "injury_status": "Questionable",
       "player_id": "11643",
       "position": "RB",
       "status": "Active",
@@ -4009,7 +4009,7 @@
       "fantasy_positions": [
         "RB"
       ],
-      "full_name": "Tyrone Tracy",
+      "full_name": "Tyrone Tracy Jr.",
       "injury_body_part": null,
       "injury_status": null,
       "player_id": "11655",
@@ -4383,7 +4383,7 @@
       "fantasy_positions": [
         "RB"
       ],
-      "full_name": "Ollie Gordon",
+      "full_name": "Ollie Gordon II",
       "injury_body_part": null,
       "injury_status": null,
       "player_id": "12495",
@@ -4469,8 +4469,8 @@
         "WR"
       ],
       "full_name": "Matthew Golden",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Shoulder",
+      "injury_status": "Questionable",
       "player_id": "12501",
       "position": "WR",
       "status": "Active",
@@ -4553,7 +4553,7 @@
       "fantasy_positions": [
         "TE"
       ],
-      "full_name": "Harold Fannin",
+      "full_name": "Harold Fannin Jr.",
       "injury_body_part": null,
       "injury_status": null,
       "player_id": "12506",
@@ -4656,8 +4656,8 @@
         "WR"
       ],
       "full_name": "Emeka Egbuka",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Concussion",
+      "injury_status": "Questionable",
       "player_id": "12514",
       "position": "WR",
       "status": "Active",
@@ -4706,7 +4706,7 @@
       "fantasy_positions": [
         "WR"
       ],
-      "full_name": "Luther Burden",
+      "full_name": "Luther Burden III",
       "injury_body_part": null,
       "injury_status": null,
       "player_id": "12519",
@@ -4879,7 +4879,7 @@
       ],
       "full_name": "Kyle Monangai",
       "injury_body_part": "Toe",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "player_id": "12534",
       "position": "RB",
       "status": "Active",
@@ -4945,7 +4945,7 @@
       "fantasy_positions": [
         "WR"
       ],
-      "full_name": "Efton Chism",
+      "full_name": "Efton Chism III",
       "injury_body_part": null,
       "injury_status": null,
       "player_id": "12542",
@@ -5166,7 +5166,7 @@
       "fantasy_positions": [
         "WR"
       ],
-      "full_name": "Omar Cooper",
+      "full_name": "Omar Cooper Jr.",
       "injury_body_part": null,
       "injury_status": null,
       "player_id": "13276",
@@ -5370,9 +5370,9 @@
       "fantasy_positions": [
         "WR"
       ],
-      "full_name": "KC Concepcion",
-      "injury_body_part": null,
-      "injury_status": null,
+      "full_name": "KC Concepcion Jr.",
+      "injury_body_part": "Quadriceps",
+      "injury_status": "Questionable",
       "player_id": "13298",
       "position": "WR",
       "status": "Active",
@@ -5438,7 +5438,7 @@
       "fantasy_positions": [
         "RB"
       ],
-      "full_name": "Mike Washington",
+      "full_name": "Mike Washington Jr.",
       "injury_body_part": null,
       "injury_status": null,
       "player_id": "13305",
@@ -5472,7 +5472,7 @@
       "fantasy_positions": [
         "WR"
       ],
-      "full_name": "Ted Hurst",
+      "full_name": "Ted Hurst III",
       "injury_body_part": null,
       "injury_status": null,
       "player_id": "13317",
@@ -5591,7 +5591,7 @@
       "fantasy_positions": [
         "WR"
       ],
-      "full_name": "Kevin Coleman",
+      "full_name": "Kevin Coleman Jr.",
       "injury_body_part": null,
       "injury_status": null,
       "player_id": "13338",
@@ -5626,8 +5626,8 @@
         "WR"
       ],
       "full_name": "Denzel Boston",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Foot",
+      "injury_status": "Questionable",
       "player_id": "13346",
       "position": "WR",
       "status": "Active",
@@ -5693,7 +5693,7 @@
       "fantasy_positions": [
         "WR"
       ],
-      "full_name": "Chris Brazzell",
+      "full_name": "Chris Brazzell II",
       "injury_body_part": "Knee",
       "injury_status": "IR",
       "player_id": "13353",
@@ -5745,8 +5745,8 @@
         "TE"
       ],
       "full_name": "Justin Joly",
-      "injury_body_part": "Concussion",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "13400",
       "position": "TE",
       "status": "Active",
@@ -6339,7 +6339,7 @@
       "fantasy_positions": [
         "WR"
       ],
-      "full_name": "Chris Godwin",
+      "full_name": "Chris Godwin Jr.",
       "injury_body_part": null,
       "injury_status": null,
       "player_id": "4037",
@@ -6458,7 +6458,7 @@
       "fantasy_positions": [
         "RB"
       ],
-      "full_name": "Aaron Jones",
+      "full_name": "Aaron Jones Sr.",
       "injury_body_part": null,
       "injury_status": null,
       "player_id": "4199",
@@ -6612,8 +6612,8 @@
         "WR"
       ],
       "full_name": "Calvin Ridley",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Hip",
+      "injury_status": "Questionable",
       "player_id": "4981",
       "position": "WR",
       "status": "Active",
@@ -6680,8 +6680,8 @@
         "TE"
       ],
       "full_name": "Dalton Schultz",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Quadriceps",
+      "injury_status": "Questionable",
       "player_id": "5001",
       "position": "TE",
       "status": "Active",
@@ -6850,8 +6850,8 @@
         "WR"
       ],
       "full_name": "A.J. Brown",
-      "injury_body_part": "Ankle",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "5859",
       "position": "WR",
       "status": "Active",
@@ -6883,7 +6883,7 @@
       "fantasy_positions": [
         "WR"
       ],
-      "full_name": "Deebo Samuel",
+      "full_name": "Deebo Samuel Sr.",
       "injury_body_part": "Hamstring",
       "injury_status": "Out",
       "player_id": "5872",
@@ -7088,8 +7088,8 @@
         "WR"
       ],
       "full_name": "Justin Jefferson",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Ankle",
+      "injury_status": "Questionable",
       "player_id": "6794",
       "position": "WR",
       "status": "Active",
@@ -7139,8 +7139,8 @@
         "QB"
       ],
       "full_name": "Jordan Love",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Back",
+      "injury_status": "Questionable",
       "player_id": "6804",
       "position": "QB",
       "status": "Active",
@@ -7189,7 +7189,7 @@
       "fantasy_positions": [
         "WR"
       ],
-      "full_name": "Michael Pittman",
+      "full_name": "Michael Pittman Jr.",
       "injury_body_part": "Foot",
       "injury_status": "IR",
       "player_id": "6819",
@@ -7258,8 +7258,8 @@
         "RB"
       ],
       "full_name": "Rico Dowdle",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Knee",
+      "injury_status": "Questionable",
       "player_id": "7021",
       "position": "RB",
       "status": "Active",
@@ -7309,8 +7309,8 @@
         "WR"
       ],
       "full_name": "Darnell Mooney",
-      "injury_body_part": "Neck",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "7090",
       "position": "WR",
       "status": "Active",
@@ -7393,7 +7393,7 @@
       "fantasy_positions": [
         "RB"
       ],
-      "full_name": "Travis Etienne",
+      "full_name": "Travis Etienne Jr.",
       "injury_body_part": "Hamstring",
       "injury_status": "IR",
       "player_id": "7543",
@@ -7427,7 +7427,7 @@
       "fantasy_positions": [
         "TE"
       ],
-      "full_name": "Kyle Pitts",
+      "full_name": "Kyle Pitts Sr.",
       "injury_body_part": null,
       "injury_status": null,
       "player_id": "7553",
@@ -7665,7 +7665,7 @@
       "fantasy_positions": [
         "RB"
       ],
-      "full_name": "Pierre Strong",
+      "full_name": "Pierre Strong Jr.",
       "injury_body_part": null,
       "injury_status": null,
       "player_id": "8116",
@@ -7699,7 +7699,7 @@
       "fantasy_positions": [
         "WR"
       ],
-      "full_name": "Calvin Austin",
+      "full_name": "Calvin Austin III",
       "injury_body_part": "Knee",
       "injury_status": "IR",
       "player_id": "8125",
@@ -7869,7 +7869,7 @@
       "fantasy_positions": [
         "RB"
       ],
-      "full_name": "James Cook",
+      "full_name": "James Cook III",
       "injury_body_part": null,
       "injury_status": null,
       "player_id": "8138",
@@ -7971,7 +7971,7 @@
       "fantasy_positions": [
         "RB"
       ],
-      "full_name": "Kenneth Walker",
+      "full_name": "Kenneth Walker III",
       "injury_body_part": null,
       "injury_status": null,
       "player_id": "8151",
@@ -7988,7 +7988,7 @@
       "fantasy_positions": [
         "RB"
       ],
-      "full_name": "Brian Robinson",
+      "full_name": "Brian Robinson Jr.",
       "injury_body_part": null,
       "injury_status": null,
       "player_id": "8154",
@@ -8040,8 +8040,8 @@
         "WR"
       ],
       "full_name": "Christian Watson",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Ankle",
+      "injury_status": "Questionable",
       "player_id": "8167",
       "position": "WR",
       "status": "Active",
@@ -8311,7 +8311,7 @@
       "fantasy_positions": [
         "QB"
       ],
-      "full_name": "Anthony Richardson",
+      "full_name": "Anthony Richardson Sr.",
       "injury_body_part": null,
       "injury_status": null,
       "player_id": "9229",
@@ -8481,7 +8481,7 @@
       "fantasy_positions": [
         "WR"
       ],
-      "full_name": "Marvin Mims",
+      "full_name": "Marvin Mims Jr.",
       "injury_body_part": null,
       "injury_status": null,
       "player_id": "9494",
@@ -8567,8 +8567,8 @@
         "RB"
       ],
       "full_name": "Sean Tucker",
-      "injury_body_part": "Quadriceps",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "9506",
       "position": "RB",
       "status": "Active",
@@ -8686,8 +8686,8 @@
         "WR"
       ],
       "full_name": "Jordan Addison",
-      "injury_body_part": "Hamstring",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "9756",
       "position": "WR",
       "status": "Active",
@@ -8810,7 +8810,7 @@
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Tyrone Tracy",
+          "full_name": "Tyrone Tracy Jr.",
           "injury_body_part": null,
           "injury_status": null,
           "player_id": "11655",
@@ -8862,8 +8862,8 @@
             "WR"
           ],
           "full_name": "Matthew Golden",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Shoulder",
+          "injury_status": "Questionable",
           "player_id": "12501",
           "position": "WR",
           "status": "Active",
@@ -8913,7 +8913,7 @@
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Efton Chism",
+          "full_name": "Efton Chism III",
           "injury_body_part": null,
           "injury_status": null,
           "player_id": "12542",
@@ -8947,7 +8947,7 @@
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Omar Cooper",
+          "full_name": "Omar Cooper Jr.",
           "injury_body_part": null,
           "injury_status": null,
           "player_id": "13276",
@@ -9015,7 +9015,7 @@
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Ted Hurst",
+          "full_name": "Ted Hurst III",
           "injury_body_part": null,
           "injury_status": null,
           "player_id": "13317",
@@ -9134,7 +9134,7 @@
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Chris Godwin",
+          "full_name": "Chris Godwin Jr.",
           "injury_body_part": null,
           "injury_status": null,
           "player_id": "4037",
@@ -9203,8 +9203,8 @@
             "WR"
           ],
           "full_name": "Christian Watson",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ankle",
+          "injury_status": "Questionable",
           "player_id": "8167",
           "position": "WR",
           "status": "Active",
@@ -9336,7 +9336,7 @@
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Chris Rodriguez",
+          "full_name": "Chris Rodriguez Jr.",
           "injury_body_part": null,
           "injury_status": null,
           "player_id": "10219",
@@ -9523,9 +9523,9 @@
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "KC Concepcion",
-          "injury_body_part": null,
-          "injury_status": null,
+          "full_name": "KC Concepcion Jr.",
+          "injury_body_part": "Quadriceps",
+          "injury_status": "Questionable",
           "player_id": "13298",
           "position": "WR",
           "status": "Active",
@@ -9592,8 +9592,8 @@
             "TE"
           ],
           "full_name": "Justin Joly",
-          "injury_body_part": "Concussion",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13400",
           "position": "TE",
           "status": "Active",
@@ -9976,7 +9976,7 @@
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Marvin Harrison",
+          "full_name": "Marvin Harrison Jr.",
           "injury_body_part": null,
           "injury_status": null,
           "player_id": "11628",
@@ -10113,8 +10113,8 @@
             "WR"
           ],
           "full_name": "Emeka Egbuka",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Concussion",
+          "injury_status": "Questionable",
           "player_id": "12514",
           "position": "WR",
           "status": "Active",
@@ -10164,8 +10164,8 @@
             "WR"
           ],
           "full_name": "Denzel Boston",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Foot",
+          "injury_status": "Questionable",
           "player_id": "13346",
           "position": "WR",
           "status": "Active",
@@ -10266,8 +10266,8 @@
             "QB"
           ],
           "full_name": "Jordan Love",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Back",
+          "injury_status": "Questionable",
           "player_id": "6804",
           "position": "QB",
           "status": "Active",
@@ -10283,8 +10283,8 @@
             "RB"
           ],
           "full_name": "Rico Dowdle",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Knee",
+          "injury_status": "Questionable",
           "player_id": "7021",
           "position": "RB",
           "status": "Active",
@@ -10411,14 +10411,14 @@
       },
       "starters": [
         "6804",
-        "11576",
+        "12474",
         "12489",
-        "12514",
+        "11610",
         "11620",
         "13346",
         "8131",
-        "12474",
-        "8132"
+        "8148",
+        "11783"
       ],
       "taxi": [
         "12497",
@@ -10517,8 +10517,8 @@
             "RB"
           ],
           "full_name": "Bucky Irving",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Illness",
+          "injury_status": "Questionable",
           "player_id": "11584",
           "position": "RB",
           "status": "Active",
@@ -10856,7 +10856,7 @@
           "fantasy_positions": [
             "QB"
           ],
-          "full_name": "Anthony Richardson",
+          "full_name": "Anthony Richardson Sr.",
           "injury_body_part": null,
           "injury_status": null,
           "player_id": "9229",
@@ -11022,7 +11022,7 @@
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Brian Thomas",
+          "full_name": "Brian Thomas Jr.",
           "injury_body_part": null,
           "injury_status": null,
           "player_id": "11631",
@@ -11040,8 +11040,8 @@
             "RB"
           ],
           "full_name": "Jaylen Wright",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Foot",
+          "injury_status": "Questionable",
           "player_id": "11643",
           "position": "RB",
           "status": "Active",
@@ -11143,7 +11143,7 @@
           ],
           "full_name": "Kyle Monangai",
           "injury_body_part": "Toe",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "12534",
           "position": "RB",
           "status": "Active",
@@ -11226,7 +11226,7 @@
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Chris Brazzell",
+          "full_name": "Chris Brazzell II",
           "injury_body_part": "Knee",
           "injury_status": "IR",
           "player_id": "13353",
@@ -11414,8 +11414,8 @@
             "RB"
           ],
           "full_name": "Sean Tucker",
-          "injury_body_part": "Quadriceps",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "9506",
           "position": "RB",
           "status": "Active",
@@ -11786,7 +11786,7 @@
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Aaron Jones",
+          "full_name": "Aaron Jones Sr.",
           "injury_body_part": null,
           "injury_status": null,
           "player_id": "4199",
@@ -11888,7 +11888,7 @@
           "fantasy_positions": [
             "TE"
           ],
-          "full_name": "Kyle Pitts",
+          "full_name": "Kyle Pitts Sr.",
           "injury_body_part": null,
           "injury_status": null,
           "player_id": "7553",
@@ -11905,7 +11905,7 @@
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Pierre Strong",
+          "full_name": "Pierre Strong Jr.",
           "injury_body_part": null,
           "injury_status": null,
           "player_id": "8116",
@@ -12145,7 +12145,7 @@
           "fantasy_positions": [
             "QB"
           ],
-          "full_name": "Stetson Bennett",
+          "full_name": "Stetson Bennett IV",
           "injury_body_part": null,
           "injury_status": null,
           "player_id": "10857",
@@ -12281,7 +12281,7 @@
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Kevin Coleman",
+          "full_name": "Kevin Coleman Jr.",
           "injury_body_part": null,
           "injury_status": null,
           "player_id": "13338",
@@ -12384,8 +12384,8 @@
             "WR"
           ],
           "full_name": "Calvin Ridley",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Hip",
+          "injury_status": "Questionable",
           "player_id": "4981",
           "position": "WR",
           "status": "Active",
@@ -12503,8 +12503,8 @@
             "WR"
           ],
           "full_name": "Darnell Mooney",
-          "injury_body_part": "Neck",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "7090",
           "position": "WR",
           "status": "Active",
@@ -12570,7 +12570,7 @@
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Calvin Austin",
+          "full_name": "Calvin Austin III",
           "injury_body_part": "Knee",
           "injury_status": "IR",
           "player_id": "8125",
@@ -12762,7 +12762,7 @@
           "fantasy_positions": [
             "TE"
           ],
-          "full_name": "Harold Fannin",
+          "full_name": "Harold Fannin Jr.",
           "injury_body_part": null,
           "injury_status": null,
           "player_id": "12506",
@@ -12984,8 +12984,8 @@
             "WR"
           ],
           "full_name": "A.J. Brown",
-          "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "5859",
           "position": "WR",
           "status": "Active",
@@ -13137,8 +13137,8 @@
             "WR"
           ],
           "full_name": "Jordan Addison",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "9756",
           "position": "WR",
           "status": "Active",
@@ -13232,15 +13232,15 @@
         "p_nick_12519": "Haydu",
         "p_nick_13279": "Haydu",
         "p_nick_13286": "Haydu",
-        "p_nick_13294": "Haydu",
+        "p_nick_13294": "Fruit-Du",
         "p_nick_13305": "Haydu",
-        "p_nick_13311": "Haydu",
+        "p_nick_13311": "Du",
         "p_nick_3163": "Haydu",
         "p_nick_5001": "Haydu",
         "p_nick_5846": "Haydu",
-        "p_nick_5848": "Haydu",
+        "p_nick_5848": "Bird-Du",
         "p_nick_5854": "Haydu",
-        "p_nick_6904": "Bird Du",
+        "p_nick_6904": "Hurts-Du",
         "p_nick_7527": "Haydu",
         "p_nick_7528": "Haydu",
         "p_nick_8134": "Haydu",
@@ -13419,7 +13419,7 @@
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Luther Burden",
+          "full_name": "Luther Burden III",
           "injury_body_part": null,
           "injury_status": null,
           "player_id": "12519",
@@ -13504,7 +13504,7 @@
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Mike Washington",
+          "full_name": "Mike Washington Jr.",
           "injury_body_part": null,
           "injury_status": null,
           "player_id": "13305",
@@ -13556,8 +13556,8 @@
             "TE"
           ],
           "full_name": "Dalton Schultz",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Quadriceps",
+          "injury_status": "Questionable",
           "player_id": "5001",
           "position": "TE",
           "status": "Active",
@@ -13841,7 +13841,7 @@
           "fantasy_positions": [
             "QB"
           ],
-          "full_name": "Michael Penix",
+          "full_name": "Michael Penix Jr.",
           "injury_body_part": null,
           "injury_status": null,
           "player_id": "11559",
@@ -14113,7 +14113,7 @@
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Travis Etienne",
+          "full_name": "Travis Etienne Jr.",
           "injury_body_part": "Hamstring",
           "injury_status": "IR",
           "player_id": "7543",
@@ -14181,7 +14181,7 @@
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Kenneth Walker",
+          "full_name": "Kenneth Walker III",
           "injury_body_part": null,
           "injury_status": null,
           "player_id": "8151",
@@ -14440,7 +14440,7 @@
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Ollie Gordon",
+          "full_name": "Ollie Gordon II",
           "injury_body_part": null,
           "injury_status": null,
           "player_id": "12495",
@@ -14610,7 +14610,7 @@
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Deebo Samuel",
+          "full_name": "Deebo Samuel Sr.",
           "injury_body_part": "Hamstring",
           "injury_status": "Out",
           "player_id": "5872",
@@ -14645,8 +14645,8 @@
             "WR"
           ],
           "full_name": "Justin Jefferson",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ankle",
+          "injury_status": "Questionable",
           "player_id": "6794",
           "position": "WR",
           "status": "Active",
@@ -14746,7 +14746,7 @@
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "James Cook",
+          "full_name": "James Cook III",
           "injury_body_part": null,
           "injury_status": null,
           "player_id": "8138",
@@ -14763,7 +14763,7 @@
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Brian Robinson",
+          "full_name": "Brian Robinson Jr.",
           "injury_body_part": null,
           "injury_status": null,
           "player_id": "8154",
@@ -14797,7 +14797,7 @@
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Marvin Mims",
+          "full_name": "Marvin Mims Jr.",
           "injury_body_part": null,
           "injury_status": null,
           "player_id": "9494",
@@ -15201,7 +15201,7 @@
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Michael Pittman",
+          "full_name": "Michael Pittman Jr.",
           "injury_body_part": "Foot",
           "injury_status": "IR",
           "player_id": "6819",
@@ -20318,14 +20318,14 @@
           "roster_id": 3,
           "starters": [
             "6804",
-            "11576",
+            "12474",
             "12489",
-            "12514",
+            "11610",
             "11620",
             "13346",
             "8131",
-            "12474",
-            "8132"
+            "8148",
+            "11783"
           ],
           "starters_points": [
             0.0,
@@ -21369,14 +21369,14 @@
           "roster_id": 3,
           "starters": [
             "6804",
-            "11576",
+            "12474",
             "12489",
-            "12514",
+            "11610",
             "11620",
             "13346",
             "8131",
-            "12474",
-            "8132"
+            "8148",
+            "11783"
           ],
           "starters_points": [
             0.0,
@@ -22420,14 +22420,14 @@
           "roster_id": 3,
           "starters": [
             "6804",
-            "11576",
+            "12474",
             "12489",
-            "12514",
+            "11610",
             "11620",
             "13346",
             "8131",
-            "12474",
-            "8132"
+            "8148",
+            "11783"
           ],
           "starters_points": [
             0.0,
@@ -23471,14 +23471,14 @@
           "roster_id": 3,
           "starters": [
             "6804",
-            "11576",
+            "12474",
             "12489",
-            "12514",
+            "11610",
             "11620",
             "13346",
             "8131",
-            "12474",
-            "8132"
+            "8148",
+            "11783"
           ],
           "starters_points": [
             0.0,
@@ -24522,14 +24522,14 @@
           "roster_id": 3,
           "starters": [
             "6804",
-            "11576",
+            "12474",
             "12489",
-            "12514",
+            "11610",
             "11620",
             "13346",
             "8131",
-            "12474",
-            "8132"
+            "8148",
+            "11783"
           ],
           "starters_points": [
             0.0,
@@ -25573,14 +25573,14 @@
           "roster_id": 3,
           "starters": [
             "6804",
-            "11576",
+            "12474",
             "12489",
-            "12514",
+            "11610",
             "11620",
             "13346",
             "8131",
-            "12474",
-            "8132"
+            "8148",
+            "11783"
           ],
           "starters_points": [
             0.0,
@@ -26357,13 +26357,13 @@
           "roster_id": 12,
           "starters": [
             "8183",
-            "12529",
+            "5850",
             "7594",
             "6801",
-            "6783",
-            "1479",
+            "2216",
+            "2133",
             "8130",
-            "5850",
+            "2449",
             "7588"
           ],
           "starters_points": [
@@ -26624,14 +26624,14 @@
           "roster_id": 3,
           "starters": [
             "6804",
-            "11576",
+            "12474",
             "12489",
-            "12514",
+            "11610",
             "11620",
             "13346",
             "8131",
-            "12474",
-            "8132"
+            "8148",
+            "11783"
           ],
           "starters_points": [
             0.0,
@@ -27408,14 +27408,14 @@
           "roster_id": 12,
           "starters": [
             "8183",
-            "12529",
+            "7588",
             "7594",
             "6801",
-            "6783",
-            "1479",
+            "2216",
+            "2133",
             "8130",
             "5850",
-            "7588"
+            "2449"
           ],
           "starters_points": [
             0.0,
@@ -27675,14 +27675,14 @@
           "roster_id": 3,
           "starters": [
             "6804",
-            "11576",
+            "12474",
             "12489",
-            "12514",
+            "11610",
             "11620",
             "13346",
             "8131",
-            "12474",
-            "8132"
+            "8148",
+            "11783"
           ],
           "starters_points": [
             0.0,
@@ -28726,14 +28726,14 @@
           "roster_id": 3,
           "starters": [
             "6804",
-            "11576",
+            "12474",
             "12489",
-            "12514",
+            "11610",
             "11620",
             "13346",
             "8131",
-            "12474",
-            "8132"
+            "8148",
+            "11783"
           ],
           "starters_points": [
             0.0,
@@ -37571,14 +37571,14 @@
           "roster_id": 3,
           "starters": [
             "6804",
-            "11576",
+            "12474",
             "12489",
-            "12514",
+            "11610",
             "11620",
             "13346",
             "8131",
-            "12474",
-            "8132"
+            "8148",
+            "11783"
           ],
           "starters_points": [
             0.0,
@@ -38622,14 +38622,14 @@
           "roster_id": 3,
           "starters": [
             "6804",
-            "11576",
+            "12474",
             "12489",
-            "12514",
+            "11610",
             "11620",
             "13346",
             "8131",
-            "12474",
-            "8132"
+            "8148",
+            "11783"
           ],
           "starters_points": [
             0.0,
@@ -39405,14 +39405,14 @@
           "points": 0.0,
           "roster_id": 12,
           "starters": [
-            "8183",
-            "12529",
+            "4943",
+            "5850",
             "7594",
             "6801",
             "6783",
             "1479",
             "8130",
-            "5850",
+            "12529",
             "7588"
           ],
           "starters_points": [
@@ -39673,14 +39673,14 @@
           "roster_id": 3,
           "starters": [
             "6804",
-            "11576",
+            "12474",
             "12489",
-            "12514",
+            "11610",
             "11620",
             "13346",
             "8131",
-            "12474",
-            "8132"
+            "8148",
+            "11783"
           ],
           "starters_points": [
             0.0,

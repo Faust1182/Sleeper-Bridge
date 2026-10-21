@@ -60,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-10-21T17:12:49.028363+00:00",
+  "generated_at": "2026-10-21T21:43:13.933602+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -160,7 +160,7 @@
         "fantasy_positions": [
           "RB"
         ],
-        "full_name": "Ollie Gordon",
+        "full_name": "Ollie Gordon II",
         "injury_body_part": null,
         "injury_status": null,
         "player_id": "12495",
@@ -330,7 +330,7 @@
         "fantasy_positions": [
           "WR"
         ],
-        "full_name": "Deebo Samuel",
+        "full_name": "Deebo Samuel Sr.",
         "injury_body_part": "Hamstring",
         "injury_status": "Out",
         "player_id": "5872",
@@ -365,8 +365,8 @@
           "WR"
         ],
         "full_name": "Justin Jefferson",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Ankle",
+        "injury_status": "Questionable",
         "player_id": "6794",
         "position": "WR",
         "status": "Active",
@@ -466,7 +466,7 @@
         "fantasy_positions": [
           "RB"
         ],
-        "full_name": "James Cook",
+        "full_name": "James Cook III",
         "injury_body_part": null,
         "injury_status": null,
         "player_id": "8138",
@@ -483,7 +483,7 @@
         "fantasy_positions": [
           "RB"
         ],
-        "full_name": "Brian Robinson",
+        "full_name": "Brian Robinson Jr.",
         "injury_body_part": null,
         "injury_status": null,
         "player_id": "8154",
@@ -517,7 +517,7 @@
         "fantasy_positions": [
           "WR"
         ],
-        "full_name": "Marvin Mims",
+        "full_name": "Marvin Mims Jr.",
         "injury_body_part": null,
         "injury_status": null,
         "player_id": "9494",
