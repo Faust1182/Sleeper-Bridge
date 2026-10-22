@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-22T11:53:03.008063+00:00",
+  "generated_at": "2026-10-22T17:11:02.403232+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1157,7 +1157,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 21,
+      "daily_waivers_last_ran": 22,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -1730,7 +1730,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 135,
-      "waiver_position": 10,
+      "waiver_position": 8,
       "wins": 2
     },
     "starters": [
@@ -3211,7 +3211,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 52,
-        "waiver_position": 8,
+        "waiver_position": 6,
         "wins": 5
       },
       "starters": [
@@ -3922,7 +3922,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 20,
-        "waiver_position": 7,
+        "waiver_position": 5,
         "wins": 3
       },
       "starters": [
@@ -4650,7 +4650,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 192,
-        "waiver_position": 5,
+        "waiver_position": 4,
         "wins": 2
       },
       "starters": [
@@ -5361,7 +5361,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 4,
+        "waiver_position": 3,
         "wins": 4
       },
       "starters": [
@@ -5770,6 +5770,23 @@
         },
         {
           "active": true,
+          "age": 22,
+          "depth_chart_order": 4,
+          "depth_chart_position": "LWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Reggie Virgil",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "13297",
+          "position": "WR",
+          "status": "Active",
+          "team": "ARI",
+          "years_exp": 0
+        },
+        {
+          "active": true,
           "age": 23,
           "depth_chart_order": 6,
           "depth_chart_position": "TE",
@@ -5811,8 +5828,8 @@
             "WR"
           ],
           "full_name": "Brenen Thompson",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Quadriceps",
+          "injury_status": "Questionable",
           "player_id": "13380",
           "position": "WR",
           "status": "Active",
@@ -6055,7 +6072,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 5,
-        "waiver_position": 1,
+        "waiver_position": 12,
         "wins": 1
       },
       "starters": [
@@ -6783,7 +6800,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 95,
-        "waiver_position": 9,
+        "waiver_position": 7,
         "wins": 2
       },
       "starters": [
@@ -7511,7 +7528,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 15,
-        "waiver_position": 3,
+        "waiver_position": 2,
         "wins": 4
       },
       "starters": [
@@ -7920,23 +7937,6 @@
         },
         {
           "active": true,
-          "age": 32,
-          "depth_chart_order": 1,
-          "depth_chart_position": "QB",
-          "fantasy_positions": [
-            "QB"
-          ],
-          "full_name": "Jameis Winston",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "2306",
-          "position": "QB",
-          "status": "Active",
-          "team": "NYG",
-          "years_exp": 11
-        },
-        {
-          "active": true,
           "age": 33,
           "depth_chart_order": 1,
           "depth_chart_position": "QB",
@@ -8018,6 +8018,23 @@
           "position": "RB",
           "status": "Active",
           "team": "PHI",
+          "years_exp": 8
+        },
+        {
+          "active": true,
+          "age": 29,
+          "depth_chart_order": 6,
+          "depth_chart_position": "SWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Christian Kirk",
+          "injury_body_part": "Calf",
+          "injury_status": "IR",
+          "player_id": "4950",
+          "position": "WR",
+          "status": "Inactive",
+          "team": "SF",
           "years_exp": 8
         },
         {
@@ -8238,8 +8255,8 @@
         "ppts_decimal": 10,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 107,
-        "waiver_position": 6,
+        "waiver_budget_used": 109,
+        "waiver_position": 11,
         "wins": 2
       },
       "starters": [
@@ -8296,19 +8313,19 @@
         },
         {
           "active": true,
-          "age": 26,
-          "depth_chart_order": 7,
-          "depth_chart_position": "SWR",
+          "age": 24,
+          "depth_chart_order": 6,
+          "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Rashee Rice",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
-          "player_id": "10229",
+          "full_name": "Jordan Addison",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "9756",
           "position": "WR",
           "status": "Active",
-          "team": "KC",
+          "team": "MIN",
           "years_exp": 3
         },
         {
@@ -8835,6 +8852,23 @@
         },
         {
           "active": true,
+          "age": 25,
+          "depth_chart_order": 2,
+          "depth_chart_position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "full_name": "Zonovan Knight",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "8122",
+          "position": "RB",
+          "status": "Active",
+          "team": "ARI",
+          "years_exp": 4
+        },
+        {
+          "active": true,
           "age": 26,
           "depth_chart_order": 1,
           "depth_chart_position": "SWR",
@@ -8949,27 +8983,27 @@
         "ppts_decimal": 68,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 85,
-        "waiver_position": 12,
+        "waiver_budget_used": 96,
+        "waiver_position": 10,
         "wins": 4
       },
       "starters": [
         {
           "active": true,
-          "age": 26,
+          "age": 32,
           "depth_chart_order": 1,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
           ],
-          "full_name": "Tanner McKee",
+          "full_name": "Jared Goff",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "9230",
+          "player_id": "3163",
           "position": "QB",
           "status": "Active",
-          "team": "PHI",
-          "years_exp": 3
+          "team": "DET",
+          "years_exp": 10
         },
         {
           "active": true,
@@ -8991,19 +9025,19 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Kimani Vidal",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "11647",
+          "full_name": "Zach Charbonnet",
+          "injury_body_part": "Knee - ACL",
+          "injury_status": "PUP",
+          "player_id": "9753",
           "position": "RB",
-          "status": "Active",
-          "team": "LAC",
-          "years_exp": 2
+          "status": "Inactive",
+          "team": "SEA",
+          "years_exp": 3
         },
         {
           "active": true,
@@ -9058,40 +9092,6 @@
         },
         {
           "active": true,
-          "age": 25,
-          "depth_chart_order": 1,
-          "depth_chart_position": "TE",
-          "fantasy_positions": [
-            "TE"
-          ],
-          "full_name": "Tucker Kraft",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "9484",
-          "position": "TE",
-          "status": "Active",
-          "team": "GB",
-          "years_exp": 3
-        },
-        {
-          "active": true,
-          "age": 26,
-          "depth_chart_order": 1,
-          "depth_chart_position": "SWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Khalil Shakir",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "8134",
-          "position": "WR",
-          "status": "Active",
-          "team": "BUF",
-          "years_exp": 4
-        },
-        {
-          "active": true,
           "age": 22,
           "depth_chart_order": 1,
           "depth_chart_position": "TE",
@@ -9106,6 +9106,40 @@
           "status": "Active",
           "team": "CHI",
           "years_exp": 1
+        },
+        {
+          "active": true,
+          "age": 30,
+          "depth_chart_order": 1,
+          "depth_chart_position": "TE",
+          "fantasy_positions": [
+            "TE"
+          ],
+          "full_name": "Dalton Schultz",
+          "injury_body_part": "Quadriceps",
+          "injury_status": "Questionable",
+          "player_id": "5001",
+          "position": "TE",
+          "status": "Active",
+          "team": "HOU",
+          "years_exp": 8
+        },
+        {
+          "active": true,
+          "age": 25,
+          "depth_chart_order": 1,
+          "depth_chart_position": "TE",
+          "fantasy_positions": [
+            "TE"
+          ],
+          "full_name": "Tucker Kraft",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "9484",
+          "position": "TE",
+          "status": "Active",
+          "team": "GB",
+          "years_exp": 3
         }
       ],
       "taxi": [
@@ -9678,7 +9712,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 25,
-        "waiver_position": 2,
+        "waiver_position": 1,
         "wins": 4
       },
       "starters": [
@@ -10371,7 +10405,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 135,
-        "waiver_position": 10,
+        "waiver_position": 8,
         "wins": 2
       },
       "starters": [
@@ -11099,7 +11133,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 30,
-        "waiver_position": 11,
+        "waiver_position": 9,
         "wins": 3
       },
       "starters": [
@@ -11172,21 +11206,8 @@
           "years_exp": 6
         },
         {
-          "active": true,
-          "age": 27,
-          "depth_chart_order": 3,
-          "depth_chart_position": "RWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Jerry Jeudy",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "6783",
-          "position": "WR",
-          "status": "Active",
-          "team": "CLE",
-          "years_exp": 6
+          "full_name": "0",
+          "player_id": "0"
         },
         {
           "active": true,
