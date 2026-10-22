@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-22T17:11:02.403232+00:00",
+  "generated_at": "2026-10-22T21:36:01.388700+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -4719,17 +4719,17 @@
     "12521": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "depth_chart_position": "TE",
       "fantasy_positions": [
         "TE"
       ],
       "full_name": "Elijah Arroyo",
       "injury_body_part": "Shoulder",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "player_id": "12521",
       "position": "TE",
-      "status": "Active",
+      "status": "Inactive",
       "team": "SEA",
       "years_exp": 1
     },
@@ -5271,7 +5271,7 @@
       ],
       "full_name": "Jeremiyah Love",
       "injury_body_part": "Ankle",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "player_id": "13287",
       "position": "RB",
       "status": "Active",
@@ -5542,8 +5542,8 @@
         "TE"
       ],
       "full_name": "Matt Hibner",
-      "injury_body_part": "Hand",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "13324",
       "position": "TE",
       "status": "Active",
@@ -5689,7 +5689,7 @@
     "13349": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 6,
+      "depth_chart_order": 4,
       "depth_chart_position": "TE",
       "fantasy_positions": [
         "TE"
@@ -6920,7 +6920,7 @@
       ],
       "full_name": "David Montgomery",
       "injury_body_part": "Groin",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "player_id": "5892",
       "position": "RB",
       "status": "Active",
@@ -7157,8 +7157,8 @@
         "QB"
       ],
       "full_name": "Jordan Love",
-      "injury_body_part": "Back",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "6804",
       "position": "QB",
       "status": "Active",
@@ -7514,8 +7514,8 @@
         "WR"
       ],
       "full_name": "Rashod Bateman",
-      "injury_body_part": "Shoulder",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "7571",
       "position": "WR",
       "status": "Active",
@@ -7888,8 +7888,8 @@
         "WR"
       ],
       "full_name": "George Pickens",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Shoulder",
+      "injury_status": "Questionable",
       "player_id": "8137",
       "position": "WR",
       "status": "Active",
@@ -8290,7 +8290,7 @@
     "9225": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -8688,10 +8688,10 @@
       ],
       "full_name": "Zach Charbonnet",
       "injury_body_part": "Knee - ACL",
-      "injury_status": "PUP",
+      "injury_status": "Questionable",
       "player_id": "9753",
       "position": "RB",
-      "status": "Inactive",
+      "status": "Active",
       "team": "SEA",
       "years_exp": 3
     },
@@ -9485,17 +9485,17 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
           ],
           "full_name": "Elijah Arroyo",
           "injury_body_part": "Shoulder",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "player_id": "12521",
           "position": "TE",
-          "status": "Active",
+          "status": "Inactive",
           "team": "SEA",
           "years_exp": 1
         },
@@ -10301,8 +10301,8 @@
             "QB"
           ],
           "full_name": "Jordan Love",
-          "injury_body_part": "Back",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "6804",
           "position": "QB",
           "status": "Active",
@@ -10875,8 +10875,8 @@
             "WR"
           ],
           "full_name": "George Pickens",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Shoulder",
+          "injury_status": "Questionable",
           "player_id": "8137",
           "position": "WR",
           "status": "Active",
@@ -11256,7 +11256,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 6,
+          "depth_chart_order": 4,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -11443,7 +11443,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -12319,7 +12319,7 @@
           ],
           "full_name": "Jeremiyah Love",
           "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "player_id": "13287",
           "position": "RB",
           "status": "Active",
@@ -12489,7 +12489,7 @@
           ],
           "full_name": "David Montgomery",
           "injury_body_part": "Groin",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "player_id": "5892",
           "position": "RB",
           "status": "Active",
@@ -12884,8 +12884,8 @@
             "TE"
           ],
           "full_name": "Matt Hibner",
-          "injury_body_part": "Hand",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13324",
           "position": "TE",
           "status": "Active",
@@ -13071,8 +13071,8 @@
             "WR"
           ],
           "full_name": "Rashod Bateman",
-          "injury_body_part": "Shoulder",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "7571",
           "position": "WR",
           "status": "Active",
@@ -13780,10 +13780,10 @@
           ],
           "full_name": "Zach Charbonnet",
           "injury_body_part": "Knee - ACL",
-          "injury_status": "PUP",
+          "injury_status": "Questionable",
           "player_id": "9753",
           "position": "RB",
-          "status": "Inactive",
+          "status": "Active",
           "team": "SEA",
           "years_exp": 3
         }
