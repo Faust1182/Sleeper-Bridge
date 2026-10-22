@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-21T21:43:13.933602+00:00",
+  "generated_at": "2026-10-22T04:46:24.046136+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2967,8 +2967,8 @@
           "RB"
         ],
         "full_name": "Brian Robinson Jr.",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Hamstring",
+        "injury_status": "Questionable",
         "player_id": "8154",
         "position": "RB",
         "status": "Active",
@@ -3687,8 +3687,8 @@
         "TE"
       ],
       "full_name": "Brock Bowers",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Hamstring",
+      "injury_status": "Questionable",
       "player_id": "11604",
       "position": "TE",
       "status": "Active",
@@ -4802,7 +4802,7 @@
     },
     "12529": {
       "active": true,
-      "age": 23,
+      "age": 24,
       "depth_chart_order": 2,
       "depth_chart_position": "RB",
       "fantasy_positions": [
@@ -5116,8 +5116,8 @@
         "QB"
       ],
       "full_name": "Carson Beck",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Back",
+      "injury_status": "Questionable",
       "player_id": "13272",
       "position": "QB",
       "status": "Active",
@@ -5439,8 +5439,8 @@
         "RB"
       ],
       "full_name": "Mike Washington Jr.",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Foot",
+      "injury_status": "Questionable",
       "player_id": "13305",
       "position": "RB",
       "status": "Active",
@@ -5603,7 +5603,7 @@
     "13345": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 6,
+      "depth_chart_order": null,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -5966,8 +5966,8 @@
         "TE"
       ],
       "full_name": "Travis Kelce",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Ankle",
+      "injury_status": "Questionable",
       "player_id": "1466",
       "position": "TE",
       "status": "Active",
@@ -6239,7 +6239,7 @@
       ],
       "full_name": "Tyreek Hill",
       "injury_body_part": "Knee - ACL",
-      "injury_status": "Questionable",
+      "injury_status": "",
       "player_id": "3321",
       "position": "WR",
       "status": "Active",
@@ -6323,8 +6323,8 @@
         "RB"
       ],
       "full_name": "Alvin Kamara",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Back",
+      "injury_status": "Questionable",
       "player_id": "4035",
       "position": "RB",
       "status": "Active",
@@ -7185,7 +7185,7 @@
       "active": true,
       "age": 29,
       "depth_chart_order": 5,
-      "depth_chart_position": null,
+      "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
       ],
@@ -7360,8 +7360,8 @@
         "WR"
       ],
       "full_name": "Jaylen Waddle",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Chest",
+      "injury_status": "Questionable",
       "player_id": "7526",
       "position": "WR",
       "status": "Active",
@@ -7989,8 +7989,8 @@
         "RB"
       ],
       "full_name": "Brian Robinson Jr.",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Hamstring",
+      "injury_status": "Questionable",
       "player_id": "8154",
       "position": "RB",
       "status": "Active",
@@ -8210,8 +8210,8 @@
         "WR"
       ],
       "full_name": "Rashid Shaheed",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Hip",
+      "injury_status": "Questionable",
       "player_id": "8676",
       "position": "WR",
       "status": "Active",
@@ -8794,8 +8794,8 @@
             "TE"
           ],
           "full_name": "Brock Bowers",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Hamstring",
+          "injury_status": "Questionable",
           "player_id": "11604",
           "position": "TE",
           "status": "Active",
@@ -9067,8 +9067,8 @@
             "TE"
           ],
           "full_name": "Travis Kelce",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ankle",
+          "injury_status": "Questionable",
           "player_id": "1466",
           "position": "TE",
           "status": "Active",
@@ -9569,7 +9569,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 6,
+          "depth_chart_order": null,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -11380,8 +11380,8 @@
             "WR"
           ],
           "full_name": "Rashid Shaheed",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Hip",
+          "injury_status": "Questionable",
           "player_id": "8676",
           "position": "WR",
           "status": "Active",
@@ -11719,8 +11719,8 @@
             "QB"
           ],
           "full_name": "Carson Beck",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Back",
+          "injury_status": "Questionable",
           "player_id": "13272",
           "position": "QB",
           "status": "Active",
@@ -11855,8 +11855,8 @@
             "WR"
           ],
           "full_name": "Jaylen Waddle",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Chest",
+          "injury_status": "Questionable",
           "player_id": "7526",
           "position": "WR",
           "status": "Active",
@@ -13505,8 +13505,8 @@
             "RB"
           ],
           "full_name": "Mike Washington Jr.",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Foot",
+          "injury_status": "Questionable",
           "player_id": "13305",
           "position": "RB",
           "status": "Active",
@@ -14029,8 +14029,8 @@
             "RB"
           ],
           "full_name": "Alvin Kamara",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Back",
+          "injury_status": "Questionable",
           "player_id": "4035",
           "position": "RB",
           "status": "Active",
@@ -14764,8 +14764,8 @@
             "RB"
           ],
           "full_name": "Brian Robinson Jr.",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Hamstring",
+          "injury_status": "Questionable",
           "player_id": "8154",
           "position": "RB",
           "status": "Active",
@@ -14923,7 +14923,7 @@
         },
         {
           "active": true,
-          "age": 23,
+          "age": 24,
           "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
@@ -15084,7 +15084,7 @@
           ],
           "full_name": "Tyreek Hill",
           "injury_body_part": "Knee - ACL",
-          "injury_status": "Questionable",
+          "injury_status": "",
           "player_id": "3321",
           "position": "WR",
           "status": "Active",
@@ -15197,7 +15197,7 @@
           "active": true,
           "age": 29,
           "depth_chart_order": 5,
-          "depth_chart_position": null,
+          "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],

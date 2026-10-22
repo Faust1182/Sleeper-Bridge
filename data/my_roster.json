@@ -60,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-10-21T21:43:13.933602+00:00",
+  "generated_at": "2026-10-22T04:46:24.046136+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -484,8 +484,8 @@
           "RB"
         ],
         "full_name": "Brian Robinson Jr.",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Hamstring",
+        "injury_status": "Questionable",
         "player_id": "8154",
         "position": "RB",
         "status": "Active",
