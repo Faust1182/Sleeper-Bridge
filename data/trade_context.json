@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-23T11:39:20.505703+00:00",
+  "generated_at": "2026-10-23T17:07:42.757829+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1157,7 +1157,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 22,
+      "daily_waivers_last_ran": 23,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -3963,7 +3963,7 @@
           "injury_status": "IR",
           "player_id": "9502",
           "position": "WR",
-          "status": "Active",
+          "status": "Inactive",
           "team": "HOU",
           "years_exp": 3
         },
@@ -4135,7 +4135,7 @@
           "injury_status": "IR",
           "player_id": "9502",
           "position": "WR",
-          "status": "Active",
+          "status": "Inactive",
           "team": "HOU",
           "years_exp": 3
         },
@@ -4484,7 +4484,7 @@
           ],
           "full_name": "Emeka Egbuka",
           "injury_body_part": "Concussion",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "player_id": "12514",
           "position": "WR",
           "status": "Active",
@@ -4602,8 +4602,8 @@
             "QB"
           ],
           "full_name": "Baker Mayfield",
-          "injury_body_part": "Thumb",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "4892",
           "position": "QB",
           "status": "Active",
@@ -6048,6 +6048,23 @@
           "status": "Active",
           "team": "JAX",
           "years_exp": 5
+        },
+        {
+          "active": true,
+          "age": 26,
+          "depth_chart_order": 2,
+          "depth_chart_position": "RWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Jahan Dotson",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "8119",
+          "position": "WR",
+          "status": "Active",
+          "team": "ATL",
+          "years_exp": 4
         },
         {
           "active": true,
@@ -9528,8 +9545,8 @@
             "RB"
           ],
           "full_name": "Alvin Kamara",
-          "injury_body_part": "Back",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "4035",
           "position": "RB",
           "status": "Active",
@@ -9938,8 +9955,8 @@
             "RB"
           ],
           "full_name": "Alvin Kamara",
-          "injury_body_part": "Back",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "4035",
           "position": "RB",
           "status": "Active",
