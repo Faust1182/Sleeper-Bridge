@@ -244,13 +244,13 @@
       {
         "current_owner_roster_id": 12,
         "original_roster_id": 12,
-        "round": 1,
+        "round": 2,
         "season": "2027"
       },
       {
         "current_owner_roster_id": 12,
-        "original_roster_id": 12,
-        "round": 2,
+        "original_roster_id": 2,
+        "round": 3,
         "season": "2027"
       },
       {
@@ -258,12 +258,6 @@
         "original_roster_id": 12,
         "round": 4,
         "season": "2027"
-      },
-      {
-        "current_owner_roster_id": 12,
-        "original_roster_id": 12,
-        "round": 1,
-        "season": "2028"
       },
       {
         "current_owner_roster_id": 12,
@@ -349,12 +343,6 @@
         "current_owner_roster_id": 2,
         "original_roster_id": 2,
         "round": 2,
-        "season": "2027"
-      },
-      {
-        "current_owner_roster_id": 2,
-        "original_roster_id": 2,
-        "round": 3,
         "season": "2027"
       },
       {
@@ -605,6 +593,12 @@
       },
       {
         "current_owner_roster_id": 5,
+        "original_roster_id": 12,
+        "round": 1,
+        "season": "2027"
+      },
+      {
+        "current_owner_roster_id": 5,
         "original_roster_id": 11,
         "round": 2,
         "season": "2027"
@@ -648,6 +642,12 @@
       {
         "current_owner_roster_id": 5,
         "original_roster_id": 11,
+        "round": 1,
+        "season": "2028"
+      },
+      {
+        "current_owner_roster_id": 5,
+        "original_roster_id": 12,
         "round": 1,
         "season": "2028"
       },
@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-23T04:49:58.601584+00:00",
+  "generated_at": "2026-10-23T11:39:20.505703+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -2691,6 +2691,100 @@
         }
       ],
       "week": 6
+    },
+    {
+      "adds": {
+        "9511": 2
+      },
+      "consenter_ids": [
+        2,
+        12
+      ],
+      "created": 1792601242136,
+      "creator": "988586141739696128",
+      "draft_picks": [
+        {
+          "league_id": null,
+          "owner_id": 12,
+          "previous_owner_id": 2,
+          "roster_id": 2,
+          "round": 3,
+          "season": "2027"
+        }
+      ],
+      "drops": {
+        "9511": 12
+      },
+      "leg": 7,
+      "metadata": {
+        "notes": "Your trade was processed successfully!",
+        "poll_id": "1418676931628466176",
+        "veto_msg_id": "1418676931691290624"
+      },
+      "roster_ids": [
+        2,
+        12
+      ],
+      "settings": {
+        "is_counter": 1
+      },
+      "status": "complete",
+      "status_updated": 1792736625884,
+      "transaction_id": "1418676070084796416",
+      "type": "trade",
+      "waiver_budget": [],
+      "week": 7
+    },
+    {
+      "adds": {
+        "9997": 12
+      },
+      "consenter_ids": [
+        5,
+        12
+      ],
+      "created": 1792591747024,
+      "creator": "988586141739696128",
+      "draft_picks": [
+        {
+          "league_id": null,
+          "owner_id": 5,
+          "previous_owner_id": 12,
+          "roster_id": 12,
+          "round": 1,
+          "season": "2027"
+        },
+        {
+          "league_id": null,
+          "owner_id": 5,
+          "previous_owner_id": 12,
+          "roster_id": 12,
+          "round": 1,
+          "season": "2028"
+        }
+      ],
+      "drops": {
+        "9997": 5
+      },
+      "leg": 7,
+      "metadata": {
+        "notes": "Your trade was processed successfully!",
+        "poll_id": "1418638908060663821",
+        "veto_msg_id": "1418638908123623424"
+      },
+      "roster_ids": [
+        5,
+        12
+      ],
+      "settings": {
+        "is_counter": 1
+      },
+      "status": "complete",
+      "status_updated": 1792736625884,
+      "transaction_id": "1418636244698570752",
+      "type": "trade",
+      "waiver_budget": [],
+      "week": 7
     }
   ],
   "rosters": [
@@ -3871,6 +3965,23 @@
           "position": "WR",
           "status": "Active",
           "team": "HOU",
+          "years_exp": 3
+        },
+        {
+          "active": true,
+          "age": 24,
+          "depth_chart_order": 2,
+          "depth_chart_position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "full_name": "Keaton Mitchell",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "9511",
+          "position": "RB",
+          "status": "Active",
+          "team": "LAC",
           "years_exp": 3
         },
         {
@@ -6022,23 +6133,6 @@
           "status": "Active",
           "team": "PIT",
           "years_exp": 21
-        },
-        {
-          "active": true,
-          "age": 26,
-          "depth_chart_order": 1,
-          "depth_chart_position": "SWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Zay Flowers",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "9997",
-          "position": "WR",
-          "status": "Active",
-          "team": "BAL",
-          "years_exp": 3
         }
       ],
       "reserve": [
@@ -6129,20 +6223,20 @@
         },
         {
           "active": true,
-          "age": 26,
-          "depth_chart_order": 1,
+          "age": 22,
+          "depth_chart_order": 4,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Zay Flowers",
+          "full_name": "Isaiah Bond",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "9997",
+          "player_id": "12503",
           "position": "WR",
           "status": "Active",
-          "team": "BAL",
-          "years_exp": 3
+          "team": "CLE",
+          "years_exp": 1
         },
         {
           "active": true,
@@ -6214,20 +6308,20 @@
         },
         {
           "active": true,
-          "age": 22,
-          "depth_chart_order": 4,
-          "depth_chart_position": "SWR",
+          "age": 28,
+          "depth_chart_order": 2,
+          "depth_chart_position": "RB",
           "fantasy_positions": [
-            "WR"
+            "RB"
           ],
-          "full_name": "Isaiah Bond",
+          "full_name": "Justice Hill",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "12503",
-          "position": "WR",
+          "player_id": "5995",
+          "position": "RB",
           "status": "Active",
-          "team": "CLE",
-          "years_exp": 1
+          "team": "BAL",
+          "years_exp": 7
         }
       ],
       "taxi": [
@@ -11086,19 +11180,19 @@
         },
         {
           "active": true,
-          "age": 24,
-          "depth_chart_order": 2,
-          "depth_chart_position": "RB",
+          "age": 26,
+          "depth_chart_order": 1,
+          "depth_chart_position": "SWR",
           "fantasy_positions": [
-            "RB"
+            "WR"
           ],
-          "full_name": "Keaton Mitchell",
+          "full_name": "Zay Flowers",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "9511",
-          "position": "RB",
+          "player_id": "9997",
+          "position": "WR",
           "status": "Active",
-          "team": "LAC",
+          "team": "BAL",
           "years_exp": 3
         }
       ],
@@ -11190,6 +11284,23 @@
         },
         {
           "active": true,
+          "age": 26,
+          "depth_chart_order": 1,
+          "depth_chart_position": "SWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Zay Flowers",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "9997",
+          "position": "WR",
+          "status": "Active",
+          "team": "BAL",
+          "years_exp": 3
+        },
+        {
+          "active": true,
           "age": 27,
           "depth_chart_order": 2,
           "depth_chart_position": "RWR",
@@ -11204,10 +11315,6 @@
           "status": "Active",
           "team": "CIN",
           "years_exp": 6
-        },
-        {
-          "full_name": "0",
-          "player_id": "0"
         },
         {
           "active": true,
@@ -11384,6 +11491,13 @@
       "previous_owner_id": 10,
       "roster_id": 2,
       "round": 1,
+      "season": "2027"
+    },
+    {
+      "owner_id": 12,
+      "previous_owner_id": 2,
+      "roster_id": 2,
+      "round": 3,
       "season": "2027"
     },
     {
@@ -11765,11 +11879,25 @@
       "season": "2026"
     },
     {
+      "owner_id": 5,
+      "previous_owner_id": 12,
+      "roster_id": 12,
+      "round": 1,
+      "season": "2027"
+    },
+    {
       "owner_id": 11,
       "previous_owner_id": 12,
       "roster_id": 12,
       "round": 3,
       "season": "2027"
+    },
+    {
+      "owner_id": 5,
+      "previous_owner_id": 12,
+      "roster_id": 12,
+      "round": 1,
+      "season": "2028"
     },
     {
       "owner_id": 3,
