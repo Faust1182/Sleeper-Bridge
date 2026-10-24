@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-24T04:37:04.545288+00:00",
+  "generated_at": "2026-10-24T11:01:13.502695+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -3106,7 +3106,7 @@
         {
           "active": true,
           "age": 33,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -4578,23 +4578,6 @@
         },
         {
           "active": true,
-          "age": 23,
-          "depth_chart_order": 4,
-          "depth_chart_position": "QB",
-          "fantasy_positions": [
-            "QB"
-          ],
-          "full_name": "Jalon Daniels",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "13425",
-          "position": "QB",
-          "status": "Active",
-          "team": "TB",
-          "years_exp": 0
-        },
-        {
-          "active": true,
           "age": 31,
           "depth_chart_order": 1,
           "depth_chart_position": "QB",
@@ -4818,20 +4801,20 @@
         },
         {
           "active": true,
-          "age": 25,
-          "depth_chart_order": 1,
-          "depth_chart_position": "SWR",
+          "age": 22,
+          "depth_chart_order": 2,
+          "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Malik Washington",
+          "full_name": "Germie Bernard",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "11610",
+          "player_id": "13274",
           "position": "WR",
           "status": "Active",
-          "team": "MIA",
-          "years_exp": 2
+          "team": "PIT",
+          "years_exp": 0
         },
         {
           "active": true,
@@ -4936,23 +4919,6 @@
           "status": "Active",
           "team": "SEA",
           "years_exp": 1
-        },
-        {
-          "active": true,
-          "age": 22,
-          "depth_chart_order": 2,
-          "depth_chart_position": "RWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Germie Bernard",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "13274",
-          "position": "WR",
-          "status": "Active",
-          "team": "PIT",
-          "years_exp": 0
         },
         {
           "active": true,
@@ -6814,7 +6780,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 5,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -8760,7 +8726,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
