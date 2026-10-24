@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-23T21:24:46.553494+00:00",
+  "generated_at": "2026-10-24T04:37:04.545288+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2688,7 +2688,7 @@
       },
       {
         "active": true,
-        "age": 23,
+        "age": 24,
         "depth_chart_order": 2,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
@@ -2961,7 +2961,7 @@
       {
         "active": true,
         "age": 27,
-        "depth_chart_order": 2,
+        "depth_chart_order": 4,
         "depth_chart_position": "RB",
         "fantasy_positions": [
           "RB"
@@ -3205,7 +3205,7 @@
     "10229": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 1,
+      "depth_chart_order": 8,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -3613,7 +3613,7 @@
     "11589": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 7,
+      "depth_chart_order": 6,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -3749,7 +3749,7 @@
     "11624": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 2,
+      "depth_chart_order": 1,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -4089,7 +4089,7 @@
     "12048": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -4531,7 +4531,7 @@
     "12505": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -4872,7 +4872,7 @@
     "12534": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 4,
+      "depth_chart_order": 6,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -5041,7 +5041,7 @@
     },
     "12718": {
       "active": true,
-      "age": 23,
+      "age": 24,
       "depth_chart_order": 2,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
@@ -5059,7 +5059,7 @@
     "13150": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -5076,7 +5076,7 @@
     "13268": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 5,
+      "depth_chart_order": 7,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -5263,7 +5263,7 @@
     "13287": {
       "active": true,
       "age": 21,
-      "depth_chart_order": 3,
+      "depth_chart_order": 7,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -5331,7 +5331,7 @@
     "13294": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -5654,7 +5654,7 @@
     "13347": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -6028,7 +6028,7 @@
     "2133": {
       "active": true,
       "age": 33,
-      "depth_chart_order": 5,
+      "depth_chart_order": 7,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -6062,7 +6062,7 @@
     "2216": {
       "active": true,
       "age": 33,
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -6402,7 +6402,7 @@
     "4137": {
       "active": true,
       "age": 31,
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -7421,7 +7421,7 @@
     },
     "7547": {
       "active": true,
-      "age": 26,
+      "age": 27,
       "depth_chart_order": 1,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
@@ -8034,7 +8034,7 @@
     "8154": {
       "active": true,
       "age": 27,
-      "depth_chart_order": 2,
+      "depth_chart_order": 4,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -8697,7 +8697,7 @@
     "9753": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 2,
+      "depth_chart_order": 5,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -9433,7 +9433,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -10244,7 +10244,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -10597,7 +10597,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 7,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -11205,7 +11205,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 4,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -11681,7 +11681,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -11766,7 +11766,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -11952,7 +11952,7 @@
         },
         {
           "active": true,
-          "age": 26,
+          "age": 27,
           "depth_chart_order": 1,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
@@ -12346,7 +12346,7 @@
         {
           "active": true,
           "age": 21,
-          "depth_chart_order": 3,
+          "depth_chart_order": 7,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -12759,7 +12759,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 1,
+          "depth_chart_order": 8,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -12827,7 +12827,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -12895,7 +12895,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 5,
+          "depth_chart_order": 7,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -13569,7 +13569,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -13807,7 +13807,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 2,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -13874,7 +13874,7 @@
       "starters": [
         "3163",
         "12481",
-        "9753",
+        "8122",
         "12519",
         "13279",
         "5846",
@@ -14590,7 +14590,7 @@
         },
         {
           "active": true,
-          "age": 23,
+          "age": 24,
           "depth_chart_order": 2,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
@@ -14863,7 +14863,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 2,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -15131,7 +15131,7 @@
         {
           "active": true,
           "age": 33,
-          "depth_chart_order": 5,
+          "depth_chart_order": 7,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -15148,7 +15148,7 @@
         {
           "active": true,
           "age": 33,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -15216,7 +15216,7 @@
         {
           "active": true,
           "age": 31,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -20973,7 +20973,7 @@
           "starters": [
             "3163",
             "12481",
-            "9753",
+            "8122",
             "12519",
             "13279",
             "5846",
@@ -22030,7 +22030,7 @@
           "starters": [
             "3163",
             "12481",
-            "9753",
+            "8122",
             "12519",
             "13279",
             "5846",
@@ -23087,7 +23087,7 @@
           "starters": [
             "3163",
             "12481",
-            "9753",
+            "8122",
             "12519",
             "13279",
             "5846",
@@ -24144,7 +24144,7 @@
           "starters": [
             "3163",
             "12481",
-            "9753",
+            "8122",
             "12519",
             "13279",
             "5846",
@@ -25201,7 +25201,7 @@
           "starters": [
             "3163",
             "12481",
-            "9753",
+            "8122",
             "12519",
             "13279",
             "5846",
@@ -26258,7 +26258,7 @@
           "starters": [
             "3163",
             "12481",
-            "9753",
+            "8122",
             "12519",
             "13279",
             "5846",
@@ -27315,7 +27315,7 @@
           "starters": [
             "3163",
             "12481",
-            "9753",
+            "8122",
             "12519",
             "13279",
             "5846",
@@ -28372,7 +28372,7 @@
           "starters": [
             "3163",
             "12481",
-            "9753",
+            "8122",
             "12519",
             "13279",
             "5846",
@@ -29429,7 +29429,7 @@
           "starters": [
             "3163",
             "12481",
-            "9753",
+            "8122",
             "12519",
             "13279",
             "5846",
@@ -38280,7 +38280,7 @@
           "starters": [
             "3163",
             "12481",
-            "9753",
+            "8122",
             "12519",
             "13279",
             "5846",
@@ -39544,7 +39544,7 @@
           "starters": [
             "3163",
             "12481",
-            "9753",
+            "8122",
             "12519",
             "13279",
             "5846",
@@ -40601,7 +40601,7 @@
           "starters": [
             "3163",
             "12481",
-            "9753",
+            "8122",
             "12519",
             "13279",
             "5846",
