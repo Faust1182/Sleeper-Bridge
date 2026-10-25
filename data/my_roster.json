@@ -60,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-10-25T16:19:50.104253+00:00",
+  "generated_at": "2026-10-25T20:51:13.734738+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -189,7 +189,7 @@
       {
         "active": true,
         "age": 24,
-        "depth_chart_order": 5,
+        "depth_chart_order": 4,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -450,8 +450,8 @@
           "WR"
         ],
         "full_name": "Drake London",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Head",
+        "injury_status": "Questionable",
         "player_id": "8112",
         "position": "WR",
         "status": "Active",
