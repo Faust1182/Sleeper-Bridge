@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-25T11:29:48.296366+00:00",
+  "generated_at": "2026-10-25T16:19:50.104253+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1157,7 +1157,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 24,
+      "daily_waivers_last_ran": 25,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -4256,7 +4256,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -4551,8 +4551,8 @@
             "RB"
           ],
           "full_name": "Demond Claiborne",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "13347",
           "position": "RB",
           "status": "Active",
@@ -4585,8 +4585,8 @@
             "QB"
           ],
           "full_name": "Baker Mayfield",
-          "injury_body_part": "Thumb",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "4892",
           "position": "QB",
           "status": "Active",
@@ -4636,8 +4636,8 @@
             "RB"
           ],
           "full_name": "Rico Dowdle",
-          "injury_body_part": "Knee",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "7021",
           "position": "RB",
           "status": "Active",
@@ -4886,19 +4886,19 @@
         },
         {
           "active": true,
-          "age": 26,
-          "depth_chart_order": 3,
-          "depth_chart_position": "SWR",
+          "age": 22,
+          "depth_chart_order": 1,
+          "depth_chart_position": "RB",
           "fantasy_positions": [
-            "WR"
+            "RB"
           ],
-          "full_name": "Ryan Flournoy",
+          "full_name": "Braelon Allen",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "11783",
-          "position": "WR",
+          "player_id": "11576",
+          "position": "RB",
           "status": "Active",
-          "team": "DAL",
+          "team": "NYJ",
           "years_exp": 2
         }
       ],
@@ -4929,8 +4929,8 @@
             "RB"
           ],
           "full_name": "Demond Claiborne",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "13347",
           "position": "RB",
           "status": "Active",
@@ -5171,14 +5171,14 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
           "full_name": "Nicholas Singleton",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "13288",
           "position": "RB",
           "status": "Active",
@@ -5617,14 +5617,14 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
           "full_name": "Nicholas Singleton",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "13288",
           "position": "RB",
           "status": "Active",
@@ -5837,8 +5837,8 @@
             "QB"
           ],
           "full_name": "Drew Allar",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "13289",
           "position": "QB",
           "status": "Active",
@@ -6334,8 +6334,8 @@
             "QB"
           ],
           "full_name": "Drew Allar",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "13289",
           "position": "QB",
           "status": "Active",
@@ -7379,7 +7379,7 @@
           ],
           "full_name": "Calvin Ridley",
           "injury_body_part": "Hip",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "4981",
           "position": "WR",
           "status": "Active",
@@ -7713,20 +7713,20 @@
         },
         {
           "active": true,
-          "age": 24,
-          "depth_chart_order": 5,
+          "age": 27,
+          "depth_chart_order": 1,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
           ],
-          "full_name": "Tyler Warren",
-          "injury_body_part": "Groin",
-          "injury_status": "Out",
-          "player_id": "12518",
+          "full_name": "Cade Otton",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "8111",
           "position": "TE",
           "status": "Active",
-          "team": "IND",
-          "years_exp": 1
+          "team": "TB",
+          "years_exp": 4
         },
         {
           "active": true,
@@ -7970,8 +7970,8 @@
             "WR"
           ],
           "full_name": "Elijah Sarratt",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "13268",
           "position": "WR",
           "status": "Active",
@@ -8535,8 +8535,8 @@
             "WR"
           ],
           "full_name": "Elijah Sarratt",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "13268",
           "position": "WR",
           "status": "Active",
@@ -9675,14 +9675,14 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
           "full_name": "Breece Hall",
           "injury_body_part": "Quadriceps",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "8155",
           "position": "RB",
           "status": "Active",
@@ -9795,20 +9795,20 @@
       "starters": [
         {
           "active": true,
-          "age": 30,
+          "age": 25,
           "depth_chart_order": 1,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
           ],
-          "full_name": "Josh Allen",
+          "full_name": "Bryce Young",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "4984",
+          "player_id": "9228",
           "position": "QB",
           "status": "Active",
-          "team": "BUF",
-          "years_exp": 8
+          "team": "CAR",
+          "years_exp": 3
         },
         {
           "active": true,
@@ -9880,37 +9880,37 @@
         },
         {
           "active": true,
-          "age": 25,
-          "depth_chart_order": 7,
-          "depth_chart_position": "RWR",
+          "age": 26,
+          "depth_chart_order": 1,
+          "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Dontayvion Wicks",
-          "injury_body_part": "Ankle",
-          "injury_status": "Out",
-          "player_id": "9486",
+          "full_name": "Ja'Marr Chase",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "7564",
           "position": "WR",
           "status": "Active",
-          "team": "PHI",
-          "years_exp": 3
+          "team": "CIN",
+          "years_exp": 5
         },
         {
           "active": true,
-          "age": 30,
+          "age": 29,
           "depth_chart_order": 1,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
           ],
-          "full_name": "Juwan Johnson",
+          "full_name": "T.J. Hockenson",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "7002",
+          "player_id": "5844",
           "position": "TE",
           "status": "Active",
-          "team": "NO",
-          "years_exp": 6
+          "team": "MIN",
+          "years_exp": 7
         },
         {
           "active": true,
@@ -9931,20 +9931,20 @@
         },
         {
           "active": true,
-          "age": 25,
-          "depth_chart_order": 2,
-          "depth_chart_position": "RB",
+          "age": 30,
+          "depth_chart_order": 1,
+          "depth_chart_position": "TE",
           "fantasy_positions": [
-            "RB"
+            "TE"
           ],
-          "full_name": "Roschon Johnson",
+          "full_name": "Juwan Johnson",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "10235",
-          "position": "RB",
+          "player_id": "7002",
+          "position": "TE",
           "status": "Active",
-          "team": "CHI",
-          "years_exp": 3
+          "team": "NO",
+          "years_exp": 6
         }
       ],
       "taxi": [
@@ -10756,7 +10756,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -10824,7 +10824,7 @@
         {
           "active": true,
           "age": 33,
-          "depth_chart_order": 7,
+          "depth_chart_order": 5,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -10994,7 +10994,7 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 6,
+          "depth_chart_order": 7,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -11154,7 +11154,7 @@
           ],
           "full_name": "Tyjae Spears",
           "injury_body_part": "Knee",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "9508",
           "position": "RB",
           "status": "Active",
@@ -11389,7 +11389,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
