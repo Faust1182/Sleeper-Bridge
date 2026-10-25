@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-24T20:50:13.797676+00:00",
+  "generated_at": "2026-10-25T04:41:31.487799+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1468,7 +1468,7 @@
       {
         "active": true,
         "age": 30,
-        "depth_chart_order": 8,
+        "depth_chart_order": 7,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -1569,7 +1569,7 @@
       },
       {
         "active": true,
-        "age": 27,
+        "age": 28,
         "depth_chart_order": 1,
         "depth_chart_position": "TE",
         "fantasy_positions": [
@@ -3106,8 +3106,8 @@
         {
           "active": true,
           "age": 33,
-          "depth_chart_order": 2,
-          "depth_chart_position": "SWR",
+          "depth_chart_order": 3,
+          "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
           ],
@@ -3208,7 +3208,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 1,
+          "depth_chart_order": 6,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -3362,20 +3362,20 @@
         },
         {
           "active": true,
-          "age": 27,
+          "age": 30,
           "depth_chart_order": 1,
-          "depth_chart_position": "LWR",
+          "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "DeVonta Smith",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Out",
-          "player_id": "7525",
+          "full_name": "Chris Godwin Jr.",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "4037",
           "position": "WR",
           "status": "Active",
-          "team": "PHI",
-          "years_exp": 5
+          "team": "TB",
+          "years_exp": 9
         },
         {
           "active": true,
@@ -3766,17 +3766,17 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 6,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
           "full_name": "Jonah Coleman",
           "injury_body_part": "Ankle",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "player_id": "13345",
           "position": "RB",
-          "status": "Inactive",
+          "status": "Active",
           "team": "DEN",
           "years_exp": 0
         },
@@ -3959,8 +3959,8 @@
             "WR"
           ],
           "full_name": "Tank Dell",
-          "injury_body_part": "Knee - ACL + MCL",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "9502",
           "position": "WR",
           "status": "Inactive",
@@ -4131,8 +4131,8 @@
             "WR"
           ],
           "full_name": "Tank Dell",
-          "injury_body_part": "Knee - ACL + MCL",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "9502",
           "position": "WR",
           "status": "Inactive",
@@ -4229,17 +4229,17 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 6,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
           "full_name": "Jonah Coleman",
           "injury_body_part": "Ankle",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "player_id": "13345",
           "position": "RB",
-          "status": "Inactive",
+          "status": "Active",
           "team": "DEN",
           "years_exp": 0
         }
@@ -4545,7 +4545,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 2,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -4562,7 +4562,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 12,
+          "depth_chart_order": 10,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -4923,7 +4923,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 2,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -5018,7 +5018,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -5188,7 +5188,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -5411,7 +5411,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -6085,7 +6085,7 @@
         },
         {
           "active": true,
-          "age": 24,
+          "age": 25,
           "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
@@ -6508,7 +6508,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -6780,7 +6780,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 4,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -6790,7 +6790,7 @@
           "injury_status": null,
           "player_id": "8408",
           "position": "RB",
-          "status": "Inactive",
+          "status": "Active",
           "team": "MIN",
           "years_exp": 4
         },
@@ -7019,20 +7019,20 @@
         },
         {
           "active": true,
-          "age": 26,
-          "depth_chart_order": 1,
-          "depth_chart_position": "TE",
+          "age": 27,
+          "depth_chart_order": 2,
+          "depth_chart_position": "RB",
           "fantasy_positions": [
-            "TE"
+            "RB"
           ],
-          "full_name": "Kyle Pitts Sr.",
+          "full_name": "Jordan Mason",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "7553",
-          "position": "TE",
+          "player_id": "8408",
+          "position": "RB",
           "status": "Active",
-          "team": "ATL",
-          "years_exp": 5
+          "team": "MIN",
+          "years_exp": 4
         }
       ],
       "taxi": [
@@ -7253,7 +7253,7 @@
         {
           "active": true,
           "age": 21,
-          "depth_chart_order": 7,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -7287,7 +7287,7 @@
         {
           "active": true,
           "age": 32,
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -7355,7 +7355,7 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -7474,7 +7474,7 @@
         {
           "active": true,
           "age": 28,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -8100,17 +8100,17 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 6,
+          "depth_chart_order": 1,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Christian Kirk",
-          "injury_body_part": "Calf",
-          "injury_status": "IR",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "4950",
           "position": "WR",
-          "status": "Inactive",
+          "status": "Active",
           "team": "SF",
           "years_exp": 8
         },
@@ -8624,7 +8624,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -8726,7 +8726,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -8777,7 +8777,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 4,
+          "depth_chart_order": 1,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -8879,7 +8879,7 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 6,
+          "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -9386,7 +9386,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 11,
+          "depth_chart_order": 9,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -9709,7 +9709,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 2,
+          "depth_chart_order": 7,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -9762,7 +9762,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 11,
+          "depth_chart_order": 9,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -9881,7 +9881,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 2,
+          "depth_chart_order": 7,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -10250,7 +10250,7 @@
         {
           "active": true,
           "age": 30,
-          "depth_chart_order": 8,
+          "depth_chart_order": 7,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -10351,7 +10351,7 @@
         },
         {
           "active": true,
-          "age": 27,
+          "age": 28,
           "depth_chart_order": 1,
           "depth_chart_position": "TE",
           "fantasy_positions": [
@@ -10697,7 +10697,7 @@
     {
       "owner": {
         "display_name": "TheCamps",
-        "team_name": "I\u2019m Just Kev",
+        "team_name": "Camp Anal E\u2019s Flowers",
         "user_id": "988586141739696128",
         "username": null
       },
@@ -10841,7 +10841,7 @@
         {
           "active": true,
           "age": 33,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
