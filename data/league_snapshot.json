@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-26T13:03:26.025534+00:00",
+  "generated_at": "2026-10-26T22:40:40.060820+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2393,9 +2393,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1419872195752067072",
+    "last_message_id": "1420521784100257792",
     "last_message_text_map": null,
-    "last_message_time": 1792886420719,
+    "last_message_time": 1793041294650,
     "last_pinned_message_id": "1418676931691290624",
     "last_read_id": null,
     "league_id": "1314667834135040000",
@@ -2494,7 +2494,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 25,
+      "daily_waivers_last_ran": 26,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -2672,7 +2672,7 @@
       {
         "active": true,
         "age": 24,
-        "depth_chart_order": 5,
+        "depth_chart_order": 4,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -3324,7 +3324,7 @@
     "11370": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 5,
+      "depth_chart_order": 4,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -3477,7 +3477,7 @@
     "11571": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -3528,7 +3528,7 @@
     "11576": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 2,
+      "depth_chart_order": 1,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -3959,8 +3959,8 @@
         "WR"
       ],
       "full_name": "Jalen Coker",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Shoulder",
+      "injury_status": "Questionable",
       "player_id": "11646",
       "position": "WR",
       "status": "Active",
@@ -4269,14 +4269,14 @@
       "injury_status": "IR",
       "player_id": "12486",
       "position": "QB",
-      "status": "Inactive",
+      "status": "Active",
       "team": "CLE",
       "years_exp": 1
     },
     "12487": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 5,
+      "depth_chart_order": 4,
       "depth_chart_position": "TE",
       "fantasy_positions": [
         "TE"
@@ -4469,8 +4469,8 @@
         "WR"
       ],
       "full_name": "Matthew Golden",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Shoulder",
+      "injury_status": "Questionable",
       "player_id": "12501",
       "position": "WR",
       "status": "Active",
@@ -4514,7 +4514,7 @@
     "12504": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 4,
+      "depth_chart_order": 5,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -4838,7 +4838,7 @@
     "12531": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -4923,7 +4923,7 @@
     "12540": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 5,
+      "depth_chart_order": 4,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -5059,7 +5059,7 @@
     "13150": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 2,
+      "depth_chart_order": 1,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -5076,7 +5076,7 @@
     "13268": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 7,
+      "depth_chart_order": 6,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -5178,7 +5178,7 @@
     "13278": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 4,
+      "depth_chart_order": 5,
       "depth_chart_position": "TE",
       "fantasy_positions": [
         "TE"
@@ -5280,7 +5280,7 @@
     "13288": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 4,
+      "depth_chart_order": 6,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -5331,7 +5331,7 @@
     "13294": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 1,
+      "depth_chart_order": 2,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -5416,7 +5416,7 @@
     "13302": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 6,
+      "depth_chart_order": 4,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -5518,7 +5518,7 @@
     "13320": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -5654,7 +5654,7 @@
     "13347": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 3,
+      "depth_chart_order": 5,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -5694,11 +5694,11 @@
         "TE"
       ],
       "full_name": "Eli Stowers",
-      "injury_body_part": "Hamstring",
-      "injury_status": "IR",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "13349",
       "position": "TE",
-      "status": "Inactive",
+      "status": "Active",
       "team": "PHI",
       "years_exp": 0
     },
@@ -5977,7 +5977,7 @@
     "1479": {
       "active": true,
       "age": 34,
-      "depth_chart_order": 1,
+      "depth_chart_order": 2,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -6011,7 +6011,7 @@
     "2133": {
       "active": true,
       "age": 33,
-      "depth_chart_order": 7,
+      "depth_chart_order": 6,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -6606,7 +6606,7 @@
     "4981": {
       "active": true,
       "age": 31,
-      "depth_chart_order": 4,
+      "depth_chart_order": 5,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -7184,7 +7184,7 @@
     "6819": {
       "active": true,
       "age": 29,
-      "depth_chart_order": 6,
+      "depth_chart_order": 7,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -7218,7 +7218,7 @@
     "6904": {
       "active": true,
       "age": 28,
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "depth_chart_position": "QB",
       "fantasy_positions": [
         "QB"
@@ -7411,8 +7411,8 @@
         "WR"
       ],
       "full_name": "Amon-Ra St. Brown",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Ankle",
+      "injury_status": "Questionable",
       "player_id": "7547",
       "position": "WR",
       "status": "Active",
@@ -7728,7 +7728,7 @@
     "8125": {
       "active": true,
       "age": 27,
-      "depth_chart_order": 7,
+      "depth_chart_order": 8,
       "depth_chart_position": null,
       "fantasy_positions": [
         "WR"
@@ -8034,7 +8034,7 @@
     "8155": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 1,
+      "depth_chart_order": 4,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -8527,7 +8527,7 @@
     "9500": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 2,
+      "depth_chart_order": 1,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -8612,7 +8612,7 @@
     "9508": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 2,
+      "depth_chart_order": 5,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -8896,8 +8896,8 @@
             "WR"
           ],
           "full_name": "Matthew Golden",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Shoulder",
+          "injury_status": "Questionable",
           "player_id": "12501",
           "position": "WR",
           "status": "Active",
@@ -8993,7 +8993,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -9027,7 +9027,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 6,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -9265,7 +9265,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -9535,7 +9535,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -9938,7 +9938,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -10227,7 +10227,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -10618,8 +10618,8 @@
             "WR"
           ],
           "full_name": "Jalen Coker",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Shoulder",
+          "injury_status": "Questionable",
           "player_id": "11646",
           "position": "WR",
           "status": "Active",
@@ -10714,7 +10714,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 4,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -11152,7 +11152,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -11260,11 +11260,11 @@
             "TE"
           ],
           "full_name": "Eli Stowers",
-          "injury_body_part": "Hamstring",
-          "injury_status": "IR",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13349",
           "position": "TE",
-          "status": "Inactive",
+          "status": "Active",
           "team": "PHI",
           "years_exp": 0
         },
@@ -11689,7 +11689,7 @@
           "injury_status": "IR",
           "player_id": "12486",
           "position": "QB",
-          "status": "Inactive",
+          "status": "Active",
           "team": "CLE",
           "years_exp": 1
         },
@@ -11730,7 +11730,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -11923,8 +11923,8 @@
             "WR"
           ],
           "full_name": "Amon-Ra St. Brown",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ankle",
+          "injury_status": "Questionable",
           "player_id": "7547",
           "position": "WR",
           "status": "Active",
@@ -12208,7 +12208,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 5,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -12429,7 +12429,7 @@
         {
           "active": true,
           "age": 31,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -12616,7 +12616,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 7,
+          "depth_chart_order": 8,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -12859,7 +12859,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 7,
+          "depth_chart_order": 6,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -13294,6 +13294,7 @@
         "p_nick_6904": "Hurts-Du",
         "p_nick_7527": "Haydu",
         "p_nick_7528": "Haydu",
+        "p_nick_8122": "Red Bir-Du",
         "p_nick_8134": "Haydu",
         "p_nick_8142": "Haydu",
         "p_nick_9484": "Cheese-du",
@@ -13533,7 +13534,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -13652,7 +13653,7 @@
         {
           "active": true,
           "age": 28,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -13922,7 +13923,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -14007,7 +14008,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 5,
+          "depth_chart_order": 4,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -14262,7 +14263,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 1,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -14538,7 +14539,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 5,
+          "depth_chart_order": 4,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -15027,7 +15028,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -15078,7 +15079,7 @@
         {
           "active": true,
           "age": 34,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -15095,7 +15096,7 @@
         {
           "active": true,
           "age": 33,
-          "depth_chart_order": 7,
+          "depth_chart_order": 6,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -15265,7 +15266,7 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 6,
+          "depth_chart_order": 7,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -15418,7 +15419,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 2,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -27527,14 +27528,14 @@
           "roster_id": 12,
           "starters": [
             "8183",
-            "12529",
+            "7588",
             "7594",
             "9997",
             "6801",
-            "1479",
+            "2133",
             "8130",
             "5850",
-            "7588"
+            "2216"
           ],
           "starters_points": [
             0.0,
@@ -38983,14 +38984,14 @@
           "roster_id": 3,
           "starters": [
             "6804",
-            "12474",
+            "12490",
             "12489",
             "13274",
             "11620",
             "13346",
-            "8131",
+            "8110",
             "8148",
-            "11576"
+            "12514"
           ],
           "starters_points": [
             0.0,
