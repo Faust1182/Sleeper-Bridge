@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-25T20:51:13.734738+00:00",
+  "generated_at": "2026-10-26T04:47:38.599392+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -2935,7 +2935,7 @@
         },
         {
           "active": true,
-          "age": 24,
+          "age": 25,
           "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
@@ -2987,7 +2987,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -3484,7 +3484,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -5763,7 +5763,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -6058,8 +6058,8 @@
             "WR"
           ],
           "full_name": "Rashid Shaheed",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Knee",
+          "injury_status": "Out",
           "player_id": "8676",
           "position": "WR",
           "status": "Active",
@@ -6247,8 +6247,8 @@
             "WR"
           ],
           "full_name": "Rashid Shaheed",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Knee",
+          "injury_status": "Out",
           "player_id": "8676",
           "position": "WR",
           "status": "Active",
@@ -6684,8 +6684,8 @@
             "WR"
           ],
           "full_name": "Jaylen Waddle",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Undisclosed",
+          "injury_status": "Questionable",
           "player_id": "7526",
           "position": "WR",
           "status": "Active",
@@ -6958,8 +6958,8 @@
             "WR"
           ],
           "full_name": "Jaylen Waddle",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Undisclosed",
+          "injury_status": "Questionable",
           "player_id": "7526",
           "position": "WR",
           "status": "Active",
@@ -7151,7 +7151,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 5,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -8647,8 +8647,8 @@
             "RB"
           ],
           "full_name": "Cam Skattebo",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Hamstring",
+          "injury_status": "Questionable",
           "player_id": "12481",
           "position": "RB",
           "status": "Active",
@@ -9091,8 +9091,8 @@
             "RB"
           ],
           "full_name": "Cam Skattebo",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Hamstring",
+          "injury_status": "Questionable",
           "player_id": "12481",
           "position": "RB",
           "status": "Active",
@@ -9420,7 +9420,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 5,
+          "depth_chart_order": 4,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -10824,7 +10824,7 @@
         {
           "active": true,
           "age": 33,
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
