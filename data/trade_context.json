@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-27T12:12:01.899246+00:00",
+  "generated_at": "2026-10-27T18:00:36.744044+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1157,12 +1157,12 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 26,
+      "daily_waivers_last_ran": 27,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
       "faab_suggestions": 0,
-      "last_report": 6,
+      "last_report": 7,
       "last_scored_leg": 7,
       "league_average_match": 0,
       "leg": 7,
@@ -3208,7 +3208,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 6,
+          "depth_chart_order": 1,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -6508,7 +6508,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 2,
+          "depth_chart_order": 4,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -6752,8 +6752,8 @@
             "RB"
           ],
           "full_name": "Dameon Pierce",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Undisclosed",
+          "injury_status": "Questionable",
           "player_id": "8129",
           "position": "RB",
           "status": "Active",
@@ -6907,8 +6907,8 @@
             "RB"
           ],
           "full_name": "Dameon Pierce",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Undisclosed",
+          "injury_status": "Questionable",
           "player_id": "8129",
           "position": "RB",
           "status": "Active",
@@ -7559,7 +7559,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 8,
+          "depth_chart_order": 7,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -7578,7 +7578,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 8,
+          "depth_chart_order": 7,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -8777,7 +8777,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 1,
+          "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -8879,7 +8879,7 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 3,
+          "depth_chart_order": 5,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -9084,20 +9084,20 @@
         },
         {
           "active": true,
-          "age": 24,
+          "age": 25,
           "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Cam Skattebo",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
-          "player_id": "12481",
+          "full_name": "Zach Charbonnet",
+          "injury_body_part": "Knee - ACL",
+          "injury_status": "Out",
+          "player_id": "9753",
           "position": "RB",
           "status": "Active",
-          "team": "NYG",
-          "years_exp": 1
+          "team": "SEA",
+          "years_exp": 3
         },
         {
           "active": true,
@@ -9186,20 +9186,20 @@
         },
         {
           "active": true,
-          "age": 30,
-          "depth_chart_order": 1,
-          "depth_chart_position": "TE",
+          "age": 22,
+          "depth_chart_order": 3,
+          "depth_chart_position": "SWR",
           "fantasy_positions": [
-            "TE"
+            "WR"
           ],
-          "full_name": "Dalton Schultz",
+          "full_name": "Makai Lemon",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "5001",
-          "position": "TE",
+          "player_id": "13294",
+          "position": "WR",
           "status": "Active",
-          "team": "HOU",
-          "years_exp": 8
+          "team": "PHI",
+          "years_exp": 0
         },
         {
           "active": true,
@@ -9709,7 +9709,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 7,
+          "depth_chart_order": 2,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -9795,20 +9795,20 @@
       "starters": [
         {
           "active": true,
-          "age": 25,
+          "age": 30,
           "depth_chart_order": 1,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
           ],
-          "full_name": "Bryce Young",
+          "full_name": "Josh Allen",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "9228",
+          "player_id": "4984",
           "position": "QB",
           "status": "Active",
-          "team": "CAR",
-          "years_exp": 3
+          "team": "BUF",
+          "years_exp": 8
         },
         {
           "active": true,
@@ -9865,23 +9865,6 @@
           "active": true,
           "age": 26,
           "depth_chart_order": 1,
-          "depth_chart_position": "RWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Chris Olave",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "8144",
-          "position": "WR",
-          "status": "Active",
-          "team": "NO",
-          "years_exp": 4
-        },
-        {
-          "active": true,
-          "age": 26,
-          "depth_chart_order": 1,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -9893,6 +9876,23 @@
           "position": "WR",
           "status": "Active",
           "team": "CIN",
+          "years_exp": 5
+        },
+        {
+          "active": true,
+          "age": 27,
+          "depth_chart_order": 4,
+          "depth_chart_position": "RWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Joshua Palmer",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "7670",
+          "position": "WR",
+          "status": "Active",
+          "team": "BUF",
           "years_exp": 5
         },
         {
@@ -9914,37 +9914,37 @@
         },
         {
           "active": true,
-          "age": 31,
-          "depth_chart_order": 2,
+          "age": 25,
+          "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Alvin Kamara",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "4035",
+          "full_name": "Breece Hall",
+          "injury_body_part": "Quadriceps",
+          "injury_status": "Out",
+          "player_id": "8155",
           "position": "RB",
           "status": "Active",
-          "team": "NO",
-          "years_exp": 9
+          "team": "NYJ",
+          "years_exp": 4
         },
         {
           "active": true,
-          "age": 30,
-          "depth_chart_order": 1,
-          "depth_chart_position": "TE",
+          "age": 23,
+          "depth_chart_order": 4,
+          "depth_chart_position": "SWR",
           "fantasy_positions": [
-            "TE"
+            "WR"
           ],
-          "full_name": "Juwan Johnson",
+          "full_name": "Troy Franklin",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "7002",
-          "position": "TE",
+          "player_id": "11627",
+          "position": "WR",
           "status": "Active",
-          "team": "NO",
-          "years_exp": 6
+          "team": "DEN",
+          "years_exp": 2
         }
       ],
       "taxi": [
