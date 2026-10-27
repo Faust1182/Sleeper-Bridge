@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-27T18:00:36.744044+00:00",
+  "generated_at": "2026-10-27T22:14:13.536405+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -3562,7 +3562,7 @@
     "11583": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 4,
+      "depth_chart_order": 5,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -4011,10 +4011,10 @@
       ],
       "full_name": "Tyrone Tracy Jr.",
       "injury_body_part": "Hamstring",
-      "injury_status": "Questionable",
+      "injury_status": "IR",
       "player_id": "11655",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "team": "NYG",
       "years_exp": 2
     },
@@ -4514,7 +4514,7 @@
     "12504": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -4718,7 +4718,7 @@
     "12521": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "depth_chart_position": "TE",
       "fantasy_positions": [
         "TE"
@@ -5518,7 +5518,7 @@
     "13320": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -6334,7 +6334,7 @@
     "4039": {
       "active": true,
       "age": 33,
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -7201,7 +7201,7 @@
     "6826": {
       "active": true,
       "age": 27,
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "depth_chart_position": "TE",
       "fantasy_positions": [
         "TE"
@@ -7660,7 +7660,7 @@
     "8116": {
       "active": true,
       "age": 27,
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -7915,7 +7915,7 @@
     "8142": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 11,
+      "depth_chart_order": 8,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -8238,7 +8238,7 @@
     "8676": {
       "active": true,
       "age": 28,
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -8846,10 +8846,10 @@
           ],
           "full_name": "Tyrone Tracy Jr.",
           "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_status": "IR",
           "player_id": "11655",
           "position": "RB",
-          "status": "Active",
+          "status": "Inactive",
           "team": "NYG",
           "years_exp": 2
         },
@@ -9197,7 +9197,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -9484,7 +9484,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -11152,7 +11152,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -11441,7 +11441,7 @@
         {
           "active": true,
           "age": 28,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -11798,7 +11798,7 @@
         {
           "active": true,
           "age": 33,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -11951,7 +11951,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -13330,7 +13330,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -13721,7 +13721,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 11,
+          "depth_chart_order": 8,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -15028,7 +15028,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -38105,7 +38105,7 @@
           ],
           "players_points": {
             "10229": 0.0,
-            "11563": 26.28,
+            "11563": 26.18,
             "11586": 16.6,
             "11625": 0.0,
             "12505": 0.0,
@@ -38133,7 +38133,7 @@
             "9487": 0.0,
             "9756": 3.3
           },
-          "points": 114.98,
+          "points": 114.88,
           "roster_id": 8,
           "starters": [
             "11563",
@@ -38147,7 +38147,7 @@
             "8150"
           ],
           "starters_points": [
-            26.28,
+            26.18,
             19.0,
             15.2,
             3.3,
