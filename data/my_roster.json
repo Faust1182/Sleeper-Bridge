@@ -60,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-10-28T12:55:11.008807+00:00",
+  "generated_at": "2026-10-28T22:35:28.940754+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -93,8 +93,8 @@
           "TE"
         ],
         "full_name": "Dalton Kincaid",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Chest",
+        "injury_status": "Questionable",
         "player_id": "10236",
         "position": "TE",
         "status": "Active",
@@ -349,10 +349,10 @@
         ],
         "full_name": "Terry McLaurin",
         "injury_body_part": "Knee",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "player_id": "5927",
         "position": "WR",
-        "status": "Active",
+        "status": "Inactive",
         "team": "WAS",
         "years_exp": 7
       },
@@ -518,8 +518,8 @@
           "WR"
         ],
         "full_name": "Marvin Mims Jr.",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Ankle",
+        "injury_status": "Questionable",
         "player_id": "9494",
         "position": "WR",
         "status": "Active",
@@ -574,7 +574,9 @@
       "9494",
       "9757"
     ],
-    "reserve": null,
+    "reserve": [
+      "5927"
+    ],
     "roster_id": 11,
     "settings": {
       "fpts": 741,
@@ -587,7 +589,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 135,
-      "waiver_position": 8,
+      "waiver_position": 7,
       "wins": 3
     },
     "starters": [
@@ -595,11 +597,11 @@
       "6813",
       "8138",
       "8112",
-      "7569",
-      "5927",
+      "6794",
+      "12718",
       "10236",
-      "11435",
-      "5022"
+      "12495",
+      "9224"
     ],
     "taxi": [
       "11630",

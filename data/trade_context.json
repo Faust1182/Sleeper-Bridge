@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-28T12:55:11.008807+00:00",
+  "generated_at": "2026-10-28T22:35:28.940754+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1157,7 +1157,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 27,
+      "daily_waivers_last_ran": 28,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -1236,8 +1236,8 @@
           "TE"
         ],
         "full_name": "Dalton Kincaid",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Chest",
+        "injury_status": "Questionable",
         "player_id": "10236",
         "position": "TE",
         "status": "Active",
@@ -1492,10 +1492,10 @@
         ],
         "full_name": "Terry McLaurin",
         "injury_body_part": "Knee",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "player_id": "5927",
         "position": "WR",
-        "status": "Active",
+        "status": "Inactive",
         "team": "WAS",
         "years_exp": 7
       },
@@ -1661,8 +1661,8 @@
           "WR"
         ],
         "full_name": "Marvin Mims Jr.",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Ankle",
+        "injury_status": "Questionable",
         "player_id": "9494",
         "position": "WR",
         "status": "Active",
@@ -1717,7 +1717,9 @@
       "9494",
       "9757"
     ],
-    "reserve": null,
+    "reserve": [
+      "5927"
+    ],
     "roster_id": 11,
     "settings": {
       "fpts": 741,
@@ -1730,7 +1732,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 135,
-      "waiver_position": 8,
+      "waiver_position": 7,
       "wins": 3
     },
     "starters": [
@@ -1738,11 +1740,11 @@
       "6813",
       "8138",
       "8112",
-      "7569",
-      "5927",
+      "6794",
+      "12718",
       "10236",
-      "11435",
-      "5022"
+      "12495",
+      "9224"
     ],
     "taxi": [
       "11630",
@@ -2822,8 +2824,8 @@
             "TE"
           ],
           "full_name": "Brock Bowers",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Calf",
+          "injury_status": "Questionable",
           "player_id": "11604",
           "position": "TE",
           "status": "Active",
@@ -2926,10 +2928,10 @@
           ],
           "full_name": "Jaylin Noel",
           "injury_body_part": "Toe",
-          "injury_status": "Questionable",
+          "injury_status": "IR",
           "player_id": "12536",
           "position": "WR",
-          "status": "Active",
+          "status": "Inactive",
           "team": "HOU",
           "years_exp": 1
         },
@@ -3248,8 +3250,8 @@
             "RB"
           ],
           "full_name": "Jahmyr Gibbs",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Shoulder",
+          "injury_status": "Questionable",
           "player_id": "9221",
           "position": "RB",
           "status": "Active",
@@ -3305,7 +3307,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 52,
-        "waiver_position": 6,
+        "waiver_position": 5,
         "wins": 5
       },
       "starters": [
@@ -3335,8 +3337,8 @@
             "RB"
           ],
           "full_name": "Jahmyr Gibbs",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Shoulder",
+          "injury_status": "Questionable",
           "player_id": "9221",
           "position": "RB",
           "status": "Active",
@@ -3420,8 +3422,8 @@
             "TE"
           ],
           "full_name": "Brock Bowers",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Calf",
+          "injury_status": "Questionable",
           "player_id": "11604",
           "position": "TE",
           "status": "Active",
@@ -3840,8 +3842,8 @@
             "WR"
           ],
           "full_name": "Jakobi Meyers",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Hamstring",
+          "injury_status": "Questionable",
           "player_id": "5947",
           "position": "WR",
           "status": "Active",
@@ -4033,7 +4035,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 20,
-        "waiver_position": 5,
+        "waiver_position": 4,
         "wins": 3
       },
       "starters": [
@@ -4262,8 +4264,8 @@
             "RB"
           ],
           "full_name": "Braelon Allen",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ankle",
+          "injury_status": "Questionable",
           "player_id": "11576",
           "position": "RB",
           "status": "Active",
@@ -4296,8 +4298,8 @@
             "WR"
           ],
           "full_name": "Malik Washington",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Knee",
+          "injury_status": "Questionable",
           "player_id": "11610",
           "position": "WR",
           "status": "Active",
@@ -4494,7 +4496,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 6,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -4744,7 +4746,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 192,
-        "waiver_position": 4,
+        "waiver_position": 3,
         "wins": 2
       },
       "starters": [
@@ -4767,19 +4769,19 @@
         },
         {
           "active": true,
-          "age": 25,
+          "age": 23,
           "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Woody Marks",
-          "injury_body_part": "Leg",
-          "injury_status": "Questionable",
-          "player_id": "12474",
+          "full_name": "Bhayshul Tuten",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "12490",
           "position": "RB",
           "status": "Active",
-          "team": "HOU",
+          "team": "JAX",
           "years_exp": 1
         },
         {
@@ -4852,20 +4854,20 @@
         },
         {
           "active": true,
-          "age": 26,
+          "age": 24,
           "depth_chart_order": 1,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
           ],
-          "full_name": "Isaiah Likely",
+          "full_name": "AJ Barner",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "8131",
+          "player_id": "11603",
           "position": "TE",
           "status": "Active",
-          "team": "NYG",
-          "years_exp": 4
+          "team": "SEA",
+          "years_exp": 2
         },
         {
           "active": true,
@@ -4886,20 +4888,20 @@
         },
         {
           "active": true,
-          "age": 22,
-          "depth_chart_order": 2,
-          "depth_chart_position": "RB",
+          "age": 24,
+          "depth_chart_order": 1,
+          "depth_chart_position": "LWR",
           "fantasy_positions": [
-            "RB"
+            "WR"
           ],
-          "full_name": "Braelon Allen",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "11576",
-          "position": "RB",
+          "full_name": "Emeka Egbuka",
+          "injury_body_part": "Concussion",
+          "injury_status": "Questionable",
+          "player_id": "12514",
+          "position": "WR",
           "status": "Active",
-          "team": "NYJ",
-          "years_exp": 2
+          "team": "TB",
+          "years_exp": 1
         }
       ],
       "taxi": [
@@ -5018,7 +5020,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 7,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -5092,8 +5094,8 @@
             "RB"
           ],
           "full_name": "Dylan Sampson",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Knee",
+          "injury_status": "Questionable",
           "player_id": "12469",
           "position": "RB",
           "status": "Active",
@@ -5330,8 +5332,8 @@
             "WR"
           ],
           "full_name": "George Pickens",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Shoulder",
+          "injury_status": "Questionable",
           "player_id": "8137",
           "position": "WR",
           "status": "Active",
@@ -5411,7 +5413,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 7,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -5438,7 +5440,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 3,
+        "waiver_position": 2,
         "wins": 5
       },
       "starters": [
@@ -5536,8 +5538,8 @@
             "WR"
           ],
           "full_name": "George Pickens",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Shoulder",
+          "injury_status": "Questionable",
           "player_id": "8137",
           "position": "WR",
           "status": "Active",
@@ -5684,8 +5686,8 @@
             "RB"
           ],
           "full_name": "Jaylen Wright",
-          "injury_body_part": "Quadriceps",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "11643",
           "position": "RB",
           "status": "Active",
@@ -5882,7 +5884,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 10,
+          "depth_chart_order": 7,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -6041,8 +6043,8 @@
             "TE"
           ],
           "full_name": "Greg Dulcich",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ankle",
+          "injury_status": "Questionable",
           "player_id": "8172",
           "position": "TE",
           "status": "Active",
@@ -6122,7 +6124,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 10,
+          "depth_chart_order": 7,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -6149,7 +6151,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 5,
-        "waiver_position": 12,
+        "waiver_position": 11,
         "wins": 1
       },
       "starters": [
@@ -6753,10 +6755,10 @@
           ],
           "full_name": "Dameon Pierce",
           "injury_body_part": "Undisclosed",
-          "injury_status": "Questionable",
+          "injury_status": "IR",
           "player_id": "8129",
           "position": "RB",
-          "status": "Active",
+          "status": "Inactive",
           "team": "PHI",
           "years_exp": 4
         },
@@ -6877,7 +6879,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 95,
-        "waiver_position": 7,
+        "waiver_position": 6,
         "wins": 3
       },
       "starters": [
@@ -6908,10 +6910,10 @@
           ],
           "full_name": "Dameon Pierce",
           "injury_body_part": "Undisclosed",
-          "injury_status": "Questionable",
+          "injury_status": "IR",
           "player_id": "8129",
           "position": "RB",
-          "status": "Active",
+          "status": "Inactive",
           "team": "PHI",
           "years_exp": 4
         },
@@ -7514,8 +7516,8 @@
             "RB"
           ],
           "full_name": "Kenny Gainwell",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Hip",
+          "injury_status": "Questionable",
           "player_id": "7567",
           "position": "RB",
           "status": "Active",
@@ -7605,7 +7607,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 15,
-        "waiver_position": 2,
+        "waiver_position": 1,
         "wins": 4
       },
       "starters": [
@@ -7635,8 +7637,8 @@
             "RB"
           ],
           "full_name": "Kenny Gainwell",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Hip",
+          "injury_status": "Questionable",
           "player_id": "7567",
           "position": "RB",
           "status": "Active",
@@ -8140,8 +8142,8 @@
             "WR"
           ],
           "full_name": "A.J. Brown",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ankle",
+          "injury_status": "Questionable",
           "player_id": "5859",
           "position": "WR",
           "status": "Active",
@@ -8333,7 +8335,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 109,
-        "waiver_position": 11,
+        "waiver_position": 10,
         "wins": 3
       },
       "starters": [
@@ -8431,8 +8433,8 @@
             "WR"
           ],
           "full_name": "A.J. Brown",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ankle",
+          "injury_status": "Questionable",
           "player_id": "5859",
           "position": "WR",
           "status": "Active",
@@ -8590,7 +8592,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 7,
+          "depth_chart_order": 6,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -8749,8 +8751,8 @@
             "WR"
           ],
           "full_name": "Carnell Tate",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Shoulder",
+          "injury_status": "Questionable",
           "player_id": "13279",
           "position": "WR",
           "status": "Active",
@@ -8964,7 +8966,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 11,
+          "depth_chart_order": 8,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -9061,7 +9063,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 96,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 5
       },
       "starters": [
@@ -9142,8 +9144,8 @@
             "WR"
           ],
           "full_name": "Carnell Tate",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Shoulder",
+          "injury_status": "Questionable",
           "player_id": "13279",
           "position": "WR",
           "status": "Active",
@@ -9240,7 +9242,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 7,
+          "depth_chart_order": 6,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -9419,6 +9421,23 @@
         },
         {
           "active": true,
+          "age": 24,
+          "depth_chart_order": 3,
+          "depth_chart_position": "SWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Savion Williams",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "12482",
+          "position": "WR",
+          "status": "Active",
+          "team": "GB",
+          "years_exp": 1
+        },
+        {
+          "active": true,
           "age": 23,
           "depth_chart_order": 5,
           "depth_chart_position": "TE",
@@ -9555,23 +9574,6 @@
         },
         {
           "active": true,
-          "age": 28,
-          "depth_chart_order": 2,
-          "depth_chart_position": "TE",
-          "fantasy_positions": [
-            "TE"
-          ],
-          "full_name": "Noah Fant",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "5857",
-          "position": "TE",
-          "status": "Active",
-          "team": "NO",
-          "years_exp": 7
-        },
-        {
-          "active": true,
           "age": 30,
           "depth_chart_order": 1,
           "depth_chart_position": "TE",
@@ -9613,8 +9615,8 @@
             "WR"
           ],
           "full_name": "Ja'Marr Chase",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ankle",
+          "injury_status": "Questionable",
           "player_id": "7564",
           "position": "WR",
           "status": "Active",
@@ -9788,8 +9790,8 @@
         "ppts_decimal": 6,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 25,
-        "waiver_position": 1,
+        "waiver_budget_used": 30,
+        "waiver_position": 12,
         "wins": 4
       },
       "starters": [
@@ -9870,8 +9872,8 @@
             "WR"
           ],
           "full_name": "Ja'Marr Chase",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ankle",
+          "injury_status": "Questionable",
           "player_id": "7564",
           "position": "WR",
           "status": "Active",
@@ -10018,8 +10020,8 @@
             "TE"
           ],
           "full_name": "Dalton Kincaid",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Chest",
+          "injury_status": "Questionable",
           "player_id": "10236",
           "position": "TE",
           "status": "Active",
@@ -10274,10 +10276,10 @@
           ],
           "full_name": "Terry McLaurin",
           "injury_body_part": "Knee",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "player_id": "5927",
           "position": "WR",
-          "status": "Active",
+          "status": "Inactive",
           "team": "WAS",
           "years_exp": 7
         },
@@ -10443,8 +10445,8 @@
             "WR"
           ],
           "full_name": "Marvin Mims Jr.",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ankle",
+          "injury_status": "Questionable",
           "player_id": "9494",
           "position": "WR",
           "status": "Active",
@@ -10469,7 +10471,25 @@
           "years_exp": 3
         }
       ],
-      "reserve": [],
+      "reserve": [
+        {
+          "active": true,
+          "age": 31,
+          "depth_chart_order": 6,
+          "depth_chart_position": null,
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Terry McLaurin",
+          "injury_body_part": "Knee",
+          "injury_status": "IR",
+          "player_id": "5927",
+          "position": "WR",
+          "status": "Inactive",
+          "team": "WAS",
+          "years_exp": 7
+        }
+      ],
       "roster_id": 11,
       "settings": {
         "fpts": 741,
@@ -10482,7 +10502,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 135,
-        "waiver_position": 8,
+        "waiver_position": 7,
         "wins": 3
       },
       "starters": [
@@ -10562,31 +10582,31 @@
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Nico Collins",
+          "full_name": "Justin Jefferson",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "7569",
+          "player_id": "6794",
           "position": "WR",
           "status": "Active",
-          "team": "HOU",
-          "years_exp": 5
+          "team": "MIN",
+          "years_exp": 6
         },
         {
           "active": true,
-          "age": 31,
-          "depth_chart_order": 6,
-          "depth_chart_position": null,
+          "age": 24,
+          "depth_chart_order": 2,
+          "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Terry McLaurin",
-          "injury_body_part": "Knee",
-          "injury_status": "Out",
-          "player_id": "5927",
+          "full_name": "Konata Mumpfield",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "12718",
           "position": "WR",
           "status": "Active",
-          "team": "WAS",
-          "years_exp": 7
+          "team": "LAR",
+          "years_exp": 1
         },
         {
           "active": true,
@@ -10597,8 +10617,8 @@
             "TE"
           ],
           "full_name": "Dalton Kincaid",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Chest",
+          "injury_status": "Questionable",
           "player_id": "10236",
           "position": "TE",
           "status": "Active",
@@ -10607,37 +10627,37 @@
         },
         {
           "active": true,
-          "age": 27,
-          "depth_chart_order": 2,
+          "age": 22,
+          "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Emanuel Wilson",
+          "full_name": "Ollie Gordon II",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "11435",
+          "player_id": "12495",
           "position": "RB",
           "status": "Active",
-          "team": "SEA",
-          "years_exp": 3
+          "team": "MIA",
+          "years_exp": 1
         },
         {
           "active": true,
-          "age": 31,
+          "age": 26,
           "depth_chart_order": 1,
-          "depth_chart_position": "TE",
+          "depth_chart_position": "RB",
           "fantasy_positions": [
-            "TE"
+            "RB"
           ],
-          "full_name": "Dallas Goedert",
+          "full_name": "Chase Brown",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "5022",
-          "position": "TE",
+          "player_id": "9224",
+          "position": "RB",
           "status": "Active",
-          "team": "PHI",
-          "years_exp": 8
+          "team": "CIN",
+          "years_exp": 3
         }
       ],
       "taxi": [
@@ -11210,7 +11230,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 30,
-        "waiver_position": 9,
+        "waiver_position": 8,
         "wins": 4
       },
       "starters": [
