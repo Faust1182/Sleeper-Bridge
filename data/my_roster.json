@@ -60,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-10-28T05:42:49.391105+00:00",
+  "generated_at": "2026-10-28T12:55:11.008807+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -93,8 +93,8 @@
           "TE"
         ],
         "full_name": "Dalton Kincaid",
-        "injury_body_part": "Ribs",
-        "injury_status": "Questionable",
+        "injury_body_part": null,
+        "injury_status": null,
         "player_id": "10236",
         "position": "TE",
         "status": "Active",
@@ -450,8 +450,8 @@
           "WR"
         ],
         "full_name": "Drake London",
-        "injury_body_part": "Head",
-        "injury_status": "Questionable",
+        "injury_body_part": null,
+        "injury_status": null,
         "player_id": "8112",
         "position": "WR",
         "status": "Active",
@@ -485,7 +485,7 @@
         ],
         "full_name": "Brian Robinson Jr.",
         "injury_body_part": "Hamstring",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "player_id": "8154",
         "position": "RB",
         "status": "Active",
