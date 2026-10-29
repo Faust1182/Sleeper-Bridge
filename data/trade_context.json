@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-28T22:35:28.940754+00:00",
+  "generated_at": "2026-10-29T05:48:30.125088+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1314,7 +1314,7 @@
       },
       {
         "active": true,
-        "age": 22,
+        "age": 23,
         "depth_chart_order": 1,
         "depth_chart_position": "RB",
         "fantasy_positions": [
@@ -3954,7 +3954,7 @@
         },
         {
           "active": true,
-          "age": 26,
+          "age": 27,
           "depth_chart_order": 6,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
@@ -4126,7 +4126,7 @@
         },
         {
           "active": true,
-          "age": 26,
+          "age": 27,
           "depth_chart_order": 6,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
@@ -4496,7 +4496,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 4,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -4689,8 +4689,8 @@
             "RB"
           ],
           "full_name": "Tyler Allgeier",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Toe",
+          "injury_status": "Questionable",
           "player_id": "8132",
           "position": "RB",
           "status": "Active",
@@ -5020,7 +5020,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 6,
+          "depth_chart_order": 7,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -5413,7 +5413,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 6,
+          "depth_chart_order": 7,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -5765,7 +5765,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -5884,7 +5884,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 7,
+          "depth_chart_order": 10,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -6124,7 +6124,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 7,
+          "depth_chart_order": 10,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -6731,7 +6731,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -6748,7 +6748,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 2,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -6903,7 +6903,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 2,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -7125,8 +7125,8 @@
             "WR"
           ],
           "full_name": "Michael Wilson",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ribs",
+          "injury_status": "Questionable",
           "player_id": "10232",
           "position": "WR",
           "status": "Active",
@@ -7492,7 +7492,7 @@
         },
         {
           "active": true,
-          "age": 28,
+          "age": 29,
           "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
@@ -7688,8 +7688,8 @@
             "WR"
           ],
           "full_name": "Michael Wilson",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ribs",
+          "injury_status": "Questionable",
           "player_id": "10232",
           "position": "WR",
           "status": "Active",
@@ -8592,7 +8592,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 6,
+          "depth_chart_order": 7,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -8966,7 +8966,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 8,
+          "depth_chart_order": 11,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -9242,7 +9242,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 6,
+          "depth_chart_order": 7,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -10098,7 +10098,7 @@
         },
         {
           "active": true,
-          "age": 22,
+          "age": 23,
           "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
@@ -10884,8 +10884,8 @@
             "WR"
           ],
           "full_name": "Stefon Diggs",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Hand",
+          "injury_status": "Questionable",
           "player_id": "2449",
           "position": "WR",
           "status": "Active",
@@ -11105,8 +11105,8 @@
             "WR"
           ],
           "full_name": "Treylon Burks",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Foot",
+          "injury_status": "Questionable",
           "player_id": "8135",
           "position": "WR",
           "status": "Active",
