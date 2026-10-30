@@ -60,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-10-30T12:56:15.886697+00:00",
+  "generated_at": "2026-10-30T22:20:31.530821+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -478,14 +478,14 @@
       {
         "active": true,
         "age": 27,
-        "depth_chart_order": 2,
+        "depth_chart_order": 4,
         "depth_chart_position": "RB",
         "fantasy_positions": [
           "RB"
         ],
         "full_name": "Brian Robinson Jr.",
         "injury_body_part": "Hamstring",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "player_id": "8154",
         "position": "RB",
         "status": "Active",
@@ -589,7 +589,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 135,
-      "waiver_position": 7,
+      "waiver_position": 5,
       "wins": 3
     },
     "starters": [
