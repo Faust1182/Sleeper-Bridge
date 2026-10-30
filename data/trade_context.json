@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-29T22:45:19.366612+00:00",
+  "generated_at": "2026-10-30T05:49:57.755811+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -2892,8 +2892,8 @@
             "WR"
           ],
           "full_name": "Matthew Golden",
-          "injury_body_part": "Shoulder",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "12501",
           "position": "WR",
           "status": "Active",
@@ -3233,8 +3233,8 @@
             "WR"
           ],
           "full_name": "Christian Watson",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Undisclosed",
+          "injury_status": "Questionable",
           "player_id": "8167",
           "position": "WR",
           "status": "Active",
@@ -3388,8 +3388,8 @@
             "WR"
           ],
           "full_name": "Christian Watson",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Undisclosed",
+          "injury_status": "Questionable",
           "player_id": "8167",
           "position": "WR",
           "status": "Active",
@@ -3405,8 +3405,8 @@
             "WR"
           ],
           "full_name": "Matthew Golden",
-          "injury_body_part": "Shoulder",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "12501",
           "position": "WR",
           "status": "Active",
@@ -3683,7 +3683,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -5036,7 +5036,7 @@
         },
         {
           "active": true,
-          "age": 24,
+          "age": 25,
           "depth_chart_order": 2,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
@@ -5731,14 +5731,14 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
           "full_name": "Kaleb Johnson",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "12504",
           "position": "RB",
           "status": "Active",
@@ -6516,8 +6516,8 @@
             "QB"
           ],
           "full_name": "Carson Beck",
-          "injury_body_part": "Back",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13272",
           "position": "QB",
           "status": "Active",
@@ -7047,8 +7047,8 @@
             "QB"
           ],
           "full_name": "Carson Beck",
-          "injury_body_part": "Back",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13272",
           "position": "QB",
           "status": "Active",
@@ -7119,7 +7119,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 5,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -7579,37 +7579,37 @@
       "starters": [
         {
           "active": true,
-          "age": 38,
+          "age": 29,
           "depth_chart_order": 1,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
           ],
-          "full_name": "Matthew Stafford",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "421",
+          "full_name": "Lamar Jackson",
+          "injury_body_part": "Ankle",
+          "injury_status": "Questionable",
+          "player_id": "4881",
           "position": "QB",
           "status": "Active",
-          "team": "LAR",
-          "years_exp": 17
+          "team": "BAL",
+          "years_exp": 8
         },
         {
           "active": true,
-          "age": 27,
-          "depth_chart_order": 2,
+          "age": 21,
+          "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Kenny Gainwell",
-          "injury_body_part": "Hip",
+          "full_name": "Jeremiyah Love",
+          "injury_body_part": "Ankle",
           "injury_status": "Questionable",
-          "player_id": "7567",
+          "player_id": "13287",
           "position": "RB",
           "status": "Active",
-          "team": "TB",
-          "years_exp": 5
+          "team": "ARI",
+          "years_exp": 0
         },
         {
           "active": true,
@@ -7681,40 +7681,6 @@
         },
         {
           "active": true,
-          "age": 27,
-          "depth_chart_order": 1,
-          "depth_chart_position": "TE",
-          "fantasy_positions": [
-            "TE"
-          ],
-          "full_name": "Cade Otton",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "8111",
-          "position": "TE",
-          "status": "Active",
-          "team": "TB",
-          "years_exp": 4
-        },
-        {
-          "active": true,
-          "age": 31,
-          "depth_chart_order": 2,
-          "depth_chart_position": "RWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Kendrick Bourne",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "4454",
-          "position": "WR",
-          "status": "Active",
-          "team": "ARI",
-          "years_exp": 9
-        },
-        {
-          "active": true,
           "age": 31,
           "depth_chart_order": 1,
           "depth_chart_position": "TE",
@@ -7729,6 +7695,40 @@
           "status": "Active",
           "team": "BAL",
           "years_exp": 8
+        },
+        {
+          "active": true,
+          "age": 24,
+          "depth_chart_order": 1,
+          "depth_chart_position": "SWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Ladd McConkey",
+          "injury_body_part": "Concussion",
+          "injury_status": "Questionable",
+          "player_id": "11635",
+          "position": "WR",
+          "status": "Active",
+          "team": "LAC",
+          "years_exp": 2
+        },
+        {
+          "active": true,
+          "age": 24,
+          "depth_chart_order": 1,
+          "depth_chart_position": "TE",
+          "fantasy_positions": [
+            "TE"
+          ],
+          "full_name": "Tyler Warren",
+          "injury_body_part": "Groin",
+          "injury_status": "Questionable",
+          "player_id": "12518",
+          "position": "TE",
+          "status": "Active",
+          "team": "IND",
+          "years_exp": 1
         }
       ],
       "taxi": [
@@ -8119,8 +8119,8 @@
         {
           "active": true,
           "age": 28,
-          "depth_chart_order": 3,
-          "depth_chart_position": "RB",
+          "depth_chart_order": null,
+          "depth_chart_position": null,
           "fantasy_positions": [
             "RB"
           ],
