@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-10-30T22:20:31.530821+00:00",
+  "generated_at": "2026-10-31T05:41:17.356968+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2672,7 +2672,7 @@
       {
         "active": true,
         "age": 24,
-        "depth_chart_order": 5,
+        "depth_chart_order": 4,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -4312,7 +4312,7 @@
     "12489": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 3,
+      "depth_chart_order": 6,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -4925,7 +4925,7 @@
     "12540": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 5,
+      "depth_chart_order": 4,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -4942,7 +4942,7 @@
     "12542": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -4993,7 +4993,7 @@
     "12547": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -5061,7 +5061,7 @@
     "13150": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -5197,7 +5197,7 @@
     "13279": {
       "active": true,
       "age": 21,
-      "depth_chart_order": 3,
+      "depth_chart_order": 7,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -5282,7 +5282,7 @@
     "13288": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 5,
+      "depth_chart_order": 4,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -5333,7 +5333,7 @@
     "13294": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 2,
+      "depth_chart_order": 1,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -5724,7 +5724,7 @@
     "13380": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 5,
+      "depth_chart_order": 10,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -6574,7 +6574,7 @@
     "4981": {
       "active": true,
       "age": 31,
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -6744,7 +6744,7 @@
     "5848": {
       "active": true,
       "age": 29,
-      "depth_chart_order": 5,
+      "depth_chart_order": 3,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -7305,7 +7305,7 @@
     "7525": {
       "active": true,
       "age": 27,
-      "depth_chart_order": 1,
+      "depth_chart_order": 5,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -8427,7 +8427,7 @@
     "9486": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 4,
+      "depth_chart_order": 6,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -8597,7 +8597,7 @@
     "9508": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 2,
+      "depth_chart_order": 5,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -8910,7 +8910,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -9199,7 +9199,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 1,
+          "depth_chart_order": 5,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -10057,7 +10057,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 3,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -10697,7 +10697,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 5,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -11254,7 +11254,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 5,
+          "depth_chart_order": 10,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -11696,7 +11696,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -12242,7 +12242,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -12395,7 +12395,7 @@
         {
           "active": true,
           "age": 31,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -13218,10 +13218,10 @@
         "8228",
         "9487",
         "8146",
-        "9756",
+        "10229",
         "12506",
         "11586",
-        "10229"
+        "9756"
       ],
       "taxi": [
         "12505",
@@ -13466,7 +13466,7 @@
         {
           "active": true,
           "age": 21,
-          "depth_chart_order": 3,
+          "depth_chart_order": 7,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -13500,7 +13500,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -13602,7 +13602,7 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 5,
+          "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -14263,7 +14263,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 4,
+          "depth_chart_order": 6,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -14505,7 +14505,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 5,
+          "depth_chart_order": 4,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -15387,7 +15387,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 2,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -20818,10 +20818,10 @@
             "8228",
             "9487",
             "8146",
-            "9756",
+            "10229",
             "12506",
             "11586",
-            "10229"
+            "9756"
           ],
           "starters_points": [
             0.0,
@@ -21871,10 +21871,10 @@
             "8228",
             "9487",
             "8146",
-            "9756",
+            "10229",
             "12506",
             "11586",
-            "10229"
+            "9756"
           ],
           "starters_points": [
             0.0,
@@ -22924,10 +22924,10 @@
             "8228",
             "9487",
             "8146",
-            "9756",
+            "10229",
             "12506",
             "11586",
-            "10229"
+            "9756"
           ],
           "starters_points": [
             0.0,
@@ -23977,10 +23977,10 @@
             "8228",
             "9487",
             "8146",
-            "9756",
+            "10229",
             "12506",
             "11586",
-            "10229"
+            "9756"
           ],
           "starters_points": [
             0.0,
@@ -25030,10 +25030,10 @@
             "8228",
             "9487",
             "8146",
-            "9756",
+            "10229",
             "12506",
             "11586",
-            "10229"
+            "9756"
           ],
           "starters_points": [
             0.0,
@@ -26083,10 +26083,10 @@
             "8228",
             "9487",
             "8146",
-            "9756",
+            "10229",
             "12506",
             "11586",
-            "10229"
+            "9756"
           ],
           "starters_points": [
             0.0,
@@ -27136,10 +27136,10 @@
             "8228",
             "9487",
             "8146",
-            "9756",
+            "10229",
             "12506",
             "11586",
-            "10229"
+            "9756"
           ],
           "starters_points": [
             0.0,
@@ -28189,10 +28189,10 @@
             "8228",
             "9487",
             "8146",
-            "9756",
+            "10229",
             "12506",
             "11586",
-            "10229"
+            "9756"
           ],
           "starters_points": [
             0.0,
@@ -29242,10 +29242,10 @@
             "8228",
             "9487",
             "8146",
-            "9756",
+            "10229",
             "12506",
             "11586",
-            "10229"
+            "9756"
           ],
           "starters_points": [
             0.0,
@@ -39404,10 +39404,10 @@
             "8228",
             "9487",
             "8146",
-            "9756",
+            "10229",
             "12506",
             "11586",
-            "10229"
+            "9756"
           ],
           "starters_points": [
             0.0,
@@ -40571,10 +40571,10 @@
             "8228",
             "9487",
             "8146",
-            "9756",
+            "10229",
             "12506",
             "11586",
-            "10229"
+            "9756"
           ],
           "starters_points": [
             0.0,
