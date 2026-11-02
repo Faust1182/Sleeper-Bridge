@@ -60,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-11-01T22:01:55.819015+00:00",
+  "generated_at": "2026-11-02T06:03:38.014601+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -263,8 +263,8 @@
           "TE"
         ],
         "full_name": "Hunter Henry",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Foot",
+        "injury_status": "Out",
         "player_id": "3214",
         "position": "TE",
         "status": "Active",
@@ -314,8 +314,8 @@
           "QB"
         ],
         "full_name": "Kyler Murray",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Hamstring",
+        "injury_status": "Questionable",
         "player_id": "5849",
         "position": "QB",
         "status": "Active",

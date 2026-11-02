@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-11-01T22:01:55.819015+00:00",
+  "generated_at": "2026-11-02T06:03:38.014601+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1406,8 +1406,8 @@
           "TE"
         ],
         "full_name": "Hunter Henry",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Foot",
+        "injury_status": "Out",
         "player_id": "3214",
         "position": "TE",
         "status": "Active",
@@ -1457,8 +1457,8 @@
           "QB"
         ],
         "full_name": "Kyler Murray",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Hamstring",
+        "injury_status": "Questionable",
         "player_id": "5849",
         "position": "QB",
         "status": "Active",
@@ -4580,7 +4580,7 @@
         },
         {
           "active": true,
-          "age": 27,
+          "age": 28,
           "depth_chart_order": 1,
           "depth_chart_position": "QB",
           "fantasy_positions": [
@@ -4718,7 +4718,7 @@
       "starters": [
         {
           "active": true,
-          "age": 27,
+          "age": 28,
           "depth_chart_order": 1,
           "depth_chart_position": "QB",
           "fantasy_positions": [
@@ -7091,8 +7091,8 @@
             "WR"
           ],
           "full_name": "Michael Wilson",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ribs",
+          "injury_status": "Questionable",
           "player_id": "10232",
           "position": "WR",
           "status": "Active",
@@ -7333,7 +7333,7 @@
           "injury_status": "Out",
           "player_id": "4881",
           "position": "QB",
-          "status": "Active",
+          "status": "Inactive",
           "team": "BAL",
           "years_exp": 8
         },
@@ -7590,7 +7590,7 @@
           "injury_status": "Out",
           "player_id": "4881",
           "position": "QB",
-          "status": "Active",
+          "status": "Inactive",
           "team": "BAL",
           "years_exp": 8
         },
@@ -7654,8 +7654,8 @@
             "WR"
           ],
           "full_name": "Michael Wilson",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ribs",
+          "injury_status": "Questionable",
           "player_id": "10232",
           "position": "WR",
           "status": "Active",
@@ -10156,8 +10156,8 @@
             "TE"
           ],
           "full_name": "Hunter Henry",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Foot",
+          "injury_status": "Out",
           "player_id": "3214",
           "position": "TE",
           "status": "Active",
@@ -10207,8 +10207,8 @@
             "QB"
           ],
           "full_name": "Kyler Murray",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Hamstring",
+          "injury_status": "Questionable",
           "player_id": "5849",
           "position": "QB",
           "status": "Active",
@@ -11071,8 +11071,8 @@
             "WR"
           ],
           "full_name": "Treylon Burks",
-          "injury_body_part": "Foot",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "8135",
           "position": "WR",
           "status": "Active",
