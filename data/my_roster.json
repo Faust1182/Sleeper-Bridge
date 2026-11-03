@@ -60,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-11-03T14:14:44.459534+00:00",
+  "generated_at": "2026-11-03T23:23:36.052186+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -223,7 +223,7 @@
       {
         "active": true,
         "age": 24,
-        "depth_chart_order": 7,
+        "depth_chart_order": 6,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -598,9 +598,9 @@
       "8138",
       "8112",
       "6794",
-      "12718",
+      "7569",
       "10236",
-      "12495",
+      "12512",
       "9224"
     ],
     "taxi": [
