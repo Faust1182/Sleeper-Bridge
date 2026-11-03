@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-11-02T15:53:10.831840+00:00",
+  "generated_at": "2026-11-03T00:58:03.213351+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2494,7 +2494,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 1,
+      "daily_waivers_last_ran": 2,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -3162,8 +3162,8 @@
         "RB"
       ],
       "full_name": "Chris Rodriguez Jr.",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Hand",
+      "injury_status": "Questionable",
       "player_id": "10219",
       "position": "RB",
       "status": "Active",
@@ -4335,8 +4335,8 @@
         "RB"
       ],
       "full_name": "Bhayshul Tuten",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Ankle",
+      "injury_status": "Questionable",
       "player_id": "12490",
       "position": "RB",
       "status": "Active",
@@ -4909,7 +4909,7 @@
       "active": true,
       "age": 24,
       "depth_chart_order": 2,
-      "depth_chart_position": "SWR",
+      "depth_chart_position": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -5254,11 +5254,11 @@
         "RB"
       ],
       "full_name": "Jadarian Price",
-      "injury_body_part": "Chest",
-      "injury_status": "IR",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "13286",
       "position": "RB",
-      "status": "Inactive",
+      "status": "Active",
       "team": "SEA",
       "years_exp": 0
     },
@@ -6427,8 +6427,8 @@
         "QB"
       ],
       "full_name": "Matthew Stafford",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Arm",
+      "injury_status": "Questionable",
       "player_id": "421",
       "position": "QB",
       "status": "Active",
@@ -6903,8 +6903,8 @@
         "WR"
       ],
       "full_name": "Jakobi Meyers",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Hamstring",
+      "injury_status": "Questionable",
       "player_id": "5947",
       "position": "WR",
       "status": "Active",
@@ -8409,7 +8409,7 @@
     },
     "9484": {
       "active": true,
-      "age": 25,
+      "age": 26,
       "depth_chart_order": 1,
       "depth_chart_position": "TE",
       "fantasy_positions": [
@@ -8894,7 +8894,7 @@
           "active": true,
           "age": 24,
           "depth_chart_order": 2,
-          "depth_chart_position": "SWR",
+          "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
           ],
@@ -9356,8 +9356,8 @@
             "RB"
           ],
           "full_name": "Chris Rodriguez Jr.",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Hand",
+          "injury_status": "Questionable",
           "player_id": "10219",
           "position": "RB",
           "status": "Active",
@@ -9645,8 +9645,8 @@
             "WR"
           ],
           "full_name": "Jakobi Meyers",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Hamstring",
+          "injury_status": "Questionable",
           "player_id": "5947",
           "position": "WR",
           "status": "Active",
@@ -10080,8 +10080,8 @@
             "RB"
           ],
           "full_name": "Bhayshul Tuten",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ankle",
+          "injury_status": "Questionable",
           "player_id": "12490",
           "position": "RB",
           "status": "Active",
@@ -12350,8 +12350,8 @@
             "QB"
           ],
           "full_name": "Matthew Stafford",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Arm",
+          "injury_status": "Questionable",
           "player_id": "421",
           "position": "QB",
           "status": "Active",
@@ -13489,11 +13489,11 @@
             "RB"
           ],
           "full_name": "Jadarian Price",
-          "injury_body_part": "Chest",
-          "injury_status": "IR",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13286",
           "position": "RB",
-          "status": "Inactive",
+          "status": "Active",
           "team": "SEA",
           "years_exp": 0
         },
@@ -13720,7 +13720,7 @@
         },
         {
           "active": true,
-          "age": 25,
+          "age": 26,
           "depth_chart_order": 1,
           "depth_chart_position": "TE",
           "fantasy_positions": [
