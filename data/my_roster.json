@@ -60,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-11-03T00:58:03.213351+00:00",
+  "generated_at": "2026-11-03T14:14:44.459534+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -72,9 +72,9 @@
       "allow_pn_inactive_starters": "on",
       "allow_pn_player_injury_status": "on",
       "allow_pn_scoring": "on",
-      "record": "LWLWLLW",
+      "record": "LWLWLLWL",
       "restrict_pn_scoring_starters_only": "on",
-      "streak": "1W"
+      "streak": "1L"
     },
     "owner": {
       "display_name": "mklaszky25",
@@ -223,7 +223,7 @@
       {
         "active": true,
         "age": 24,
-        "depth_chart_order": 10,
+        "depth_chart_order": 7,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -325,7 +325,7 @@
       {
         "active": true,
         "age": 30,
-        "depth_chart_order": 7,
+        "depth_chart_order": 8,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -342,7 +342,7 @@
       {
         "active": true,
         "age": 31,
-        "depth_chart_order": 6,
+        "depth_chart_order": 7,
         "depth_chart_position": null,
         "fantasy_positions": [
           "WR"
@@ -478,7 +478,7 @@
       {
         "active": true,
         "age": 27,
-        "depth_chart_order": 4,
+        "depth_chart_order": 2,
         "depth_chart_position": "RB",
         "fantasy_positions": [
           "RB"
@@ -529,7 +529,7 @@
       {
         "active": true,
         "age": 24,
-        "depth_chart_order": 1,
+        "depth_chart_order": 2,
         "depth_chart_position": "RB",
         "fantasy_positions": [
           "RB"
@@ -579,13 +579,13 @@
     ],
     "roster_id": 11,
     "settings": {
-      "fpts": 741,
-      "fpts_against": 708,
-      "fpts_against_decimal": 50,
-      "fpts_decimal": 88,
-      "losses": 4,
-      "ppts": 941,
-      "ppts_decimal": 32,
+      "fpts": 837,
+      "fpts_against": 817,
+      "fpts_against_decimal": 96,
+      "fpts_decimal": 82,
+      "losses": 5,
+      "ppts": 1062,
+      "ppts_decimal": 16,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 135,
