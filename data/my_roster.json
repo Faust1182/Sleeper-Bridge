@@ -60,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-11-04T06:22:37.560943+00:00",
+  "generated_at": "2026-11-04T19:45:39.929571+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -229,8 +229,8 @@
           "WR"
         ],
         "full_name": "Malik Benson",
-        "injury_body_part": "Coach's Decision",
-        "injury_status": "Out",
+        "injury_body_part": null,
+        "injury_status": null,
         "player_id": "13329",
         "position": "WR",
         "status": "Active",
@@ -264,7 +264,7 @@
         ],
         "full_name": "Hunter Henry",
         "injury_body_part": "Foot",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "player_id": "3214",
         "position": "TE",
         "status": "Active",
@@ -332,7 +332,7 @@
         ],
         "full_name": "Deebo Samuel Sr.",
         "injury_body_part": "Hamstring",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "player_id": "5872",
         "position": "WR",
         "status": "Active",
@@ -450,8 +450,8 @@
           "WR"
         ],
         "full_name": "Drake London",
-        "injury_body_part": "Head",
-        "injury_status": "Questionable",
+        "injury_body_part": null,
+        "injury_status": null,
         "player_id": "8112",
         "position": "WR",
         "status": "Active",
@@ -467,8 +467,8 @@
           "RB"
         ],
         "full_name": "James Cook III",
-        "injury_body_part": "Undisclosed",
-        "injury_status": "Questionable",
+        "injury_body_part": null,
+        "injury_status": null,
         "player_id": "8138",
         "position": "RB",
         "status": "Active",
@@ -485,7 +485,7 @@
         ],
         "full_name": "Brian Robinson Jr.",
         "injury_body_part": "Hamstring",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "player_id": "8154",
         "position": "RB",
         "status": "Active",
@@ -589,7 +589,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 135,
-      "waiver_position": 5,
+      "waiver_position": 4,
       "wins": 3
     },
     "starters": [

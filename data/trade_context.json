@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-11-04T06:22:37.560943+00:00",
+  "generated_at": "2026-11-04T19:45:39.929571+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1157,7 +1157,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 3,
+      "daily_waivers_last_ran": 4,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -1165,7 +1165,7 @@
       "last_report": 8,
       "last_scored_leg": 8,
       "league_average_match": 0,
-      "leg": 8,
+      "leg": 9,
       "max_keepers": 1,
       "max_subs": 0,
       "num_teams": 12,
@@ -1372,8 +1372,8 @@
           "WR"
         ],
         "full_name": "Malik Benson",
-        "injury_body_part": "Coach's Decision",
-        "injury_status": "Out",
+        "injury_body_part": null,
+        "injury_status": null,
         "player_id": "13329",
         "position": "WR",
         "status": "Active",
@@ -1407,7 +1407,7 @@
         ],
         "full_name": "Hunter Henry",
         "injury_body_part": "Foot",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "player_id": "3214",
         "position": "TE",
         "status": "Active",
@@ -1475,7 +1475,7 @@
         ],
         "full_name": "Deebo Samuel Sr.",
         "injury_body_part": "Hamstring",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "player_id": "5872",
         "position": "WR",
         "status": "Active",
@@ -1593,8 +1593,8 @@
           "WR"
         ],
         "full_name": "Drake London",
-        "injury_body_part": "Head",
-        "injury_status": "Questionable",
+        "injury_body_part": null,
+        "injury_status": null,
         "player_id": "8112",
         "position": "WR",
         "status": "Active",
@@ -1610,8 +1610,8 @@
           "RB"
         ],
         "full_name": "James Cook III",
-        "injury_body_part": "Undisclosed",
-        "injury_status": "Questionable",
+        "injury_body_part": null,
+        "injury_status": null,
         "player_id": "8138",
         "position": "RB",
         "status": "Active",
@@ -1628,7 +1628,7 @@
         ],
         "full_name": "Brian Robinson Jr.",
         "injury_body_part": "Hamstring",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "player_id": "8154",
         "position": "RB",
         "status": "Active",
@@ -1732,7 +1732,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 135,
-      "waiver_position": 5,
+      "waiver_position": 4,
       "wins": 3
     },
     "starters": [
@@ -1767,7 +1767,7 @@
     "user_id": "917893980082749440"
   },
   "nfl_state": {
-    "display_week": 8,
+    "display_week": 9,
     "league_create_season": "2026",
     "league_season": "2026",
     "leg": 9,
@@ -3125,7 +3125,7 @@
         {
           "active": true,
           "age": 33,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -3217,7 +3217,7 @@
           ],
           "full_name": "DeVonta Smith",
           "injury_body_part": "Hamstring",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "7525",
           "position": "WR",
           "status": "Active",
@@ -3307,7 +3307,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 85,
-        "waiver_position": 12,
+        "waiver_position": 9,
         "wins": 6
       },
       "starters": [
@@ -3597,19 +3597,19 @@
         },
         {
           "active": true,
-          "age": 23,
+          "age": 24,
           "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "DJ Giddens",
+          "full_name": "Corey Kiner",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "12471",
+          "player_id": "12491",
           "position": "RB",
           "status": "Active",
-          "team": "IND",
+          "team": "NE",
           "years_exp": 1
         },
         {
@@ -3774,8 +3774,8 @@
             "TE"
           ],
           "full_name": "Justin Joly",
-          "injury_body_part": "Coach's Decision",
-          "injury_status": "Out",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13400",
           "position": "TE",
           "status": "Active",
@@ -4017,8 +4017,8 @@
         "ppts_decimal": 6,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 20,
-        "waiver_position": 3,
+        "waiver_budget_used": 89,
+        "waiver_position": 10,
         "wins": 3
       },
       "starters": [
@@ -4349,8 +4349,8 @@
             "RB"
           ],
           "full_name": "Woody Marks",
-          "injury_body_part": "Leg",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "12474",
           "position": "RB",
           "status": "Active",
@@ -4452,7 +4452,7 @@
           ],
           "full_name": "Emeka Egbuka",
           "injury_body_part": "Foot",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "12514",
           "position": "WR",
           "status": "Active",
@@ -4519,8 +4519,8 @@
             "RB"
           ],
           "full_name": "Demond Claiborne",
-          "injury_body_part": "Coach's Decision",
-          "injury_status": "Out",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13347",
           "position": "RB",
           "status": "Active",
@@ -4622,7 +4622,7 @@
           ],
           "full_name": "Jake Ferguson",
           "injury_body_part": "Ankle",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "8110",
           "position": "TE",
           "status": "Active",
@@ -4837,20 +4837,20 @@
         },
         {
           "active": true,
-          "age": 24,
-          "depth_chart_order": 2,
-          "depth_chart_position": "RWR",
+          "age": 26,
+          "depth_chart_order": 1,
+          "depth_chart_position": "RB",
           "fantasy_positions": [
-            "WR"
+            "RB"
           ],
-          "full_name": "Marvin Harrison Jr.",
+          "full_name": "Tyler Allgeier",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "11628",
-          "position": "WR",
+          "player_id": "8132",
+          "position": "RB",
           "status": "Active",
-          "team": "HOU",
-          "years_exp": 2
+          "team": "ARI",
+          "years_exp": 4
         },
         {
           "active": true,
@@ -4861,8 +4861,8 @@
             "RB"
           ],
           "full_name": "Woody Marks",
-          "injury_body_part": "Leg",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "12474",
           "position": "RB",
           "status": "Active",
@@ -4897,8 +4897,8 @@
             "RB"
           ],
           "full_name": "Demond Claiborne",
-          "injury_body_part": "Coach's Decision",
-          "injury_status": "Out",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13347",
           "position": "RB",
           "status": "Active",
@@ -5230,8 +5230,8 @@
             "QB"
           ],
           "full_name": "Deshaun Watson",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Concussion",
+          "injury_status": "Questionable",
           "player_id": "4017",
           "position": "QB",
           "status": "Active",
@@ -5406,7 +5406,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 99,
-        "waiver_position": 11,
+        "waiver_position": 8,
         "wins": 6
       },
       "starters": [
@@ -5737,8 +5737,8 @@
             "RB"
           ],
           "full_name": "Kaleb Johnson",
-          "injury_body_part": "Coach's Decision",
-          "injury_status": "Out",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "12504",
           "position": "RB",
           "status": "Active",
@@ -5754,8 +5754,8 @@
             "RB"
           ],
           "full_name": "Kyle Monangai",
-          "injury_body_part": "Thumb",
-          "injury_status": "Out",
+          "injury_body_part": "Toe",
+          "injury_status": "Questionable",
           "player_id": "12534",
           "position": "RB",
           "status": "Active",
@@ -5771,8 +5771,8 @@
             "QB"
           ],
           "full_name": "Ty Simpson",
-          "injury_body_part": "Coach's Decision",
-          "injury_status": "Out",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13275",
           "position": "QB",
           "status": "Active",
@@ -5874,7 +5874,7 @@
           ],
           "full_name": "Brenen Thompson",
           "injury_body_part": "Quadriceps",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "13380",
           "position": "WR",
           "status": "Active",
@@ -5884,7 +5884,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -5941,8 +5941,8 @@
             "RB"
           ],
           "full_name": "Justice Hill",
-          "injury_body_part": "Groin",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "5995",
           "position": "RB",
           "status": "Active",
@@ -6027,7 +6027,7 @@
           ],
           "full_name": "Rashid Shaheed",
           "injury_body_part": "Knee",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "8676",
           "position": "WR",
           "status": "Active",
@@ -6117,7 +6117,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 5,
-        "waiver_position": 8,
+        "waiver_position": 6,
         "wins": 1
       },
       "starters": [
@@ -6266,8 +6266,8 @@
             "RB"
           ],
           "full_name": "Justice Hill",
-          "injury_body_part": "Groin",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "5995",
           "position": "RB",
           "status": "Active",
@@ -6285,8 +6285,8 @@
             "QB"
           ],
           "full_name": "Ty Simpson",
-          "injury_body_part": "Coach's Decision",
-          "injury_status": "Out",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13275",
           "position": "QB",
           "status": "Active",
@@ -6431,8 +6431,8 @@
             "QB"
           ],
           "full_name": "Dillon Gabriel",
-          "injury_body_part": "Coach's Decision",
-          "injury_status": "Out",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "12486",
           "position": "QB",
           "status": "Active",
@@ -6516,8 +6516,8 @@
             "QB"
           ],
           "full_name": "Carson Beck",
-          "injury_body_part": "Coach's Decision",
-          "injury_status": "Out",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13272",
           "position": "QB",
           "status": "Active",
@@ -6669,8 +6669,8 @@
             "WR"
           ],
           "full_name": "Amon-Ra St. Brown",
-          "injury_body_part": "Undisclosed",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "7547",
           "position": "WR",
           "status": "Active",
@@ -6845,7 +6845,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 95,
-        "waiver_position": 4,
+        "waiver_position": 3,
         "wins": 3
       },
       "starters": [
@@ -6909,8 +6909,8 @@
             "WR"
           ],
           "full_name": "Amon-Ra St. Brown",
-          "injury_body_part": "Undisclosed",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "7547",
           "position": "WR",
           "status": "Active",
@@ -7013,8 +7013,8 @@
             "QB"
           ],
           "full_name": "Dillon Gabriel",
-          "injury_body_part": "Coach's Decision",
-          "injury_status": "Out",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "12486",
           "position": "QB",
           "status": "Active",
@@ -7047,8 +7047,8 @@
             "QB"
           ],
           "full_name": "Carson Beck",
-          "injury_body_part": "Coach's Decision",
-          "injury_status": "Out",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13272",
           "position": "QB",
           "status": "Active",
@@ -7398,7 +7398,7 @@
           ],
           "full_name": "David Montgomery",
           "injury_body_part": "Groin",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "5892",
           "position": "RB",
           "status": "Active",
@@ -7452,7 +7452,7 @@
           "injury_status": "Out",
           "player_id": "7083",
           "position": "QB",
-          "status": "Active",
+          "status": "Inactive",
           "team": "BAL",
           "years_exp": 6
         },
@@ -7938,8 +7938,8 @@
             "WR"
           ],
           "full_name": "Elijah Sarratt",
-          "injury_body_part": "Coach's Decision",
-          "injury_status": "Out",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13268",
           "position": "WR",
           "status": "Active",
@@ -8050,23 +8050,6 @@
         },
         {
           "active": true,
-          "age": 29,
-          "depth_chart_order": 2,
-          "depth_chart_position": "SWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Christian Kirk",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "4950",
-          "position": "WR",
-          "status": "Active",
-          "team": "SF",
-          "years_exp": 8
-        },
-        {
-          "active": true,
           "age": 31,
           "depth_chart_order": 1,
           "depth_chart_position": "TE",
@@ -8092,11 +8075,28 @@
           ],
           "full_name": "A.J. Brown",
           "injury_body_part": "Ankle",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "5859",
           "position": "WR",
           "status": "Active",
           "team": "NE",
+          "years_exp": 7
+        },
+        {
+          "active": true,
+          "age": 30,
+          "depth_chart_order": 1,
+          "depth_chart_position": "QB",
+          "fantasy_positions": [
+            "QB"
+          ],
+          "full_name": "Gardner Minshew II",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "6011",
+          "position": "QB",
+          "status": "Active",
+          "team": "ARI",
           "years_exp": 7
         },
         {
@@ -8176,8 +8176,8 @@
             "WR"
           ],
           "full_name": "Garrett Wilson",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Concussion",
+          "injury_status": "Questionable",
           "player_id": "8146",
           "position": "WR",
           "status": "Active",
@@ -8300,8 +8300,8 @@
         "ppts_decimal": 6,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 116,
-        "waiver_position": 10,
+        "waiver_budget_used": 131,
+        "waiver_position": 11,
         "wins": 4
       },
       "starters": [
@@ -8382,8 +8382,8 @@
             "WR"
           ],
           "full_name": "Garrett Wilson",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Concussion",
+          "injury_status": "Questionable",
           "player_id": "8146",
           "position": "WR",
           "status": "Active",
@@ -8503,8 +8503,8 @@
             "WR"
           ],
           "full_name": "Elijah Sarratt",
-          "injury_body_part": "Coach's Decision",
-          "injury_status": "Out",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13268",
           "position": "WR",
           "status": "Active",
@@ -8812,6 +8812,23 @@
         },
         {
           "active": true,
+          "age": 32,
+          "depth_chart_order": 3,
+          "depth_chart_position": "SWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Kalif Raymond",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "3634",
+          "position": "WR",
+          "status": "Active",
+          "team": "CHI",
+          "years_exp": 10
+        },
+        {
+          "active": true,
           "age": 30,
           "depth_chart_order": 1,
           "depth_chart_position": "TE",
@@ -8842,23 +8859,6 @@
           "position": "WR",
           "status": "Active",
           "team": "PIT",
-          "years_exp": 7
-        },
-        {
-          "active": true,
-          "age": 29,
-          "depth_chart_order": 5,
-          "depth_chart_position": "SWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Marquise Brown",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "5848",
-          "position": "WR",
-          "status": "Active",
-          "team": "PHI",
           "years_exp": 7
         },
         {
@@ -8905,7 +8905,7 @@
           ],
           "full_name": "Zonovan Knight",
           "injury_body_part": "Concussion",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "8122",
           "position": "RB",
           "status": "Active",
@@ -9029,7 +9029,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 96,
-        "waiver_position": 7,
+        "waiver_position": 12,
         "wins": 5
       },
       "starters": [
@@ -9327,7 +9327,7 @@
           ],
           "full_name": "Theo Johnson",
           "injury_body_part": "Neck",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "11597",
           "position": "TE",
           "status": "Active",
@@ -9558,7 +9558,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -9599,7 +9599,7 @@
           ],
           "full_name": "Joshua Palmer",
           "injury_body_part": "Hamstring",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "7670",
           "position": "WR",
           "status": "Active",
@@ -9650,7 +9650,7 @@
           ],
           "full_name": "Breece Hall",
           "injury_body_part": "Quadriceps",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "8155",
           "position": "RB",
           "status": "Active",
@@ -9684,7 +9684,7 @@
           ],
           "full_name": "Dontayvion Wicks",
           "injury_body_part": "Ankle",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "9486",
           "position": "WR",
           "status": "Active",
@@ -9757,7 +9757,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 30,
-        "waiver_position": 9,
+        "waiver_position": 7,
         "wins": 5
       },
       "starters": [
@@ -9890,7 +9890,7 @@
           ],
           "full_name": "Breece Hall",
           "injury_body_part": "Quadriceps",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "8155",
           "position": "RB",
           "status": "Active",
@@ -10122,8 +10122,8 @@
             "WR"
           ],
           "full_name": "Malik Benson",
-          "injury_body_part": "Coach's Decision",
-          "injury_status": "Out",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13329",
           "position": "WR",
           "status": "Active",
@@ -10157,7 +10157,7 @@
           ],
           "full_name": "Hunter Henry",
           "injury_body_part": "Foot",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "3214",
           "position": "TE",
           "status": "Active",
@@ -10225,7 +10225,7 @@
           ],
           "full_name": "Deebo Samuel Sr.",
           "injury_body_part": "Hamstring",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "5872",
           "position": "WR",
           "status": "Active",
@@ -10343,8 +10343,8 @@
             "WR"
           ],
           "full_name": "Drake London",
-          "injury_body_part": "Head",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "8112",
           "position": "WR",
           "status": "Active",
@@ -10360,8 +10360,8 @@
             "RB"
           ],
           "full_name": "James Cook III",
-          "injury_body_part": "Undisclosed",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "8138",
           "position": "RB",
           "status": "Active",
@@ -10378,7 +10378,7 @@
           ],
           "full_name": "Brian Robinson Jr.",
           "injury_body_part": "Hamstring",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "8154",
           "position": "RB",
           "status": "Active",
@@ -10468,7 +10468,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 135,
-        "waiver_position": 5,
+        "waiver_position": 4,
         "wins": 3
       },
       "starters": [
@@ -10498,8 +10498,8 @@
             "RB"
           ],
           "full_name": "James Cook III",
-          "injury_body_part": "Undisclosed",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "8138",
           "position": "RB",
           "status": "Active",
@@ -10532,8 +10532,8 @@
             "WR"
           ],
           "full_name": "Drake London",
-          "injury_body_part": "Head",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "8112",
           "position": "WR",
           "status": "Active",
@@ -10670,8 +10670,8 @@
             "WR"
           ],
           "full_name": "Malik Benson",
-          "injury_body_part": "Coach's Decision",
-          "injury_status": "Out",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13329",
           "position": "WR",
           "status": "Active",
@@ -10715,7 +10715,7 @@
           ],
           "full_name": "TreVeyon Henderson",
           "injury_body_part": "Illness",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "12529",
           "position": "RB",
           "status": "Active",
@@ -10765,8 +10765,8 @@
             "WR"
           ],
           "full_name": "Skyler Bell",
-          "injury_body_part": "Coach's Decision",
-          "injury_status": "Out",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13402",
           "position": "WR",
           "status": "Active",
@@ -10834,7 +10834,7 @@
           ],
           "full_name": "Mike Evans",
           "injury_body_part": "Achilles",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "2216",
           "position": "WR",
           "status": "Active",
@@ -10918,8 +10918,8 @@
             "QB"
           ],
           "full_name": "Sam Darnold",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Quadriceps",
+          "injury_status": "Out",
           "player_id": "4943",
           "position": "QB",
           "status": "Active",
@@ -11196,7 +11196,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 30,
-        "waiver_position": 6,
+        "waiver_position": 5,
         "wins": 5
       },
       "starters": [
@@ -11227,7 +11227,7 @@
           ],
           "full_name": "TreVeyon Henderson",
           "injury_body_part": "Illness",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "player_id": "12529",
           "position": "RB",
           "status": "Active",
@@ -11398,8 +11398,8 @@
             "WR"
           ],
           "full_name": "Skyler Bell",
-          "injury_body_part": "Coach's Decision",
-          "injury_status": "Out",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13402",
           "position": "WR",
           "status": "Active",
