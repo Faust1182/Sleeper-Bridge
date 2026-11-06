@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-11-06T06:46:20.596917+00:00",
+  "generated_at": "2026-11-06T19:24:46.489438+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1157,7 +1157,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 5,
+      "daily_waivers_last_ran": 6,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -1621,14 +1621,14 @@
       {
         "active": true,
         "age": 27,
-        "depth_chart_order": 2,
+        "depth_chart_order": 4,
         "depth_chart_position": "RB",
         "fantasy_positions": [
           "RB"
         ],
         "full_name": "Brian Robinson Jr.",
         "injury_body_part": "Hamstring",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "player_id": "8154",
         "position": "RB",
         "status": "Active",
@@ -2962,7 +2962,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -3251,7 +3251,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 1,
+          "depth_chart_order": 3,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -4492,8 +4492,8 @@
             "WR"
           ],
           "full_name": "Emeka Egbuka",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Foot",
+          "injury_status": "Questionable",
           "player_id": "12514",
           "position": "WR",
           "status": "Active",
@@ -6500,7 +6500,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -8035,7 +8035,7 @@
           "player_id": "3257",
           "position": "QB",
           "status": "Active",
-          "team": "ARI",
+          "team": "BAL",
           "years_exp": 10
         },
         {
@@ -8109,14 +8109,14 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "A.J. Brown",
-          "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_body_part": "Knee",
+          "injury_status": "Out",
           "player_id": "5859",
           "position": "WR",
           "status": "Active",
@@ -8201,7 +8201,7 @@
           ],
           "full_name": "Garrett Wilson",
           "injury_body_part": "Concussion",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "8146",
           "position": "WR",
           "status": "Active",
@@ -8331,20 +8331,20 @@
       "starters": [
         {
           "active": true,
-          "age": 33,
-          "depth_chart_order": 2,
+          "age": 26,
+          "depth_chart_order": 1,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
           ],
-          "full_name": "Jacoby Brissett",
+          "full_name": "Bo Nix",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "3257",
+          "player_id": "11563",
           "position": "QB",
           "status": "Active",
-          "team": "ARI",
-          "years_exp": 10
+          "team": "DEN",
+          "years_exp": 2
         },
         {
           "active": true,
@@ -8365,20 +8365,20 @@
         },
         {
           "active": true,
-          "age": 28,
+          "age": 30,
           "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Jaylen Warren",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "8228",
+          "full_name": "Christian McCaffrey",
+          "injury_body_part": "Calf",
+          "injury_status": "Questionable",
+          "player_id": "4034",
           "position": "RB",
           "status": "Active",
-          "team": "PIT",
-          "years_exp": 4
+          "team": "SF",
+          "years_exp": 9
         },
         {
           "active": true,
@@ -8399,20 +8399,20 @@
         },
         {
           "active": true,
-          "age": 26,
-          "depth_chart_order": 1,
-          "depth_chart_position": "LWR",
+          "age": 24,
+          "depth_chart_order": 2,
+          "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Garrett Wilson",
-          "injury_body_part": "Concussion",
-          "injury_status": "Questionable",
-          "player_id": "8146",
+          "full_name": "Adonai Mitchell",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "11625",
           "position": "WR",
           "status": "Active",
           "team": "NYJ",
-          "years_exp": 4
+          "years_exp": 2
         },
         {
           "active": true,
@@ -8786,7 +8786,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -8946,7 +8946,7 @@
           ],
           "full_name": "Zonovan Knight",
           "injury_body_part": "Concussion",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "8122",
           "position": "RB",
           "status": "Active",
@@ -9128,7 +9128,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -10395,14 +10395,14 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 2,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
           "full_name": "Brian Robinson Jr.",
           "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "8154",
           "position": "RB",
           "status": "Active",
@@ -10707,7 +10707,7 @@
     {
       "owner": {
         "display_name": "TheCamps",
-        "team_name": "Camp Anal E\u2019s Flowers",
+        "team_name": "Kevin",
         "user_id": "988586141739696128",
         "username": null
       },
@@ -10739,7 +10739,7 @@
           ],
           "full_name": "TreVeyon Henderson",
           "injury_body_part": "Illness",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "12529",
           "position": "RB",
           "status": "Active",
