@@ -60,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-11-05T19:57:12.816491+00:00",
+  "generated_at": "2026-11-06T06:46:20.596917+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -93,8 +93,8 @@
           "TE"
         ],
         "full_name": "Dalton Kincaid",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Chest",
+        "injury_status": "Questionable",
         "player_id": "10236",
         "position": "TE",
         "status": "Active",
@@ -223,7 +223,7 @@
       {
         "active": true,
         "age": 24,
-        "depth_chart_order": 4,
+        "depth_chart_order": 5,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -257,7 +257,7 @@
       {
         "active": true,
         "age": 31,
-        "depth_chart_order": 1,
+        "depth_chart_order": 2,
         "depth_chart_position": "TE",
         "fantasy_positions": [
           "TE"
@@ -308,7 +308,7 @@
       {
         "active": true,
         "age": 29,
-        "depth_chart_order": 1,
+        "depth_chart_order": 2,
         "depth_chart_position": "QB",
         "fantasy_positions": [
           "QB"
