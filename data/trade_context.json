@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-11-07T13:01:28.509119+00:00",
+  "generated_at": "2026-11-07T21:51:03.741885+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1157,7 +1157,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 6,
+      "daily_waivers_last_ran": 7,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -1417,6 +1417,23 @@
       {
         "active": true,
         "age": 31,
+        "depth_chart_order": null,
+        "depth_chart_position": null,
+        "fantasy_positions": [
+          "WR"
+        ],
+        "full_name": "Tyreek Hill",
+        "injury_body_part": "Knee - ACL",
+        "injury_status": "Questionable",
+        "player_id": "3321",
+        "position": "WR",
+        "status": "Active",
+        "team": null,
+        "years_exp": 10
+      },
+      {
+        "active": true,
+        "age": 31,
         "depth_chart_order": 1,
         "depth_chart_position": "QB",
         "fantasy_positions": [
@@ -1458,7 +1475,7 @@
         ],
         "full_name": "Kyler Murray",
         "injury_body_part": "Hamstring",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "player_id": "5849",
         "position": "QB",
         "status": "Active",
@@ -1628,7 +1645,7 @@
         ],
         "full_name": "Brian Robinson Jr.",
         "injury_body_part": "Hamstring",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "player_id": "8154",
         "position": "RB",
         "status": "Active",
@@ -1672,8 +1689,8 @@
       {
         "active": true,
         "age": 24,
-        "depth_chart_order": 2,
-        "depth_chart_position": "RB",
+        "depth_chart_order": null,
+        "depth_chart_position": null,
         "fantasy_positions": [
           "RB"
         ],
@@ -1700,6 +1717,7 @@
       "13329",
       "13394",
       "3214",
+      "3321",
       "4046",
       "5022",
       "5849",
@@ -1732,7 +1750,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 135,
-      "waiver_position": 4,
+      "waiver_position": 11,
       "wins": 3
     },
     "starters": [
@@ -3348,7 +3366,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 85,
-        "waiver_position": 8,
+        "waiver_position": 7,
         "wins": 6
       },
       "starters": [
@@ -3628,8 +3646,8 @@
             "WR"
           ],
           "full_name": "Keon Coleman",
-          "injury_body_part": "Shoulder",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "11637",
           "position": "WR",
           "status": "Active",
@@ -3843,7 +3861,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -4059,7 +4077,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 89,
-        "waiver_position": 9,
+        "waiver_position": 8,
         "wins": 3
       },
       "starters": [
@@ -4459,7 +4477,7 @@
           ],
           "full_name": "Pat Bryant",
           "injury_body_part": "Ankle",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "player_id": "12492",
           "position": "WR",
           "status": "Inactive",
@@ -4561,7 +4579,7 @@
           ],
           "full_name": "Demond Claiborne",
           "injury_body_part": "Knee",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "13347",
           "position": "RB",
           "status": "Active",
@@ -4939,7 +4957,7 @@
           ],
           "full_name": "Demond Claiborne",
           "injury_body_part": "Knee",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "13347",
           "position": "RB",
           "status": "Active",
@@ -5447,7 +5465,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 99,
-        "waiver_position": 7,
+        "waiver_position": 6,
         "wins": 6
       },
       "starters": [
@@ -5959,7 +5977,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -6158,7 +6176,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 5,
-        "waiver_position": 5,
+        "waiver_position": 4,
         "wins": 1
       },
       "starters": [
@@ -6642,8 +6660,8 @@
             "WR"
           ],
           "full_name": "DJ Moore",
-          "injury_body_part": "Undisclosed",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "4983",
           "position": "WR",
           "status": "Active",
@@ -6749,7 +6767,7 @@
           "player_id": "8129",
           "position": "RB",
           "status": "Inactive",
-          "team": "PHI",
+          "team": null,
           "years_exp": 4
         },
         {
@@ -7018,8 +7036,8 @@
             "WR"
           ],
           "full_name": "DJ Moore",
-          "injury_body_part": "Undisclosed",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "4983",
           "position": "WR",
           "status": "Active",
@@ -7286,7 +7304,7 @@
           ],
           "full_name": "Demarcus Robinson",
           "injury_body_part": "Ankle",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "player_id": "3286",
           "position": "WR",
           "status": "Inactive",
@@ -7303,10 +7321,10 @@
           ],
           "full_name": "Mack Hollins",
           "injury_body_part": "Calf",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "player_id": "4177",
           "position": "WR",
-          "status": "Inactive",
+          "status": "Active",
           "team": "NE",
           "years_exp": 9
         },
@@ -7347,7 +7365,7 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -7466,7 +7484,7 @@
         {
           "active": true,
           "age": 28,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -8024,7 +8042,7 @@
         {
           "active": true,
           "age": 33,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -8325,7 +8343,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 131,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 4
       },
       "starters": [
@@ -9053,7 +9071,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 146,
-        "waiver_position": 11,
+        "waiver_position": 10,
         "wins": 5
       },
       "starters": [
@@ -9463,17 +9481,17 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 9,
+          "depth_chart_order": 3,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Jordyn Tyson",
           "injury_body_part": "Hamstring",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "player_id": "13281",
           "position": "WR",
-          "status": "Inactive",
+          "status": "Active",
           "team": "NO",
           "years_exp": 0
         },
@@ -9582,7 +9600,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -9616,14 +9634,14 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 4,
+          "depth_chart_order": 7,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Joshua Palmer",
           "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "7670",
           "position": "WR",
           "status": "Active",
@@ -9781,7 +9799,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 30,
-        "waiver_position": 6,
+        "waiver_position": 5,
         "wins": 5
       },
       "starters": [
@@ -10191,6 +10209,23 @@
         {
           "active": true,
           "age": 31,
+          "depth_chart_order": null,
+          "depth_chart_position": null,
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Tyreek Hill",
+          "injury_body_part": "Knee - ACL",
+          "injury_status": "Questionable",
+          "player_id": "3321",
+          "position": "WR",
+          "status": "Active",
+          "team": null,
+          "years_exp": 10
+        },
+        {
+          "active": true,
+          "age": 31,
           "depth_chart_order": 1,
           "depth_chart_position": "QB",
           "fantasy_positions": [
@@ -10232,7 +10267,7 @@
           ],
           "full_name": "Kyler Murray",
           "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "5849",
           "position": "QB",
           "status": "Active",
@@ -10402,7 +10437,7 @@
           ],
           "full_name": "Brian Robinson Jr.",
           "injury_body_part": "Hamstring",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "player_id": "8154",
           "position": "RB",
           "status": "Active",
@@ -10446,8 +10481,8 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 2,
-          "depth_chart_position": "RB",
+          "depth_chart_order": null,
+          "depth_chart_position": null,
           "fantasy_positions": [
             "RB"
           ],
@@ -10492,7 +10527,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 135,
-        "waiver_position": 4,
+        "waiver_position": 11,
         "wins": 3
       },
       "starters": [
@@ -10783,7 +10818,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 5,
+          "depth_chart_order": 4,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -10952,6 +10987,23 @@
         },
         {
           "active": true,
+          "age": 29,
+          "depth_chart_order": 1,
+          "depth_chart_position": "QB",
+          "fantasy_positions": [
+            "QB"
+          ],
+          "full_name": "Drew Lock",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "5854",
+          "position": "QB",
+          "status": "Active",
+          "team": "SEA",
+          "years_exp": 7
+        },
+        {
+          "active": true,
           "age": 27,
           "depth_chart_order": 3,
           "depth_chart_position": "RWR",
@@ -11021,14 +11073,14 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 3,
+          "depth_chart_order": 6,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Jauan Jennings",
           "injury_body_part": "Calf",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "7049",
           "position": "WR",
           "status": "Active",
@@ -11084,23 +11136,6 @@
           "position": "TE",
           "status": "Active",
           "team": "ARI",
-          "years_exp": 4
-        },
-        {
-          "active": true,
-          "age": 26,
-          "depth_chart_order": 7,
-          "depth_chart_position": "RWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Treylon Burks",
-          "injury_body_part": "Foot",
-          "injury_status": "Out",
-          "player_id": "8135",
-          "position": "WR",
-          "status": "Active",
-          "team": "WAS",
           "years_exp": 4
         },
         {
@@ -11416,7 +11451,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 5,
+          "depth_chart_order": 4,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"

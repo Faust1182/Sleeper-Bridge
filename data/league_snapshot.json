@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-11-07T13:01:28.509119+00:00",
+  "generated_at": "2026-11-07T21:51:03.741885+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2393,9 +2393,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1424402212762722304",
+    "last_message_id": "1424840905327677440",
     "last_message_text_map": null,
-    "last_message_time": 1793966460938,
+    "last_message_time": 1794071053395,
     "last_pinned_message_id": "1423503228510687232",
     "last_read_id": null,
     "league_id": "1314667834135040000",
@@ -2494,7 +2494,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 6,
+      "daily_waivers_last_ran": 7,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -2757,6 +2757,23 @@
       {
         "active": true,
         "age": 31,
+        "depth_chart_order": null,
+        "depth_chart_position": null,
+        "fantasy_positions": [
+          "WR"
+        ],
+        "full_name": "Tyreek Hill",
+        "injury_body_part": "Knee - ACL",
+        "injury_status": "Questionable",
+        "player_id": "3321",
+        "position": "WR",
+        "status": "Active",
+        "team": null,
+        "years_exp": 10
+      },
+      {
+        "active": true,
+        "age": 31,
         "depth_chart_order": 1,
         "depth_chart_position": "QB",
         "fantasy_positions": [
@@ -2798,7 +2815,7 @@
         ],
         "full_name": "Kyler Murray",
         "injury_body_part": "Hamstring",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "player_id": "5849",
         "position": "QB",
         "status": "Active",
@@ -2968,7 +2985,7 @@
         ],
         "full_name": "Brian Robinson Jr.",
         "injury_body_part": "Hamstring",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "player_id": "8154",
         "position": "RB",
         "status": "Active",
@@ -3012,8 +3029,8 @@
       {
         "active": true,
         "age": 24,
-        "depth_chart_order": 2,
-        "depth_chart_position": "RB",
+        "depth_chart_order": null,
+        "depth_chart_position": null,
         "fantasy_positions": [
           "RB"
         ],
@@ -3040,6 +3057,7 @@
       "13329",
       "13394",
       "3214",
+      "3321",
       "4046",
       "5022",
       "5849",
@@ -3072,7 +3090,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 135,
-      "waiver_position": 4,
+      "waiver_position": 11,
       "wins": 3
     },
     "starters": [
@@ -3910,8 +3928,8 @@
         "WR"
       ],
       "full_name": "Keon Coleman",
-      "injury_body_part": "Shoulder",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "11637",
       "position": "WR",
       "status": "Active",
@@ -4370,7 +4388,7 @@
       ],
       "full_name": "Pat Bryant",
       "injury_body_part": "Ankle",
-      "injury_status": "IR",
+      "injury_status": "Questionable",
       "player_id": "12492",
       "position": "WR",
       "status": "Inactive",
@@ -5231,17 +5249,17 @@
     "13281": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 9,
+      "depth_chart_order": 3,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
       ],
       "full_name": "Jordyn Tyson",
       "injury_body_part": "Hamstring",
-      "injury_status": "IR",
+      "injury_status": "Questionable",
       "player_id": "13281",
       "position": "WR",
-      "status": "Inactive",
+      "status": "Active",
       "team": "NO",
       "years_exp": 0
     },
@@ -5680,7 +5698,7 @@
       ],
       "full_name": "Demond Claiborne",
       "injury_body_part": "Knee",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "player_id": "13347",
       "position": "RB",
       "status": "Active",
@@ -5792,7 +5810,7 @@
     "13402": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 5,
+      "depth_chart_order": 4,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -5894,7 +5912,7 @@
     "13420": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -5945,7 +5963,7 @@
     "13533": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 4,
+      "depth_chart_order": 5,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -6149,7 +6167,7 @@
     "3257": {
       "active": true,
       "age": 33,
-      "depth_chart_order": 2,
+      "depth_chart_order": 1,
       "depth_chart_position": "QB",
       "fantasy_positions": [
         "QB"
@@ -6190,7 +6208,7 @@
       ],
       "full_name": "Demarcus Robinson",
       "injury_body_part": "Ankle",
-      "injury_status": "IR",
+      "injury_status": "Questionable",
       "player_id": "3286",
       "position": "WR",
       "status": "Inactive",
@@ -6212,6 +6230,23 @@
       "position": "QB",
       "status": "Active",
       "team": "DAL",
+      "years_exp": 10
+    },
+    "3321": {
+      "active": true,
+      "age": 31,
+      "depth_chart_order": null,
+      "depth_chart_position": null,
+      "fantasy_positions": [
+        "WR"
+      ],
+      "full_name": "Tyreek Hill",
+      "injury_body_part": "Knee - ACL",
+      "injury_status": "Questionable",
+      "player_id": "3321",
+      "position": "WR",
+      "status": "Active",
+      "team": null,
       "years_exp": 10
     },
     "3634": {
@@ -6411,10 +6446,10 @@
       ],
       "full_name": "Mack Hollins",
       "injury_body_part": "Calf",
-      "injury_status": "IR",
+      "injury_status": "Questionable",
       "player_id": "4177",
       "position": "WR",
-      "status": "Inactive",
+      "status": "Active",
       "team": "NE",
       "years_exp": 9
     },
@@ -6523,7 +6558,7 @@
     "4881": {
       "active": true,
       "age": 29,
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "depth_chart_position": "QB",
       "fantasy_positions": [
         "QB"
@@ -6597,8 +6632,8 @@
         "WR"
       ],
       "full_name": "DJ Moore",
-      "injury_body_part": "Undisclosed",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "4983",
       "position": "WR",
       "status": "Active",
@@ -6751,7 +6786,7 @@
       ],
       "full_name": "Kyler Murray",
       "injury_body_part": "Hamstring",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "player_id": "5849",
       "position": "QB",
       "status": "Active",
@@ -6773,6 +6808,23 @@
       "position": "RB",
       "status": "Active",
       "team": "GB",
+      "years_exp": 7
+    },
+    "5854": {
+      "active": true,
+      "age": 29,
+      "depth_chart_order": 1,
+      "depth_chart_position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "full_name": "Drew Lock",
+      "injury_body_part": null,
+      "injury_status": null,
+      "player_id": "5854",
+      "position": "QB",
+      "status": "Active",
+      "team": "SEA",
       "years_exp": 7
     },
     "5859": {
@@ -7254,14 +7306,14 @@
     "7049": {
       "active": true,
       "age": 29,
-      "depth_chart_order": 3,
+      "depth_chart_order": 6,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
       ],
       "full_name": "Jauan Jennings",
       "injury_body_part": "Calf",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "player_id": "7049",
       "position": "WR",
       "status": "Active",
@@ -7271,7 +7323,7 @@
     "7083": {
       "active": true,
       "age": 28,
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "depth_chart_position": "QB",
       "fantasy_positions": [
         "QB"
@@ -7373,7 +7425,7 @@
     "7543": {
       "active": true,
       "age": 27,
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -7577,14 +7629,14 @@
     "7670": {
       "active": true,
       "age": 27,
-      "depth_chart_order": 4,
+      "depth_chart_order": 7,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
       ],
       "full_name": "Joshua Palmer",
       "injury_body_part": "Hamstring",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "player_id": "7670",
       "position": "WR",
       "status": "Active",
@@ -7758,7 +7810,7 @@
       "player_id": "8129",
       "position": "RB",
       "status": "Inactive",
-      "team": "PHI",
+      "team": null,
       "years_exp": 4
     },
     "8130": {
@@ -7827,23 +7879,6 @@
       "position": "WR",
       "status": "Active",
       "team": "BUF",
-      "years_exp": 4
-    },
-    "8135": {
-      "active": true,
-      "age": 26,
-      "depth_chart_order": 7,
-      "depth_chart_position": "RWR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "full_name": "Treylon Burks",
-      "injury_body_part": "Foot",
-      "injury_status": "Out",
-      "player_id": "8135",
-      "position": "WR",
-      "status": "Active",
-      "team": "WAS",
       "years_exp": 4
     },
     "8136": {
@@ -8009,7 +8044,7 @@
       ],
       "full_name": "Brian Robinson Jr.",
       "injury_body_part": "Hamstring",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "player_id": "8154",
       "position": "RB",
       "status": "Active",
@@ -8699,8 +8734,8 @@
     "9757": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 2,
-      "depth_chart_position": "RB",
+      "depth_chart_order": null,
+      "depth_chart_position": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -9294,7 +9329,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 85,
-        "waiver_position": 8,
+        "waiver_position": 7,
         "wins": 6
       },
       "starters": [
@@ -9390,8 +9425,8 @@
             "WR"
           ],
           "full_name": "Keon Coleman",
-          "injury_body_part": "Shoulder",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "11637",
           "position": "WR",
           "status": "Active",
@@ -9605,7 +9640,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -9835,7 +9870,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 89,
-        "waiver_position": 9,
+        "waiver_position": 8,
         "wins": 3
       },
       "starters": [
@@ -10081,7 +10116,7 @@
           ],
           "full_name": "Pat Bryant",
           "injury_body_part": "Ankle",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "player_id": "12492",
           "position": "WR",
           "status": "Inactive",
@@ -10183,7 +10218,7 @@
           ],
           "full_name": "Demond Claiborne",
           "injury_body_part": "Knee",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "13347",
           "position": "RB",
           "status": "Active",
@@ -10944,7 +10979,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 99,
-        "waiver_position": 7,
+        "waiver_position": 6,
         "wins": 6
       },
       "starters": [
@@ -11288,7 +11323,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -11502,7 +11537,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 5,
-        "waiver_position": 5,
+        "waiver_position": 4,
         "wins": 1
       },
       "starters": [
@@ -11804,8 +11839,8 @@
             "WR"
           ],
           "full_name": "DJ Moore",
-          "injury_body_part": "Undisclosed",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "4983",
           "position": "WR",
           "status": "Active",
@@ -11911,7 +11946,7 @@
           "player_id": "8129",
           "position": "RB",
           "status": "Inactive",
-          "team": "PHI",
+          "team": null,
           "years_exp": 4
         },
         {
@@ -12282,7 +12317,7 @@
           ],
           "full_name": "Demarcus Robinson",
           "injury_body_part": "Ankle",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "player_id": "3286",
           "position": "WR",
           "status": "Inactive",
@@ -12299,10 +12334,10 @@
           ],
           "full_name": "Mack Hollins",
           "injury_body_part": "Calf",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "player_id": "4177",
           "position": "WR",
-          "status": "Inactive",
+          "status": "Active",
           "team": "NE",
           "years_exp": 9
         },
@@ -12343,7 +12378,7 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -12462,7 +12497,7 @@
         {
           "active": true,
           "age": 28,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -12858,7 +12893,7 @@
         {
           "active": true,
           "age": 33,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -13174,7 +13209,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 131,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 4
       },
       "starters": [
@@ -13764,7 +13799,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 146,
-        "waiver_position": 11,
+        "waiver_position": 10,
         "wins": 5
       },
       "starters": [
@@ -13990,17 +14025,17 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 9,
+          "depth_chart_order": 3,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Jordyn Tyson",
           "injury_body_part": "Hamstring",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "player_id": "13281",
           "position": "WR",
-          "status": "Inactive",
+          "status": "Active",
           "team": "NO",
           "years_exp": 0
         },
@@ -14109,7 +14144,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -14143,14 +14178,14 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 4,
+          "depth_chart_order": 7,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Joshua Palmer",
           "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "7670",
           "position": "WR",
           "status": "Active",
@@ -14323,7 +14358,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 30,
-        "waiver_position": 6,
+        "waiver_position": 5,
         "wins": 5
       },
       "starters": [
@@ -14555,6 +14590,23 @@
         {
           "active": true,
           "age": 31,
+          "depth_chart_order": null,
+          "depth_chart_position": null,
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Tyreek Hill",
+          "injury_body_part": "Knee - ACL",
+          "injury_status": "Questionable",
+          "player_id": "3321",
+          "position": "WR",
+          "status": "Active",
+          "team": null,
+          "years_exp": 10
+        },
+        {
+          "active": true,
+          "age": 31,
           "depth_chart_order": 1,
           "depth_chart_position": "QB",
           "fantasy_positions": [
@@ -14596,7 +14648,7 @@
           ],
           "full_name": "Kyler Murray",
           "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "5849",
           "position": "QB",
           "status": "Active",
@@ -14766,7 +14818,7 @@
           ],
           "full_name": "Brian Robinson Jr.",
           "injury_body_part": "Hamstring",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "player_id": "8154",
           "position": "RB",
           "status": "Active",
@@ -14810,8 +14862,8 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 2,
-          "depth_chart_position": "RB",
+          "depth_chart_order": null,
+          "depth_chart_position": null,
           "fantasy_positions": [
             "RB"
           ],
@@ -14838,6 +14890,7 @@
         "13329",
         "13394",
         "3214",
+        "3321",
         "4046",
         "5022",
         "5849",
@@ -14870,7 +14923,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 135,
-        "waiver_position": 4,
+        "waiver_position": 11,
         "wins": 3
       },
       "starters": [
@@ -14978,7 +15031,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 5,
+          "depth_chart_order": 4,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -15147,6 +15200,23 @@
         },
         {
           "active": true,
+          "age": 29,
+          "depth_chart_order": 1,
+          "depth_chart_position": "QB",
+          "fantasy_positions": [
+            "QB"
+          ],
+          "full_name": "Drew Lock",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "5854",
+          "position": "QB",
+          "status": "Active",
+          "team": "SEA",
+          "years_exp": 7
+        },
+        {
+          "active": true,
           "age": 27,
           "depth_chart_order": 3,
           "depth_chart_position": "RWR",
@@ -15216,14 +15286,14 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 3,
+          "depth_chart_order": 6,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Jauan Jennings",
           "injury_body_part": "Calf",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "7049",
           "position": "WR",
           "status": "Active",
@@ -15279,23 +15349,6 @@
           "position": "TE",
           "status": "Active",
           "team": "ARI",
-          "years_exp": 4
-        },
-        {
-          "active": true,
-          "age": 26,
-          "depth_chart_order": 7,
-          "depth_chart_position": "RWR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Treylon Burks",
-          "injury_body_part": "Foot",
-          "injury_status": "Out",
-          "player_id": "8135",
-          "position": "WR",
-          "status": "Active",
-          "team": "WAS",
           "years_exp": 4
         },
         {
@@ -15400,6 +15453,7 @@
         "4137",
         "4943",
         "5850",
+        "5854",
         "6783",
         "6801",
         "6803",
@@ -15408,7 +15462,6 @@
         "7588",
         "7594",
         "8130",
-        "8135",
         "8161",
         "8183",
         "8207",
@@ -20996,6 +21049,7 @@
             "13329",
             "13394",
             "3214",
+            "3321",
             "4046",
             "5022",
             "5849",
@@ -21025,6 +21079,7 @@
             "13329": 0.0,
             "13394": 0.0,
             "3214": 0.0,
+            "3321": 0.0,
             "4046": 0.0,
             "5022": 0.0,
             "5849": 0.0,
@@ -21085,6 +21140,7 @@
             "4137",
             "4943",
             "5850",
+            "5854",
             "6783",
             "6801",
             "6803",
@@ -21093,7 +21149,6 @@
             "7588",
             "7594",
             "8130",
-            "8135",
             "8161",
             "8183",
             "8207",
@@ -21115,6 +21170,7 @@
             "4137": 0.0,
             "4943": 0.0,
             "5850": 0.0,
+            "5854": 0.0,
             "6783": 0.0,
             "6801": 0.0,
             "6803": 0.0,
@@ -21123,7 +21179,6 @@
             "7588": 0.0,
             "7594": 0.0,
             "8130": 0.0,
-            "8135": 0.0,
             "8161": 0.0,
             "8183": 0.0,
             "8207": 0.0,
@@ -22047,6 +22102,7 @@
             "13329",
             "13394",
             "3214",
+            "3321",
             "4046",
             "5022",
             "5849",
@@ -22076,6 +22132,7 @@
             "13329": 0.0,
             "13394": 0.0,
             "3214": 0.0,
+            "3321": 0.0,
             "4046": 0.0,
             "5022": 0.0,
             "5849": 0.0,
@@ -22136,6 +22193,7 @@
             "4137",
             "4943",
             "5850",
+            "5854",
             "6783",
             "6801",
             "6803",
@@ -22144,7 +22202,6 @@
             "7588",
             "7594",
             "8130",
-            "8135",
             "8161",
             "8183",
             "8207",
@@ -22166,6 +22223,7 @@
             "4137": 0.0,
             "4943": 0.0,
             "5850": 0.0,
+            "5854": 0.0,
             "6783": 0.0,
             "6801": 0.0,
             "6803": 0.0,
@@ -22174,7 +22232,6 @@
             "7588": 0.0,
             "7594": 0.0,
             "8130": 0.0,
-            "8135": 0.0,
             "8161": 0.0,
             "8183": 0.0,
             "8207": 0.0,
@@ -23098,6 +23155,7 @@
             "13329",
             "13394",
             "3214",
+            "3321",
             "4046",
             "5022",
             "5849",
@@ -23127,6 +23185,7 @@
             "13329": 0.0,
             "13394": 0.0,
             "3214": 0.0,
+            "3321": 0.0,
             "4046": 0.0,
             "5022": 0.0,
             "5849": 0.0,
@@ -23187,6 +23246,7 @@
             "4137",
             "4943",
             "5850",
+            "5854",
             "6783",
             "6801",
             "6803",
@@ -23195,7 +23255,6 @@
             "7588",
             "7594",
             "8130",
-            "8135",
             "8161",
             "8183",
             "8207",
@@ -23217,6 +23276,7 @@
             "4137": 0.0,
             "4943": 0.0,
             "5850": 0.0,
+            "5854": 0.0,
             "6783": 0.0,
             "6801": 0.0,
             "6803": 0.0,
@@ -23225,7 +23285,6 @@
             "7588": 0.0,
             "7594": 0.0,
             "8130": 0.0,
-            "8135": 0.0,
             "8161": 0.0,
             "8183": 0.0,
             "8207": 0.0,
@@ -24149,6 +24208,7 @@
             "13329",
             "13394",
             "3214",
+            "3321",
             "4046",
             "5022",
             "5849",
@@ -24178,6 +24238,7 @@
             "13329": 0.0,
             "13394": 0.0,
             "3214": 0.0,
+            "3321": 0.0,
             "4046": 0.0,
             "5022": 0.0,
             "5849": 0.0,
@@ -24238,6 +24299,7 @@
             "4137",
             "4943",
             "5850",
+            "5854",
             "6783",
             "6801",
             "6803",
@@ -24246,7 +24308,6 @@
             "7588",
             "7594",
             "8130",
-            "8135",
             "8161",
             "8183",
             "8207",
@@ -24268,6 +24329,7 @@
             "4137": 0.0,
             "4943": 0.0,
             "5850": 0.0,
+            "5854": 0.0,
             "6783": 0.0,
             "6801": 0.0,
             "6803": 0.0,
@@ -24276,7 +24338,6 @@
             "7588": 0.0,
             "7594": 0.0,
             "8130": 0.0,
-            "8135": 0.0,
             "8161": 0.0,
             "8183": 0.0,
             "8207": 0.0,
@@ -25200,6 +25261,7 @@
             "13329",
             "13394",
             "3214",
+            "3321",
             "4046",
             "5022",
             "5849",
@@ -25229,6 +25291,7 @@
             "13329": 0.0,
             "13394": 0.0,
             "3214": 0.0,
+            "3321": 0.0,
             "4046": 0.0,
             "5022": 0.0,
             "5849": 0.0,
@@ -25289,6 +25352,7 @@
             "4137",
             "4943",
             "5850",
+            "5854",
             "6783",
             "6801",
             "6803",
@@ -25297,7 +25361,6 @@
             "7588",
             "7594",
             "8130",
-            "8135",
             "8161",
             "8183",
             "8207",
@@ -25319,6 +25382,7 @@
             "4137": 0.0,
             "4943": 0.0,
             "5850": 0.0,
+            "5854": 0.0,
             "6783": 0.0,
             "6801": 0.0,
             "6803": 0.0,
@@ -25327,7 +25391,6 @@
             "7588": 0.0,
             "7594": 0.0,
             "8130": 0.0,
-            "8135": 0.0,
             "8161": 0.0,
             "8183": 0.0,
             "8207": 0.0,
@@ -26251,6 +26314,7 @@
             "13329",
             "13394",
             "3214",
+            "3321",
             "4046",
             "5022",
             "5849",
@@ -26280,6 +26344,7 @@
             "13329": 0.0,
             "13394": 0.0,
             "3214": 0.0,
+            "3321": 0.0,
             "4046": 0.0,
             "5022": 0.0,
             "5849": 0.0,
@@ -26340,6 +26405,7 @@
             "4137",
             "4943",
             "5850",
+            "5854",
             "6783",
             "6801",
             "6803",
@@ -26348,7 +26414,6 @@
             "7588",
             "7594",
             "8130",
-            "8135",
             "8161",
             "8183",
             "8207",
@@ -26370,6 +26435,7 @@
             "4137": 0.0,
             "4943": 0.0,
             "5850": 0.0,
+            "5854": 0.0,
             "6783": 0.0,
             "6801": 0.0,
             "6803": 0.0,
@@ -26378,7 +26444,6 @@
             "7588": 0.0,
             "7594": 0.0,
             "8130": 0.0,
-            "8135": 0.0,
             "8161": 0.0,
             "8183": 0.0,
             "8207": 0.0,
@@ -27302,6 +27367,7 @@
             "13329",
             "13394",
             "3214",
+            "3321",
             "4046",
             "5022",
             "5849",
@@ -27331,6 +27397,7 @@
             "13329": 0.0,
             "13394": 0.0,
             "3214": 0.0,
+            "3321": 0.0,
             "4046": 0.0,
             "5022": 0.0,
             "5849": 0.0,
@@ -27391,6 +27458,7 @@
             "4137",
             "4943",
             "5850",
+            "5854",
             "6783",
             "6801",
             "6803",
@@ -27399,7 +27467,6 @@
             "7588",
             "7594",
             "8130",
-            "8135",
             "8161",
             "8183",
             "8207",
@@ -27421,6 +27488,7 @@
             "4137": 0.0,
             "4943": 0.0,
             "5850": 0.0,
+            "5854": 0.0,
             "6783": 0.0,
             "6801": 0.0,
             "6803": 0.0,
@@ -27429,7 +27497,6 @@
             "7588": 0.0,
             "7594": 0.0,
             "8130": 0.0,
-            "8135": 0.0,
             "8161": 0.0,
             "8183": 0.0,
             "8207": 0.0,
@@ -28353,6 +28420,7 @@
             "13329",
             "13394",
             "3214",
+            "3321",
             "4046",
             "5022",
             "5849",
@@ -28382,6 +28450,7 @@
             "13329": 0.0,
             "13394": 0.0,
             "3214": 0.0,
+            "3321": 0.0,
             "4046": 0.0,
             "5022": 0.0,
             "5849": 0.0,
@@ -28442,6 +28511,7 @@
             "4137",
             "4943",
             "5850",
+            "5854",
             "6783",
             "6801",
             "6803",
@@ -28450,7 +28520,6 @@
             "7588",
             "7594",
             "8130",
-            "8135",
             "8161",
             "8183",
             "8207",
@@ -28472,6 +28541,7 @@
             "4137": 0.0,
             "4943": 0.0,
             "5850": 0.0,
+            "5854": 0.0,
             "6783": 0.0,
             "6801": 0.0,
             "6803": 0.0,
@@ -28480,7 +28550,6 @@
             "7588": 0.0,
             "7594": 0.0,
             "8130": 0.0,
-            "8135": 0.0,
             "8161": 0.0,
             "8183": 0.0,
             "8207": 0.0,
@@ -29404,6 +29473,7 @@
             "13329",
             "13394",
             "3214",
+            "3321",
             "4046",
             "5022",
             "5849",
@@ -29433,6 +29503,7 @@
             "13329": 0.0,
             "13394": 0.0,
             "3214": 0.0,
+            "3321": 0.0,
             "4046": 0.0,
             "5022": 0.0,
             "5849": 0.0,
@@ -29493,6 +29564,7 @@
             "4137",
             "4943",
             "5850",
+            "5854",
             "6783",
             "6801",
             "6803",
@@ -29501,7 +29573,6 @@
             "7588",
             "7594",
             "8130",
-            "8135",
             "8161",
             "8183",
             "8207",
@@ -29523,6 +29594,7 @@
             "4137": 0.0,
             "4943": 0.0,
             "5850": 0.0,
+            "5854": 0.0,
             "6783": 0.0,
             "6801": 0.0,
             "6803": 0.0,
@@ -29531,7 +29603,6 @@
             "7588": 0.0,
             "7594": 0.0,
             "8130": 0.0,
-            "8135": 0.0,
             "8161": 0.0,
             "8183": 0.0,
             "8207": 0.0,
@@ -40889,6 +40960,7 @@
             "13329",
             "13394",
             "3214",
+            "3321",
             "4046",
             "5022",
             "5849",
@@ -40918,6 +40990,7 @@
             "13329": 0.0,
             "13394": 1.1,
             "3214": 0.0,
+            "3321": 0.0,
             "4046": 0.0,
             "5022": 0.0,
             "5849": 0.0,
@@ -40978,6 +41051,7 @@
             "4137",
             "4943",
             "5850",
+            "5854",
             "6783",
             "6801",
             "6803",
@@ -40986,7 +41060,6 @@
             "7588",
             "7594",
             "8130",
-            "8135",
             "8161",
             "8183",
             "8207",
@@ -41008,6 +41081,7 @@
             "4137": 0.0,
             "4943": 0.0,
             "5850": 0.0,
+            "5854": 0.0,
             "6783": 0.0,
             "6801": 0.0,
             "6803": 0.0,
@@ -41016,7 +41090,6 @@
             "7588": 0.0,
             "7594": 0.0,
             "8130": 0.0,
-            "8135": 0.0,
             "8161": 0.0,
             "8183": 0.0,
             "8207": 0.0,
@@ -41050,6 +41123,64 @@
         }
       ],
       "transactions": [
+        {
+          "adds": {
+            "5854": 12
+          },
+          "consenter_ids": [
+            12
+          ],
+          "created": 1794001975838,
+          "creator": "988586141739696128",
+          "draft_picks": [],
+          "drops": {
+            "8135": 12
+          },
+          "leg": 9,
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          },
+          "roster_ids": [
+            12
+          ],
+          "settings": {
+            "seq": 1,
+            "waiver_bid": 0
+          },
+          "status": "complete",
+          "status_updated": 1794071053357,
+          "transaction_id": "1424551173054124032",
+          "type": "waiver",
+          "waiver_budget": []
+        },
+        {
+          "adds": {
+            "3321": 11
+          },
+          "consenter_ids": [
+            11
+          ],
+          "created": 1793941019232,
+          "creator": "988168826942496768",
+          "draft_picks": [],
+          "drops": null,
+          "leg": 9,
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          },
+          "roster_ids": [
+            11
+          ],
+          "settings": {
+            "seq": 0,
+            "waiver_bid": 0
+          },
+          "status": "complete",
+          "status_updated": 1794071053357,
+          "transaction_id": "1424295502517694464",
+          "type": "waiver",
+          "waiver_budget": []
+        },
         {
           "adds": null,
           "consenter_ids": [
