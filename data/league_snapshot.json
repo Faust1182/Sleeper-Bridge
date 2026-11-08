@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-11-07T21:51:03.741885+00:00",
+  "generated_at": "2026-11-08T06:01:29.025195+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2706,7 +2706,7 @@
       {
         "active": true,
         "age": 24,
-        "depth_chart_order": 5,
+        "depth_chart_order": 6,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -2978,7 +2978,7 @@
       {
         "active": true,
         "age": 27,
-        "depth_chart_order": 4,
+        "depth_chart_order": 3,
         "depth_chart_position": "RB",
         "fantasy_positions": [
           "RB"
@@ -2988,7 +2988,7 @@
         "injury_status": "IR",
         "player_id": "8154",
         "position": "RB",
-        "status": "Active",
+        "status": "Inactive",
         "team": "ATL",
         "years_exp": 4
       },
@@ -3012,7 +3012,7 @@
       {
         "active": true,
         "age": 24,
-        "depth_chart_order": 3,
+        "depth_chart_order": 4,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -3820,7 +3820,7 @@
     "11627": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 4,
+      "depth_chart_order": 5,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -4024,7 +4024,7 @@
     "11655": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 6,
+      "depth_chart_order": 7,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -4126,7 +4126,7 @@
     "12457": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -4381,7 +4381,7 @@
     "12492": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 7,
+      "depth_chart_order": 3,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -4391,7 +4391,7 @@
       "injury_status": "Questionable",
       "player_id": "12492",
       "position": "WR",
-      "status": "Inactive",
+      "status": "Active",
       "team": "DEN",
       "years_exp": 1
     },
@@ -4619,7 +4619,7 @@
     "12508": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "depth_chart_position": "QB",
       "fantasy_positions": [
         "QB"
@@ -4892,7 +4892,7 @@
     "12533": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 6,
+      "depth_chart_order": 4,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -4977,7 +4977,7 @@
     "12542": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -5028,7 +5028,7 @@
     "12547": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -5045,7 +5045,7 @@
     "12634": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 1,
+      "depth_chart_order": 2,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -5589,7 +5589,7 @@
     "13329": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 5,
+      "depth_chart_order": 6,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -5691,7 +5691,7 @@
     "13347": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 4,
+      "depth_chart_order": 5,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -5827,7 +5827,7 @@
     "13405": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -6048,7 +6048,7 @@
     "2197": {
       "active": true,
       "age": 33,
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -6065,7 +6065,7 @@
     "2216": {
       "active": true,
       "age": 33,
-      "depth_chart_order": 4,
+      "depth_chart_order": 5,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -6201,17 +6201,17 @@
     "3286": {
       "active": true,
       "age": 32,
-      "depth_chart_order": 5,
+      "depth_chart_order": 1,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
       ],
       "full_name": "Demarcus Robinson",
-      "injury_body_part": "Ankle",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "3286",
       "position": "WR",
-      "status": "Inactive",
+      "status": "Active",
       "team": "SF",
       "years_exp": 10
     },
@@ -6405,7 +6405,7 @@
     "4137": {
       "active": true,
       "age": 31,
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -6439,7 +6439,7 @@
     "4177": {
       "active": true,
       "age": 33,
-      "depth_chart_order": 4,
+      "depth_chart_order": 2,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -7425,7 +7425,7 @@
     "7543": {
       "active": true,
       "age": 27,
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -8037,7 +8037,7 @@
     "8154": {
       "active": true,
       "age": 27,
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -8047,7 +8047,7 @@
       "injury_status": "IR",
       "player_id": "8154",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "team": "ATL",
       "years_exp": 4
     },
@@ -8326,7 +8326,7 @@
     "9226": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 5,
+      "depth_chart_order": 6,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -8513,7 +8513,7 @@
     "9494": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -8842,7 +8842,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 6,
+          "depth_chart_order": 7,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -8928,7 +8928,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -9098,7 +9098,7 @@
         {
           "active": true,
           "age": 33,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -10109,7 +10109,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 7,
+          "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -10119,7 +10119,7 @@
           "injury_status": "Questionable",
           "player_id": "12492",
           "position": "WR",
-          "status": "Inactive",
+          "status": "Active",
           "team": "DEN",
           "years_exp": 1
         },
@@ -10160,7 +10160,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 6,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -10211,7 +10211,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -10613,7 +10613,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -11289,7 +11289,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -11986,7 +11986,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -12242,7 +12242,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -12310,24 +12310,24 @@
         {
           "active": true,
           "age": 32,
-          "depth_chart_order": 5,
+          "depth_chart_order": 1,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Demarcus Robinson",
-          "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "3286",
           "position": "WR",
-          "status": "Inactive",
+          "status": "Active",
           "team": "SF",
           "years_exp": 10
         },
         {
           "active": true,
           "age": 33,
-          "depth_chart_order": 4,
+          "depth_chart_order": 2,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -13415,7 +13415,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -13466,7 +13466,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -13923,7 +13923,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -14144,7 +14144,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -14539,7 +14539,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -14811,7 +14811,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -14821,7 +14821,7 @@
           "injury_status": "IR",
           "player_id": "8154",
           "position": "RB",
-          "status": "Active",
+          "status": "Inactive",
           "team": "ATL",
           "years_exp": 4
         },
@@ -14845,7 +14845,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -15099,7 +15099,7 @@
         {
           "active": true,
           "age": 33,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -15150,7 +15150,7 @@
         {
           "active": true,
           "age": 31,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
