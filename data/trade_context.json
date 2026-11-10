@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-11-09T22:21:49.283241+00:00",
+  "generated_at": "2026-11-10T07:18:50.408407+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1163,7 +1163,7 @@
       "draft_rounds": 4,
       "faab_suggestions": 0,
       "last_report": 8,
-      "last_scored_leg": 8,
+      "last_scored_leg": 9,
       "league_average_match": 0,
       "leg": 9,
       "max_keepers": 1,
@@ -1215,9 +1215,9 @@
       "allow_pn_inactive_starters": "on",
       "allow_pn_player_injury_status": "on",
       "allow_pn_scoring": "on",
-      "record": "LWLWLLWL",
+      "record": "LWLWLLWLW",
       "restrict_pn_scoring_starters_only": "on",
-      "streak": "1L"
+      "streak": "1W"
     },
     "owner": {
       "display_name": "mklaszky25",
@@ -1740,18 +1740,18 @@
     ],
     "roster_id": 11,
     "settings": {
-      "fpts": 837,
-      "fpts_against": 817,
-      "fpts_against_decimal": 96,
-      "fpts_decimal": 82,
+      "fpts": 926,
+      "fpts_against": 896,
+      "fpts_against_decimal": 70,
+      "fpts_decimal": 30,
       "losses": 5,
-      "ppts": 1062,
-      "ppts_decimal": 16,
+      "ppts": 1155,
+      "ppts_decimal": 74,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 135,
       "waiver_position": 11,
-      "wins": 3
+      "wins": 4
     },
     "starters": [
       "4046",
@@ -1788,13 +1788,13 @@
     "display_week": 9,
     "league_create_season": "2026",
     "league_season": "2026",
-    "leg": 9,
+    "leg": 10,
     "previous_season": "2025",
     "season": "2026",
     "season_has_scores": true,
     "season_start_date": "2026-09-09",
     "season_type": "regular",
-    "week": 9
+    "week": 10
   },
   "recent_trades": [
     {
@@ -3356,13 +3356,13 @@
       ],
       "roster_id": 1,
       "settings": {
-        "fpts": 1020,
-        "fpts_against": 868,
-        "fpts_against_decimal": 98,
-        "fpts_decimal": 72,
-        "losses": 2,
-        "ppts": 1166,
-        "ppts_decimal": 56,
+        "fpts": 1158,
+        "fpts_against": 1029,
+        "fpts_against_decimal": 54,
+        "fpts_decimal": 28,
+        "losses": 3,
+        "ppts": 1314,
+        "ppts_decimal": 42,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 85,
@@ -4067,18 +4067,18 @@
       ],
       "roster_id": 2,
       "settings": {
-        "fpts": 642,
-        "fpts_against": 793,
-        "fpts_against_decimal": 64,
-        "fpts_decimal": 62,
+        "fpts": 738,
+        "fpts_against": 860,
+        "fpts_against_decimal": 44,
+        "fpts_decimal": 18,
         "losses": 5,
-        "ppts": 809,
-        "ppts_decimal": 6,
+        "ppts": 944,
+        "ppts_decimal": 42,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 89,
         "waiver_position": 8,
-        "wins": 3
+        "wins": 4
       },
       "starters": [
         {
@@ -4582,7 +4582,7 @@
           "injury_status": "IR",
           "player_id": "13347",
           "position": "RB",
-          "status": "Active",
+          "status": "Inactive",
           "team": "MIN",
           "years_exp": 0
         },
@@ -4761,18 +4761,18 @@
       ],
       "roster_id": 3,
       "settings": {
-        "fpts": 758,
-        "fpts_against": 761,
-        "fpts_against_decimal": 94,
-        "fpts_decimal": 70,
+        "fpts": 868,
+        "fpts_against": 858,
+        "fpts_against_decimal": 62,
+        "fpts_decimal": 68,
         "losses": 5,
-        "ppts": 995,
-        "ppts_decimal": 94,
+        "ppts": 1126,
+        "ppts_decimal": 22,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 192,
         "waiver_position": 2,
-        "wins": 3
+        "wins": 4
       },
       "starters": [
         {
@@ -4960,7 +4960,7 @@
           "injury_status": "IR",
           "player_id": "13347",
           "position": "RB",
-          "status": "Active",
+          "status": "Inactive",
           "team": "MIN",
           "years_exp": 0
         }
@@ -5045,7 +5045,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 7,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -5438,7 +5438,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 7,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -5455,13 +5455,13 @@
       ],
       "roster_id": 4,
       "settings": {
-        "fpts": 1032,
-        "fpts_against": 815,
-        "fpts_against_decimal": 82,
-        "fpts_decimal": 32,
-        "losses": 2,
-        "ppts": 1217,
-        "ppts_decimal": 2,
+        "fpts": 1111,
+        "fpts_against": 904,
+        "fpts_against_decimal": 30,
+        "fpts_decimal": 6,
+        "losses": 3,
+        "ppts": 1331,
+        "ppts_decimal": 98,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 99,
@@ -6166,13 +6166,13 @@
       ],
       "roster_id": 5,
       "settings": {
-        "fpts": 590,
-        "fpts_against": 866,
-        "fpts_against_decimal": 64,
-        "fpts_decimal": 38,
-        "losses": 7,
-        "ppts": 703,
-        "ppts_decimal": 62,
+        "fpts": 631,
+        "fpts_against": 949,
+        "fpts_against_decimal": 78,
+        "fpts_decimal": 26,
+        "losses": 8,
+        "ppts": 768,
+        "ppts_decimal": 0,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 5,
@@ -6552,7 +6552,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -6779,8 +6779,8 @@
             "TE"
           ],
           "full_name": "Chig Okonkwo",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Hip",
+          "injury_status": "Questionable",
           "player_id": "8210",
           "position": "TE",
           "status": "Active",
@@ -6877,18 +6877,18 @@
       ],
       "roster_id": 6,
       "settings": {
-        "fpts": 813,
-        "fpts_against": 857,
-        "fpts_against_decimal": 40,
-        "fpts_decimal": 70,
+        "fpts": 896,
+        "fpts_against": 898,
+        "fpts_against_decimal": 28,
+        "fpts_decimal": 84,
         "losses": 5,
-        "ppts": 1023,
-        "ppts_decimal": 82,
+        "ppts": 1114,
+        "ppts_decimal": 76,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 95,
         "waiver_position": 3,
-        "wins": 3
+        "wins": 4
       },
       "starters": [
         {
@@ -7083,7 +7083,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -7128,7 +7128,7 @@
           "active": true,
           "age": 26,
           "depth_chart_order": 1,
-          "depth_chart_position": "LWR",
+          "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
@@ -7263,7 +7263,7 @@
         {
           "active": true,
           "age": 21,
-          "depth_chart_order": 8,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -7348,7 +7348,7 @@
         {
           "active": true,
           "age": 31,
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -7507,8 +7507,8 @@
             "WR"
           ],
           "full_name": "Darnell Mooney",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Chest",
+          "injury_status": "Questionable",
           "player_id": "7090",
           "position": "WR",
           "status": "Active",
@@ -7605,13 +7605,13 @@
       ],
       "roster_id": 7,
       "settings": {
-        "fpts": 704,
-        "fpts_against": 750,
-        "fpts_against_decimal": 40,
-        "fpts_decimal": 26,
-        "losses": 4,
-        "ppts": 850,
-        "ppts_decimal": 88,
+        "fpts": 797,
+        "fpts_against": 849,
+        "fpts_against_decimal": 78,
+        "fpts_decimal": 68,
+        "losses": 5,
+        "ppts": 959,
+        "ppts_decimal": 0,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 15,
@@ -7691,7 +7691,7 @@
           "active": true,
           "age": 26,
           "depth_chart_order": 1,
-          "depth_chart_position": "LWR",
+          "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
@@ -8333,13 +8333,13 @@
       ],
       "roster_id": 8,
       "settings": {
-        "fpts": 891,
-        "fpts_against": 901,
-        "fpts_against_decimal": 44,
-        "fpts_decimal": 74,
-        "losses": 4,
-        "ppts": 1068,
-        "ppts_decimal": 6,
+        "fpts": 988,
+        "fpts_against": 1011,
+        "fpts_against_decimal": 42,
+        "fpts_decimal": 42,
+        "losses": 5,
+        "ppts": 1168,
+        "ppts_decimal": 54,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 131,
@@ -8957,7 +8957,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 6,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -9061,13 +9061,13 @@
       ],
       "roster_id": 9,
       "settings": {
-        "fpts": 657,
-        "fpts_against": 786,
-        "fpts_against_decimal": 32,
-        "fpts_decimal": 8,
-        "losses": 3,
-        "ppts": 811,
-        "ppts_decimal": 64,
+        "fpts": 723,
+        "fpts_against": 881,
+        "fpts_against_decimal": 88,
+        "fpts_decimal": 88,
+        "losses": 4,
+        "ppts": 907,
+        "ppts_decimal": 0,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 146,
@@ -9634,14 +9634,14 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 7,
+          "depth_chart_order": 6,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Joshua Palmer",
           "injury_body_part": "Hamstring",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "player_id": "7670",
           "position": "WR",
           "status": "Inactive",
@@ -9746,7 +9746,7 @@
           "injury_status": "Questionable",
           "player_id": "9493",
           "position": "WR",
-          "status": "Active",
+          "status": "Inactive",
           "team": "LAR",
           "years_exp": 3
         },
@@ -9789,18 +9789,18 @@
       ],
       "roster_id": 10,
       "settings": {
-        "fpts": 984,
-        "fpts_against": 885,
-        "fpts_against_decimal": 54,
-        "fpts_decimal": 94,
+        "fpts": 1145,
+        "fpts_against": 1023,
+        "fpts_against_decimal": 10,
+        "fpts_decimal": 50,
         "losses": 3,
-        "ppts": 1101,
-        "ppts_decimal": 12,
+        "ppts": 1281,
+        "ppts_decimal": 70,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 30,
         "waiver_position": 5,
-        "wins": 5
+        "wins": 6
       },
       "starters": [
         {
@@ -9867,7 +9867,7 @@
           "injury_status": "Questionable",
           "player_id": "9493",
           "position": "WR",
-          "status": "Active",
+          "status": "Inactive",
           "team": "LAR",
           "years_exp": 3
         },
@@ -10517,18 +10517,18 @@
       ],
       "roster_id": 11,
       "settings": {
-        "fpts": 837,
-        "fpts_against": 817,
-        "fpts_against_decimal": 96,
-        "fpts_decimal": 82,
+        "fpts": 926,
+        "fpts_against": 896,
+        "fpts_against_decimal": 70,
+        "fpts_decimal": 30,
         "losses": 5,
-        "ppts": 1062,
-        "ppts_decimal": 16,
+        "ppts": 1155,
+        "ppts_decimal": 74,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 135,
         "waiver_position": 11,
-        "wins": 3
+        "wins": 4
       },
       "starters": [
         {
@@ -10818,14 +10818,14 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 4,
+          "depth_chart_order": 9,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Skyler Bell",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "13402",
           "position": "WR",
           "status": "Active",
@@ -10937,7 +10937,7 @@
         {
           "active": true,
           "age": 31,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -10987,7 +10987,7 @@
         },
         {
           "active": true,
-          "age": 29,
+          "age": 30,
           "depth_chart_order": 1,
           "depth_chart_position": "QB",
           "fantasy_positions": [
@@ -11174,7 +11174,7 @@
         },
         {
           "active": true,
-          "age": 25,
+          "age": 26,
           "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
@@ -11182,7 +11182,7 @@
           ],
           "full_name": "Tyler Goodson",
           "injury_body_part": "Knee",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "8207",
           "position": "RB",
           "status": "Active",
@@ -11245,18 +11245,18 @@
       ],
       "roster_id": 12,
       "settings": {
-        "fpts": 1047,
-        "fpts_against": 876,
-        "fpts_against_decimal": 14,
-        "fpts_decimal": 94,
+        "fpts": 1147,
+        "fpts_against": 969,
+        "fpts_against_decimal": 56,
+        "fpts_decimal": 32,
         "losses": 3,
-        "ppts": 1163,
-        "ppts_decimal": 46,
+        "ppts": 1282,
+        "ppts_decimal": 34,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 30,
         "waiver_position": 12,
-        "wins": 5
+        "wins": 6
       },
       "starters": [
         {
@@ -11451,14 +11451,14 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 4,
+          "depth_chart_order": 9,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Skyler Bell",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "13402",
           "position": "WR",
           "status": "Active",
