@@ -60,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-11-11T06:20:51.819588+00:00",
+  "generated_at": "2026-11-11T19:35:48.411182+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -229,8 +229,8 @@
           "WR"
         ],
         "full_name": "Malik Benson",
-        "injury_body_part": "Coach's Decision",
-        "injury_status": "Out",
+        "injury_body_part": null,
+        "injury_status": null,
         "player_id": "13329",
         "position": "WR",
         "status": "Active",
@@ -332,7 +332,7 @@
         ],
         "full_name": "Kyler Murray",
         "injury_body_part": "Hamstring",
-        "injury_status": "Out",
+        "injury_status": "Doubtful",
         "player_id": "5849",
         "position": "QB",
         "status": "Active",
@@ -349,7 +349,7 @@
         ],
         "full_name": "Deebo Samuel Sr.",
         "injury_body_part": "Hamstring",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "player_id": "5872",
         "position": "WR",
         "status": "Active",
@@ -607,7 +607,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 135,
-      "waiver_position": 11,
+      "waiver_position": 9,
       "wins": 4
     },
     "starters": [
