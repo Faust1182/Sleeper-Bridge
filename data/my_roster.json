@@ -60,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-11-10T19:44:26.911252+00:00",
+  "generated_at": "2026-11-11T06:20:51.819588+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -325,7 +325,7 @@
       {
         "active": true,
         "age": 29,
-        "depth_chart_order": 2,
+        "depth_chart_order": 3,
         "depth_chart_position": "QB",
         "fantasy_positions": [
           "QB"
@@ -342,7 +342,7 @@
       {
         "active": true,
         "age": 30,
-        "depth_chart_order": 8,
+        "depth_chart_order": 9,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -557,7 +557,7 @@
         "player_id": "9757",
         "position": "RB",
         "status": "Active",
-        "team": null,
+        "team": "DAL",
         "years_exp": 3
       }
     ],
@@ -618,7 +618,7 @@
       "6794",
       "7569",
       "10236",
-      "12512",
+      "12495",
       "9224"
     ],
     "taxi": [

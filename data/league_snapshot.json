@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-11-10T19:44:26.911252+00:00",
+  "generated_at": "2026-11-11T06:20:51.819588+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2808,7 +2808,7 @@
       {
         "active": true,
         "age": 29,
-        "depth_chart_order": 2,
+        "depth_chart_order": 3,
         "depth_chart_position": "QB",
         "fantasy_positions": [
           "QB"
@@ -2825,7 +2825,7 @@
       {
         "active": true,
         "age": 30,
-        "depth_chart_order": 8,
+        "depth_chart_order": 9,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -3040,7 +3040,7 @@
         "player_id": "9757",
         "position": "RB",
         "status": "Active",
-        "team": null,
+        "team": "DAL",
         "years_exp": 3
       }
     ],
@@ -3101,7 +3101,7 @@
       "6794",
       "7569",
       "10236",
-      "12512",
+      "12495",
       "9224"
     ],
     "taxi": [
@@ -3243,16 +3243,16 @@
       "active": true,
       "age": 26,
       "depth_chart_order": 7,
-      "depth_chart_position": "SWR",
+      "depth_chart_position": "PR",
       "fantasy_positions": [
         "WR"
       ],
       "full_name": "Michael Wilson",
       "injury_body_part": "Neck",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "player_id": "10232",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "team": "ARI",
       "years_exp": 3
     },
@@ -3530,7 +3530,7 @@
     },
     "11575": {
       "active": true,
-      "age": 26,
+      "age": 27,
       "depth_chart_order": 3,
       "depth_chart_position": "RB",
       "fantasy_positions": [
@@ -3735,7 +3735,7 @@
     "11618": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 7,
+      "depth_chart_order": 6,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -3803,7 +3803,7 @@
     "11626": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 7,
+      "depth_chart_order": 5,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -3904,7 +3904,7 @@
     },
     "11635": {
       "active": true,
-      "age": 24,
+      "age": 25,
       "depth_chart_order": 1,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
@@ -4041,7 +4041,7 @@
     "1166": {
       "active": true,
       "age": 38,
-      "depth_chart_order": 1,
+      "depth_chart_order": 2,
       "depth_chart_position": "QB",
       "fantasy_positions": [
         "QB"
@@ -4052,7 +4052,7 @@
       "player_id": "1166",
       "position": "QB",
       "status": "Active",
-      "team": "LV",
+      "team": "MIN",
       "years_exp": 14
     },
     "11729": {
@@ -4126,8 +4126,8 @@
     "12457": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 3,
-      "depth_chart_position": "RB",
+      "depth_chart_order": null,
+      "depth_chart_position": null,
       "fantasy_positions": [
         "RB"
       ],
@@ -5130,7 +5130,7 @@
     "13269": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 3,
+      "depth_chart_order": 1,
       "depth_chart_position": "QB",
       "fantasy_positions": [
         "QB"
@@ -5147,7 +5147,7 @@
     "13272": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 3,
+      "depth_chart_order": 1,
       "depth_chart_position": "QB",
       "fantasy_positions": [
         "QB"
@@ -5742,7 +5742,7 @@
     "13353": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 10,
+      "depth_chart_order": 6,
       "depth_chart_position": null,
       "fantasy_positions": [
         "WR"
@@ -5759,7 +5759,7 @@
     "13380": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 10,
+      "depth_chart_order": 7,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -6014,7 +6014,7 @@
     "1479": {
       "active": true,
       "age": 34,
-      "depth_chart_order": 2,
+      "depth_chart_order": 5,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -6031,7 +6031,7 @@
     "2133": {
       "active": true,
       "age": 33,
-      "depth_chart_order": 5,
+      "depth_chart_order": 4,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -6065,7 +6065,7 @@
     "2216": {
       "active": true,
       "age": 33,
-      "depth_chart_order": 5,
+      "depth_chart_order": 6,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -6286,7 +6286,7 @@
     "4033": {
       "active": true,
       "age": 30,
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "depth_chart_position": "TE",
       "fantasy_positions": [
         "TE"
@@ -6779,7 +6779,7 @@
     "5849": {
       "active": true,
       "age": 29,
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "depth_chart_position": "QB",
       "fantasy_positions": [
         "QB"
@@ -6864,7 +6864,7 @@
     "5872": {
       "active": true,
       "age": 30,
-      "depth_chart_order": 8,
+      "depth_chart_order": 9,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -6983,17 +6983,17 @@
     "6011": {
       "active": true,
       "age": 30,
-      "depth_chart_order": 1,
+      "depth_chart_order": 2,
       "depth_chart_position": "QB",
       "fantasy_positions": [
         "QB"
       ],
       "full_name": "Gardner Minshew II",
       "injury_body_part": "Elbow",
-      "injury_status": "Questionable",
+      "injury_status": "IR",
       "player_id": "6011",
       "position": "QB",
-      "status": "Active",
+      "status": "Inactive",
       "team": "ARI",
       "years_exp": 7
     },
@@ -7153,7 +7153,7 @@
     "6803": {
       "active": true,
       "age": 28,
-      "depth_chart_order": 9,
+      "depth_chart_order": 10,
       "depth_chart_position": null,
       "fantasy_positions": [
         "WR"
@@ -7935,7 +7935,7 @@
     "8142": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 11,
+      "depth_chart_order": 7,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -8078,10 +8078,10 @@
       ],
       "full_name": "Malik Willis",
       "injury_body_part": "Groin",
-      "injury_status": "Questionable",
+      "injury_status": "IR",
       "player_id": "8161",
       "position": "QB",
-      "status": "Active",
+      "status": "Inactive",
       "team": "MIA",
       "years_exp": 4
     },
@@ -8309,7 +8309,7 @@
     "9225": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 4,
+      "depth_chart_order": 2,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -8496,7 +8496,7 @@
     "9493": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 7,
+      "depth_chart_order": 6,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -8530,8 +8530,8 @@
     "9500": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 1,
-      "depth_chart_position": "SWR",
+      "depth_chart_order": 2,
+      "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
       ],
@@ -8541,7 +8541,7 @@
       "player_id": "9500",
       "position": "WR",
       "status": "Active",
-      "team": "IND",
+      "team": "KC",
       "years_exp": 3
     },
     "9501": {
@@ -8745,7 +8745,7 @@
       "player_id": "9757",
       "position": "RB",
       "status": "Active",
-      "team": null,
+      "team": "DAL",
       "years_exp": 3
     },
     "9758": {
@@ -9268,8 +9268,8 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 1,
-          "depth_chart_position": "SWR",
+          "depth_chart_order": 2,
+          "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
           ],
@@ -9279,7 +9279,7 @@
           "player_id": "9500",
           "position": "WR",
           "status": "Active",
-          "team": "IND",
+          "team": "KC",
           "years_exp": 3
         }
       ],
@@ -9973,7 +9973,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 7,
+          "depth_chart_order": 6,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -10613,8 +10613,8 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 3,
-          "depth_chart_position": "RB",
+          "depth_chart_order": null,
+          "depth_chart_position": null,
           "fantasy_positions": [
             "RB"
           ],
@@ -11016,7 +11016,7 @@
       "player_details": [
         {
           "active": true,
-          "age": 26,
+          "age": 27,
           "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
@@ -11255,7 +11255,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 10,
+          "depth_chart_order": 6,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -11272,7 +11272,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 10,
+          "depth_chart_order": 7,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -11442,7 +11442,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 4,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -11714,7 +11714,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 1,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -11731,7 +11731,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 1,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -12141,16 +12141,16 @@
           "active": true,
           "age": 26,
           "depth_chart_order": 7,
-          "depth_chart_position": "SWR",
+          "depth_chart_position": "PR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Michael Wilson",
           "injury_body_part": "Neck",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "player_id": "10232",
           "position": "WR",
-          "status": "Active",
+          "status": "Inactive",
           "team": "ARI",
           "years_exp": 3
         },
@@ -12207,7 +12207,7 @@
         },
         {
           "active": true,
-          "age": 24,
+          "age": 25,
           "depth_chart_order": 1,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
@@ -12757,7 +12757,7 @@
         {
           "active": true,
           "age": 38,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -12768,7 +12768,7 @@
           "player_id": "1166",
           "position": "QB",
           "status": "Active",
-          "team": "LV",
+          "team": "MIN",
           "years_exp": 14
         },
         {
@@ -12910,7 +12910,7 @@
         {
           "active": true,
           "age": 30,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -12995,17 +12995,17 @@
         {
           "active": true,
           "age": 30,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
           ],
           "full_name": "Gardner Minshew II",
           "injury_body_part": "Elbow",
-          "injury_status": "Questionable",
+          "injury_status": "IR",
           "player_id": "6011",
           "position": "QB",
-          "status": "Active",
+          "status": "Inactive",
           "team": "ARI",
           "years_exp": 7
         },
@@ -13213,15 +13213,15 @@
         "wins": 4
       },
       "starters": [
-        "11563",
+        "1166",
         "8150",
         "4034",
         "9487",
-        "11625",
+        "8146",
         "10229",
         "12506",
         "11586",
-        "4866"
+        "8228"
       ],
       "taxi": [
         "12505",
@@ -13330,7 +13330,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 7,
+          "depth_chart_order": 5,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -13704,7 +13704,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 11,
+          "depth_chart_order": 7,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -14280,7 +14280,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 7,
+          "depth_chart_order": 6,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -14641,7 +14641,7 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -14658,7 +14658,7 @@
         {
           "active": true,
           "age": 30,
-          "depth_chart_order": 8,
+          "depth_chart_order": 9,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -14873,7 +14873,7 @@
           "player_id": "9757",
           "position": "RB",
           "status": "Active",
-          "team": null,
+          "team": "DAL",
           "years_exp": 3
         }
       ],
@@ -14934,7 +14934,7 @@
         "6794",
         "7569",
         "10236",
-        "12512",
+        "12495",
         "9224"
       ],
       "taxi": [
@@ -15065,7 +15065,7 @@
         {
           "active": true,
           "age": 34,
-          "depth_chart_order": 2,
+          "depth_chart_order": 5,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -15082,7 +15082,7 @@
         {
           "active": true,
           "age": 33,
-          "depth_chart_order": 5,
+          "depth_chart_order": 4,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -15099,7 +15099,7 @@
         {
           "active": true,
           "age": 33,
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -15252,7 +15252,7 @@
         {
           "active": true,
           "age": 28,
-          "depth_chart_order": 9,
+          "depth_chart_order": 10,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -15361,10 +15361,10 @@
           ],
           "full_name": "Malik Willis",
           "injury_body_part": "Groin",
-          "injury_status": "Questionable",
+          "injury_status": "IR",
           "player_id": "8161",
           "position": "QB",
-          "status": "Active",
+          "status": "Inactive",
           "team": "MIA",
           "years_exp": 4
         },
@@ -20840,7 +20840,7 @@
             "8150",
             "4034",
             "9487",
-            "11625",
+            "8146",
             "10229",
             "12506",
             "11586",
@@ -21107,7 +21107,7 @@
             "6794",
             "7569",
             "10236",
-            "12512",
+            "12495",
             "9224"
           ],
           "starters_points": [
@@ -21889,15 +21889,15 @@
           "points": 0.0,
           "roster_id": 8,
           "starters": [
-            "11563",
+            "1166",
             "8150",
             "4034",
             "9487",
-            "11625",
+            "8146",
             "10229",
             "12506",
             "11586",
-            "4866"
+            "8228"
           ],
           "starters_points": [
             0.0,
@@ -22160,7 +22160,7 @@
             "6794",
             "7569",
             "10236",
-            "12512",
+            "12495",
             "9224"
           ],
           "starters_points": [
@@ -22942,15 +22942,15 @@
           "points": 0.0,
           "roster_id": 8,
           "starters": [
-            "11563",
+            "1166",
             "8150",
             "4034",
             "9487",
-            "11625",
+            "8146",
             "10229",
             "12506",
             "11586",
-            "4866"
+            "8228"
           ],
           "starters_points": [
             0.0,
@@ -23213,7 +23213,7 @@
             "6794",
             "7569",
             "10236",
-            "12512",
+            "12495",
             "9224"
           ],
           "starters_points": [
@@ -23995,15 +23995,15 @@
           "points": 0.0,
           "roster_id": 8,
           "starters": [
-            "11563",
+            "1166",
             "8150",
             "4034",
             "9487",
-            "11625",
+            "8146",
             "10229",
             "12506",
             "11586",
-            "4866"
+            "8228"
           ],
           "starters_points": [
             0.0,
@@ -24266,7 +24266,7 @@
             "6794",
             "7569",
             "10236",
-            "12512",
+            "12495",
             "9224"
           ],
           "starters_points": [
@@ -25048,15 +25048,15 @@
           "points": 0.0,
           "roster_id": 8,
           "starters": [
-            "11563",
+            "1166",
             "8150",
             "4034",
             "9487",
-            "11625",
+            "8146",
             "10229",
             "12506",
             "11586",
-            "4866"
+            "8228"
           ],
           "starters_points": [
             0.0,
@@ -25319,7 +25319,7 @@
             "6794",
             "7569",
             "10236",
-            "12512",
+            "12495",
             "9224"
           ],
           "starters_points": [
@@ -26101,15 +26101,15 @@
           "points": 0.0,
           "roster_id": 8,
           "starters": [
-            "11563",
+            "1166",
             "8150",
             "4034",
             "9487",
-            "11625",
+            "8146",
             "10229",
             "12506",
             "11586",
-            "4866"
+            "8228"
           ],
           "starters_points": [
             0.0,
@@ -26372,7 +26372,7 @@
             "6794",
             "7569",
             "10236",
-            "12512",
+            "12495",
             "9224"
           ],
           "starters_points": [
@@ -27154,15 +27154,15 @@
           "points": 0.0,
           "roster_id": 8,
           "starters": [
-            "11563",
+            "1166",
             "8150",
             "4034",
             "9487",
-            "11625",
+            "8146",
             "10229",
             "12506",
             "11586",
-            "4866"
+            "8228"
           ],
           "starters_points": [
             0.0,
@@ -27425,7 +27425,7 @@
             "6794",
             "7569",
             "10236",
-            "12512",
+            "12495",
             "9224"
           ],
           "starters_points": [
@@ -28207,15 +28207,15 @@
           "points": 0.0,
           "roster_id": 8,
           "starters": [
-            "11563",
+            "1166",
             "8150",
             "4034",
             "9487",
-            "11625",
+            "8146",
             "10229",
             "12506",
             "11586",
-            "4866"
+            "8228"
           ],
           "starters_points": [
             0.0,
@@ -28478,7 +28478,7 @@
             "6794",
             "7569",
             "10236",
-            "12512",
+            "12495",
             "9224"
           ],
           "starters_points": [
@@ -29260,15 +29260,15 @@
           "points": 0.0,
           "roster_id": 8,
           "starters": [
-            "11563",
+            "1166",
             "8150",
             "4034",
             "9487",
-            "11625",
+            "8146",
             "10229",
             "12506",
             "11586",
-            "4866"
+            "8228"
           ],
           "starters_points": [
             0.0,
@@ -29531,7 +29531,7 @@
             "6794",
             "7569",
             "10236",
-            "12512",
+            "12495",
             "9224"
           ],
           "starters_points": [
