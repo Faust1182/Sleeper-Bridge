@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-11-12T07:10:33.189648+00:00",
+  "generated_at": "2026-11-12T19:54:21.624577+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1157,7 +1157,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 11,
+      "daily_waivers_last_ran": 12,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -1750,7 +1750,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 135,
-      "waiver_position": 9,
+      "waiver_position": 8,
       "wins": 4
     },
     "starters": [
@@ -3014,7 +3014,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -3366,7 +3366,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 115,
-        "waiver_position": 12,
+        "waiver_position": 11,
         "wins": 6
       },
       "starters": [
@@ -3424,7 +3424,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -3997,7 +3997,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -4077,7 +4077,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 89,
-        "waiver_position": 6,
+        "waiver_position": 5,
         "wins": 4
       },
       "starters": [
@@ -4368,7 +4368,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -5402,7 +5402,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 5,
+          "depth_chart_order": 4,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -5465,7 +5465,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 99,
-        "waiver_position": 5,
+        "waiver_position": 4,
         "wins": 6
       },
       "starters": [
@@ -6176,7 +6176,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 5,
-        "waiver_position": 4,
+        "waiver_position": 3,
         "wins": 1
       },
       "starters": [
@@ -6739,6 +6739,23 @@
         {
           "active": true,
           "age": 27,
+          "depth_chart_order": 2,
+          "depth_chart_position": "RWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Tutu Atwell",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "7562",
+          "position": "WR",
+          "status": "Active",
+          "team": "LAR",
+          "years_exp": 5
+        },
+        {
+          "active": true,
+          "age": 27,
           "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
@@ -6751,23 +6768,6 @@
           "position": "RB",
           "status": "Active",
           "team": "GB",
-          "years_exp": 4
-        },
-        {
-          "active": true,
-          "age": 26,
-          "depth_chart_order": null,
-          "depth_chart_position": null,
-          "fantasy_positions": [
-            "RB"
-          ],
-          "full_name": "Dameon Pierce",
-          "injury_body_part": "Undisclosed",
-          "injury_status": "Questionable",
-          "player_id": "8129",
-          "position": "RB",
-          "status": "Inactive",
-          "team": null,
           "years_exp": 4
         },
         {
@@ -6886,8 +6886,8 @@
         "ppts_decimal": 76,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 95,
-        "waiver_position": 3,
+        "waiver_budget_used": 133,
+        "waiver_position": 12,
         "wins": 4
       },
       "starters": [
@@ -7297,7 +7297,7 @@
         {
           "active": true,
           "age": 32,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -7889,7 +7889,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -8326,7 +8326,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 131,
-        "waiver_position": 7,
+        "waiver_position": 6,
         "wins": 4
       },
       "starters": [
@@ -8366,20 +8366,20 @@
         },
         {
           "active": true,
-          "age": 30,
+          "age": 28,
           "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Christian McCaffrey",
+          "full_name": "Jaylen Warren",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "4034",
+          "player_id": "8228",
           "position": "RB",
           "status": "Active",
-          "team": "SF",
-          "years_exp": 9
+          "team": "PIT",
+          "years_exp": 4
         },
         {
           "active": true,
@@ -8468,20 +8468,20 @@
         },
         {
           "active": true,
-          "age": 28,
+          "age": 29,
           "depth_chart_order": 1,
-          "depth_chart_position": "RB",
+          "depth_chart_position": "LWR",
           "fantasy_positions": [
-            "RB"
+            "WR"
           ],
-          "full_name": "Jaylen Warren",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "8228",
-          "position": "RB",
+          "full_name": "A.J. Brown",
+          "injury_body_part": "Knee",
+          "injury_status": "Questionable",
+          "player_id": "5859",
+          "position": "WR",
           "status": "Active",
-          "team": "PIT",
-          "years_exp": 4
+          "team": "NE",
+          "years_exp": 7
         }
       ],
       "taxi": [
@@ -9054,7 +9054,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 146,
-        "waiver_position": 8,
+        "waiver_position": 7,
         "wins": 5
       },
       "starters": [
@@ -9277,7 +9277,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -9782,7 +9782,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 110,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 6
       },
       "starters": [
@@ -10510,7 +10510,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 135,
-        "waiver_position": 9,
+        "waiver_position": 8,
         "wins": 4
       },
       "starters": [
@@ -10835,7 +10835,7 @@
         {
           "active": true,
           "age": 34,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -11238,7 +11238,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 95,
-        "waiver_position": 11,
+        "waiver_position": 10,
         "wins": 6
       },
       "starters": [
