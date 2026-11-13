@@ -237,20 +237,8 @@
       },
       {
         "current_owner_roster_id": 12,
-        "original_roster_id": 11,
-        "round": 1,
-        "season": "2027"
-      },
-      {
-        "current_owner_roster_id": 12,
         "original_roster_id": 12,
         "round": 2,
-        "season": "2027"
-      },
-      {
-        "current_owner_roster_id": 12,
-        "original_roster_id": 2,
-        "round": 3,
         "season": "2027"
       },
       {
@@ -258,12 +246,6 @@
         "original_roster_id": 12,
         "round": 4,
         "season": "2027"
-      },
-      {
-        "current_owner_roster_id": 12,
-        "original_roster_id": 4,
-        "round": 2,
-        "season": "2028"
       },
       {
         "current_owner_roster_id": 12,
@@ -899,6 +881,18 @@
       },
       {
         "current_owner_roster_id": 8,
+        "original_roster_id": 11,
+        "round": 1,
+        "season": "2027"
+      },
+      {
+        "current_owner_roster_id": 8,
+        "original_roster_id": 2,
+        "round": 3,
+        "season": "2027"
+      },
+      {
+        "current_owner_roster_id": 8,
         "original_roster_id": 8,
         "round": 3,
         "season": "2027"
@@ -913,6 +907,12 @@
         "current_owner_roster_id": 8,
         "original_roster_id": 8,
         "round": 1,
+        "season": "2028"
+      },
+      {
+        "current_owner_roster_id": 8,
+        "original_roster_id": 4,
+        "round": 2,
         "season": "2028"
       },
       {
@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-11-13T06:46:09.001887+00:00",
+  "generated_at": "2026-11-13T19:42:31.128302+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1157,7 +1157,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 12,
+      "daily_waivers_last_ran": 13,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -1406,8 +1406,8 @@
           "TE"
         ],
         "full_name": "Hunter Henry",
-        "injury_body_part": "Foot",
-        "injury_status": "Questionable",
+        "injury_body_part": null,
+        "injury_status": null,
         "player_id": "3214",
         "position": "TE",
         "status": "Active",
@@ -1750,7 +1750,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 135,
-      "waiver_position": 8,
+      "waiver_position": 7,
       "wins": 4
     },
     "starters": [
@@ -2846,6 +2846,67 @@
       "type": "trade",
       "waiver_budget": [],
       "week": 8
+    },
+    {
+      "adds": {
+        "13424": 8,
+        "4034": 12
+      },
+      "consenter_ids": [
+        8,
+        12
+      ],
+      "created": 1794428040601,
+      "creator": "987187761989873664",
+      "draft_picks": [
+        {
+          "league_id": null,
+          "owner_id": 8,
+          "previous_owner_id": 12,
+          "roster_id": 11,
+          "round": 1,
+          "season": "2027"
+        },
+        {
+          "league_id": null,
+          "owner_id": 8,
+          "previous_owner_id": 12,
+          "roster_id": 2,
+          "round": 3,
+          "season": "2027"
+        },
+        {
+          "league_id": null,
+          "owner_id": 8,
+          "previous_owner_id": 12,
+          "roster_id": 4,
+          "round": 2,
+          "season": "2028"
+        }
+      ],
+      "drops": {
+        "13424": 12,
+        "4034": 8
+      },
+      "leg": 10,
+      "metadata": {
+        "notes": "Your trade was processed successfully!",
+        "poll_id": "1426341998524121088",
+        "veto_msg_id": "1426341998603816960"
+      },
+      "roster_ids": [
+        8,
+        12
+      ],
+      "settings": {
+        "is_counter": 1
+      },
+      "status": "complete",
+      "status_updated": 1794554648818,
+      "transaction_id": "1426338218189524992",
+      "type": "trade",
+      "waiver_budget": [],
+      "week": 10
     }
   ],
   "rosters": [
@@ -3020,8 +3081,8 @@
             "WR"
           ],
           "full_name": "Omar Cooper Jr.",
-          "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13276",
           "position": "WR",
           "status": "Active",
@@ -3269,7 +3330,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 5,
+          "depth_chart_order": 4,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -3366,7 +3427,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 115,
-        "waiver_position": 11,
+        "waiver_position": 10,
         "wins": 6
       },
       "starters": [
@@ -3430,8 +3491,8 @@
             "WR"
           ],
           "full_name": "Omar Cooper Jr.",
-          "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13276",
           "position": "WR",
           "status": "Active",
@@ -6887,7 +6948,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 133,
-        "waiver_position": 12,
+        "waiver_position": 11,
         "wins": 4
       },
       "starters": [
@@ -8009,6 +8070,23 @@
           "active": true,
           "age": 24,
           "depth_chart_order": 3,
+          "depth_chart_position": "LWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "CJ Daniels",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "13270",
+          "position": "WR",
+          "status": "Active",
+          "team": "LAR",
+          "years_exp": 0
+        },
+        {
+          "active": true,
+          "age": 24,
+          "depth_chart_order": 3,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -8037,6 +8115,23 @@
           "position": "TE",
           "status": "Active",
           "team": "NE",
+          "years_exp": 0
+        },
+        {
+          "active": true,
+          "age": 25,
+          "depth_chart_order": 2,
+          "depth_chart_position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "full_name": "Seth McGowan",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "13424",
+          "position": "RB",
+          "status": "Active",
+          "team": "IND",
           "years_exp": 0
         },
         {
@@ -8071,23 +8166,6 @@
           "position": "TE",
           "status": "Inactive",
           "team": "LAC",
-          "years_exp": 9
-        },
-        {
-          "active": true,
-          "age": 30,
-          "depth_chart_order": 1,
-          "depth_chart_position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "full_name": "Christian McCaffrey",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "4034",
-          "position": "RB",
-          "status": "Active",
-          "team": "SF",
           "years_exp": 9
         },
         {
@@ -8325,8 +8403,8 @@
         "ppts_decimal": 54,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 131,
-        "waiver_position": 6,
+        "waiver_budget_used": 132,
+        "waiver_position": 12,
         "wins": 4
       },
       "starters": [
@@ -8760,7 +8838,7 @@
           ],
           "full_name": "Carnell Tate",
           "injury_body_part": "Shoulder",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "13279",
           "position": "WR",
           "status": "Active",
@@ -8828,7 +8906,7 @@
           ],
           "full_name": "Chris Bell",
           "injury_body_part": "Knee",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "player_id": "13311",
           "position": "WR",
           "status": "Active",
@@ -8946,8 +9024,8 @@
             "RB"
           ],
           "full_name": "Zonovan Knight",
-          "injury_body_part": "Concussion",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "8122",
           "position": "RB",
           "status": "Active",
@@ -9054,7 +9132,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 146,
-        "waiver_position": 7,
+        "waiver_position": 6,
         "wins": 5
       },
       "starters": [
@@ -9111,20 +9189,20 @@
         },
         {
           "active": true,
-          "age": 21,
-          "depth_chart_order": 1,
+          "age": 24,
+          "depth_chart_order": 4,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Carnell Tate",
-          "injury_body_part": "Shoulder",
-          "injury_status": "Questionable",
-          "player_id": "13279",
+          "full_name": "Jordan Watkins",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "12634",
           "position": "WR",
           "status": "Active",
-          "team": "TEN",
-          "years_exp": 0
+          "team": "SF",
+          "years_exp": 1
         },
         {
           "active": true,
@@ -9186,8 +9264,8 @@
             "RB"
           ],
           "full_name": "Zonovan Knight",
-          "injury_body_part": "Concussion",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "8122",
           "position": "RB",
           "status": "Active",
@@ -9657,8 +9735,8 @@
             "RB"
           ],
           "full_name": "Kenneth Walker III",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Groin",
+          "injury_status": "Questionable",
           "player_id": "8151",
           "position": "RB",
           "status": "Active",
@@ -9702,7 +9780,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -9719,7 +9797,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 6,
+          "depth_chart_order": 7,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -9782,7 +9860,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 110,
-        "waiver_position": 9,
+        "waiver_position": 8,
         "wins": 6
       },
       "starters": [
@@ -9829,8 +9907,8 @@
             "RB"
           ],
           "full_name": "Kenneth Walker III",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Groin",
+          "injury_status": "Questionable",
           "player_id": "8151",
           "position": "RB",
           "status": "Active",
@@ -9840,7 +9918,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 6,
+          "depth_chart_order": 7,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -10181,8 +10259,8 @@
             "TE"
           ],
           "full_name": "Hunter Henry",
-          "injury_body_part": "Foot",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "3214",
           "position": "TE",
           "status": "Active",
@@ -10510,7 +10588,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 135,
-        "waiver_position": 8,
+        "waiver_position": 7,
         "wins": 4
       },
       "starters": [
@@ -10791,7 +10869,7 @@
           ],
           "full_name": "Zachariah Branch",
           "injury_body_part": "Hamstring",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "player_id": "13320",
           "position": "WR",
           "status": "Active",
@@ -10813,23 +10891,6 @@
           "position": "WR",
           "status": "Active",
           "team": "BUF",
-          "years_exp": 0
-        },
-        {
-          "active": true,
-          "age": 25,
-          "depth_chart_order": 2,
-          "depth_chart_position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "full_name": "Seth McGowan",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "13424",
-          "position": "RB",
-          "status": "Active",
-          "team": "IND",
           "years_exp": 0
         },
         {
@@ -10916,6 +10977,23 @@
           "status": "Active",
           "team": "CAR",
           "years_exp": 11
+        },
+        {
+          "active": true,
+          "age": 30,
+          "depth_chart_order": 1,
+          "depth_chart_position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "full_name": "Christian McCaffrey",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "4034",
+          "position": "RB",
+          "status": "Active",
+          "team": "SF",
+          "years_exp": 9
         },
         {
           "active": true,
@@ -11238,7 +11316,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 95,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 6
       },
       "starters": [
@@ -11346,23 +11424,6 @@
         },
         {
           "active": true,
-          "age": 26,
-          "depth_chart_order": 1,
-          "depth_chart_position": "TE",
-          "fantasy_positions": [
-            "TE"
-          ],
-          "full_name": "Trey McBride",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "8130",
-          "position": "TE",
-          "status": "Active",
-          "team": "ARI",
-          "years_exp": 4
-        },
-        {
-          "active": true,
           "age": 34,
           "depth_chart_order": 1,
           "depth_chart_position": "TE",
@@ -11380,20 +11441,37 @@
         },
         {
           "active": true,
-          "age": 25,
-          "depth_chart_order": 2,
+          "age": 26,
+          "depth_chart_order": 1,
+          "depth_chart_position": "TE",
+          "fantasy_positions": [
+            "TE"
+          ],
+          "full_name": "Trey McBride",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "8130",
+          "position": "TE",
+          "status": "Active",
+          "team": "ARI",
+          "years_exp": 4
+        },
+        {
+          "active": true,
+          "age": 30,
+          "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Seth McGowan",
+          "full_name": "Christian McCaffrey",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "13424",
+          "player_id": "4034",
           "position": "RB",
           "status": "Active",
-          "team": "IND",
-          "years_exp": 0
+          "team": "SF",
+          "years_exp": 9
         }
       ],
       "taxi": [
@@ -11424,7 +11502,7 @@
           ],
           "full_name": "Zachariah Branch",
           "injury_body_part": "Hamstring",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "player_id": "13320",
           "position": "WR",
           "status": "Active",
@@ -11505,8 +11583,8 @@
       "season": "2027"
     },
     {
-      "owner_id": 12,
-      "previous_owner_id": 2,
+      "owner_id": 8,
+      "previous_owner_id": 12,
       "roster_id": 2,
       "round": 3,
       "season": "2027"
@@ -11589,8 +11667,8 @@
       "season": "2027"
     },
     {
-      "owner_id": 12,
-      "previous_owner_id": 11,
+      "owner_id": 8,
+      "previous_owner_id": 12,
       "roster_id": 4,
       "round": 2,
       "season": "2028"
@@ -11827,8 +11905,8 @@
       "season": "2026"
     },
     {
-      "owner_id": 12,
-      "previous_owner_id": 11,
+      "owner_id": 8,
+      "previous_owner_id": 12,
       "roster_id": 11,
       "round": 1,
       "season": "2027"
