@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-11-13T19:42:31.128302+00:00",
+  "generated_at": "2026-11-14T06:23:28.511111+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2576,8 +2576,8 @@
           "TE"
         ],
         "full_name": "Dalton Kincaid",
-        "injury_body_part": "Ankle",
-        "injury_status": "Questionable",
+        "injury_body_part": null,
+        "injury_status": null,
         "player_id": "10236",
         "position": "TE",
         "status": "Active",
@@ -2672,7 +2672,7 @@
       {
         "active": true,
         "age": 24,
-        "depth_chart_order": 5,
+        "depth_chart_order": 3,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -2815,7 +2815,7 @@
         ],
         "full_name": "Kyler Murray",
         "injury_body_part": "Hamstring",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "player_id": "5849",
         "position": "QB",
         "status": "Active",
@@ -2831,8 +2831,8 @@
           "WR"
         ],
         "full_name": "Deebo Samuel Sr.",
-        "injury_body_part": "Hamstring",
-        "injury_status": "Questionable",
+        "injury_body_part": null,
+        "injury_status": null,
         "player_id": "5872",
         "position": "WR",
         "status": "Active",
@@ -3180,8 +3180,8 @@
         "RB"
       ],
       "full_name": "Chris Rodriguez Jr.",
-      "injury_body_part": "Hand",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "10219",
       "position": "RB",
       "status": "Active",
@@ -3282,8 +3282,8 @@
         "TE"
       ],
       "full_name": "Dalton Kincaid",
-      "injury_body_part": "Ankle",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "10236",
       "position": "TE",
       "status": "Active",
@@ -3548,7 +3548,7 @@
     "11579": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 1,
+      "depth_chart_order": 2,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -3792,8 +3792,8 @@
         "WR"
       ],
       "full_name": "Adonai Mitchell",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Knee",
+      "injury_status": "Questionable",
       "player_id": "11625",
       "position": "WR",
       "status": "Active",
@@ -3837,14 +3837,14 @@
     "11628": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 5,
+      "depth_chart_order": 6,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
       ],
       "full_name": "Marvin Harrison Jr.",
       "injury_body_part": "Hamstring",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "player_id": "11628",
       "position": "WR",
       "status": "Active",
@@ -4200,8 +4200,8 @@
         "RB"
       ],
       "full_name": "Woody Marks",
-      "injury_body_part": "Knee",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "12474",
       "position": "RB",
       "status": "Active",
@@ -4251,8 +4251,8 @@
         "WR"
       ],
       "full_name": "Savion Williams",
-      "injury_body_part": "Groin",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "12482",
       "position": "WR",
       "status": "Active",
@@ -4279,7 +4279,7 @@
     "12484": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 9,
+      "depth_chart_order": 10,
       "depth_chart_position": null,
       "fantasy_positions": [
         "WR"
@@ -4353,8 +4353,8 @@
         "RB"
       ],
       "full_name": "Bhayshul Tuten",
-      "injury_body_part": "Ankle",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "12490",
       "position": "RB",
       "status": "Active",
@@ -4466,7 +4466,7 @@
     "12499": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -4591,8 +4591,8 @@
         "TE"
       ],
       "full_name": "Harold Fannin Jr.",
-      "injury_body_part": "Groin",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "12506",
       "position": "TE",
       "status": "Active",
@@ -4642,8 +4642,8 @@
         "WR"
       ],
       "full_name": "Tre' Harris",
-      "injury_body_part": "Shoulder",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "12509",
       "position": "WR",
       "status": "Active",
@@ -4943,7 +4943,7 @@
     "12536": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 7,
+      "depth_chart_order": 8,
       "depth_chart_position": null,
       "fantasy_positions": [
         "WR"
@@ -4960,7 +4960,7 @@
     "12540": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 5,
+      "depth_chart_order": 3,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -5221,8 +5221,8 @@
         "WR"
       ],
       "full_name": "Omar Cooper Jr.",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Ankle",
+      "injury_status": "Questionable",
       "player_id": "13276",
       "position": "WR",
       "status": "Active",
@@ -5249,7 +5249,7 @@
     "13279": {
       "active": true,
       "age": 21,
-      "depth_chart_order": 1,
+      "depth_chart_order": 7,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -5521,7 +5521,7 @@
     "13311": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -5657,7 +5657,7 @@
     "13338": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -6082,14 +6082,14 @@
     "2216": {
       "active": true,
       "age": 33,
-      "depth_chart_order": 5,
+      "depth_chart_order": 7,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
       ],
       "full_name": "Mike Evans",
       "injury_body_part": "Achilles",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "player_id": "2216",
       "position": "WR",
       "status": "Active",
@@ -6139,8 +6139,8 @@
         "QB"
       ],
       "full_name": "Carson Wentz",
-      "injury_body_part": "Ankle",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "3161",
       "position": "QB",
       "status": "Active",
@@ -6224,8 +6224,8 @@
         "TE"
       ],
       "full_name": "Tyler Higbee",
-      "injury_body_part": "Illness",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "3271",
       "position": "TE",
       "status": "Active",
@@ -6354,7 +6354,7 @@
     "4035": {
       "active": true,
       "age": 31,
-      "depth_chart_order": 2,
+      "depth_chart_order": 1,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -6779,14 +6779,14 @@
     "5844": {
       "active": true,
       "age": 29,
-      "depth_chart_order": 1,
+      "depth_chart_order": 3,
       "depth_chart_position": "TE",
       "fantasy_positions": [
         "TE"
       ],
       "full_name": "T.J. Hockenson",
       "injury_body_part": "Wrist",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "player_id": "5844",
       "position": "TE",
       "status": "Active",
@@ -6820,7 +6820,7 @@
       ],
       "full_name": "Kyler Murray",
       "injury_body_part": "Hamstring",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "player_id": "5849",
       "position": "QB",
       "status": "Active",
@@ -6853,8 +6853,8 @@
         "QB"
       ],
       "full_name": "Drew Lock",
-      "injury_body_part": "Oblique",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "5854",
       "position": "QB",
       "status": "Active",
@@ -6904,8 +6904,8 @@
         "WR"
       ],
       "full_name": "Deebo Samuel Sr.",
-      "injury_body_part": "Hamstring",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "5872",
       "position": "WR",
       "status": "Active",
@@ -6931,7 +6931,7 @@
     },
     "5906": {
       "active": true,
-      "age": 29,
+      "age": 30,
       "depth_chart_order": 2,
       "depth_chart_position": "TE",
       "fantasy_positions": [
@@ -6972,8 +6972,8 @@
         "WR"
       ],
       "full_name": "Jakobi Meyers",
-      "injury_body_part": "Ankle",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "5947",
       "position": "WR",
       "status": "Active",
@@ -6989,8 +6989,8 @@
         "RB"
       ],
       "full_name": "Tony Pollard",
-      "injury_body_part": "Finger",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "5967",
       "position": "RB",
       "status": "Active",
@@ -6999,7 +6999,7 @@
     },
     "5995": {
       "active": true,
-      "age": 28,
+      "age": 29,
       "depth_chart_order": 2,
       "depth_chart_position": "RB",
       "fantasy_positions": [
@@ -7373,7 +7373,7 @@
     },
     "7525": {
       "active": true,
-      "age": 27,
+      "age": 28,
       "depth_chart_order": 4,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
@@ -7425,7 +7425,7 @@
     "7543": {
       "active": true,
       "age": 27,
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -7550,8 +7550,8 @@
         "WR"
       ],
       "full_name": "Rashod Bateman",
-      "injury_body_part": "Calf",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "7571",
       "position": "WR",
       "status": "Active",
@@ -7629,7 +7629,7 @@
     "7611": {
       "active": true,
       "age": 28,
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -7799,7 +7799,7 @@
     "8126": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 2,
+      "depth_chart_order": 1,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -7907,8 +7907,8 @@
         "WR"
       ],
       "full_name": "George Pickens",
-      "injury_body_part": "Hamstring",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "8137",
       "position": "WR",
       "status": "Active",
@@ -8723,8 +8723,8 @@
         "WR"
       ],
       "full_name": "Jordan Addison",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Thumb",
+      "injury_status": "Questionable",
       "player_id": "9756",
       "position": "WR",
       "status": "Active",
@@ -8911,7 +8911,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 7,
+          "depth_chart_order": 8,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -8968,8 +8968,8 @@
             "WR"
           ],
           "full_name": "Omar Cooper Jr.",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ankle",
+          "injury_status": "Questionable",
           "player_id": "13276",
           "position": "WR",
           "status": "Active",
@@ -9121,8 +9121,8 @@
             "QB"
           ],
           "full_name": "Carson Wentz",
-          "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "3161",
           "position": "QB",
           "status": "Active",
@@ -9138,8 +9138,8 @@
             "TE"
           ],
           "full_name": "Tyler Higbee",
-          "injury_body_part": "Illness",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "3271",
           "position": "TE",
           "status": "Active",
@@ -9216,7 +9216,7 @@
         },
         {
           "active": true,
-          "age": 27,
+          "age": 28,
           "depth_chart_order": 4,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
@@ -9374,8 +9374,8 @@
             "RB"
           ],
           "full_name": "Chris Rodriguez Jr.",
-          "injury_body_part": "Hand",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "10219",
           "position": "RB",
           "status": "Active",
@@ -9663,8 +9663,8 @@
             "WR"
           ],
           "full_name": "Jakobi Meyers",
-          "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "5947",
           "position": "WR",
           "status": "Active",
@@ -10007,14 +10007,14 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Marvin Harrison Jr.",
           "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "11628",
           "position": "WR",
           "status": "Active",
@@ -10047,8 +10047,8 @@
             "RB"
           ],
           "full_name": "Woody Marks",
-          "injury_body_part": "Knee",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "12474",
           "position": "RB",
           "status": "Active",
@@ -10058,7 +10058,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 9,
+          "depth_chart_order": 10,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -10098,8 +10098,8 @@
             "RB"
           ],
           "full_name": "Bhayshul Tuten",
-          "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "12490",
           "position": "RB",
           "status": "Active",
@@ -10432,11 +10432,11 @@
         "12490",
         "12474",
         "8148",
-        "11620",
+        "13274",
         "13346",
         "8131",
         "8132",
-        "11783"
+        "7021"
       ],
       "taxi": [
         "12497",
@@ -10687,8 +10687,8 @@
             "WR"
           ],
           "full_name": "Tre' Harris",
-          "injury_body_part": "Shoulder",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "12509",
           "position": "WR",
           "status": "Active",
@@ -10823,8 +10823,8 @@
             "RB"
           ],
           "full_name": "Tony Pollard",
-          "injury_body_part": "Finger",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "5967",
           "position": "RB",
           "status": "Active",
@@ -10834,7 +10834,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -10857,8 +10857,8 @@
             "WR"
           ],
           "full_name": "George Pickens",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "8137",
           "position": "WR",
           "status": "Active",
@@ -11339,7 +11339,7 @@
         },
         {
           "active": true,
-          "age": 28,
+          "age": 29,
           "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
@@ -12293,7 +12293,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -12462,7 +12462,7 @@
         },
         {
           "active": true,
-          "age": 29,
+          "age": 30,
           "depth_chart_order": 2,
           "depth_chart_position": "TE",
           "fantasy_positions": [
@@ -12548,7 +12548,7 @@
         {
           "active": true,
           "age": 28,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -12746,8 +12746,8 @@
             "WR"
           ],
           "full_name": "Adonai Mitchell",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Knee",
+          "injury_status": "Questionable",
           "player_id": "11625",
           "position": "WR",
           "status": "Active",
@@ -12797,8 +12797,8 @@
             "TE"
           ],
           "full_name": "Harold Fannin Jr.",
-          "injury_body_part": "Groin",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "12506",
           "position": "TE",
           "status": "Active",
@@ -13035,8 +13035,8 @@
             "WR"
           ],
           "full_name": "Rashod Bateman",
-          "injury_body_part": "Calf",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "7571",
           "position": "WR",
           "status": "Active",
@@ -13154,8 +13154,8 @@
             "WR"
           ],
           "full_name": "Jordan Addison",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Thumb",
+          "injury_status": "Questionable",
           "player_id": "9756",
           "position": "WR",
           "status": "Active",
@@ -13398,7 +13398,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -13483,7 +13483,7 @@
         {
           "active": true,
           "age": 21,
-          "depth_chart_order": 1,
+          "depth_chart_order": 7,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -13551,7 +13551,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -13889,7 +13889,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -13980,8 +13980,8 @@
             "WR"
           ],
           "full_name": "Savion Williams",
-          "injury_body_part": "Groin",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "12482",
           "position": "WR",
           "status": "Active",
@@ -14076,7 +14076,7 @@
         {
           "active": true,
           "age": 31,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -14110,14 +14110,14 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 1,
+          "depth_chart_order": 3,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
           ],
           "full_name": "T.J. Hockenson",
           "injury_body_part": "Wrist",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "5844",
           "position": "TE",
           "status": "Active",
@@ -14144,7 +14144,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -14365,12 +14365,12 @@
         "4984",
         "9509",
         "8151",
-        "9493",
+        "13281",
         "7564",
         "8144",
-        "5844",
+        "7002",
         "8155",
-        "4035"
+        "7543"
       ],
       "taxi": [
         "11729",
@@ -14409,8 +14409,8 @@
             "TE"
           ],
           "full_name": "Dalton Kincaid",
-          "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "10236",
           "position": "TE",
           "status": "Active",
@@ -14505,7 +14505,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 5,
+          "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -14648,7 +14648,7 @@
           ],
           "full_name": "Kyler Murray",
           "injury_body_part": "Hamstring",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "player_id": "5849",
           "position": "QB",
           "status": "Active",
@@ -14664,8 +14664,8 @@
             "WR"
           ],
           "full_name": "Deebo Samuel Sr.",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "5872",
           "position": "WR",
           "status": "Active",
@@ -15082,14 +15082,14 @@
         {
           "active": true,
           "age": 33,
-          "depth_chart_order": 5,
+          "depth_chart_order": 7,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Mike Evans",
           "injury_body_part": "Achilles",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "2216",
           "position": "WR",
           "status": "Active",
@@ -15224,8 +15224,8 @@
             "QB"
           ],
           "full_name": "Drew Lock",
-          "injury_body_part": "Oblique",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "5854",
           "position": "QB",
           "status": "Active",
@@ -20408,7 +20408,7 @@
             "13346",
             "8131",
             "8132",
-            "11783"
+            "7021"
           ],
           "starters_points": [
             0.0,
@@ -21018,7 +21018,7 @@
             "13281",
             "7564",
             "8144",
-            "5844",
+            "7002",
             "8155",
             "7543"
           ],
@@ -21655,11 +21655,11 @@
             "12490",
             "12474",
             "8148",
-            "11620",
+            "13274",
             "13346",
             "8131",
             "8132",
-            "11783"
+            "7021"
           ],
           "starters_points": [
             0.0,
@@ -22264,14 +22264,14 @@
           "roster_id": 10,
           "starters": [
             "4984",
-            "7543",
+            "9509",
             "8151",
             "13281",
             "7564",
             "8144",
-            "5844",
+            "7002",
             "8155",
-            "4035"
+            "7543"
           ],
           "starters_points": [
             0.0,
@@ -22708,11 +22708,11 @@
             "12490",
             "12474",
             "8148",
-            "11620",
+            "13274",
             "13346",
             "8131",
             "8132",
-            "11783"
+            "7021"
           ],
           "starters_points": [
             0.0,
@@ -23322,9 +23322,9 @@
             "13281",
             "7564",
             "8144",
-            "5844",
+            "7002",
             "8155",
-            "4035"
+            "7543"
           ],
           "starters_points": [
             0.0,
@@ -23761,11 +23761,11 @@
             "12490",
             "12474",
             "8148",
-            "11620",
+            "13274",
             "13346",
             "8131",
             "8132",
-            "11783"
+            "7021"
           ],
           "starters_points": [
             0.0,
@@ -24372,12 +24372,12 @@
             "4984",
             "9509",
             "8151",
-            "9493",
+            "13281",
             "7564",
             "8144",
-            "5844",
+            "7002",
             "8155",
-            "4035"
+            "7543"
           ],
           "starters_points": [
             0.0,
@@ -24814,11 +24814,11 @@
             "12490",
             "12474",
             "8148",
-            "11620",
+            "13274",
             "13346",
             "8131",
             "8132",
-            "11783"
+            "7021"
           ],
           "starters_points": [
             0.0,
@@ -25425,12 +25425,12 @@
             "4984",
             "9509",
             "8151",
-            "9493",
+            "13281",
             "7564",
             "8144",
-            "5844",
+            "7002",
             "8155",
-            "4035"
+            "7543"
           ],
           "starters_points": [
             0.0,
@@ -25867,11 +25867,11 @@
             "12490",
             "12474",
             "8148",
-            "11620",
+            "13274",
             "13346",
             "8131",
             "8132",
-            "11783"
+            "7021"
           ],
           "starters_points": [
             0.0,
@@ -26478,12 +26478,12 @@
             "4984",
             "9509",
             "8151",
-            "9493",
+            "13281",
             "7564",
             "8144",
-            "5844",
+            "7002",
             "8155",
-            "4035"
+            "7543"
           ],
           "starters_points": [
             0.0,
@@ -26920,11 +26920,11 @@
             "12490",
             "12474",
             "8148",
-            "11620",
+            "13274",
             "13346",
             "8131",
             "8132",
-            "11783"
+            "7021"
           ],
           "starters_points": [
             0.0,
@@ -27531,12 +27531,12 @@
             "4984",
             "9509",
             "8151",
-            "9493",
+            "13281",
             "7564",
             "8144",
-            "5844",
+            "7002",
             "8155",
-            "4035"
+            "7543"
           ],
           "starters_points": [
             0.0,
@@ -27973,11 +27973,11 @@
             "12490",
             "12474",
             "8148",
-            "11620",
+            "13274",
             "13346",
             "8131",
             "8132",
-            "11783"
+            "7021"
           ],
           "starters_points": [
             0.0,
@@ -28584,12 +28584,12 @@
             "4984",
             "9509",
             "8151",
-            "9493",
+            "13281",
             "7564",
             "8144",
-            "5844",
+            "7002",
             "8155",
-            "4035"
+            "7543"
           ],
           "starters_points": [
             0.0,
@@ -29026,11 +29026,11 @@
             "12490",
             "12474",
             "8148",
-            "11620",
+            "13274",
             "13346",
             "8131",
             "8132",
-            "11783"
+            "7021"
           ],
           "starters_points": [
             0.0,
@@ -29637,12 +29637,12 @@
             "4984",
             "9509",
             "8151",
-            "9493",
+            "13281",
             "7564",
             "8144",
-            "5844",
+            "7002",
             "8155",
-            "4035"
+            "7543"
           ],
           "starters_points": [
             0.0,

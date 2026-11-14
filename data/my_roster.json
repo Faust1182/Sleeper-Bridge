@@ -60,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-11-13T19:42:31.128302+00:00",
+  "generated_at": "2026-11-14T06:23:28.511111+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -93,8 +93,8 @@
           "TE"
         ],
         "full_name": "Dalton Kincaid",
-        "injury_body_part": "Ankle",
-        "injury_status": "Questionable",
+        "injury_body_part": null,
+        "injury_status": null,
         "player_id": "10236",
         "position": "TE",
         "status": "Active",
@@ -189,7 +189,7 @@
       {
         "active": true,
         "age": 24,
-        "depth_chart_order": 5,
+        "depth_chart_order": 3,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -332,7 +332,7 @@
         ],
         "full_name": "Kyler Murray",
         "injury_body_part": "Hamstring",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "player_id": "5849",
         "position": "QB",
         "status": "Active",
@@ -348,8 +348,8 @@
           "WR"
         ],
         "full_name": "Deebo Samuel Sr.",
-        "injury_body_part": "Hamstring",
-        "injury_status": "Questionable",
+        "injury_body_part": null,
+        "injury_status": null,
         "player_id": "5872",
         "position": "WR",
         "status": "Active",
