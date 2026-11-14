@@ -60,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-11-14T06:23:28.511111+00:00",
+  "generated_at": "2026-11-14T18:01:46.318522+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -223,7 +223,7 @@
       {
         "active": true,
         "age": 24,
-        "depth_chart_order": 6,
+        "depth_chart_order": 7,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -450,8 +450,8 @@
           "TE"
         ],
         "full_name": "Pat Freiermuth",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Illness",
+        "injury_status": "Questionable",
         "player_id": "7600",
         "position": "TE",
         "status": "Active",

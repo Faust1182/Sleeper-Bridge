@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-11-14T06:23:28.511111+00:00",
+  "generated_at": "2026-11-14T18:01:46.318522+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1157,7 +1157,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 13,
+      "daily_waivers_last_ran": 14,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -1366,7 +1366,7 @@
       {
         "active": true,
         "age": 24,
-        "depth_chart_order": 6,
+        "depth_chart_order": 7,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -1593,8 +1593,8 @@
           "TE"
         ],
         "full_name": "Pat Freiermuth",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Illness",
+        "injury_status": "Questionable",
         "player_id": "7600",
         "position": "TE",
         "status": "Active",
@@ -3381,7 +3381,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -3569,20 +3569,20 @@
         },
         {
           "active": true,
-          "age": 25,
-          "depth_chart_order": 2,
-          "depth_chart_position": "LWR",
+          "age": 33,
+          "depth_chart_order": 1,
+          "depth_chart_position": "TE",
           "fantasy_positions": [
-            "WR"
+            "TE"
           ],
-          "full_name": "Josh Downs",
+          "full_name": "Tyler Higbee",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "9500",
-          "position": "WR",
+          "player_id": "3271",
+          "position": "TE",
           "status": "Active",
-          "team": "KC",
-          "years_exp": 3
+          "team": "LAR",
+          "years_exp": 10
         }
       ],
       "taxi": [
@@ -3684,7 +3684,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -3951,23 +3951,6 @@
           "position": "WR",
           "status": "Active",
           "team": "JAX",
-          "years_exp": 7
-        },
-        {
-          "active": true,
-          "age": 29,
-          "depth_chart_order": 2,
-          "depth_chart_position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "full_name": "Ty Johnson",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "6039",
-          "position": "RB",
-          "status": "Active",
-          "team": "BUF",
           "years_exp": 7
         },
         {
@@ -4280,20 +4263,20 @@
         },
         {
           "active": true,
-          "age": 27,
+          "age": 23,
           "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Chris Rodriguez Jr.",
+          "full_name": "Emmett Johnson",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "10219",
+          "player_id": "13337",
           "position": "RB",
           "status": "Active",
-          "team": "JAX",
-          "years_exp": 3
+          "team": "KC",
+          "years_exp": 0
         }
       ],
       "taxi": [
@@ -4312,23 +4295,6 @@
           "position": "TE",
           "status": "Active",
           "team": "NO",
-          "years_exp": 0
-        },
-        {
-          "active": true,
-          "age": 23,
-          "depth_chart_order": 2,
-          "depth_chart_position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "full_name": "Emmett Johnson",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "13337",
-          "position": "RB",
-          "status": "Active",
-          "team": "KC",
           "years_exp": 0
         }
       ]
@@ -9736,7 +9702,7 @@
           ],
           "full_name": "Kenneth Walker III",
           "injury_body_part": "Groin",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "8151",
           "position": "RB",
           "status": "Active",
@@ -9908,7 +9874,7 @@
           ],
           "full_name": "Kenneth Walker III",
           "injury_body_part": "Groin",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "8151",
           "position": "RB",
           "status": "Active",
@@ -10219,7 +10185,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 6,
+          "depth_chart_order": 7,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -10446,8 +10412,8 @@
             "TE"
           ],
           "full_name": "Pat Freiermuth",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Illness",
+          "injury_status": "Questionable",
           "player_id": "7600",
           "position": "TE",
           "status": "Active",
@@ -10784,7 +10750,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 6,
+          "depth_chart_order": 7,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"

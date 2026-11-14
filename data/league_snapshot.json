@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-11-14T06:23:28.511111+00:00",
+  "generated_at": "2026-11-14T18:01:46.318522+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2393,9 +2393,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1427015329615216640",
+    "last_message_id": "1427387299376664576",
     "last_message_text_map": null,
-    "last_message_time": 1794589476544,
+    "last_message_time": 1794678161046,
     "last_pinned_message_id": "1426341998603816960",
     "last_read_id": null,
     "league_id": "1314667834135040000",
@@ -2494,7 +2494,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 13,
+      "daily_waivers_last_ran": 14,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -2706,7 +2706,7 @@
       {
         "active": true,
         "age": 24,
-        "depth_chart_order": 6,
+        "depth_chart_order": 7,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -2933,8 +2933,8 @@
           "TE"
         ],
         "full_name": "Pat Freiermuth",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Illness",
+        "injury_status": "Questionable",
         "player_id": "7600",
         "position": "TE",
         "status": "Active",
@@ -3769,7 +3769,7 @@
     "11624": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -5606,7 +5606,7 @@
     "13329": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 6,
+      "depth_chart_order": 7,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -7014,23 +7014,6 @@
       "team": "BAL",
       "years_exp": 7
     },
-    "6039": {
-      "active": true,
-      "age": 29,
-      "depth_chart_order": 2,
-      "depth_chart_position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "full_name": "Ty Johnson",
-      "injury_body_part": null,
-      "injury_status": null,
-      "player_id": "6039",
-      "position": "RB",
-      "status": "Active",
-      "team": "BUF",
-      "years_exp": 7
-    },
     "6130": {
       "active": true,
       "age": 29,
@@ -7618,8 +7601,8 @@
         "TE"
       ],
       "full_name": "Pat Freiermuth",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Illness",
+      "injury_status": "Questionable",
       "player_id": "7600",
       "position": "TE",
       "status": "Active",
@@ -8027,7 +8010,7 @@
       ],
       "full_name": "Kenneth Walker III",
       "injury_body_part": "Groin",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "player_id": "8151",
       "position": "RB",
       "status": "Active",
@@ -8530,7 +8513,7 @@
     "9500": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -9268,7 +9251,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -9341,7 +9324,7 @@
         "12501",
         "11604",
         "1466",
-        "9500"
+        "3271"
       ],
       "taxi": [
         "12543",
@@ -9402,7 +9385,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -9673,23 +9656,6 @@
         },
         {
           "active": true,
-          "age": 29,
-          "depth_chart_order": 2,
-          "depth_chart_position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "full_name": "Ty Johnson",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "6039",
-          "position": "RB",
-          "status": "Active",
-          "team": "BUF",
-          "years_exp": 7
-        },
-        {
-          "active": true,
           "age": 27,
           "depth_chart_order": 1,
           "depth_chart_position": "RB",
@@ -9845,7 +9811,6 @@
         "13414",
         "13533",
         "5947",
-        "6039",
         "8136",
         "8180",
         "8188",
@@ -9882,11 +9847,10 @@
         "5947",
         "9480",
         "9502",
-        "10219"
+        "13337"
       ],
       "taxi": [
-        "13319",
-        "13337"
+        "13319"
       ]
     },
     {
@@ -14219,7 +14183,7 @@
           ],
           "full_name": "Kenneth Walker III",
           "injury_body_part": "Groin",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "8151",
           "position": "RB",
           "status": "Active",
@@ -14539,7 +14503,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 6,
+          "depth_chart_order": 7,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -14766,8 +14730,8 @@
             "TE"
           ],
           "full_name": "Pat Freiermuth",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Illness",
+          "injury_status": "Questionable",
           "player_id": "7600",
           "position": "TE",
           "status": "Active",
@@ -20236,7 +20200,7 @@
             "12501",
             "11604",
             "1466",
-            "9500"
+            "3271"
           ],
           "starters_points": [
             0.0,
@@ -20272,7 +20236,6 @@
             "13414",
             "13533",
             "5947",
-            "6039",
             "8136",
             "8180",
             "8188",
@@ -20301,7 +20264,6 @@
             "13414": 0.0,
             "13533": 0.0,
             "5947": 0.0,
-            "6039": 0.0,
             "8136": 5.7,
             "8180": 0.0,
             "8188": 0.0,
@@ -20322,7 +20284,7 @@
             "5947",
             "9480",
             "9502",
-            "10219"
+            "13337"
           ],
           "starters_points": [
             20.76,
@@ -21213,6 +21175,29 @@
       ],
       "transactions": [
         {
+          "adds": null,
+          "consenter_ids": [
+            2
+          ],
+          "created": 1794678161020,
+          "creator": "987087223516377088",
+          "draft_picks": [],
+          "drops": {
+            "6039": 2
+          },
+          "leg": 10,
+          "metadata": null,
+          "roster_ids": [
+            2
+          ],
+          "settings": null,
+          "status": "complete",
+          "status_updated": 1794678161020,
+          "transaction_id": "1427387299267633152",
+          "type": "free_agent",
+          "waiver_budget": []
+        },
+        {
           "adds": {
             "13270": 8
           },
@@ -21487,7 +21472,7 @@
             "12501",
             "11604",
             "1466",
-            "9500"
+            "3271"
           ],
           "starters_points": [
             0.0,
@@ -21523,7 +21508,6 @@
             "13414",
             "13533",
             "5947",
-            "6039",
             "8136",
             "8180",
             "8188",
@@ -21552,7 +21536,6 @@
             "13414": 0.0,
             "13533": 0.0,
             "5947": 0.0,
-            "6039": 0.0,
             "8136": 0.0,
             "8180": 0.0,
             "8188": 0.0,
@@ -21573,7 +21556,7 @@
             "5947",
             "9480",
             "9502",
-            "10219"
+            "13337"
           ],
           "starters_points": [
             0.0,
@@ -22540,7 +22523,7 @@
             "12501",
             "11604",
             "1466",
-            "9500"
+            "3271"
           ],
           "starters_points": [
             0.0,
@@ -22576,7 +22559,6 @@
             "13414",
             "13533",
             "5947",
-            "6039",
             "8136",
             "8180",
             "8188",
@@ -22605,7 +22587,6 @@
             "13414": 0.0,
             "13533": 0.0,
             "5947": 0.0,
-            "6039": 0.0,
             "8136": 0.0,
             "8180": 0.0,
             "8188": 0.0,
@@ -22626,7 +22607,7 @@
             "5947",
             "9480",
             "9502",
-            "10219"
+            "13337"
           ],
           "starters_points": [
             0.0,
@@ -23593,7 +23574,7 @@
             "12501",
             "11604",
             "1466",
-            "9500"
+            "3271"
           ],
           "starters_points": [
             0.0,
@@ -23629,7 +23610,6 @@
             "13414",
             "13533",
             "5947",
-            "6039",
             "8136",
             "8180",
             "8188",
@@ -23658,7 +23638,6 @@
             "13414": 0.0,
             "13533": 0.0,
             "5947": 0.0,
-            "6039": 0.0,
             "8136": 0.0,
             "8180": 0.0,
             "8188": 0.0,
@@ -23679,7 +23658,7 @@
             "5947",
             "9480",
             "9502",
-            "10219"
+            "13337"
           ],
           "starters_points": [
             0.0,
@@ -24646,7 +24625,7 @@
             "12501",
             "11604",
             "1466",
-            "9500"
+            "3271"
           ],
           "starters_points": [
             0.0,
@@ -24682,7 +24661,6 @@
             "13414",
             "13533",
             "5947",
-            "6039",
             "8136",
             "8180",
             "8188",
@@ -24711,7 +24689,6 @@
             "13414": 0.0,
             "13533": 0.0,
             "5947": 0.0,
-            "6039": 0.0,
             "8136": 0.0,
             "8180": 0.0,
             "8188": 0.0,
@@ -24732,7 +24709,7 @@
             "5947",
             "9480",
             "9502",
-            "10219"
+            "13337"
           ],
           "starters_points": [
             0.0,
@@ -25699,7 +25676,7 @@
             "12501",
             "11604",
             "1466",
-            "9500"
+            "3271"
           ],
           "starters_points": [
             0.0,
@@ -25735,7 +25712,6 @@
             "13414",
             "13533",
             "5947",
-            "6039",
             "8136",
             "8180",
             "8188",
@@ -25764,7 +25740,6 @@
             "13414": 0.0,
             "13533": 0.0,
             "5947": 0.0,
-            "6039": 0.0,
             "8136": 0.0,
             "8180": 0.0,
             "8188": 0.0,
@@ -25785,7 +25760,7 @@
             "5947",
             "9480",
             "9502",
-            "10219"
+            "13337"
           ],
           "starters_points": [
             0.0,
@@ -26752,7 +26727,7 @@
             "12501",
             "11604",
             "1466",
-            "9500"
+            "3271"
           ],
           "starters_points": [
             0.0,
@@ -26788,7 +26763,6 @@
             "13414",
             "13533",
             "5947",
-            "6039",
             "8136",
             "8180",
             "8188",
@@ -26817,7 +26791,6 @@
             "13414": 0.0,
             "13533": 0.0,
             "5947": 0.0,
-            "6039": 0.0,
             "8136": 0.0,
             "8180": 0.0,
             "8188": 0.0,
@@ -26838,7 +26811,7 @@
             "5947",
             "9480",
             "9502",
-            "10219"
+            "13337"
           ],
           "starters_points": [
             0.0,
@@ -27805,7 +27778,7 @@
             "12501",
             "11604",
             "1466",
-            "9500"
+            "3271"
           ],
           "starters_points": [
             0.0,
@@ -27841,7 +27814,6 @@
             "13414",
             "13533",
             "5947",
-            "6039",
             "8136",
             "8180",
             "8188",
@@ -27870,7 +27842,6 @@
             "13414": 0.0,
             "13533": 0.0,
             "5947": 0.0,
-            "6039": 0.0,
             "8136": 0.0,
             "8180": 0.0,
             "8188": 0.0,
@@ -27891,7 +27862,7 @@
             "5947",
             "9480",
             "9502",
-            "10219"
+            "13337"
           ],
           "starters_points": [
             0.0,
@@ -28858,7 +28829,7 @@
             "12501",
             "11604",
             "1466",
-            "9500"
+            "3271"
           ],
           "starters_points": [
             0.0,
@@ -28894,7 +28865,6 @@
             "13414",
             "13533",
             "5947",
-            "6039",
             "8136",
             "8180",
             "8188",
@@ -28923,7 +28893,6 @@
             "13414": 0.0,
             "13533": 0.0,
             "5947": 0.0,
-            "6039": 0.0,
             "8136": 0.0,
             "8180": 0.0,
             "8188": 0.0,
@@ -28944,7 +28913,7 @@
             "5947",
             "9480",
             "9502",
-            "10219"
+            "13337"
           ],
           "starters_points": [
             0.0,
