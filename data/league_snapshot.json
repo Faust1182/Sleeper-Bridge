@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-11-14T18:01:46.318522+00:00",
+  "generated_at": "2026-11-14T22:24:25.320498+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2604,7 +2604,7 @@
       {
         "active": true,
         "age": 25,
-        "depth_chart_order": 10,
+        "depth_chart_order": 7,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -2706,7 +2706,7 @@
       {
         "active": true,
         "age": 24,
-        "depth_chart_order": 7,
+        "depth_chart_order": 6,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -3351,10 +3351,10 @@
       ],
       "full_name": "Chris Brooks",
       "injury_body_part": "Ankle",
-      "injury_status": "IR",
+      "injury_status": "Questionable",
       "player_id": "11370",
       "position": "RB",
-      "status": "Inactive",
+      "status": "Active",
       "team": "GB",
       "years_exp": 3
     },
@@ -3769,7 +3769,7 @@
     "11624": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -3803,17 +3803,17 @@
     "11626": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 7,
+      "depth_chart_order": 4,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
       ],
       "full_name": "Xavier Legette",
       "injury_body_part": "Knee",
-      "injury_status": "IR",
+      "injury_status": "Questionable",
       "player_id": "11626",
       "position": "WR",
-      "status": "Inactive",
+      "status": "Active",
       "team": "CAR",
       "years_exp": 2
     },
@@ -3854,7 +3854,7 @@
     "11630": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 10,
+      "depth_chart_order": 7,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -4847,10 +4847,10 @@
       ],
       "full_name": "TreVeyon Henderson",
       "injury_body_part": "Illness",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "player_id": "12529",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "team": "NE",
       "years_exp": 1
     },
@@ -5606,7 +5606,7 @@
     "13329": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 7,
+      "depth_chart_order": 6,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -5640,7 +5640,7 @@
     "13337": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 2,
+      "depth_chart_order": 1,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -5782,8 +5782,8 @@
         "WR"
       ],
       "full_name": "Brenen Thompson",
-      "injury_body_part": "Quadriceps",
-      "injury_status": "Questionable",
+      "injury_body_part": "Hamstring",
+      "injury_status": "Doubtful",
       "player_id": "13380",
       "position": "WR",
       "status": "Active",
@@ -6065,7 +6065,7 @@
     "2133": {
       "active": true,
       "age": 33,
-      "depth_chart_order": 5,
+      "depth_chart_order": 6,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -6915,14 +6915,14 @@
     "5892": {
       "active": true,
       "age": 29,
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
       ],
       "full_name": "David Montgomery",
       "injury_body_part": "Groin",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "player_id": "5892",
       "position": "RB",
       "status": "Active",
@@ -7221,7 +7221,7 @@
     "6819": {
       "active": true,
       "age": 29,
-      "depth_chart_order": 7,
+      "depth_chart_order": 6,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -7415,10 +7415,10 @@
       ],
       "full_name": "Travis Etienne Jr.",
       "injury_body_part": "Hamstring",
-      "injury_status": "IR",
+      "injury_status": "Questionable",
       "player_id": "7543",
       "position": "RB",
-      "status": "Inactive",
+      "status": "Active",
       "team": "NO",
       "years_exp": 5
     },
@@ -8003,7 +8003,7 @@
     "8151": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 1,
+      "depth_chart_order": 4,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -8173,17 +8173,17 @@
     "8207": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 4,
+      "depth_chart_order": 5,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
       ],
       "full_name": "Tyler Goodson",
-      "injury_body_part": "Knee",
-      "injury_status": "Out",
+      "injury_body_part": "Knee - ACL + MCL",
+      "injury_status": "IR",
       "player_id": "8207",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "team": "DAL",
       "years_exp": 4
     },
@@ -8479,7 +8479,7 @@
     "9493": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 7,
+      "depth_chart_order": 8,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -8513,7 +8513,7 @@
     "9500": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -8638,8 +8638,8 @@
         "RB"
       ],
       "full_name": "Keaton Mitchell",
-      "injury_body_part": "Hip",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "9511",
       "position": "RB",
       "status": "Active",
@@ -9251,7 +9251,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -9385,7 +9385,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -9555,7 +9555,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -9765,8 +9765,8 @@
             "RB"
           ],
           "full_name": "Keaton Mitchell",
-          "injury_body_part": "Hip",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "9511",
           "position": "RB",
           "status": "Active",
@@ -11242,8 +11242,8 @@
             "WR"
           ],
           "full_name": "Brenen Thompson",
-          "injury_body_part": "Quadriceps",
-          "injury_status": "Questionable",
+          "injury_body_part": "Hamstring",
+          "injury_status": "Doubtful",
           "player_id": "13380",
           "position": "WR",
           "status": "Active",
@@ -12145,10 +12145,10 @@
           ],
           "full_name": "Chris Brooks",
           "injury_body_part": "Ankle",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "player_id": "11370",
           "position": "RB",
-          "status": "Inactive",
+          "status": "Active",
           "team": "GB",
           "years_exp": 3
         },
@@ -12410,14 +12410,14 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
           "full_name": "David Montgomery",
           "injury_body_part": "Groin",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "5892",
           "position": "RB",
           "status": "Active",
@@ -12615,10 +12615,10 @@
         "7567",
         "7611",
         "6786",
-        "10232",
-        "5045",
-        "5012",
+        "3286",
         "11635",
+        "5012",
+        "4177",
         "12518"
       ],
       "taxi": [
@@ -13294,17 +13294,17 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 7,
+          "depth_chart_order": 4,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Xavier Legette",
           "injury_body_part": "Knee",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "player_id": "11626",
           "position": "WR",
-          "status": "Inactive",
+          "status": "Active",
           "team": "CAR",
           "years_exp": 2
         },
@@ -14115,10 +14115,10 @@
           ],
           "full_name": "Travis Etienne Jr.",
           "injury_body_part": "Hamstring",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "player_id": "7543",
           "position": "RB",
-          "status": "Inactive",
+          "status": "Active",
           "team": "NO",
           "years_exp": 5
         },
@@ -14176,7 +14176,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 1,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -14244,7 +14244,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 7,
+          "depth_chart_order": 8,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -14328,13 +14328,13 @@
       "starters": [
         "4984",
         "9509",
-        "8151",
+        "7543",
         "13281",
         "7564",
         "8144",
         "7002",
         "8155",
-        "7543"
+        "10218"
       ],
       "taxi": [
         "11729",
@@ -14401,7 +14401,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 10,
+          "depth_chart_order": 7,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -14503,7 +14503,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 7,
+          "depth_chart_order": 6,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -14951,10 +14951,10 @@
           ],
           "full_name": "TreVeyon Henderson",
           "injury_body_part": "Illness",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "player_id": "12529",
           "position": "RB",
-          "status": "Active",
+          "status": "Inactive",
           "team": "NE",
           "years_exp": 1
         },
@@ -15029,7 +15029,7 @@
         {
           "active": true,
           "age": 33,
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -15250,7 +15250,7 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 7,
+          "depth_chart_order": 6,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -15352,17 +15352,17 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
           "full_name": "Tyler Goodson",
-          "injury_body_part": "Knee",
-          "injury_status": "Out",
+          "injury_body_part": "Knee - ACL + MCL",
+          "injury_status": "IR",
           "player_id": "8207",
           "position": "RB",
-          "status": "Active",
+          "status": "Inactive",
           "team": "DAL",
           "years_exp": 4
         },
@@ -20714,10 +20714,10 @@
             "7567",
             "7611",
             "6786",
-            "10232",
-            "5045",
-            "5012",
+            "3286",
             "11635",
+            "5012",
+            "4177",
             "12518"
           ],
           "starters_points": [
@@ -20976,13 +20976,13 @@
           "starters": [
             "4984",
             "9509",
-            "8151",
+            "7543",
             "13281",
             "7564",
             "8144",
             "7002",
             "8155",
-            "7543"
+            "10218"
           ],
           "starters_points": [
             0.0,
@@ -21986,10 +21986,10 @@
             "7567",
             "7611",
             "6786",
-            "10232",
-            "5045",
-            "5012",
+            "3286",
             "11635",
+            "5012",
+            "4177",
             "12518"
           ],
           "starters_points": [
@@ -22248,13 +22248,13 @@
           "starters": [
             "4984",
             "9509",
-            "8151",
+            "7543",
             "13281",
             "7564",
             "8144",
             "7002",
             "8155",
-            "7543"
+            "10218"
           ],
           "starters_points": [
             0.0,
@@ -23037,10 +23037,10 @@
             "7567",
             "7611",
             "6786",
-            "10232",
-            "5045",
-            "5012",
+            "3286",
             "11635",
+            "5012",
+            "4177",
             "12518"
           ],
           "starters_points": [
@@ -23299,13 +23299,13 @@
           "starters": [
             "4984",
             "9509",
-            "8151",
+            "7543",
             "13281",
             "7564",
             "8144",
             "7002",
             "8155",
-            "7543"
+            "10218"
           ],
           "starters_points": [
             0.0,
@@ -24088,10 +24088,10 @@
             "7567",
             "7611",
             "6786",
-            "10232",
-            "5045",
-            "5012",
+            "3286",
             "11635",
+            "5012",
+            "4177",
             "12518"
           ],
           "starters_points": [
@@ -24350,13 +24350,13 @@
           "starters": [
             "4984",
             "9509",
-            "8151",
+            "7543",
             "13281",
             "7564",
             "8144",
             "7002",
             "8155",
-            "7543"
+            "10218"
           ],
           "starters_points": [
             0.0,
@@ -25139,10 +25139,10 @@
             "7567",
             "7611",
             "6786",
-            "10232",
-            "5045",
-            "5012",
+            "3286",
             "11635",
+            "5012",
+            "4177",
             "12518"
           ],
           "starters_points": [
@@ -25401,13 +25401,13 @@
           "starters": [
             "4984",
             "9509",
-            "8151",
+            "7543",
             "13281",
             "7564",
             "8144",
             "7002",
             "8155",
-            "7543"
+            "10218"
           ],
           "starters_points": [
             0.0,
@@ -26190,10 +26190,10 @@
             "7567",
             "7611",
             "6786",
-            "10232",
-            "5045",
-            "5012",
+            "3286",
             "11635",
+            "5012",
+            "4177",
             "12518"
           ],
           "starters_points": [
@@ -26452,13 +26452,13 @@
           "starters": [
             "4984",
             "9509",
-            "8151",
+            "7543",
             "13281",
             "7564",
             "8144",
             "7002",
             "8155",
-            "7543"
+            "10218"
           ],
           "starters_points": [
             0.0,
@@ -27241,10 +27241,10 @@
             "7567",
             "7611",
             "6786",
-            "10232",
-            "5045",
-            "5012",
+            "3286",
             "11635",
+            "5012",
+            "4177",
             "12518"
           ],
           "starters_points": [
@@ -27503,13 +27503,13 @@
           "starters": [
             "4984",
             "9509",
-            "8151",
+            "7543",
             "13281",
             "7564",
             "8144",
             "7002",
             "8155",
-            "7543"
+            "10218"
           ],
           "starters_points": [
             0.0,
@@ -28292,10 +28292,10 @@
             "7567",
             "7611",
             "6786",
-            "10232",
-            "5045",
-            "5012",
+            "3286",
             "11635",
+            "5012",
+            "4177",
             "12518"
           ],
           "starters_points": [
@@ -28554,13 +28554,13 @@
           "starters": [
             "4984",
             "9509",
-            "8151",
+            "7543",
             "13281",
             "7564",
             "8144",
             "7002",
             "8155",
-            "7543"
+            "10218"
           ],
           "starters_points": [
             0.0,
@@ -29343,10 +29343,10 @@
             "7567",
             "7611",
             "6786",
-            "10232",
-            "5045",
-            "5012",
+            "3286",
             "11635",
+            "5012",
+            "4177",
             "12518"
           ],
           "starters_points": [
@@ -29605,13 +29605,13 @@
           "starters": [
             "4984",
             "9509",
-            "8151",
+            "7543",
             "13281",
             "7564",
             "8144",
             "7002",
             "8155",
-            "7543"
+            "10218"
           ],
           "starters_points": [
             0.0,
