@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-11-14T22:24:25.320498+00:00",
+  "generated_at": "2026-11-15T06:31:42.922632+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2393,9 +2393,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1427387299376664576",
+    "last_message_id": "1427490304461656064",
     "last_message_text_map": null,
-    "last_message_time": 1794678161046,
+    "last_message_time": 1794702719373,
     "last_pinned_message_id": "1426341998603816960",
     "last_read_id": null,
     "league_id": "1314667834135040000",
@@ -2604,7 +2604,7 @@
       {
         "active": true,
         "age": 25,
-        "depth_chart_order": 7,
+        "depth_chart_order": 10,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -3242,8 +3242,8 @@
     "10232": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 9,
-      "depth_chart_position": "PR",
+      "depth_chart_order": 7,
+      "depth_chart_position": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -3633,7 +3633,7 @@
     "11589": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 6,
+      "depth_chart_order": 5,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -3769,7 +3769,7 @@
     "11624": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -3854,7 +3854,7 @@
     "11630": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 7,
+      "depth_chart_order": 10,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -5317,7 +5317,7 @@
     "13287": {
       "active": true,
       "age": 21,
-      "depth_chart_order": 7,
+      "depth_chart_order": 6,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -5334,7 +5334,7 @@
     "13288": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -5572,7 +5572,7 @@
     "13320": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 8,
+      "depth_chart_order": 6,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -6538,23 +6538,6 @@
       "team": "SF",
       "years_exp": 9
     },
-    "4454": {
-      "active": true,
-      "age": 31,
-      "depth_chart_order": 7,
-      "depth_chart_position": null,
-      "fantasy_positions": [
-        "WR"
-      ],
-      "full_name": "Kendrick Bourne",
-      "injury_body_part": "Lower Leg",
-      "injury_status": "IR",
-      "player_id": "4454",
-      "position": "WR",
-      "status": "Inactive",
-      "team": "ARI",
-      "years_exp": 9
-    },
     "4663": {
       "active": true,
       "age": 31,
@@ -7221,7 +7204,7 @@
     "6819": {
       "active": true,
       "age": 29,
-      "depth_chart_order": 6,
+      "depth_chart_order": 7,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -8513,7 +8496,7 @@
     "9500": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -9251,7 +9234,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -9385,7 +9368,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -10509,7 +10492,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -10679,7 +10662,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -12104,8 +12087,8 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 9,
-          "depth_chart_position": "PR",
+          "depth_chart_order": 7,
+          "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
           ],
@@ -12240,7 +12223,7 @@
         {
           "active": true,
           "age": 21,
-          "depth_chart_order": 7,
+          "depth_chart_order": 6,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -12321,23 +12304,6 @@
           "status": "Active",
           "team": "LAR",
           "years_exp": 17
-        },
-        {
-          "active": true,
-          "age": 31,
-          "depth_chart_order": 7,
-          "depth_chart_position": null,
-          "fantasy_positions": [
-            "WR"
-          ],
-          "full_name": "Kendrick Bourne",
-          "injury_body_part": "Lower Leg",
-          "injury_status": "IR",
-          "player_id": "4454",
-          "position": "WR",
-          "status": "Inactive",
-          "team": "ARI",
-          "years_exp": 9
         },
         {
           "active": true,
@@ -12577,7 +12543,6 @@
         "3286",
         "4177",
         "421",
-        "4454",
         "4881",
         "4981",
         "5012",
@@ -12612,8 +12577,8 @@
       },
       "starters": [
         "421",
-        "7567",
-        "7611",
+        "11370",
+        "11574",
         "6786",
         "3286",
         "11635",
@@ -12622,7 +12587,6 @@
         "12518"
       ],
       "taxi": [
-        "11574",
         "12547",
         "13338"
       ]
@@ -14401,7 +14365,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 7,
+          "depth_chart_order": 10,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -14978,7 +14942,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 8,
+          "depth_chart_order": 6,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -15250,7 +15214,7 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 6,
+          "depth_chart_order": 7,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -20662,7 +20626,6 @@
             "3286",
             "4177",
             "421",
-            "4454",
             "4881",
             "4981",
             "5012",
@@ -20692,7 +20655,6 @@
             "3286": 0.0,
             "4177": 0.0,
             "421": 0.0,
-            "4454": 0.0,
             "4881": 0.0,
             "4981": 0.0,
             "5012": 0.0,
@@ -20711,8 +20673,8 @@
           "roster_id": 7,
           "starters": [
             "421",
-            "7567",
-            "7611",
+            "11370",
+            "11574",
             "6786",
             "3286",
             "11635",
@@ -21174,6 +21136,29 @@
         }
       ],
       "transactions": [
+        {
+          "adds": null,
+          "consenter_ids": [
+            7
+          ],
+          "created": 1794702719346,
+          "creator": "649047202295119872",
+          "draft_picks": [],
+          "drops": {
+            "4454": 7
+          },
+          "leg": 10,
+          "metadata": null,
+          "roster_ids": [
+            7
+          ],
+          "settings": null,
+          "status": "complete",
+          "status_updated": 1794702719346,
+          "transaction_id": "1427490304348389376",
+          "type": "free_agent",
+          "waiver_budget": []
+        },
         {
           "adds": null,
           "consenter_ids": [
@@ -21934,7 +21919,6 @@
             "3286",
             "4177",
             "421",
-            "4454",
             "4881",
             "4981",
             "5012",
@@ -21964,7 +21948,6 @@
             "3286": 0.0,
             "4177": 0.0,
             "421": 0.0,
-            "4454": 0.0,
             "4881": 0.0,
             "4981": 0.0,
             "5012": 0.0,
@@ -21983,8 +21966,8 @@
           "roster_id": 7,
           "starters": [
             "421",
-            "7567",
-            "7611",
+            "11370",
+            "11574",
             "6786",
             "3286",
             "11635",
@@ -22985,7 +22968,6 @@
             "3286",
             "4177",
             "421",
-            "4454",
             "4881",
             "4981",
             "5012",
@@ -23015,7 +22997,6 @@
             "3286": 0.0,
             "4177": 0.0,
             "421": 0.0,
-            "4454": 0.0,
             "4881": 0.0,
             "4981": 0.0,
             "5012": 0.0,
@@ -23034,8 +23015,8 @@
           "roster_id": 7,
           "starters": [
             "421",
-            "7567",
-            "7611",
+            "11370",
+            "11574",
             "6786",
             "3286",
             "11635",
@@ -24036,7 +24017,6 @@
             "3286",
             "4177",
             "421",
-            "4454",
             "4881",
             "4981",
             "5012",
@@ -24066,7 +24046,6 @@
             "3286": 0.0,
             "4177": 0.0,
             "421": 0.0,
-            "4454": 0.0,
             "4881": 0.0,
             "4981": 0.0,
             "5012": 0.0,
@@ -24085,8 +24064,8 @@
           "roster_id": 7,
           "starters": [
             "421",
-            "7567",
-            "7611",
+            "11370",
+            "11574",
             "6786",
             "3286",
             "11635",
@@ -25087,7 +25066,6 @@
             "3286",
             "4177",
             "421",
-            "4454",
             "4881",
             "4981",
             "5012",
@@ -25117,7 +25095,6 @@
             "3286": 0.0,
             "4177": 0.0,
             "421": 0.0,
-            "4454": 0.0,
             "4881": 0.0,
             "4981": 0.0,
             "5012": 0.0,
@@ -25136,8 +25113,8 @@
           "roster_id": 7,
           "starters": [
             "421",
-            "7567",
-            "7611",
+            "11370",
+            "11574",
             "6786",
             "3286",
             "11635",
@@ -26138,7 +26115,6 @@
             "3286",
             "4177",
             "421",
-            "4454",
             "4881",
             "4981",
             "5012",
@@ -26168,7 +26144,6 @@
             "3286": 0.0,
             "4177": 0.0,
             "421": 0.0,
-            "4454": 0.0,
             "4881": 0.0,
             "4981": 0.0,
             "5012": 0.0,
@@ -26187,8 +26162,8 @@
           "roster_id": 7,
           "starters": [
             "421",
-            "7567",
-            "7611",
+            "11370",
+            "11574",
             "6786",
             "3286",
             "11635",
@@ -27189,7 +27164,6 @@
             "3286",
             "4177",
             "421",
-            "4454",
             "4881",
             "4981",
             "5012",
@@ -27219,7 +27193,6 @@
             "3286": 0.0,
             "4177": 0.0,
             "421": 0.0,
-            "4454": 0.0,
             "4881": 0.0,
             "4981": 0.0,
             "5012": 0.0,
@@ -27238,8 +27211,8 @@
           "roster_id": 7,
           "starters": [
             "421",
-            "7567",
-            "7611",
+            "11370",
+            "11574",
             "6786",
             "3286",
             "11635",
@@ -28240,7 +28213,6 @@
             "3286",
             "4177",
             "421",
-            "4454",
             "4881",
             "4981",
             "5012",
@@ -28270,7 +28242,6 @@
             "3286": 0.0,
             "4177": 0.0,
             "421": 0.0,
-            "4454": 0.0,
             "4881": 0.0,
             "4981": 0.0,
             "5012": 0.0,
@@ -28289,8 +28260,8 @@
           "roster_id": 7,
           "starters": [
             "421",
-            "7567",
-            "7611",
+            "11370",
+            "11574",
             "6786",
             "3286",
             "11635",
@@ -29291,7 +29262,6 @@
             "3286",
             "4177",
             "421",
-            "4454",
             "4881",
             "4981",
             "5012",
@@ -29321,7 +29291,6 @@
             "3286": 0.0,
             "4177": 0.0,
             "421": 0.0,
-            "4454": 0.0,
             "4881": 0.0,
             "4981": 0.0,
             "5012": 0.0,
@@ -29340,8 +29309,8 @@
           "roster_id": 7,
           "starters": [
             "421",
-            "7567",
-            "7611",
+            "11370",
+            "11574",
             "6786",
             "3286",
             "11635",
