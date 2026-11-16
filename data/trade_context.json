@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-11-16T06:30:02.006582+00:00",
+  "generated_at": "2026-11-16T22:01:37.509529+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1157,7 +1157,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 15,
+      "daily_waivers_last_ran": 16,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -3888,7 +3888,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -7917,7 +7917,7 @@
           "active": true,
           "age": 23,
           "depth_chart_order": 5,
-          "depth_chart_position": "LWR",
+          "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
@@ -8093,10 +8093,10 @@
           ],
           "full_name": "David Njoku",
           "injury_body_part": "Lower Leg",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "player_id": "4033",
           "position": "TE",
-          "status": "Inactive",
+          "status": "Active",
           "team": "LAC",
           "years_exp": 9
         },
@@ -8300,7 +8300,7 @@
           "injury_status": "Out",
           "player_id": "9756",
           "position": "WR",
-          "status": "Active",
+          "status": "Inactive",
           "team": "MIN",
           "years_exp": 3
         }
@@ -8499,7 +8499,7 @@
           "active": true,
           "age": 23,
           "depth_chart_order": 5,
-          "depth_chart_position": "LWR",
+          "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
@@ -8831,7 +8831,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 9,
+          "depth_chart_order": 6,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -9729,7 +9729,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 8,
+          "depth_chart_order": 7,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
