@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-11-16T22:01:37.509529+00:00",
+  "generated_at": "2026-11-17T07:55:14.635491+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2500,7 +2500,7 @@
       "draft_rounds": 4,
       "faab_suggestions": 0,
       "last_report": 9,
-      "last_scored_leg": 9,
+      "last_scored_leg": 10,
       "league_average_match": 0,
       "leg": 10,
       "max_keepers": 1,
@@ -2555,9 +2555,9 @@
       "allow_pn_inactive_starters": "on",
       "allow_pn_player_injury_status": "on",
       "allow_pn_scoring": "on",
-      "record": "LWLWLLWLW",
+      "record": "LWLWLLWLWL",
       "restrict_pn_scoring_starters_only": "on",
-      "streak": "1W"
+      "streak": "1L"
     },
     "owner": {
       "display_name": "mklaszky25",
@@ -2627,8 +2627,8 @@
           "TE"
         ],
         "full_name": "Oronde Gadsden",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Eye",
+        "injury_status": "Questionable",
         "player_id": "12493",
         "position": "TE",
         "status": "Active",
@@ -3080,13 +3080,13 @@
     ],
     "roster_id": 11,
     "settings": {
-      "fpts": 926,
-      "fpts_against": 896,
-      "fpts_against_decimal": 70,
-      "fpts_decimal": 30,
-      "losses": 5,
-      "ppts": 1155,
-      "ppts_decimal": 74,
+      "fpts": 1085,
+      "fpts_against": 1055,
+      "fpts_against_decimal": 96,
+      "fpts_decimal": 2,
+      "losses": 6,
+      "ppts": 1334,
+      "ppts_decimal": 66,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 135,
@@ -3128,13 +3128,13 @@
     "display_week": 10,
     "league_create_season": "2026",
     "league_season": "2026",
-    "leg": 10,
+    "leg": 11,
     "previous_season": "2025",
     "season": "2026",
     "season_has_scores": true,
     "season_start_date": "2026-09-09",
     "season_type": "regular",
-    "week": 10
+    "week": 11
   },
   "players": {
     "10213": {
@@ -3735,7 +3735,7 @@
     "11618": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 6,
+      "depth_chart_order": 7,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -3905,7 +3905,7 @@
     "11635": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 7,
+      "depth_chart_order": 6,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -4137,7 +4137,7 @@
       "player_id": "12457",
       "position": "RB",
       "status": "Active",
-      "team": null,
+      "team": "PHI",
       "years_exp": 1
     },
     "12467": {
@@ -4404,8 +4404,8 @@
         "TE"
       ],
       "full_name": "Oronde Gadsden",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Eye",
+      "injury_status": "Questionable",
       "player_id": "12493",
       "position": "TE",
       "status": "Active",
@@ -5113,14 +5113,14 @@
     "13268": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 5,
+      "depth_chart_order": 7,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
       ],
       "full_name": "Elijah Sarratt",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Coach's Decision",
+      "injury_status": "Out",
       "player_id": "13268",
       "position": "WR",
       "status": "Active",
@@ -5521,7 +5521,7 @@
     "13311": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 6,
+      "depth_chart_order": 9,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -5776,14 +5776,14 @@
     "13380": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 5,
+      "depth_chart_order": 9,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
       ],
       "full_name": "Brenen Thompson",
       "injury_body_part": "Hamstring",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "player_id": "13380",
       "position": "WR",
       "status": "Active",
@@ -5810,7 +5810,7 @@
     "13400": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 5,
+      "depth_chart_order": 6,
       "depth_chart_position": "TE",
       "fantasy_positions": [
         "TE"
@@ -6326,8 +6326,8 @@
         "TE"
       ],
       "full_name": "David Njoku",
-      "injury_body_part": "Lower Leg",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "4033",
       "position": "TE",
       "status": "Active",
@@ -7748,7 +7748,7 @@
     "8125": {
       "active": true,
       "age": 27,
-      "depth_chart_order": 8,
+      "depth_chart_order": 7,
       "depth_chart_position": null,
       "fantasy_positions": [
         "WR"
@@ -8462,7 +8462,7 @@
     "9493": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 7,
+      "depth_chart_order": 8,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -8759,9 +8759,9 @@
         "allow_pn_player_injury_status": "on",
         "allow_pn_scoring": "on",
         "p_nick_5870": "DJ Stormborn",
-        "record": "WWWLWWLWL",
+        "record": "WWWLWWLWLW",
         "restrict_pn_scoring_starters_only": "on",
-        "streak": "1L"
+        "streak": "1W"
       },
       "owner": {
         "display_name": "Pheewma",
@@ -9285,18 +9285,18 @@
       ],
       "roster_id": 1,
       "settings": {
-        "fpts": 1158,
-        "fpts_against": 1029,
-        "fpts_against_decimal": 54,
-        "fpts_decimal": 28,
+        "fpts": 1232,
+        "fpts_against": 1082,
+        "fpts_against_decimal": 72,
+        "fpts_decimal": 99,
         "losses": 3,
-        "ppts": 1314,
-        "ppts_decimal": 42,
+        "ppts": 1411,
+        "ppts_decimal": 4,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 115,
         "waiver_position": 10,
-        "wins": 6
+        "wins": 7
       },
       "starters": [
         "11564",
@@ -9320,8 +9320,8 @@
       "keepers": null,
       "league_id": "1314667834135040000",
       "metadata": {
-        "record": "LLLWWWLLW",
-        "streak": "1W"
+        "record": "LLLWWWLLWL",
+        "streak": "1L"
       },
       "owner": {
         "display_name": "chaelig1",
@@ -9572,7 +9572,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -9808,13 +9808,13 @@
       ],
       "roster_id": 2,
       "settings": {
-        "fpts": 738,
-        "fpts_against": 860,
-        "fpts_against_decimal": 44,
-        "fpts_decimal": 18,
-        "losses": 5,
-        "ppts": 944,
-        "ppts_decimal": 42,
+        "fpts": 830,
+        "fpts_against": 980,
+        "fpts_against_decimal": 38,
+        "fpts_decimal": 84,
+        "losses": 6,
+        "ppts": 1061,
+        "ppts_decimal": 58,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 89,
@@ -9854,9 +9854,9 @@
         "p_nick_8148": "Roll",
         "p_nick_8154": "Gunshot survivor",
         "p_nick_8180": "I barely know her!",
-        "record": "LLWLWLLWW",
+        "record": "LLWLWLLWWL",
         "restrict_pn_scoring_starters_only": "on",
-        "streak": "2W"
+        "streak": "1L"
       },
       "owner": {
         "display_name": "brettycotz",
@@ -9920,7 +9920,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 6,
+          "depth_chart_order": 7,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -10361,13 +10361,13 @@
       ],
       "roster_id": 3,
       "settings": {
-        "fpts": 868,
-        "fpts_against": 858,
-        "fpts_against_decimal": 62,
-        "fpts_decimal": 68,
-        "losses": 5,
-        "ppts": 1126,
-        "ppts_decimal": 22,
+        "fpts": 944,
+        "fpts_against": 1005,
+        "fpts_against_decimal": 50,
+        "fpts_decimal": 38,
+        "losses": 6,
+        "ppts": 1230,
+        "ppts_decimal": 48,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 192,
@@ -10410,8 +10410,8 @@
         "p_nick_9229": "Anthony Jeffardson",
         "p_nick_9488": "Jaxon Smith-?",
         "p_nick_9754": "Quentin Jeffston",
-        "record": "WWLLWWWWL",
-        "streak": "1L"
+        "record": "WWLLWWWWLW",
+        "streak": "1W"
       },
       "owner": {
         "display_name": "Habes44",
@@ -10571,7 +10571,7 @@
           "player_id": "12457",
           "position": "RB",
           "status": "Active",
-          "team": null,
+          "team": "PHI",
           "years_exp": 1
         },
         {
@@ -10916,18 +10916,18 @@
       ],
       "roster_id": 4,
       "settings": {
-        "fpts": 1111,
-        "fpts_against": 904,
-        "fpts_against_decimal": 30,
-        "fpts_decimal": 6,
+        "fpts": 1257,
+        "fpts_against": 979,
+        "fpts_against_decimal": 99,
+        "fpts_decimal": 94,
         "losses": 3,
-        "ppts": 1331,
-        "ppts_decimal": 98,
+        "ppts": 1496,
+        "ppts_decimal": 96,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 99,
         "waiver_position": 4,
-        "wins": 6
+        "wins": 7
       },
       "starters": [
         "11560",
@@ -10950,8 +10950,8 @@
       "keepers": null,
       "league_id": "1314667834135040000",
       "metadata": {
-        "record": "LLLLLWLLL",
-        "streak": "3L"
+        "record": "LLLLLWLLLL",
+        "streak": "4L"
       },
       "owner": {
         "display_name": "Schaeffer15",
@@ -11219,14 +11219,14 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 5,
+          "depth_chart_order": 9,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Brenen Thompson",
           "injury_body_part": "Hamstring",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "player_id": "13380",
           "position": "WR",
           "status": "Active",
@@ -11474,13 +11474,13 @@
       ],
       "roster_id": 5,
       "settings": {
-        "fpts": 631,
-        "fpts_against": 949,
-        "fpts_against_decimal": 78,
-        "fpts_decimal": 26,
-        "losses": 8,
-        "ppts": 768,
-        "ppts_decimal": 0,
+        "fpts": 684,
+        "fpts_against": 1024,
+        "fpts_against_decimal": 50,
+        "fpts_decimal": 44,
+        "losses": 9,
+        "ppts": 843,
+        "ppts_decimal": 38,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 5,
@@ -11511,8 +11511,8 @@
       "keepers": null,
       "league_id": "1314667834135040000",
       "metadata": {
-        "record": "LWLLLWWLW",
-        "streak": "1W"
+        "record": "LWLLLWWLWL",
+        "streak": "1L"
       },
       "owner": {
         "display_name": "rgreco40",
@@ -12017,13 +12017,13 @@
       ],
       "roster_id": 6,
       "settings": {
-        "fpts": 896,
-        "fpts_against": 898,
-        "fpts_against_decimal": 28,
-        "fpts_decimal": 84,
-        "losses": 5,
-        "ppts": 1114,
-        "ppts_decimal": 76,
+        "fpts": 1000,
+        "fpts_against": 1007,
+        "fpts_against_decimal": 66,
+        "fpts_decimal": 70,
+        "losses": 6,
+        "ppts": 1246,
+        "ppts_decimal": 32,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 133,
@@ -12055,9 +12055,9 @@
         "allow_pn_inactive_starters": "on",
         "allow_pn_player_injury_status": "on",
         "allow_pn_scoring": "on",
-        "record": "WLWWWLLLL",
+        "record": "WLWWWLLLLL",
         "restrict_pn_scoring_starters_only": "on",
-        "streak": "4L"
+        "streak": "5L"
       },
       "owner": {
         "display_name": "swaggyp1216",
@@ -12155,7 +12155,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 7,
+          "depth_chart_order": 6,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -12512,7 +12512,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 8,
+          "depth_chart_order": 7,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -12562,13 +12562,13 @@
       ],
       "roster_id": 7,
       "settings": {
-        "fpts": 797,
-        "fpts_against": 849,
-        "fpts_against_decimal": 78,
-        "fpts_decimal": 68,
-        "losses": 5,
-        "ppts": 959,
-        "ppts_decimal": 0,
+        "fpts": 856,
+        "fpts_against": 947,
+        "fpts_against_decimal": 30,
+        "fpts_decimal": 84,
+        "losses": 6,
+        "ppts": 1021,
+        "ppts_decimal": 16,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 15,
@@ -12602,9 +12602,9 @@
         "allow_pn_player_injury_status": "off",
         "allow_pn_scoring": "on",
         "p_nick_96": "Dark Room",
-        "record": "LLWLWLWWL",
+        "record": "LLWLWLWWLW",
         "restrict_pn_scoring_starters_only": "on",
-        "streak": "1L"
+        "streak": "1W"
       },
       "owner": {
         "display_name": "ki11job",
@@ -12770,14 +12770,14 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 5,
+          "depth_chart_order": 7,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Elijah Sarratt",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Coach's Decision",
+          "injury_status": "Out",
           "player_id": "13268",
           "position": "WR",
           "status": "Active",
@@ -12878,8 +12878,8 @@
             "TE"
           ],
           "full_name": "David Njoku",
-          "injury_body_part": "Lower Leg",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "4033",
           "position": "TE",
           "status": "Active",
@@ -13127,18 +13127,18 @@
       ],
       "roster_id": 8,
       "settings": {
-        "fpts": 988,
-        "fpts_against": 1011,
-        "fpts_against_decimal": 42,
-        "fpts_decimal": 42,
+        "fpts": 1097,
+        "fpts_against": 1115,
+        "fpts_against_decimal": 28,
+        "fpts_decimal": 80,
         "losses": 5,
-        "ppts": 1168,
-        "ppts_decimal": 54,
+        "ppts": 1294,
+        "ppts_decimal": 30,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 132,
         "waiver_position": 12,
-        "wins": 4
+        "wins": 5
       },
       "starters": [
         "1166",
@@ -13193,8 +13193,8 @@
         "p_nick_8142": "Haydu",
         "p_nick_9484": "Cheese-du",
         "p_nick_9753": "Haydu",
-        "record": "WLWWLWWLL",
-        "streak": "2L"
+        "record": "WLWWLWWLLW",
+        "streak": "1W"
       },
       "owner": {
         "display_name": "honeybadger1207",
@@ -13479,7 +13479,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 6,
+          "depth_chart_order": 9,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -13717,18 +13717,18 @@
       ],
       "roster_id": 9,
       "settings": {
-        "fpts": 723,
-        "fpts_against": 881,
-        "fpts_against_decimal": 88,
-        "fpts_decimal": 88,
+        "fpts": 821,
+        "fpts_against": 941,
+        "fpts_against_decimal": 4,
+        "fpts_decimal": 40,
         "losses": 4,
-        "ppts": 907,
-        "ppts_decimal": 0,
+        "ppts": 1018,
+        "ppts_decimal": 22,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 146,
         "waiver_position": 6,
-        "wins": 5
+        "wins": 6
       },
       "starters": [
         "3163",
@@ -13752,8 +13752,8 @@
       "keepers": null,
       "league_id": "1314667834135040000",
       "metadata": {
-        "record": "WWWWLLLWW",
-        "streak": "2W"
+        "record": "WWWWLLLWWW",
+        "streak": "3W"
       },
       "owner": {
         "display_name": "bcoe1990",
@@ -14208,7 +14208,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 7,
+          "depth_chart_order": 8,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -14276,18 +14276,18 @@
       ],
       "roster_id": 10,
       "settings": {
-        "fpts": 1145,
-        "fpts_against": 1023,
-        "fpts_against_decimal": 10,
-        "fpts_decimal": 50,
+        "fpts": 1265,
+        "fpts_against": 1115,
+        "fpts_against_decimal": 76,
+        "fpts_decimal": 44,
         "losses": 3,
-        "ppts": 1281,
-        "ppts_decimal": 70,
+        "ppts": 1424,
+        "ppts_decimal": 22,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 110,
         "waiver_position": 8,
-        "wins": 6
+        "wins": 7
       },
       "starters": [
         "4984",
@@ -14316,9 +14316,9 @@
         "allow_pn_inactive_starters": "on",
         "allow_pn_player_injury_status": "on",
         "allow_pn_scoring": "on",
-        "record": "LWLWLLWLW",
+        "record": "LWLWLLWLWL",
         "restrict_pn_scoring_starters_only": "on",
-        "streak": "1W"
+        "streak": "1L"
       },
       "owner": {
         "display_name": "mklaszky25",
@@ -14388,8 +14388,8 @@
             "TE"
           ],
           "full_name": "Oronde Gadsden",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Eye",
+          "injury_status": "Questionable",
           "player_id": "12493",
           "position": "TE",
           "status": "Active",
@@ -14841,13 +14841,13 @@
       ],
       "roster_id": 11,
       "settings": {
-        "fpts": 926,
-        "fpts_against": 896,
-        "fpts_against_decimal": 70,
-        "fpts_decimal": 30,
-        "losses": 5,
-        "ppts": 1155,
-        "ppts_decimal": 74,
+        "fpts": 1085,
+        "fpts_against": 1055,
+        "fpts_against_decimal": 96,
+        "fpts_decimal": 2,
+        "losses": 6,
+        "ppts": 1334,
+        "ppts_decimal": 66,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 135,
@@ -14877,8 +14877,8 @@
       "league_id": "1314667834135040000",
       "metadata": {
         "p_nick_11577": "Shirley Checkdown",
-        "record": "WWLWLLWWW",
-        "streak": "3W"
+        "record": "WWLWLLWWWW",
+        "streak": "4W"
       },
       "owner": {
         "display_name": "TheCamps",
@@ -15401,18 +15401,18 @@
       ],
       "roster_id": 12,
       "settings": {
-        "fpts": 1147,
-        "fpts_against": 969,
-        "fpts_against_decimal": 56,
-        "fpts_decimal": 32,
+        "fpts": 1306,
+        "fpts_against": 1128,
+        "fpts_against_decimal": 28,
+        "fpts_decimal": 58,
         "losses": 3,
-        "ppts": 1282,
-        "ppts_decimal": 34,
+        "ppts": 1448,
+        "ppts_decimal": 20,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 95,
         "waiver_position": 9,
-        "wins": 6
+        "wins": 7
       },
       "starters": [
         "8183",
@@ -20135,7 +20135,7 @@
             "12543": 1.2,
             "13276": 0.0,
             "13278": 0.0,
-            "13293": 0.0,
+            "13293": 7.6,
             "13302": 0.0,
             "13317": 0.0,
             "13411": 0.0,
@@ -20215,7 +20215,7 @@
             "11624": 0.0,
             "11637": 1.6,
             "12491": 2.5,
-            "12507": 0.0,
+            "12507": 17.0,
             "12521": 0.0,
             "12522": 19.14,
             "12526": 5.0,
@@ -20234,7 +20234,7 @@
             "9479": 1.0,
             "9480": 7.9,
             "9502": 3.6,
-            "9511": 0.0,
+            "9511": 0.4,
             "9758": 20.44
           },
           "points": 92.66,
@@ -20393,12 +20393,12 @@
             "12469": 5.7,
             "12476": 0.0,
             "12498": 4.0,
-            "12509": 0.0,
+            "12509": 11.1,
             "12527": 8.4,
             "13288": 0.0,
             "13303": 6.08,
             "13330": 0.8,
-            "3198": 0.0,
+            "3198": 16.5,
             "4017": 21.38,
             "4217": 10.4,
             "5967": 19.9,
@@ -20407,9 +20407,9 @@
             "9229": 0.0,
             "9488": 27.1,
             "9504": 0.0,
-            "9754": 0.0
+            "9754": 1.1
           },
-          "points": 130.38,
+          "points": 146.88,
           "roster_id": 4,
           "starters": [
             "4017",
@@ -20425,7 +20425,7 @@
           "starters_points": [
             21.38,
             19.9,
-            0.0,
+            16.5,
             27.1,
             4.9,
             0.3,
@@ -20487,7 +20487,7 @@
             "13405": 0.1,
             "13413": 11.4,
             "13420": 0.0,
-            "5995": 0.0,
+            "5995": 6.3,
             "6806": 0.0,
             "7523": 26.78,
             "8119": 7.8,
@@ -20497,7 +20497,7 @@
             "9506": 0.0,
             "96": 15.62
           },
-          "points": 46.88,
+          "points": 53.18,
           "roster_id": 5,
           "starters": [
             "7523",
@@ -20513,7 +20513,7 @@
           "starters_points": [
             26.78,
             4.2,
-            0.0,
+            6.3,
             2.4,
             7.8,
             4.4,
@@ -20657,7 +20657,7 @@
             "421": 19.76,
             "4881": 0.0,
             "4981": 0.0,
-            "5012": 0.0,
+            "5012": 12.2,
             "5045": 0.0,
             "5892": 0.0,
             "5906": 1.2,
@@ -20669,7 +20669,7 @@
             "8111": 0.0,
             "8125": 0.0
           },
-          "points": 46.96,
+          "points": 59.16,
           "roster_id": 7,
           "starters": [
             "421",
@@ -20689,7 +20689,7 @@
             16.7,
             0.0,
             0.0,
-            0.0,
+            12.2,
             7.3,
             1.4
           ]
@@ -20742,13 +20742,13 @@
             "13324": 0.0,
             "13421": 1.1,
             "13424": 13.7,
-            "3257": 0.0,
+            "3257": 11.8,
             "4033": 0.0,
             "4866": 0.0,
             "4993": 1.4,
             "5859": 3.7,
-            "6797": 0.0,
-            "7571": 0.0,
+            "6797": 16.26,
+            "7571": 5.7,
             "8121": 0.0,
             "8146": 12.1,
             "8150": 4.2,
@@ -20820,7 +20820,7 @@
             "11565": 17.12,
             "11583": 0.0,
             "11626": 0.0,
-            "11647": 0.0,
+            "11647": 2.4,
             "11651": 0.0,
             "12481": 25.7,
             "12499": 10.4,
@@ -20995,7 +20995,7 @@
             "10236": 6.8,
             "11435": 0.0,
             "11630": 0.0,
-            "12493": 0.0,
+            "12493": 1.2,
             "12495": 13.5,
             "12512": 14.6,
             "12540": 3.1,
@@ -21107,9 +21107,9 @@
             "8183": 31.66,
             "8207": 0.0,
             "9508": 3.3,
-            "9997": 0.0
+            "9997": 8.4
           },
-          "points": 150.86,
+          "points": 159.26,
           "roster_id": 12,
           "starters": [
             "8183",
@@ -21126,7 +21126,7 @@
             31.66,
             7.2,
             31.7,
-            0.0,
+            8.4,
             9.1,
             17.3,
             3.4,

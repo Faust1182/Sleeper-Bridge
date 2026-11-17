@@ -60,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-11-16T22:01:37.509529+00:00",
+  "generated_at": "2026-11-17T07:55:14.635491+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -72,9 +72,9 @@
       "allow_pn_inactive_starters": "on",
       "allow_pn_player_injury_status": "on",
       "allow_pn_scoring": "on",
-      "record": "LWLWLLWLW",
+      "record": "LWLWLLWLWL",
       "restrict_pn_scoring_starters_only": "on",
-      "streak": "1W"
+      "streak": "1L"
     },
     "owner": {
       "display_name": "mklaszky25",
@@ -144,8 +144,8 @@
           "TE"
         ],
         "full_name": "Oronde Gadsden",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Eye",
+        "injury_status": "Questionable",
         "player_id": "12493",
         "position": "TE",
         "status": "Active",
@@ -597,13 +597,13 @@
     ],
     "roster_id": 11,
     "settings": {
-      "fpts": 926,
-      "fpts_against": 896,
-      "fpts_against_decimal": 70,
-      "fpts_decimal": 30,
-      "losses": 5,
-      "ppts": 1155,
-      "ppts_decimal": 74,
+      "fpts": 1085,
+      "fpts_against": 1055,
+      "fpts_against_decimal": 96,
+      "fpts_decimal": 2,
+      "losses": 6,
+      "ppts": 1334,
+      "ppts_decimal": 66,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 135,
