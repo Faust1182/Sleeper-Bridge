@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-11-20T07:16:03.749824+00:00",
+  "generated_at": "2026-11-20T20:20:39.664231+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1157,7 +1157,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 19,
+      "daily_waivers_last_ran": 20,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -1237,7 +1237,7 @@
         ],
         "full_name": "Dalton Kincaid",
         "injury_body_part": "Thumb",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "player_id": "10236",
         "position": "TE",
         "status": "Active",
@@ -1757,10 +1757,10 @@
       "4046",
       "8138",
       "6813",
-      "8112",
+      "5872",
       "6794",
       "7569",
-      "10236",
+      "5022",
       "12495",
       "9224"
     ],
@@ -3099,7 +3099,7 @@
           ],
           "full_name": "Omar Cooper Jr.",
           "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "13276",
           "position": "WR",
           "status": "Active",
@@ -3183,8 +3183,8 @@
             "WR"
           ],
           "full_name": "Zavion Thomas",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ankle",
+          "injury_status": "Questionable",
           "player_id": "13411",
           "position": "WR",
           "status": "Active",
@@ -3484,20 +3484,20 @@
         },
         {
           "active": true,
-          "age": 22,
+          "age": 30,
           "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Omar Cooper Jr.",
-          "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
-          "player_id": "13276",
+          "full_name": "Chris Godwin Jr.",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "4037",
           "position": "WR",
           "status": "Active",
-          "team": "NYJ",
-          "years_exp": 0
+          "team": "TB",
+          "years_exp": 9
         },
         {
           "active": true,
@@ -3569,20 +3569,20 @@
         },
         {
           "active": true,
-          "age": 30,
-          "depth_chart_order": 3,
-          "depth_chart_position": "SWR",
+          "age": 29,
+          "depth_chart_order": 2,
+          "depth_chart_position": "RB",
           "fantasy_positions": [
-            "WR"
+            "RB"
           ],
-          "full_name": "Chris Godwin Jr.",
+          "full_name": "Devin Singletary",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "4037",
-          "position": "WR",
+          "player_id": "6130",
+          "position": "RB",
           "status": "Active",
-          "team": "TB",
-          "years_exp": 9
+          "team": "NYG",
+          "years_exp": 7
         }
       ],
       "taxi": [
@@ -4724,8 +4724,8 @@
             "TE"
           ],
           "full_name": "Isaiah Likely",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Undisclosed",
+          "injury_status": "Questionable",
           "player_id": "8131",
           "position": "TE",
           "status": "Active",
@@ -4913,8 +4913,8 @@
             "TE"
           ],
           "full_name": "Isaiah Likely",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Undisclosed",
+          "injury_status": "Questionable",
           "player_id": "8131",
           "position": "TE",
           "status": "Active",
@@ -6789,12 +6789,12 @@
             "RB"
           ],
           "full_name": "Pierre Strong Jr.",
-          "injury_body_part": "Coach's Decision",
-          "injury_status": "Out",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "8116",
           "position": "RB",
           "status": "Active",
-          "team": "GB",
+          "team": null,
           "years_exp": 4
         },
         {
@@ -7256,7 +7256,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -7717,7 +7717,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -9480,8 +9480,8 @@
             "WR"
           ],
           "full_name": "Jordyn Tyson",
-          "injury_body_part": "Chest",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13281",
           "position": "WR",
           "status": "Active",
@@ -9582,8 +9582,8 @@
             "TE"
           ],
           "full_name": "T.J. Hockenson",
-          "injury_body_part": "Wrist",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "5844",
           "position": "TE",
           "status": "Active",
@@ -9815,19 +9815,19 @@
         },
         {
           "active": true,
-          "age": 26,
-          "depth_chart_order": 2,
+          "age": 25,
+          "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Kenneth Walker III",
-          "injury_body_part": "Groin",
-          "injury_status": "Questionable",
-          "player_id": "8151",
+          "full_name": "Breece Hall",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "8155",
           "position": "RB",
           "status": "Active",
-          "team": "KC",
+          "team": "NYJ",
           "years_exp": 4
         },
         {
@@ -9907,8 +9907,8 @@
             "TE"
           ],
           "full_name": "T.J. Hockenson",
-          "injury_body_part": "Wrist",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "5844",
           "position": "TE",
           "status": "Active",
@@ -9918,19 +9918,19 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 1,
-          "depth_chart_position": "RB",
+          "depth_chart_order": 2,
+          "depth_chart_position": "RWR",
           "fantasy_positions": [
-            "RB"
+            "WR"
           ],
-          "full_name": "Breece Hall",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "8155",
-          "position": "RB",
+          "full_name": "Dontayvion Wicks",
+          "injury_body_part": "Ankle",
+          "injury_status": "Questionable",
+          "player_id": "9486",
+          "position": "WR",
           "status": "Active",
-          "team": "NYJ",
-          "years_exp": 4
+          "team": "PHI",
+          "years_exp": 3
         },
         {
           "active": true,
@@ -9941,8 +9941,8 @@
             "WR"
           ],
           "full_name": "Jordyn Tyson",
-          "injury_body_part": "Chest",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13281",
           "position": "WR",
           "status": "Active",
@@ -10022,7 +10022,7 @@
           ],
           "full_name": "Dalton Kincaid",
           "injury_body_part": "Thumb",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "player_id": "10236",
           "position": "TE",
           "status": "Active",
@@ -10577,20 +10577,20 @@
         },
         {
           "active": true,
-          "age": 25,
+          "age": 30,
           "depth_chart_order": 1,
-          "depth_chart_position": "LWR",
+          "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Drake London",
-          "injury_body_part": "Head",
-          "injury_status": "Questionable",
-          "player_id": "8112",
+          "full_name": "Deebo Samuel Sr.",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "5872",
           "position": "WR",
           "status": "Active",
-          "team": "ATL",
-          "years_exp": 4
+          "team": "SF",
+          "years_exp": 7
         },
         {
           "active": true,
@@ -10628,20 +10628,20 @@
         },
         {
           "active": true,
-          "age": 27,
+          "age": 31,
           "depth_chart_order": 1,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
           ],
-          "full_name": "Dalton Kincaid",
-          "injury_body_part": "Thumb",
-          "injury_status": "Questionable",
-          "player_id": "10236",
+          "full_name": "Dallas Goedert",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "5022",
           "position": "TE",
           "status": "Active",
-          "team": "BUF",
-          "years_exp": 3
+          "team": "PHI",
+          "years_exp": 8
         },
         {
           "active": true,

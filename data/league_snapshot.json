@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-11-20T07:16:03.749824+00:00",
+  "generated_at": "2026-11-20T20:20:39.664231+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2494,7 +2494,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 19,
+      "daily_waivers_last_ran": 20,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -2577,7 +2577,7 @@
         ],
         "full_name": "Dalton Kincaid",
         "injury_body_part": "Thumb",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "player_id": "10236",
         "position": "TE",
         "status": "Active",
@@ -3097,10 +3097,10 @@
       "4046",
       "8138",
       "6813",
-      "8112",
+      "5872",
       "6794",
       "7569",
-      "10236",
+      "5022",
       "12495",
       "9224"
     ],
@@ -3266,7 +3266,7 @@
       ],
       "full_name": "Dalton Kincaid",
       "injury_body_part": "Thumb",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "player_id": "10236",
       "position": "TE",
       "status": "Active",
@@ -5062,7 +5062,7 @@
     "12670": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 4,
+      "depth_chart_order": 5,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -5222,7 +5222,7 @@
       ],
       "full_name": "Omar Cooper Jr.",
       "injury_body_part": "Ankle",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "player_id": "13276",
       "position": "WR",
       "status": "Active",
@@ -5272,8 +5272,8 @@
         "WR"
       ],
       "full_name": "Jordyn Tyson",
-      "injury_body_part": "Chest",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "13281",
       "position": "WR",
       "status": "Active",
@@ -5867,8 +5867,8 @@
         "WR"
       ],
       "full_name": "Zavion Thomas",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Ankle",
+      "injury_status": "Questionable",
       "player_id": "13411",
       "position": "WR",
       "status": "Active",
@@ -6768,8 +6768,8 @@
         "TE"
       ],
       "full_name": "T.J. Hockenson",
-      "injury_body_part": "Wrist",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "5844",
       "position": "TE",
       "status": "Active",
@@ -7686,12 +7686,12 @@
         "RB"
       ],
       "full_name": "Pierre Strong Jr.",
-      "injury_body_part": "Coach's Decision",
-      "injury_status": "Out",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "8116",
       "position": "RB",
       "status": "Active",
-      "team": "GB",
+      "team": null,
       "years_exp": 4
     },
     "8119": {
@@ -7805,8 +7805,8 @@
         "TE"
       ],
       "full_name": "Isaiah Likely",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Undisclosed",
+      "injury_status": "Questionable",
       "player_id": "8131",
       "position": "TE",
       "status": "Active",
@@ -8952,7 +8952,7 @@
           ],
           "full_name": "Omar Cooper Jr.",
           "injury_body_part": "Ankle",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "13276",
           "position": "WR",
           "status": "Active",
@@ -9036,8 +9036,8 @@
             "WR"
           ],
           "full_name": "Zavion Thomas",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Ankle",
+          "injury_status": "Questionable",
           "player_id": "13411",
           "position": "WR",
           "status": "Active",
@@ -9302,12 +9302,12 @@
         "1373",
         "9221",
         "6790",
-        "13276",
+        "4037",
         "9500",
         "7525",
         "11604",
         "1466",
-        "4037"
+        "6130"
       ],
       "taxi": [
         "12543",
@@ -10283,8 +10283,8 @@
             "TE"
           ],
           "full_name": "Isaiah Likely",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Undisclosed",
+          "injury_status": "Questionable",
           "player_id": "8131",
           "position": "TE",
           "status": "Active",
@@ -11888,12 +11888,12 @@
             "RB"
           ],
           "full_name": "Pierre Strong Jr.",
-          "injury_body_part": "Coach's Decision",
-          "injury_status": "Out",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "8116",
           "position": "RB",
           "status": "Active",
-          "team": "GB",
+          "team": null,
           "years_exp": 4
         },
         {
@@ -12189,7 +12189,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -13959,8 +13959,8 @@
             "WR"
           ],
           "full_name": "Jordyn Tyson",
-          "injury_body_part": "Chest",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "13281",
           "position": "WR",
           "status": "Active",
@@ -14061,8 +14061,8 @@
             "TE"
           ],
           "full_name": "T.J. Hockenson",
-          "injury_body_part": "Wrist",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "5844",
           "position": "TE",
           "status": "Active",
@@ -14291,13 +14291,13 @@
       },
       "starters": [
         "4984",
-        "8151",
+        "8155",
         "7543",
         "10218",
         "7564",
         "8144",
         "5844",
-        "8155",
+        "9486",
         "13281"
       ],
       "taxi": [
@@ -14338,7 +14338,7 @@
           ],
           "full_name": "Dalton Kincaid",
           "injury_body_part": "Thumb",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "player_id": "10236",
           "position": "TE",
           "status": "Active",
@@ -14858,10 +14858,10 @@
         "4046",
         "8138",
         "6813",
-        "8112",
+        "5872",
         "6794",
         "7569",
-        "10236",
+        "5022",
         "12495",
         "9224"
       ],
@@ -21570,12 +21570,12 @@
             "1373",
             "9221",
             "6790",
-            "13276",
+            "4037",
             "9500",
             "7525",
             "11604",
             "1466",
-            "4037"
+            "6130"
           ],
           "starters_points": [
             0.0,
@@ -22348,13 +22348,13 @@
           "roster_id": 10,
           "starters": [
             "4984",
-            "8151",
+            "8155",
             "7543",
             "10218",
             "7564",
             "8144",
             "5844",
-            "8155",
+            "9486",
             "13281"
           ],
           "starters_points": [
@@ -22441,7 +22441,7 @@
             "5872",
             "6794",
             "7569",
-            "10236",
+            "5022",
             "12495",
             "9224"
           ],
@@ -22678,12 +22678,12 @@
             "1373",
             "9221",
             "6790",
-            "13276",
+            "4037",
             "9500",
             "7525",
             "11604",
             "1466",
-            "4037"
+            "6130"
           ],
           "starters_points": [
             0.0,
@@ -23456,13 +23456,13 @@
           "roster_id": 10,
           "starters": [
             "4984",
-            "8151",
+            "8155",
             "7543",
             "10218",
             "7564",
             "8144",
             "5844",
-            "8155",
+            "9486",
             "13281"
           ],
           "starters_points": [
@@ -23546,10 +23546,10 @@
             "4046",
             "8138",
             "6813",
-            "8112",
+            "5872",
             "6794",
             "7569",
-            "10236",
+            "5022",
             "12495",
             "9224"
           ],
@@ -23727,12 +23727,12 @@
             "1373",
             "9221",
             "6790",
-            "13276",
+            "4037",
             "9500",
             "7525",
             "11604",
             "1466",
-            "4037"
+            "6130"
           ],
           "starters_points": [
             0.0,
@@ -24419,11 +24419,11 @@
             "3163",
             "9753",
             "12481",
-            "12634",
+            "12519",
             "5846",
-            "8134",
+            "13279",
             "9484",
-            "8122",
+            "12517",
             "13286"
           ],
           "starters_points": [
@@ -24505,13 +24505,13 @@
           "roster_id": 10,
           "starters": [
             "4984",
-            "8151",
+            "8155",
             "7543",
             "10218",
             "7564",
             "8144",
             "5844",
-            "8155",
+            "9486",
             "13281"
           ],
           "starters_points": [
@@ -24595,10 +24595,10 @@
             "4046",
             "8138",
             "6813",
-            "8112",
+            "5872",
             "6794",
             "7569",
-            "10236",
+            "5022",
             "12495",
             "9224"
           ],
@@ -24776,12 +24776,12 @@
             "1373",
             "9221",
             "6790",
-            "13276",
+            "4037",
             "9500",
             "7525",
             "11604",
             "1466",
-            "4037"
+            "6130"
           ],
           "starters_points": [
             0.0,
@@ -25468,11 +25468,11 @@
             "3163",
             "9753",
             "12481",
-            "12634",
+            "12519",
             "5846",
-            "8134",
+            "13279",
+            "12517",
             "9484",
-            "8122",
             "13286"
           ],
           "starters_points": [
@@ -25554,13 +25554,13 @@
           "roster_id": 10,
           "starters": [
             "4984",
-            "8151",
+            "8155",
             "7543",
             "10218",
             "7564",
             "8144",
             "5844",
-            "8155",
+            "9486",
             "13281"
           ],
           "starters_points": [
@@ -25644,10 +25644,10 @@
             "4046",
             "8138",
             "6813",
-            "8112",
+            "5872",
             "6794",
             "7569",
-            "10236",
+            "5022",
             "12495",
             "9224"
           ],
@@ -25825,12 +25825,12 @@
             "1373",
             "9221",
             "6790",
-            "13276",
+            "4037",
             "9500",
             "7525",
             "11604",
             "1466",
-            "4037"
+            "6130"
           ],
           "starters_points": [
             0.0,
@@ -26603,13 +26603,13 @@
           "roster_id": 10,
           "starters": [
             "4984",
-            "8151",
+            "8155",
             "7543",
             "10218",
             "7564",
             "8144",
             "5844",
-            "8155",
+            "9486",
             "13281"
           ],
           "starters_points": [
@@ -26693,10 +26693,10 @@
             "4046",
             "8138",
             "6813",
-            "8112",
+            "5872",
             "6794",
             "7569",
-            "10236",
+            "5022",
             "12495",
             "9224"
           ],
@@ -26874,12 +26874,12 @@
             "1373",
             "9221",
             "6790",
-            "13276",
+            "4037",
             "9500",
             "7525",
             "11604",
             "1466",
-            "4037"
+            "6130"
           ],
           "starters_points": [
             0.0,
@@ -27652,13 +27652,13 @@
           "roster_id": 10,
           "starters": [
             "4984",
-            "8151",
+            "8155",
             "7543",
             "10218",
             "7564",
             "8144",
             "5844",
-            "8155",
+            "9486",
             "13281"
           ],
           "starters_points": [
@@ -27742,10 +27742,10 @@
             "4046",
             "8138",
             "6813",
-            "8112",
+            "5872",
             "6794",
             "7569",
-            "10236",
+            "5022",
             "12495",
             "9224"
           ],
@@ -27923,12 +27923,12 @@
             "1373",
             "9221",
             "6790",
-            "13276",
+            "4037",
             "9500",
             "7525",
             "11604",
             "1466",
-            "4037"
+            "6130"
           ],
           "starters_points": [
             0.0,
@@ -28701,13 +28701,13 @@
           "roster_id": 10,
           "starters": [
             "4984",
-            "8151",
+            "8155",
             "7543",
             "10218",
             "7564",
             "8144",
             "5844",
-            "8155",
+            "9486",
             "13281"
           ],
           "starters_points": [
@@ -28791,10 +28791,10 @@
             "4046",
             "8138",
             "6813",
-            "8112",
+            "5872",
             "6794",
             "7569",
-            "10236",
+            "5022",
             "12495",
             "9224"
           ],
@@ -28972,12 +28972,12 @@
             "1373",
             "9221",
             "6790",
-            "13276",
+            "4037",
             "9500",
             "7525",
             "11604",
             "1466",
-            "4037"
+            "6130"
           ],
           "starters_points": [
             0.0,
@@ -29750,13 +29750,13 @@
           "roster_id": 10,
           "starters": [
             "4984",
-            "8151",
+            "8155",
             "7543",
             "10218",
             "7564",
             "8144",
             "5844",
-            "8155",
+            "9486",
             "13281"
           ],
           "starters_points": [
@@ -29840,10 +29840,10 @@
             "4046",
             "8138",
             "6813",
-            "8112",
+            "5872",
             "6794",
             "7569",
-            "10236",
+            "5022",
             "12495",
             "9224"
           ],
