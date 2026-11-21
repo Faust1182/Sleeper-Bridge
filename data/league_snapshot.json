@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-11-21T07:07:59.799365+00:00",
+  "generated_at": "2026-11-21T19:16:16.731575+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2494,7 +2494,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 20,
+      "daily_waivers_last_ran": 21,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -6875,7 +6875,7 @@
       "player_id": "5870",
       "position": "QB",
       "status": "Active",
-      "team": "IND",
+      "team": null,
       "years_exp": 7
     },
     "5872": {
@@ -8588,7 +8588,7 @@
       ],
       "full_name": "Tyjae Spears",
       "injury_body_part": "Knee",
-      "injury_status": "Questionable",
+      "injury_status": "IR",
       "player_id": "9508",
       "position": "RB",
       "status": "Active",
@@ -10220,7 +10220,7 @@
           "player_id": "5870",
           "position": "QB",
           "status": "Active",
-          "team": "IND",
+          "team": null,
           "years_exp": 7
         },
         {
@@ -15340,7 +15340,7 @@
           ],
           "full_name": "Tyjae Spears",
           "injury_body_part": "Knee",
-          "injury_status": "Questionable",
+          "injury_status": "IR",
           "player_id": "9508",
           "position": "RB",
           "status": "Active",
