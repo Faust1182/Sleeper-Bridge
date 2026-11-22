@@ -60,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-11-21T19:16:16.731575+00:00",
+  "generated_at": "2026-11-22T06:48:20.551830+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -121,17 +121,17 @@
       {
         "active": true,
         "age": 25,
-        "depth_chart_order": 8,
+        "depth_chart_order": 2,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
         ],
         "full_name": "Roman Wilson",
-        "injury_body_part": "Finger",
-        "injury_status": "IR",
+        "injury_body_part": "Hand",
+        "injury_status": "Questionable",
         "player_id": "11630",
         "position": "WR",
-        "status": "Inactive",
+        "status": "Active",
         "team": "PIT",
         "years_exp": 2
       },

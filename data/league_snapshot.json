@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-11-21T19:16:16.731575+00:00",
+  "generated_at": "2026-11-22T06:48:20.551830+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2604,17 +2604,17 @@
       {
         "active": true,
         "age": 25,
-        "depth_chart_order": 8,
+        "depth_chart_order": 2,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
         ],
         "full_name": "Roman Wilson",
-        "injury_body_part": "Finger",
-        "injury_status": "IR",
+        "injury_body_part": "Hand",
+        "injury_status": "Questionable",
         "player_id": "11630",
         "position": "WR",
-        "status": "Inactive",
+        "status": "Active",
         "team": "PIT",
         "years_exp": 2
       },
@@ -3837,17 +3837,17 @@
     "11630": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 8,
+      "depth_chart_order": 2,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
       ],
       "full_name": "Roman Wilson",
-      "injury_body_part": "Finger",
-      "injury_status": "IR",
+      "injury_body_part": "Hand",
+      "injury_status": "Questionable",
       "player_id": "11630",
       "position": "WR",
-      "status": "Inactive",
+      "status": "Active",
       "team": "PIT",
       "years_exp": 2
     },
@@ -3922,7 +3922,7 @@
     "11638": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 11,
+      "depth_chart_order": 10,
       "depth_chart_position": null,
       "fantasy_positions": [
         "WR"
@@ -4227,7 +4227,7 @@
     },
     "12482": {
       "active": true,
-      "age": 24,
+      "age": 25,
       "depth_chart_order": 3,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
@@ -5062,7 +5062,7 @@
     "12670": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 5,
+      "depth_chart_order": 6,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -5095,7 +5095,7 @@
     },
     "13150": {
       "active": true,
-      "age": 24,
+      "age": 25,
       "depth_chart_order": 3,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
@@ -5164,14 +5164,14 @@
     "13272": {
       "active": true,
       "age": 24,
-      "depth_chart_order": 1,
+      "depth_chart_order": 3,
       "depth_chart_position": "QB",
       "fantasy_positions": [
         "QB"
       ],
       "full_name": "Carson Beck",
       "injury_body_part": "Back",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "player_id": "13272",
       "position": "QB",
       "status": "Active",
@@ -5181,7 +5181,7 @@
     "13274": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -5334,7 +5334,7 @@
     "13288": {
       "active": true,
       "age": 22,
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -5776,7 +5776,7 @@
     "13380": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 6,
+      "depth_chart_order": 4,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -5912,7 +5912,7 @@
     "13417": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 12,
+      "depth_chart_order": 11,
       "depth_chart_position": "SWR",
       "fantasy_positions": [
         "WR"
@@ -6082,7 +6082,7 @@
     "2133": {
       "active": true,
       "age": 33,
-      "depth_chart_order": 6,
+      "depth_chart_order": 5,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -7153,7 +7153,7 @@
     "6803": {
       "active": true,
       "age": 28,
-      "depth_chart_order": 9,
+      "depth_chart_order": 8,
       "depth_chart_position": null,
       "fantasy_positions": [
         "WR"
@@ -7221,7 +7221,7 @@
     "6819": {
       "active": true,
       "age": 29,
-      "depth_chart_order": 6,
+      "depth_chart_order": 7,
       "depth_chart_position": "RWR",
       "fantasy_positions": [
         "WR"
@@ -7691,7 +7691,7 @@
       "player_id": "8116",
       "position": "RB",
       "status": "Active",
-      "team": null,
+      "team": "GB",
       "years_exp": 4
     },
     "8119": {
@@ -7781,7 +7781,7 @@
     },
     "8130": {
       "active": true,
-      "age": 26,
+      "age": 27,
       "depth_chart_order": 1,
       "depth_chart_position": "TE",
       "fantasy_positions": [
@@ -7975,8 +7975,8 @@
         "RB"
       ],
       "full_name": "Kyren Williams",
-      "injury_body_part": null,
-      "injury_status": null,
+      "injury_body_part": "Toe",
+      "injury_status": "Questionable",
       "player_id": "8150",
       "position": "RB",
       "status": "Active",
@@ -7986,7 +7986,7 @@
     "8151": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -8418,10 +8418,10 @@
       ],
       "full_name": "Dontayvion Wicks",
       "injury_body_part": "Ankle",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "player_id": "9486",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "team": "PHI",
       "years_exp": 3
     },
@@ -8462,8 +8462,8 @@
     "9493": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 8,
-      "depth_chart_position": "RWR",
+      "depth_chart_order": 6,
+      "depth_chart_position": null,
       "fantasy_positions": [
         "WR"
       ],
@@ -8472,7 +8472,7 @@
       "injury_status": "IR",
       "player_id": "9493",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "team": "LAR",
       "years_exp": 3
     },
@@ -8581,7 +8581,7 @@
     "9508": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 2,
+      "depth_chart_order": 5,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -8591,7 +8591,7 @@
       "injury_status": "IR",
       "player_id": "9508",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "team": "TEN",
       "years_exp": 3
     },
@@ -10124,7 +10124,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -10175,7 +10175,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 12,
+          "depth_chart_order": 11,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -10662,7 +10662,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -11219,7 +11219,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 6,
+          "depth_chart_order": 4,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -11643,7 +11643,7 @@
         },
         {
           "active": true,
-          "age": 24,
+          "age": 25,
           "depth_chart_order": 3,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
@@ -11678,14 +11678,14 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 1,
+          "depth_chart_order": 3,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
           ],
           "full_name": "Carson Beck",
           "injury_body_part": "Back",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "player_id": "13272",
           "position": "QB",
           "status": "Active",
@@ -11893,7 +11893,7 @@
           "player_id": "8116",
           "position": "RB",
           "status": "Active",
-          "team": null,
+          "team": "GB",
           "years_exp": 4
         },
         {
@@ -12189,7 +12189,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -13014,8 +13014,8 @@
             "RB"
           ],
           "full_name": "Kyren Williams",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Toe",
+          "injury_status": "Questionable",
           "player_id": "8150",
           "position": "RB",
           "status": "Active",
@@ -13868,7 +13868,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 11,
+          "depth_chart_order": 10,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -13901,7 +13901,7 @@
         },
         {
           "active": true,
-          "age": 24,
+          "age": 25,
           "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
@@ -14140,7 +14140,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -14198,18 +14198,18 @@
           ],
           "full_name": "Dontayvion Wicks",
           "injury_body_part": "Ankle",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "player_id": "9486",
           "position": "WR",
-          "status": "Active",
+          "status": "Inactive",
           "team": "PHI",
           "years_exp": 3
         },
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 8,
-          "depth_chart_position": "RWR",
+          "depth_chart_order": 6,
+          "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
           ],
@@ -14218,7 +14218,7 @@
           "injury_status": "IR",
           "player_id": "9493",
           "position": "WR",
-          "status": "Active",
+          "status": "Inactive",
           "team": "LAR",
           "years_exp": 3
         },
@@ -14365,17 +14365,17 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 8,
+          "depth_chart_order": 2,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Roman Wilson",
-          "injury_body_part": "Finger",
-          "injury_status": "IR",
+          "injury_body_part": "Hand",
+          "injury_status": "Questionable",
           "player_id": "11630",
           "position": "WR",
-          "status": "Inactive",
+          "status": "Active",
           "team": "PIT",
           "years_exp": 2
         },
@@ -14993,7 +14993,7 @@
         {
           "active": true,
           "age": 33,
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -15197,7 +15197,7 @@
         {
           "active": true,
           "age": 28,
-          "depth_chart_order": 9,
+          "depth_chart_order": 8,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -15214,7 +15214,7 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 6,
+          "depth_chart_order": 7,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -15264,7 +15264,7 @@
         },
         {
           "active": true,
-          "age": 26,
+          "age": 27,
           "depth_chart_order": 1,
           "depth_chart_position": "TE",
           "fantasy_positions": [
@@ -15333,7 +15333,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 2,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -15343,7 +15343,7 @@
           "injury_status": "IR",
           "player_id": "9508",
           "position": "RB",
-          "status": "Active",
+          "status": "Inactive",
           "team": "TEN",
           "years_exp": 3
         },
@@ -23637,8 +23637,8 @@
             "9997",
             "6801",
             "2449",
-            "2505",
             "8130",
+            "2216",
             "4034"
           ],
           "starters_points": [
