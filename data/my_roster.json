@@ -60,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-11-22T06:48:20.551830+00:00",
+  "generated_at": "2026-11-22T19:40:17.400528+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -94,7 +94,7 @@
         ],
         "full_name": "Dalton Kincaid",
         "injury_body_part": "Thumb",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "player_id": "10236",
         "position": "TE",
         "status": "Active",
@@ -127,8 +127,8 @@
           "WR"
         ],
         "full_name": "Roman Wilson",
-        "injury_body_part": "Hand",
-        "injury_status": "Questionable",
+        "injury_body_part": null,
+        "injury_status": null,
         "player_id": "11630",
         "position": "WR",
         "status": "Active",
