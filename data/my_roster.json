@@ -60,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-11-23T07:39:01.225411+00:00",
+  "generated_at": "2026-11-23T23:53:33.414239+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -314,8 +314,8 @@
           "TE"
         ],
         "full_name": "Dallas Goedert",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Shin",
+        "injury_status": "Questionable",
         "player_id": "5022",
         "position": "TE",
         "status": "Active",

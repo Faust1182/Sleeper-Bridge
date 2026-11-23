@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-11-23T07:39:01.225411+00:00",
+  "generated_at": "2026-11-23T23:53:33.414239+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1157,7 +1157,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 22,
+      "daily_waivers_last_ran": 23,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -1457,8 +1457,8 @@
           "TE"
         ],
         "full_name": "Dallas Goedert",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Shin",
+        "injury_status": "Questionable",
         "player_id": "5022",
         "position": "TE",
         "status": "Active",
@@ -4486,8 +4486,8 @@
             "RB"
           ],
           "full_name": "Bhayshul Tuten",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Undisclosed",
+          "injury_status": "Questionable",
           "player_id": "12490",
           "position": "RB",
           "status": "Active",
@@ -4554,11 +4554,11 @@
             "RB"
           ],
           "full_name": "Jacory Croskey-Merritt",
-          "injury_body_part": "Groin",
-          "injury_status": "IR",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "12533",
           "position": "RB",
-          "status": "Inactive",
+          "status": "Active",
           "team": "WAS",
           "years_exp": 1
         },
@@ -4616,7 +4616,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 11,
+          "depth_chart_order": 10,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -4828,8 +4828,8 @@
             "RB"
           ],
           "full_name": "Bhayshul Tuten",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Undisclosed",
+          "injury_status": "Questionable",
           "player_id": "12490",
           "position": "RB",
           "status": "Active",
@@ -6466,8 +6466,8 @@
             "RB"
           ],
           "full_name": "George Holani",
-          "injury_body_part": "Knee",
-          "injury_status": "Out",
+          "injury_body_part": "Knee - MCL",
+          "injury_status": "IR",
           "player_id": "12048",
           "position": "RB",
           "status": "Active",
@@ -8972,7 +8972,7 @@
           "active": true,
           "age": 26,
           "depth_chart_order": 9,
-          "depth_chart_position": null,
+          "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
           ],
@@ -9376,7 +9376,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 10,
+          "depth_chart_order": 9,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -9752,7 +9752,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 10,
+          "depth_chart_order": 9,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -10229,8 +10229,8 @@
             "TE"
           ],
           "full_name": "Dallas Goedert",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Shin",
+          "injury_status": "Questionable",
           "player_id": "5022",
           "position": "TE",
           "status": "Active",
@@ -10622,8 +10622,8 @@
             "TE"
           ],
           "full_name": "Dallas Goedert",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Shin",
+          "injury_status": "Questionable",
           "player_id": "5022",
           "position": "TE",
           "status": "Active",
@@ -11036,7 +11036,7 @@
         {
           "active": true,
           "age": 28,
-          "depth_chart_order": 8,
+          "depth_chart_order": null,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
