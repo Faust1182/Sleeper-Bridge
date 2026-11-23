@@ -60,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-11-22T19:40:17.400528+00:00",
+  "generated_at": "2026-11-23T07:39:01.225411+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -87,7 +87,7 @@
       {
         "active": true,
         "age": 27,
-        "depth_chart_order": 1,
+        "depth_chart_order": 4,
         "depth_chart_position": "TE",
         "fantasy_positions": [
           "TE"
@@ -223,14 +223,14 @@
       {
         "active": true,
         "age": 24,
-        "depth_chart_order": 7,
+        "depth_chart_order": 8,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
         ],
         "full_name": "Malik Benson",
-        "injury_body_part": null,
-        "injury_status": null,
+        "injury_body_part": "Coach's Decision",
+        "injury_status": "Out",
         "player_id": "13329",
         "position": "WR",
         "status": "Active",
