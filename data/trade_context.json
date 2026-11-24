@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-11-24T09:54:23.976276+00:00",
+  "generated_at": "2026-11-24T22:26:38.137594+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1157,12 +1157,12 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 23,
+      "daily_waivers_last_ran": 24,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
       "faab_suggestions": 0,
-      "last_report": 10,
+      "last_report": 11,
       "last_scored_leg": 11,
       "league_average_match": 0,
       "leg": 11,
@@ -1230,7 +1230,7 @@
       {
         "active": true,
         "age": 27,
-        "depth_chart_order": 4,
+        "depth_chart_order": 1,
         "depth_chart_position": "TE",
         "fantasy_positions": [
           "TE"
@@ -1264,7 +1264,7 @@
       {
         "active": true,
         "age": 25,
-        "depth_chart_order": 2,
+        "depth_chart_order": 3,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
@@ -1281,7 +1281,7 @@
       {
         "active": true,
         "age": 23,
-        "depth_chart_order": 1,
+        "depth_chart_order": 2,
         "depth_chart_position": "TE",
         "fantasy_positions": [
           "TE"
@@ -2921,7 +2921,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -2938,7 +2938,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
+          "depth_chart_order": 1,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -2955,7 +2955,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -2972,7 +2972,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -3058,7 +3058,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 5,
+          "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -3092,7 +3092,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 9,
+          "depth_chart_order": 2,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -3126,7 +3126,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -3143,7 +3143,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 5,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -3400,7 +3400,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -3484,37 +3484,37 @@
         },
         {
           "active": true,
-          "age": 30,
-          "depth_chart_order": 3,
-          "depth_chart_position": "SWR",
+          "age": 23,
+          "depth_chart_order": 2,
+          "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Chris Godwin Jr.",
+          "full_name": "Matthew Golden",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "4037",
+          "player_id": "12501",
           "position": "WR",
           "status": "Active",
-          "team": "TB",
-          "years_exp": 9
+          "team": "GB",
+          "years_exp": 1
         },
         {
           "active": true,
-          "age": 25,
-          "depth_chart_order": 2,
+          "age": 27,
+          "depth_chart_order": 1,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Josh Downs",
+          "full_name": "Christian Watson",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "9500",
+          "player_id": "8167",
           "position": "WR",
           "status": "Active",
-          "team": "KC",
-          "years_exp": 3
+          "team": "GB",
+          "years_exp": 4
         },
         {
           "active": true,
@@ -3535,23 +3535,6 @@
         },
         {
           "active": true,
-          "age": 23,
-          "depth_chart_order": 4,
-          "depth_chart_position": "TE",
-          "fantasy_positions": [
-            "TE"
-          ],
-          "full_name": "Brock Bowers",
-          "injury_body_part": "Ankle",
-          "injury_status": "Out",
-          "player_id": "11604",
-          "position": "TE",
-          "status": "Active",
-          "team": "LV",
-          "years_exp": 2
-        },
-        {
-          "active": true,
           "age": 37,
           "depth_chart_order": 1,
           "depth_chart_position": "TE",
@@ -3569,20 +3552,37 @@
         },
         {
           "active": true,
-          "age": 29,
-          "depth_chart_order": 2,
-          "depth_chart_position": "RB",
+          "age": 23,
+          "depth_chart_order": 1,
+          "depth_chart_position": "TE",
           "fantasy_positions": [
-            "RB"
+            "TE"
           ],
-          "full_name": "Devin Singletary",
-          "injury_body_part": null,
-          "injury_status": null,
-          "player_id": "6130",
-          "position": "RB",
+          "full_name": "Brock Bowers",
+          "injury_body_part": "Ankle",
+          "injury_status": "Out",
+          "player_id": "11604",
+          "position": "TE",
           "status": "Active",
-          "team": "NYG",
-          "years_exp": 7
+          "team": "LV",
+          "years_exp": 2
+        },
+        {
+          "active": true,
+          "age": 22,
+          "depth_chart_order": 2,
+          "depth_chart_position": "SWR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "full_name": "Omar Cooper Jr.",
+          "injury_body_part": "Ankle",
+          "injury_status": "Out",
+          "player_id": "13276",
+          "position": "WR",
+          "status": "Active",
+          "team": "NYJ",
+          "years_exp": 0
         }
       ],
       "taxi": [
@@ -3623,7 +3623,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -3752,7 +3752,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 5,
+          "depth_chart_order": 4,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -3854,7 +3854,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -3888,7 +3888,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 6,
+          "depth_chart_order": 3,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -3973,7 +3973,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -4145,7 +4145,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -4395,7 +4395,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -4429,7 +4429,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 6,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -4565,7 +4565,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -4588,8 +4588,8 @@
             "WR"
           ],
           "full_name": "Denzel Boston",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Toe",
+          "injury_status": "Questionable",
           "player_id": "13346",
           "position": "WR",
           "status": "Active",
@@ -4701,7 +4701,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 4,
+          "depth_chart_order": 1,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -4804,20 +4804,20 @@
       "starters": [
         {
           "active": true,
-          "age": 29,
-          "depth_chart_order": null,
-          "depth_chart_position": null,
+          "age": 31,
+          "depth_chart_order": 1,
+          "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
           ],
-          "full_name": "Daniel Jones",
+          "full_name": "Baker Mayfield",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "5870",
+          "player_id": "4892",
           "position": "QB",
           "status": "Active",
-          "team": null,
-          "years_exp": 7
+          "team": "TB",
+          "years_exp": 8
         },
         {
           "active": true,
@@ -4838,20 +4838,20 @@
         },
         {
           "active": true,
-          "age": 28,
-          "depth_chart_order": 2,
+          "age": 25,
+          "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Rico Dowdle",
+          "full_name": "Jacory Croskey-Merritt",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "7021",
+          "player_id": "12533",
           "position": "RB",
           "status": "Active",
-          "team": "PIT",
-          "years_exp": 6
+          "team": "WAS",
+          "years_exp": 1
         },
         {
           "active": true,
@@ -4889,20 +4889,20 @@
         },
         {
           "active": true,
-          "age": 23,
-          "depth_chart_order": 3,
-          "depth_chart_position": "SWR",
+          "age": 22,
+          "depth_chart_order": 2,
+          "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Pat Bryant",
+          "full_name": "Germie Bernard",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "12492",
+          "player_id": "13274",
           "position": "WR",
           "status": "Active",
-          "team": "DEN",
-          "years_exp": 1
+          "team": "PIT",
+          "years_exp": 0
         },
         {
           "active": true,
@@ -4923,20 +4923,20 @@
         },
         {
           "active": true,
-          "age": 27,
+          "age": 23,
           "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "Ryan Flournoy",
+          "full_name": "Pat Bryant",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "11783",
+          "player_id": "12492",
           "position": "WR",
           "status": "Active",
-          "team": "DAL",
-          "years_exp": 2
+          "team": "DEN",
+          "years_exp": 1
         },
         {
           "active": true,
@@ -5038,7 +5038,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -5140,7 +5140,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 5,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -5242,7 +5242,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 6,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -5361,7 +5361,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 6,
+          "depth_chart_order": 7,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -5395,7 +5395,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -5671,7 +5671,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 6,
+          "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -5817,7 +5817,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -5902,7 +5902,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -5919,7 +5919,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -5953,7 +5953,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 9,
+          "depth_chart_order": 6,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -6044,8 +6044,8 @@
             "RB"
           ],
           "full_name": "J.K. Dobbins",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Suspension",
+          "injury_status": "Sus",
           "player_id": "6806",
           "position": "RB",
           "status": "Active",
@@ -6106,7 +6106,7 @@
         {
           "active": true,
           "age": 28,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -6123,7 +6123,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -6335,8 +6335,8 @@
             "RB"
           ],
           "full_name": "J.K. Dobbins",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Suspension",
+          "injury_status": "Sus",
           "player_id": "6806",
           "position": "RB",
           "status": "Active",
@@ -6346,7 +6346,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -6460,7 +6460,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -6579,7 +6579,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 3,
+          "depth_chart_order": 1,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -6613,7 +6613,7 @@
         {
           "active": true,
           "age": 33,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -6851,7 +6851,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -6868,7 +6868,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -7057,7 +7057,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -7110,7 +7110,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 3,
+          "depth_chart_order": 1,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -7171,7 +7171,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -7256,7 +7256,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 7,
+          "depth_chart_order": 4,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -7324,7 +7324,7 @@
         {
           "active": true,
           "age": 33,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -7443,7 +7443,7 @@
         {
           "active": true,
           "age": 30,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -7579,7 +7579,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 7,
+          "depth_chart_order": 8,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -7598,7 +7598,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 7,
+          "depth_chart_order": 8,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -7738,7 +7738,7 @@
         {
           "active": true,
           "age": 30,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -7869,7 +7869,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -7971,7 +7971,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 7,
+          "depth_chart_order": 5,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -8039,7 +8039,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -8073,7 +8073,7 @@
         {
           "active": true,
           "age": 30,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -8124,7 +8124,7 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 1,
+          "depth_chart_order": 5,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -8158,7 +8158,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -8277,7 +8277,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 7,
+          "depth_chart_order": 4,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -8329,20 +8329,20 @@
       "starters": [
         {
           "active": true,
-          "age": 38,
+          "age": 26,
           "depth_chart_order": 1,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
           ],
-          "full_name": "Kirk Cousins",
+          "full_name": "Bo Nix",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "1166",
+          "player_id": "11563",
           "position": "QB",
           "status": "Active",
-          "team": "MIN",
-          "years_exp": 14
+          "team": "DEN",
+          "years_exp": 2
         },
         {
           "active": true,
@@ -8467,18 +8467,18 @@
           "active": true,
           "age": 29,
           "depth_chart_order": 1,
-          "depth_chart_position": "LWR",
+          "depth_chart_position": "RB",
           "fantasy_positions": [
-            "WR"
+            "RB"
           ],
-          "full_name": "A.J. Brown",
-          "injury_body_part": "Hamstring",
-          "injury_status": "Out",
-          "player_id": "5859",
-          "position": "WR",
+          "full_name": "Saquon Barkley",
+          "injury_body_part": "Arm",
+          "injury_status": "Questionable",
+          "player_id": "4866",
+          "position": "RB",
           "status": "Active",
-          "team": "NE",
-          "years_exp": 7
+          "team": "PHI",
+          "years_exp": 8
         }
       ],
       "taxi": [
@@ -8519,7 +8519,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 7,
+          "depth_chart_order": 5,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -8580,7 +8580,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -8597,7 +8597,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -8971,7 +8971,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 9,
+          "depth_chart_order": 8,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -9074,20 +9074,20 @@
         },
         {
           "active": true,
-          "age": 23,
-          "depth_chart_order": 2,
+          "age": 25,
+          "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Mike Washington Jr.",
+          "full_name": "Zach Charbonnet",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "13305",
+          "player_id": "9753",
           "position": "RB",
           "status": "Active",
-          "team": "LV",
-          "years_exp": 0
+          "team": "SEA",
+          "years_exp": 3
         },
         {
           "active": true,
@@ -9125,20 +9125,20 @@
         },
         {
           "active": true,
-          "age": 28,
+          "age": 21,
           "depth_chart_order": 1,
-          "depth_chart_position": "LWR",
+          "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
-          "full_name": "DK Metcalf",
+          "full_name": "Carnell Tate",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "5846",
+          "player_id": "13279",
           "position": "WR",
           "status": "Active",
-          "team": "PIT",
-          "years_exp": 7
+          "team": "TEN",
+          "years_exp": 0
         },
         {
           "active": true,
@@ -9176,37 +9176,37 @@
         },
         {
           "active": true,
-          "age": 21,
+          "age": 26,
           "depth_chart_order": 1,
-          "depth_chart_position": "RWR",
+          "depth_chart_position": "TE",
           "fantasy_positions": [
-            "WR"
+            "TE"
           ],
-          "full_name": "Carnell Tate",
+          "full_name": "Tucker Kraft",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "13279",
-          "position": "WR",
+          "player_id": "9484",
+          "position": "TE",
           "status": "Active",
-          "team": "TEN",
-          "years_exp": 0
+          "team": "GB",
+          "years_exp": 3
         },
         {
           "active": true,
-          "age": 25,
+          "age": 23,
           "depth_chart_order": 2,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "full_name": "Kimani Vidal",
+          "full_name": "Jadarian Price",
           "injury_body_part": null,
           "injury_status": null,
-          "player_id": "11647",
+          "player_id": "13286",
           "position": "RB",
           "status": "Active",
-          "team": "LAC",
-          "years_exp": 2
+          "team": "SEA",
+          "years_exp": 0
         }
       ],
       "taxi": [
@@ -9230,7 +9230,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 3,
+          "depth_chart_order": 4,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -9325,7 +9325,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 6,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -9648,7 +9648,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 4,
+          "depth_chart_order": 1,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -9716,7 +9716,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 8,
+          "depth_chart_order": 7,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -10002,7 +10002,7 @@
         {
           "active": true,
           "age": 27,
-          "depth_chart_order": 4,
+          "depth_chart_order": 1,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -10036,7 +10036,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -10053,7 +10053,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -10669,7 +10669,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -10781,7 +10781,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 8,
+          "depth_chart_order": 4,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -10798,7 +10798,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 9,
+          "depth_chart_order": 6,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -10832,7 +10832,7 @@
         {
           "active": true,
           "age": 33,
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -10951,7 +10951,7 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -10968,7 +10968,7 @@
         {
           "active": true,
           "age": 28,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -10985,7 +10985,7 @@
         {
           "active": true,
           "age": 30,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "QB",
           "fantasy_positions": [
             "QB"
@@ -11047,13 +11047,13 @@
           "player_id": "6803",
           "position": "WR",
           "status": "Active",
-          "team": "SF",
+          "team": null,
           "years_exp": 6
         },
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 6,
+          "depth_chart_order": 7,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
@@ -11172,7 +11172,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 4,
+          "depth_chart_order": 5,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -11414,7 +11414,7 @@
         {
           "active": true,
           "age": 22,
-          "depth_chart_order": 8,
+          "depth_chart_order": 4,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
@@ -11431,7 +11431,7 @@
         {
           "active": true,
           "age": 24,
-          "depth_chart_order": 9,
+          "depth_chart_order": 6,
           "depth_chart_position": "SWR",
           "fantasy_positions": [
             "WR"
