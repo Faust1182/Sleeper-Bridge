@@ -60,7 +60,7 @@
       "season": "2029"
     }
   ],
-  "generated_at": "2026-11-24T22:26:38.137594+00:00",
+  "generated_at": "2026-11-25T08:34:30.251145+00:00",
   "league_id": "1314667834135040000",
   "roster": {
     "co_owners": [
@@ -94,7 +94,7 @@
         ],
         "full_name": "Dalton Kincaid",
         "injury_body_part": "Thumb",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "player_id": "10236",
         "position": "TE",
         "status": "Active",
@@ -110,8 +110,8 @@
           "RB"
         ],
         "full_name": "Emanuel Wilson",
-        "injury_body_part": "Coach's Decision",
-        "injury_status": "Out",
+        "injury_body_part": null,
+        "injury_status": null,
         "player_id": "11435",
         "position": "RB",
         "status": "Active",
@@ -223,14 +223,14 @@
       {
         "active": true,
         "age": 24,
-        "depth_chart_order": 8,
+        "depth_chart_order": 6,
         "depth_chart_position": "SWR",
         "fantasy_positions": [
           "WR"
         ],
         "full_name": "Malik Benson",
-        "injury_body_part": "Coach's Decision",
-        "injury_status": "Out",
+        "injury_body_part": null,
+        "injury_status": null,
         "player_id": "13329",
         "position": "WR",
         "status": "Active",
@@ -314,8 +314,8 @@
           "TE"
         ],
         "full_name": "Dallas Goedert",
-        "injury_body_part": "Shin",
-        "injury_status": "Questionable",
+        "injury_body_part": null,
+        "injury_status": null,
         "player_id": "5022",
         "position": "TE",
         "status": "Active",
@@ -332,7 +332,7 @@
         ],
         "full_name": "Kyler Murray",
         "injury_body_part": "Hamstring",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "player_id": "5849",
         "position": "QB",
         "status": "Active",
@@ -467,8 +467,8 @@
           "WR"
         ],
         "full_name": "Drake London",
-        "injury_body_part": "Head",
-        "injury_status": "Questionable",
+        "injury_body_part": null,
+        "injury_status": null,
         "player_id": "8112",
         "position": "WR",
         "status": "Active",
