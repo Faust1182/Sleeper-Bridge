@@ -1069,7 +1069,7 @@
       }
     ]
   },
-  "generated_at": "2026-11-26T08:18:06.682996+00:00",
+  "generated_at": "2026-11-26T21:31:52.609380+00:00",
   "league": {
     "league_id": "1314667834135040000",
     "name": "TKE Alumni Fantasy Football",
@@ -1157,7 +1157,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 25,
+      "daily_waivers_last_ran": 26,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -3245,7 +3245,7 @@
         {
           "active": true,
           "age": 33,
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -3427,7 +3427,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 200,
-        "waiver_position": 12,
+        "waiver_position": 11,
         "wins": 7
       },
       "starters": [
@@ -6168,7 +6168,7 @@
           "player_id": "96",
           "position": "QB",
           "status": "Active",
-          "team": "PIT",
+          "team": null,
           "years_exp": 21
         }
       ],
@@ -6680,6 +6680,23 @@
         },
         {
           "active": true,
+          "age": 31,
+          "depth_chart_order": 1,
+          "depth_chart_position": "QB",
+          "fantasy_positions": [
+            "QB"
+          ],
+          "full_name": "Mason Rudolph",
+          "injury_body_part": null,
+          "injury_status": null,
+          "player_id": "4972",
+          "position": "QB",
+          "status": "Active",
+          "team": "PIT",
+          "years_exp": 8
+        },
+        {
+          "active": true,
           "age": 29,
           "depth_chart_order": 1,
           "depth_chart_position": "LWR",
@@ -6913,8 +6930,8 @@
         "ppts_decimal": 90,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 133,
-        "waiver_position": 8,
+        "waiver_budget_used": 155,
+        "waiver_position": 12,
         "wins": 4
       },
       "starters": [
@@ -7625,7 +7642,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 15,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 4
       },
       "starters": [
@@ -8279,8 +8296,8 @@
             "WR"
           ],
           "full_name": "Parker Washington",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Shoulder",
+          "injury_status": "Questionable",
           "player_id": "9487",
           "position": "WR",
           "status": "Active",
@@ -8336,7 +8353,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 132,
-        "waiver_position": 9,
+        "waiver_position": 8,
         "wins": 6
       },
       "starters": [
@@ -8400,8 +8417,8 @@
             "WR"
           ],
           "full_name": "Parker Washington",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Shoulder",
+          "injury_status": "Questionable",
           "player_id": "9487",
           "position": "WR",
           "status": "Active",
@@ -8718,8 +8735,8 @@
             "TE"
           ],
           "full_name": "Colston Loveland",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Knee",
+          "injury_status": "Out",
           "player_id": "12517",
           "position": "TE",
           "status": "Active",
@@ -9179,8 +9196,8 @@
             "TE"
           ],
           "full_name": "Colston Loveland",
-          "injury_body_part": null,
-          "injury_status": null,
+          "injury_body_part": "Knee",
+          "injury_status": "Out",
           "player_id": "12517",
           "position": "TE",
           "status": "Active",
@@ -9792,7 +9809,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 111,
-        "waiver_position": 11,
+        "waiver_position": 10,
         "wins": 8
       },
       "starters": [
@@ -10885,8 +10902,8 @@
             "WR"
           ],
           "full_name": "Stefon Diggs",
-          "injury_body_part": "Personal",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "2449",
           "position": "WR",
           "status": "Active",
@@ -11066,17 +11083,17 @@
         {
           "active": true,
           "age": 29,
-          "depth_chart_order": 7,
+          "depth_chart_order": 6,
           "depth_chart_position": "RWR",
           "fantasy_positions": [
             "WR"
           ],
           "full_name": "Michael Pittman Jr.",
-          "injury_body_part": "Foot",
-          "injury_status": "IR",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "6819",
           "position": "WR",
-          "status": "Inactive",
+          "status": "Active",
           "team": "PIT",
           "years_exp": 6
         },
@@ -11346,8 +11363,8 @@
             "WR"
           ],
           "full_name": "Stefon Diggs",
-          "injury_body_part": "Personal",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "2449",
           "position": "WR",
           "status": "Active",
