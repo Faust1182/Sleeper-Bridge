@@ -2380,7 +2380,7 @@
       }
     ]
   },
-  "generated_at": "2026-11-28T07:49:19.096296+00:00",
+  "generated_at": "2026-11-28T20:02:03.865471+00:00",
   "league": {
     "avatar": "92540ad72fadfc35b744be10325426b8",
     "bracket_id": null,
@@ -2494,7 +2494,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 9,
-      "daily_waivers_last_ran": 27,
+      "daily_waivers_last_ran": 28,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -4183,11 +4183,11 @@
         "RB"
       ],
       "full_name": "Raheim Sanders",
-      "injury_body_part": "Hip",
-      "injury_status": "IR",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "12472",
       "position": "RB",
-      "status": "Inactive",
+      "status": "Active",
       "team": "CLE",
       "years_exp": 1
     },
@@ -4829,8 +4829,8 @@
         "WR"
       ],
       "full_name": "Tetairoa McMillan",
-      "injury_body_part": "Foot",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "12526",
       "position": "WR",
       "status": "Active",
@@ -5249,7 +5249,7 @@
     "13278": {
       "active": true,
       "age": 23,
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "depth_chart_position": "TE",
       "fantasy_positions": [
         "TE"
@@ -6139,8 +6139,8 @@
         "TE"
       ],
       "full_name": "Darren Waller",
-      "injury_body_part": "Knee",
-      "injury_status": "Questionable",
+      "injury_body_part": null,
+      "injury_status": null,
       "player_id": "2505",
       "position": "TE",
       "status": "Active",
@@ -6235,7 +6235,7 @@
     "3286": {
       "active": true,
       "age": 32,
-      "depth_chart_order": 6,
+      "depth_chart_order": 4,
       "depth_chart_position": "LWR",
       "fantasy_positions": [
         "WR"
@@ -8003,7 +8003,7 @@
     "8151": {
       "active": true,
       "age": 26,
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "depth_chart_position": "RB",
       "fantasy_positions": [
         "RB"
@@ -8479,7 +8479,7 @@
     "9493": {
       "active": true,
       "age": 25,
-      "depth_chart_order": 6,
+      "depth_chart_order": 7,
       "depth_chart_position": null,
       "fantasy_positions": [
         "WR"
@@ -8996,7 +8996,7 @@
         {
           "active": true,
           "age": 23,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "TE",
           "fantasy_positions": [
             "TE"
@@ -9493,8 +9493,8 @@
             "WR"
           ],
           "full_name": "Tetairoa McMillan",
-          "injury_body_part": "Foot",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "12526",
           "position": "WR",
           "status": "Active",
@@ -11599,11 +11599,11 @@
             "RB"
           ],
           "full_name": "Raheim Sanders",
-          "injury_body_part": "Hip",
-          "injury_status": "IR",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "12472",
           "position": "RB",
-          "status": "Inactive",
+          "status": "Active",
           "team": "CLE",
           "years_exp": 1
         },
@@ -12275,7 +12275,7 @@
         {
           "active": true,
           "age": 32,
-          "depth_chart_order": 6,
+          "depth_chart_order": 4,
           "depth_chart_position": "LWR",
           "fantasy_positions": [
             "WR"
@@ -14175,7 +14175,7 @@
         {
           "active": true,
           "age": 26,
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "depth_chart_position": "RB",
           "fantasy_positions": [
             "RB"
@@ -14243,7 +14243,7 @@
         {
           "active": true,
           "age": 25,
-          "depth_chart_order": 6,
+          "depth_chart_order": 7,
           "depth_chart_position": null,
           "fantasy_positions": [
             "WR"
@@ -15085,8 +15085,8 @@
             "TE"
           ],
           "full_name": "Darren Waller",
-          "injury_body_part": "Knee",
-          "injury_status": "Questionable",
+          "injury_body_part": null,
+          "injury_status": null,
           "player_id": "2505",
           "position": "TE",
           "status": "Active",
